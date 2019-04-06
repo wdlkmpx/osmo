@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Osmo
+Name[tr]=Osmo
+Comment=Personal Organizer
+Comment[pl]=Organizer osobisty
+Comment[tr]=Kişisel Düzenleyici
+GenericName=Osmo
+Exec=osmo
+Icon=osmo
+Categories=GTK;Office;Calendar;ContactManagement;
+Terminal=false

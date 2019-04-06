@@ -1,0 +1,2177 @@
+# Bulgarian translation of Osmo
+# This file is distributed under the same license as the osmo package.
+# Borislav Totev <btotev@hotmail.com>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo 0.2.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2010-02-23 19:11+0100\n"
+"Last-Translator: Borislav Totev <btotev@hotmail.com>\n"
+"Language-Team: Bulgarian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "За"
+
+msgid "Close"
+msgstr "Затвори"
+
+msgid "Ctrl+PageUp"
+msgstr "Ctrl+PageUp"
+
+msgid "switch to previous tab"
+msgstr "Превключи на предходният таб"
+
+msgid "Ctrl+PageDn"
+msgstr "Ctrl+PageDn"
+
+msgid "switch to next tab"
+msgstr "превключи на следващият таб"
+
+msgid "switch to selected page"
+msgstr "превключи на избраната страница"
+
+msgid "show options window"
+msgstr "покажи прозореца с опций"
+
+msgid "show about window"
+msgstr "show about window"
+
+msgid "PageUp/PageDn"
+msgstr "PageUp/PageDn"
+
+msgid "switch page in options and about tab"
+msgstr "включи страницата с опций и за раздела"
+
+msgid "exit"
+msgstr "изход"
+
+msgid "Space"
+msgstr "Интервал"
+
+msgid "select current date"
+msgstr "изберете текуща дата"
+
+msgid "Ctrl+Space"
+msgstr "Ctrl+Интервал"
+
+msgid "toggle personal data visibility"
+msgstr "разрешаване видимост на личните данни"
+
+msgid "Arrows"
+msgstr "Стрелки"
+
+msgid "change day"
+msgstr "промяна на деня"
+
+msgid "Ctrl+Up/Down"
+msgstr "Ctrl+Up/Down"
+
+msgid "scroll the contents in the day info panel"
+msgstr "превъртане съдържанието на панела за дневна информация"
+
+msgid "change month"
+msgstr "промяна на месеца"
+
+msgid "Home/End"
+msgstr "Home/End"
+
+msgid "change year"
+msgstr "Промяна на годината"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "превключване на календарите за предходният и следващ месец"
+
+msgid "day notes browser"
+msgstr "браузър дневни бележки"
+
+msgid "assign background color to day note"
+msgstr "присвояване цвят на фона за дневна бележка"
+
+msgid "date calculator"
+msgstr "калкулатор на дни"
+
+msgid "show full-year calendar"
+msgstr "покажи годишният календар"
+
+msgid "jump to date"
+msgstr "скочи на дата"
+
+msgid "Delete"
+msgstr "Изтриване"
+
+msgid "remove day note"
+msgstr "премахване на дневна бележка"
+
+msgid "Alt+Arrows"
+msgstr "Alt+Стрелки"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "close editor"
+msgstr "затвори редактора"
+
+msgid "toggle bold"
+msgstr "toggle bold"
+
+msgid "toggle italic"
+msgstr "toggle italic"
+
+msgid "toggle underline"
+msgstr "toggle underline"
+
+msgid "toggle strikethrough"
+msgstr "toggle strikethrough"
+
+msgid "toggle highlight"
+msgstr "toggle highlight"
+
+msgid "Arrows Up/Down"
+msgstr "Стрелки Up/Down"
+
+msgid "toggle alternative view"
+msgstr "превключи на алтернативен изглед"
+
+msgid "year info"
+msgstr "годишна информация"
+
+msgid "set current year"
+msgstr "насройване текуща година"
+
+msgid "close full-year calendar"
+msgstr "затвори годишният календар"
+
+msgid "Alt+a, Insert"
+msgstr "Alt+a, Insert"
+
+msgid "add task"
+msgstr "добавяне на задача"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr "Alt+e, Ctrl+Enter"
+
+msgid "edit task"
+msgstr "редактиране на задача"
+
+msgid "Alt+r, Delete"
+msgstr "Alt+r, Delete"
+
+msgid "remove task"
+msgstr "премахване на задача"
+
+msgid "toggle hidden tasks"
+msgstr "превключи на скрити задачи"
+
+msgid "activate search field"
+msgstr "активиране полето за търсене"
+
+msgid "Left, Right"
+msgstr "Ляво,Дясно"
+
+msgid "change category filter"
+msgstr "промяна филтъра за категория"
+
+msgid "close task info panel"
+msgstr "затваряне на инфо панела за задачи"
+
+msgid "Insert"
+msgstr "Поставяне"
+
+msgid "add contact"
+msgstr "добавяне на контакт"
+
+msgid "Ctrl+Enter"
+msgstr "Ctrl+Enter"
+
+msgid "edit contact"
+msgstr "Редактиране на контакт"
+
+msgid "remove contact"
+msgstr "премахване на контакт"
+
+msgid "change search mode"
+msgstr "промяна режим търсене"
+
+msgid "close contact details panel"
+msgstr "затваряне панела за детайли на контакта"
+
+msgid "Enter"
+msgstr "Въвеждане"
+
+msgid "open note"
+msgstr "отваряне на бележка"
+
+msgid "add note"
+msgstr "добавяне на бележка"
+
+msgid "remove note"
+msgstr "премахване на бележка"
+
+msgid "edit note name and category"
+msgstr "редактиране име и категория на бележка"
+
+msgid "close note editor"
+msgstr "затваряне редактора на бележки"
+
+msgid "save note"
+msgstr "запазване на бележка"
+
+msgid "find text"
+msgstr "намери текст"
+
+msgid "clear selection attributes"
+msgstr "изчистване избраните атрибути"
+
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO бе проектиран със цел удобството на потребителя,разполага със "
+"функциябързи клавиши.Ето и пълният списък:"
+
+msgid "General"
+msgstr "Главно"
+
+msgid "Calendar"
+msgstr "Календар"
+
+msgid "Note editor"
+msgstr "Редактор на бележки"
+
+msgid "Full-year calendar"
+msgstr "Целогодишен календар"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Contacts"
+msgstr "Контакти"
+
+msgid "Notes"
+msgstr "Бележки"
+
+msgid "Selector"
+msgstr "селектор"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "A handy personal organizer"
+msgstr "Удобен личен органайзер"
+
+msgid "compiled on"
+msgstr "събран по"
+
+msgid "Programming"
+msgstr "Програмиране"
+
+msgid "Graphics"
+msgstr "Графики"
+
+msgid "Contributors"
+msgstr "Сътрудници"
+
+msgid "Translators"
+msgstr "Преводачи"
+
+msgid "Mailing lists"
+msgstr "Пощенски списъци"
+
+msgid "Bug tracker"
+msgstr "Проследяване на бъгове"
+
+msgid "Feature requests"
+msgstr "Бъдещи запитвания"
+
+msgid "Available modules"
+msgstr "Налични модули"
+
+msgid "Compiled-in features"
+msgstr "Compiled-in features"
+
+msgid "iCalendar support"
+msgstr "iCalendar подръжка"
+
+msgid "Encrypted notes support"
+msgstr "Подръжка на шифровани бележки"
+
+msgid "HTML view required for Contacts module"
+msgstr "HTML изглед изискван за модул Контакти"
+
+msgid "SyncML enabled device support"
+msgstr "SyncML разрешена подръжка за устройство"
+
+msgid "Backup support"
+msgstr "Бакъп подръжка"
+
+msgid "Printing support"
+msgstr "Подръжка печат"
+
+msgid "Spell checker support"
+msgstr "Правописна подръжка"
+
+msgid "version"
+msgstr "Версия"
+
+msgid "SVN revision"
+msgstr "SVN преразглеждане"
+
+msgid "Key shortcuts"
+msgstr "Бързи клавиши"
+
+msgid "License"
+msgstr "Лиценз"
+
+msgid "Save backup"
+msgstr "Запазване на бакъп"
+
+msgid "Password protection"
+msgstr "Защита на парола"
+
+msgid "Enter password"
+msgstr "Въвеждане на парола"
+
+msgid "Re-enter password"
+msgstr "Повторете паролата"
+
+msgid "Please enter the password"
+msgstr "Моля въведете парола"
+
+msgid "Passwords do not match!"
+msgstr "Паролите не съвпадат"
+
+msgid "Cannot create backup!"
+msgstr "Невъзможно създаване на бакъп!"
+
+msgid "Backup file saved successfully!"
+msgstr "Бакъп файла е запазан успешно!"
+
+msgid "Open backup file"
+msgstr "Отваряне на бакъп файл"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Osmo бакъп файлове (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Това не е бакъп файл на Osmo"
+
+msgid "Incorrect password!"
+msgstr "Неправилна парола"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "Всичките ваши данни ще бъдат заменени със съдържанието на бакъп файла."
+
+msgid "Are you sure?"
+msgstr "Сигурен/а ли сте?"
+
+msgid "Osmo has to be restarted now..."
+msgstr "OSMO ще се рестартира сега..."
+
+msgid "was born"
+msgstr "е роден"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "year old"
+msgstr[1] "years old"
+
+msgid "Current time"
+msgstr "Текущо време"
+
+msgid "Day number"
+msgstr "Номер на деня"
+
+msgid "Today distance"
+msgstr "Today distance"
+
+msgid "Week number"
+msgstr "номер на седмицата"
+
+msgid "Marked days"
+msgstr "Пазарни дни"
+
+msgid "Weekend days"
+msgstr "Седмични дни"
+
+msgid "Day category"
+msgstr "Категория за деня"
+
+msgid "Moon phase"
+msgstr "Луна фаза"
+
+msgid "Zodiac sign"
+msgstr "Зодия"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "ден до края на годината"
+msgstr[1] "дни до края на годината"
+
+msgid "the last day of the year"
+msgstr "Последният ден от годината"
+
+msgid "Day notes"
+msgstr "Дневна бележка"
+
+msgid "Day tasks"
+msgstr "дневни задачи"
+
+msgid "Birthday"
+msgstr "Рожден ден"
+
+msgid "Selected day note will be removed."
+msgstr "Избраната дневна бележка ще бъде премахната"
+
+msgid "Continue?"
+msgstr "Продължение?"
+
+msgid "Previous year"
+msgstr "Предходна година"
+
+msgid "Previous month"
+msgstr "Предходен месец"
+
+msgid "Previous day"
+msgstr "Предходен ден"
+
+msgid "Today"
+msgstr "Днес"
+
+msgid "Next day"
+msgstr "Следващ ден"
+
+msgid "Next month"
+msgstr "Следващ месец"
+
+msgid "Next year"
+msgstr "Следваща година"
+
+msgid "Jump to date"
+msgstr "Скочи до дата"
+
+msgid "Print calendar"
+msgstr "Отпечатване на календар"
+
+msgid "Date calculator"
+msgstr "Премятане на период"
+
+msgid "Preferences"
+msgstr "Предпочитания"
+
+msgid "Toggle day note panel"
+msgstr "Превключване панел Дневни бележки"
+
+msgid "Add task"
+msgstr "Добавяне на задача"
+
+msgid "Select day color"
+msgstr "Избиране цвят за деня"
+
+msgid "Browse notes"
+msgstr "Преглед на бележки"
+
+msgid "Browse iCal events"
+msgstr "Преглед на iCal събития"
+
+msgid "Export to iCal file"
+msgstr "Eкспортиране като iCal файл"
+
+msgid "Previous and next month"
+msgstr "Предходен и следващ месец"
+
+msgid "Close note panel"
+msgstr "Затваряне панела за бележки"
+
+msgid "Highlight"
+msgstr "Маркиране"
+
+msgid "Strikethrough"
+msgstr "Зачеркване"
+
+msgid "Underline"
+msgstr "Подчертаване"
+
+msgid "Italic"
+msgstr "Italic"
+
+msgid "Bold"
+msgstr "Bold"
+
+msgid "Insert timeline"
+msgstr "Insert timeline"
+
+msgid "Clear text"
+msgstr "Изчистване на текст"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Select color"
+msgstr "Избор на цвят"
+
+msgid "None"
+msgstr "Нищо"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "Година"
+msgstr[1] "Години"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "Месец"
+msgstr[1] "Месеци"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "Ден"
+msgstr[1] "Дни"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "час"
+msgstr[1] "часове"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "минута"
+msgstr[1] "минути"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "Секунда"
+msgstr[1] "Секунди"
+
+msgid "or"
+msgstr "или"
+
+msgid "rounded down"
+msgstr "закръгляване надолу"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "Седмица"
+msgstr[1] "Седмици"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "Работен ден"
+msgstr[1] "Работни дни"
+
+msgid "time is ignored"
+msgstr "времето е игнорирано"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "седмичен ден"
+msgstr[1] "седмични дни"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Калкулаторът подържа само дати след година 1."
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "уйкенд ден игнориран "
+msgstr[1] "уйкенд дни игнорирани"
+
+msgid "Year"
+msgstr "Година"
+
+msgid "Month"
+msgstr "Месец"
+
+msgid "Day"
+msgstr "Ден"
+
+msgid "Current date"
+msgstr "Текуща дата"
+
+msgid "Set current date"
+msgstr "Настройка на текуща дата"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "Minute"
+msgstr "Минута"
+
+msgid "Second"
+msgstr "Секунда"
+
+msgid "Set current time"
+msgstr "Настройка на текущо време"
+
+msgid "Reset time"
+msgstr "Нулиране "
+
+msgid "First date and time"
+msgstr "Първи дата и време"
+
+msgid "Second date and time"
+msgstr "Втори дата и време"
+
+msgid "Alternative time units"
+msgstr "Алтернативни времеви единици"
+
+msgid "Result"
+msgstr "Резултат"
+
+msgid "Duration between two dates"
+msgstr "Период между две дати"
+
+msgid "Operation"
+msgstr "Операция"
+
+msgid "add"
+msgstr "добавяне"
+
+msgid "subtract"
+msgstr "изваждане"
+
+msgid "Date and time to add or subtract from"
+msgstr "Дата и време за добавяне или изваждане от"
+
+msgid "Years"
+msgstr "Години"
+
+msgid "Months"
+msgstr "Месеци"
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Weeks"
+msgstr "Седмици"
+
+msgid "Hours"
+msgstr "Часове"
+
+msgid "Minutes"
+msgstr "Минути"
+
+msgid "Seconds"
+msgstr "Секунди"
+
+msgid "Ignore weekend days"
+msgstr "Игнориране на уйкендите"
+
+msgid "Reset fields"
+msgstr "Нулиране на полета"
+
+msgid "Time to add or subtract"
+msgstr "Време за добавяне или изваждане"
+
+msgid "Jump to"
+msgstr "Скочи до"
+
+msgid "Add to or subtract from a date"
+msgstr "Добавяне към или изваждане от дата"
+
+msgid "Leap year"
+msgstr "Високосна година"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Не"
+
+msgid "Chinese year animal"
+msgstr "Китайска година"
+
+msgid "Number of days"
+msgstr "Брой дни"
+
+msgid "Number of weeks"
+msgstr "Брой седмици"
+
+msgid "Number of weekend days"
+msgstr "Брой на уйкенд дни"
+
+msgid "Year info"
+msgstr "Годишна информация"
+
+msgid "Current year"
+msgstr "Текуща година"
+
+msgid "Alternative view"
+msgstr "Алтернативен изглед"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "събитие"
+msgstr[1] "събития"
+
+msgid "No valid calendars defined"
+msgstr "Няма валидни определени календари"
+
+msgid "iCalendar events"
+msgstr "iCalendar събития"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Time"
+msgstr "Време"
+
+msgid "Summary"
+msgstr "Резюме"
+
+msgid "Select output file"
+msgstr "Избор изходящ файл"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Списъкът ще бъде изчистен и всички записи ще бъдат загубени."
+
+msgid "Done!"
+msgstr "Направен !"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "изнесено събитие"
+msgstr[1] "изнесени събития"
+
+msgid "iCalendar export"
+msgstr "iCalendar export"
+
+msgid "Day Selector"
+msgstr "Day Selector"
+
+msgid "Use date period"
+msgstr "Използване на период "
+
+msgid "Add"
+msgstr "Добавяне"
+
+msgid "Clear"
+msgstr "Изчистване"
+
+msgid "Remove"
+msgstr "Премахване"
+
+msgid "Output filename"
+msgstr "Изходящо файлово име"
+
+msgid "Browse"
+msgstr "Преглед"
+
+msgid "Cancel"
+msgstr "Отказване"
+
+msgid "Export"
+msgstr "Експорт"
+
+msgid "no entries"
+msgstr "няма записи"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "запис"
+msgstr[1] "записи"
+
+msgid "Calendar notes"
+msgstr "Календарни бележки "
+
+msgid "Search"
+msgstr "Търсене"
+
+msgid "Filter"
+msgstr "Филтър"
+
+msgid "Current month"
+msgstr "Текущ месец"
+
+msgid "Selected month"
+msgstr "Избран месец"
+
+msgid "Selected year"
+msgstr "Избрана година"
+
+msgid "Selected month and year"
+msgstr "Избрани месец и година"
+
+msgid "All notes"
+msgstr "Всички бележки"
+
+msgid "Case sensitive"
+msgstr "Case sensitive"
+
+msgid "Strikethrough past day notes"
+msgstr "Зачерване последните бележки за деня"
+
+msgid "Note"
+msgstr "Бележка"
+
+msgid "Syntax"
+msgstr "Синтаксис"
+
+msgid "abbreviated weekday name"
+msgstr "съкратено име на седмичен ден"
+
+msgid "full weekday name"
+msgstr "Пълно име на седмичен ден"
+
+msgid "abbreviated month name"
+msgstr "съкратено име на месец"
+
+msgid "full month name"
+msgstr "пълно име на месеца"
+
+msgid "day of the month"
+msgstr "ден от месеца"
+
+msgid "MM/DD/YY"
+msgstr "ММ/ДД/ГГ"
+
+msgid "day of the month without leading zeros"
+msgstr "ден от месеца без нула отпред"
+
+msgid "year without century"
+msgstr "година без указване на век"
+
+msgid "year with century"
+msgstr "година със указване на век"
+
+msgid "Date header format"
+msgstr "Формат на дата"
+
+msgid "Set default format"
+msgstr "Задаване формат по подразбиране"
+
+msgid "Date format syntax"
+msgstr "Синтаксис на формата за дата"
+
+msgid "Day note marker"
+msgstr "Маркер дневна бележка"
+
+msgid "Event marker"
+msgstr "Маркер Събитие"
+
+msgid "Circle"
+msgstr "Кръг"
+
+msgid "Ellipse"
+msgstr "Елипса"
+
+msgid "Wave"
+msgstr "Вълна"
+
+msgid "Current day marker"
+msgstr "Маркер текущ ден"
+
+msgid "Arrow"
+msgstr "Стрелка"
+
+msgid "Free-hand circle"
+msgstr "Свободен кръг"
+
+msgid "Colors"
+msgstr "Цветове"
+
+msgid "Header color"
+msgstr "Главен цвят"
+
+msgid "Weekend days color"
+msgstr "Цвят на седмичен ден"
+
+msgid "Cursor color"
+msgstr "Курсор цвят"
+
+msgid "Event marker color"
+msgstr "Цвят за маркер на събитие "
+
+msgid "Current day marker color"
+msgstr "Текущ цвят за маркер на деня"
+
+msgid "Birthday marker color"
+msgstr "цвят за маркер на рожден ден"
+
+msgid "Date font"
+msgstr "Шрифт за дата"
+
+msgid "Calendar font"
+msgstr "Шрифт за календар"
+
+msgid "Note font"
+msgstr "Шрифт за бележки"
+
+msgid "Enable block cursor"
+msgstr "Позволяване на блок курсор"
+
+msgid "Cursor thickness"
+msgstr "Дебелина на курсора"
+
+msgid "Thin"
+msgstr "Тънко"
+
+msgid "Thick"
+msgstr "Дебело"
+
+msgid "Edit category"
+msgstr "Редактиране на категория"
+
+msgid "Color"
+msgstr "Цвят"
+
+msgid "Name"
+msgstr "Име"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Select ICS file"
+msgstr "Избиране на ICS файл"
+
+msgid "All Files"
+msgstr "Всички файлове"
+
+msgid "Calendar files (*.ics)"
+msgstr "Календарни файлове (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Промяна на ICAL параметри"
+
+msgid "Filename"
+msgstr "Файлово име"
+
+msgid "Options"
+msgstr "Опций"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Валиден"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Full date"
+msgstr "Full date"
+
+msgid "Mark"
+msgstr "Маркиране"
+
+msgid "Week start on Monday"
+msgstr "Седмицата започва от Понеделник"
+
+msgid "Show day names"
+msgstr "Покажи имената на дните"
+
+msgid "No month change"
+msgstr "Без промяна на месец"
+
+msgid "Show week numbers"
+msgstr "Покажи седмичните номера"
+
+msgid "Simple view in full-year calendar"
+msgstr "Обикновен изглед на целогодишният календар"
+
+msgid "Enable auxilary calendars"
+msgstr "Enable auxilary calendars"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Възходящо сортиране в браузъра на дневни бележки"
+
+msgid "Enable spell checker in day notes"
+msgstr "Разрешаване проврка на правописа в дневни бележки"
+
+msgid "Appearance"
+msgstr "Външен вид"
+
+msgid "Day categories"
+msgstr "Дневна категория"
+
+msgid "iCalendar files"
+msgstr "iCalendar файлове"
+
+msgid "Show in day info panel"
+msgstr "Показване в инфо панела на деня"
+
+msgid "Name day"
+msgstr "Имена деня"
+
+msgid "Error printing"
+msgstr "Грешка при печатане"
+
+msgid "Printing properties"
+msgstr "Свойства за печат"
+
+msgid "Month name"
+msgstr "Име на месеца"
+
+msgid "Day name"
+msgstr "Име на деня"
+
+msgid "Events"
+msgstr "Събития"
+
+msgid "Fonts"
+msgstr "Шрифтове"
+
+msgid "Birthdays"
+msgstr "Рождени дни"
+
+msgid "Namedays"
+msgstr "Дневни имена"
+
+msgid "Visible events"
+msgstr "Видими събития"
+
+msgid "Padding"
+msgstr "Вложка"
+
+msgid "Event maximum length"
+msgstr "Максимална дължина на събитие"
+
+msgid "Page orientation:"
+msgstr "Орентация на страница:"
+
+msgid "Portrait"
+msgstr "Портрет"
+
+msgid "Landscape"
+msgstr "Пейзаж"
+
+msgid "Timeline"
+msgstr "Хронология"
+
+msgid "From (hour)"
+msgstr "From (hour)"
+
+msgid "Step (minutes)"
+msgstr "Step (minutes)"
+
+msgid "To (hour)"
+msgstr "To (hour)"
+
+msgid "No date"
+msgstr "Без дата"
+
+msgid "Rat"
+msgstr "Плъх"
+
+msgid "Ox"
+msgstr "Бивол"
+
+msgid "Tiger"
+msgstr "Тигър"
+
+msgid "Hare"
+msgstr "Заек"
+
+msgid "Dragon"
+msgstr "Дракон"
+
+msgid "Snake"
+msgstr "Змия"
+
+msgid "Horse"
+msgstr "Кон"
+
+msgid "Sheep"
+msgstr "Овца"
+
+msgid "Monkey"
+msgstr "Маймуна"
+
+msgid "Fowl"
+msgstr "Петел"
+
+msgid "Dog"
+msgstr "Куче"
+
+msgid "Pig"
+msgstr "Свиня"
+
+msgid "Unknown"
+msgstr "Непознат"
+
+msgid "Aquarius"
+msgstr "Водолей"
+
+msgid "Pisces"
+msgstr "Риби"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Бик"
+
+msgid "Gemini"
+msgstr "Близнаци"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лъв"
+
+msgid "Virgo"
+msgstr "Дева"
+
+msgid "Libra"
+msgstr "Везни"
+
+msgid "Scorpio"
+msgstr "Скорпион"
+
+msgid "Sagittarius"
+msgstr "Стрелец"
+
+msgid "Capricorn"
+msgstr "Козирог"
+
+msgid "Cannot perform selected operation."
+msgstr "Не може да се изпълне избраната операция."
+
+msgid "Task has been modified or removed."
+msgstr "Задачата е била променена или премахната"
+
+msgid "Remind me later"
+msgstr "Напомни ми по-късно"
+
+msgid "Done"
+msgstr "Направено"
+
+msgid "postponed"
+msgstr "отложено"
+
+msgid "Show task"
+msgstr "Покажи задача"
+
+msgid "Alarm warning!"
+msgstr "Аларма предупреждение !"
+
+msgid "Day note"
+msgstr "Дневна бележка"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Event"
+msgstr "Събитие"
+
+msgid "Task"
+msgstr "Задача"
+
+msgid "Show Osmo"
+msgstr "Покажи OSMO"
+
+msgid "No birthdays defined"
+msgstr "Няма дефинирани рожденни дни"
+
+msgid "Birthdays list"
+msgstr "Листа с рождени дни"
+
+msgid "Days to birthday"
+msgstr "Days to birthday"
+
+msgid "Age"
+msgstr "Възраст"
+
+msgid "Birthday date"
+msgstr "Роженна дата"
+
+msgid "today"
+msgstr "Днес"
+
+msgid "Please select address"
+msgstr "Моля изберете адрес"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Work"
+msgstr "Месторабота"
+
+msgid "Home"
+msgstr "Домашен"
+
+msgid "Group"
+msgstr "Група"
+
+msgid "First name"
+msgstr "Име"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "Second name"
+msgstr "Бащино"
+
+msgid "Nickname"
+msgstr "Прякор"
+
+msgid "Tags"
+msgstr "Етикети"
+
+msgid "Name day date"
+msgstr "Name day date"
+
+msgid "Home address"
+msgstr "Домашен адрес"
+
+msgid "Home postcode"
+msgstr "Пощенски код"
+
+msgid "Home city"
+msgstr "Град"
+
+msgid "Home state"
+msgstr "Област"
+
+msgid "Home country"
+msgstr "Държава"
+
+msgid "Organization"
+msgstr "Организация"
+
+msgid "Department"
+msgstr "Отдел"
+
+msgid "Work address"
+msgstr "Адрес по месторабота"
+
+msgid "Work postcode"
+msgstr "Пощенски код по месторабота"
+
+msgid "Work city"
+msgstr "Град по месторабота"
+
+msgid "Work state"
+msgstr "Област по месторабота"
+
+msgid "Work country"
+msgstr "Държава по месторабота"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Home phone"
+msgstr "Домашен телефон"
+
+msgid "Home phone 2"
+msgstr "Домашен телефон 2"
+
+msgid "Home phone 3"
+msgstr "Домашен телефон 3"
+
+msgid "Home phone 4"
+msgstr "Домашен телефон 4"
+
+msgid "Work phone"
+msgstr "Телефон по месторабота"
+
+msgid "Work phone 2"
+msgstr "Телефон по месторабота 2"
+
+msgid "Work phone 3"
+msgstr "Телефон по месторабота 3"
+
+msgid "Work phone 4"
+msgstr "Телефон по месторабота 4"
+
+msgid "Cell phone"
+msgstr "Мобилен телефон"
+
+msgid "Cell phone 2"
+msgstr "Мобилен телефон 2"
+
+msgid "Cell phone 3"
+msgstr "Мобилен телефон 3"
+
+msgid "Cell phone 4"
+msgstr "Мобилен телефон 4"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "E-Mail 2"
+msgstr "E-Mail 2"
+
+msgid "E-Mail 3"
+msgstr "E-Mail 3"
+
+msgid "E-Mail 4"
+msgstr "E-Mail 4"
+
+msgid "WWW"
+msgstr "WWW"
+
+msgid "WWW 2"
+msgstr "WWW 2"
+
+msgid "WWW 3"
+msgstr "WWW 3"
+
+msgid "WWW 4"
+msgstr "WWW 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Photo"
+msgstr "Снимка"
+
+msgid "Additional info"
+msgstr "Допълнителна информация"
+
+msgid "New contact"
+msgstr "Нов контакт"
+
+msgid "Remove contact"
+msgstr "Премахване на контакт"
+
+msgid "Edit contact"
+msgstr "Редактиране на контакт"
+
+msgid "Show birthdays"
+msgstr "Показване на рождени дни"
+
+msgid "Show contact location on the map"
+msgstr "Покажи локализацията на контакта на картата"
+
+msgid "Import contacts"
+msgstr "Внеси цонтакти"
+
+msgid "Export contacts"
+msgstr "Изнеси контакти"
+
+msgid "First Name"
+msgstr "Първо име"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "All fields"
+msgstr "Всички полета"
+
+msgid "Contact details"
+msgstr "Детайли за контакта"
+
+msgid "Close contact panel"
+msgstr "Затваряне панела за контакта"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "изнесен контакт"
+msgstr[1] "изнесени контакти"
+
+msgid "Cannot create file."
+msgstr "Не може да се създаде файл."
+
+msgid "Output format"
+msgstr "Изходен формат"
+
+msgid "Add header"
+msgstr "Добави главно"
+
+msgid "Fields to export"
+msgstr "Полета за износ"
+
+msgid "All"
+msgstr "Всичко"
+
+msgid "Invert"
+msgstr "Обръщане"
+
+msgid "Select fields"
+msgstr "Избирани полета"
+
+msgid "Select CSV file"
+msgstr "Избиране на CSV файл"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (comma-separated values) files (*.csv)"
+
+msgid "Please select file first."
+msgstr "Моля изберете файл първо."
+
+msgid "Import type"
+msgstr "Входящ тип"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Input filename"
+msgstr "Входящо име на файл"
+
+msgid "Address"
+msgstr "Адреси"
+
+msgid "Channel"
+msgstr "Канали"
+
+msgid "Interface"
+msgstr "Интерфейс "
+
+msgid "Use binary XML (WBXML)"
+msgstr "Използване на бинарен XML (WBXML) "
+
+msgid "Import"
+msgstr "Внасяне"
+
+msgid "Nothing to import."
+msgstr "Нищо за внасяне"
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "добавен контакт"
+msgstr[1] "добавени контакти"
+
+msgid "of"
+msgstr "на"
+
+msgid "Record"
+msgstr "Запис"
+
+msgid "Number fields per record"
+msgstr "Брой полета за запис"
+
+msgid "Use first record as header"
+msgstr "Използвай първият запис за главен"
+
+msgid "Field type"
+msgstr "Тип поле"
+
+msgid "Value"
+msgstr "Стойност"
+
+msgid "No records found in selected file."
+msgstr "Няма намерен запис във избраният файл"
+
+msgid "Cannot read file."
+msgstr "файлът не може да се прочете"
+
+msgid "Cannot open file."
+msgstr "Файлът не може да се отвори"
+
+msgid "Selected contact will be removed."
+msgstr "Избор на контакт който ще бъде премахнат"
+
+msgid "Select photo"
+msgstr "Избор на снимка"
+
+msgid "Postcode"
+msgstr "Пощенски код"
+
+msgid "City"
+msgstr "Град"
+
+msgid "State"
+msgstr "Област"
+
+msgid "Country"
+msgstr "Държава"
+
+msgid "Add contact"
+msgstr "Добавяне на контакт"
+
+msgid "Personal"
+msgstr "Личен"
+
+msgid "Phones"
+msgstr "Телефони"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Color of contact tags"
+msgstr "Цвят за тагове на контакти"
+
+msgid "Color of links"
+msgstr "Цвят за връзки"
+
+msgid "Font size"
+msgstr "Размер на шрифта"
+
+msgid "Name font size"
+msgstr "Размер на шрифта име"
+
+msgid "Item font size"
+msgstr "Позиция размера на шрифта"
+
+msgid "Photo size"
+msgstr "Размер на изображението"
+
+msgid "Small"
+msgstr "Малък"
+
+msgid "Medium"
+msgstr "Среден"
+
+msgid "Large"
+msgstr "Голям"
+
+msgid "Select and show first item after search"
+msgstr "Избиране и показване на първата точка след търсене"
+
+msgid "Hide group column"
+msgstr "Скриване колоната за група"
+
+msgid "Order"
+msgstr "Ред"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Ascending"
+msgstr "Възходящ"
+
+msgid "Descending"
+msgstr "Низходящ"
+
+msgid "Miscellaneous"
+msgstr "Разни"
+
+msgid "Groups"
+msgstr "Групи"
+
+msgid "Sorting"
+msgstr "Сортиране"
+
+msgid "Visible columns in birthday browser"
+msgstr "Показване колони в браузъра за рожден ден"
+
+msgid "Show calendar"
+msgstr "Показване календар"
+
+msgid "Show tasks"
+msgstr "Показвана задачи"
+
+msgid "Show contacts"
+msgstr "Показване на контакти"
+
+msgid "Show notes"
+msgstr "Показване на бележки"
+
+msgid "Show options"
+msgstr "Показване на опций"
+
+msgid "Quit"
+msgstr "Изход"
+
+msgid "Show small calendar window"
+msgstr "Показване календара в малък прозорец"
+
+msgid "Check for events since last run"
+msgstr "Проверка за събития от последното изпълнение"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Брой на дните за проверка на събития напред (default: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Настройка на абсолютният път за настройки и файлове с данни"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Промяна на GUI за използване OSMO на ниска резолюция"
+
+msgid "handy personal organizer"
+msgstr "удобен личен органайзър"
+
+msgid "ERROR: Cannot create config files"
+msgstr "ГРЕШКА:Не могат да се създадат конфигурациони файлове"
+
+msgid "Another copy of OSMO is already running."
+msgstr "Друга копие на OSMO във момента работи"
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Едновременото използване на два или повече копия на OSMO може да бъде "
+"причина за загуба на данни."
+
+msgid "Do you really want to continue?"
+msgstr "Найстина ли искате да продължите"
+
+msgid "Warning"
+msgstr "Внимание"
+
+msgid "The note has changed."
+msgstr "Бележката бе променена"
+
+msgid "Do you want to save it?"
+msgstr "Искате ли да се запази?"
+
+msgid "Words"
+msgstr "Думи"
+
+msgid "Lines"
+msgstr "Линий"
+
+msgid "Characters"
+msgstr ""
+
+msgid "White characters"
+msgstr "White characters"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Selection"
+msgstr "Избор"
+
+msgid "Created"
+msgstr "Създаване"
+
+msgid "Modified"
+msgstr "Модифициране"
+
+msgid "New note"
+msgstr "Нова бележка"
+
+msgid "Add note"
+msgstr "Добавяне на бележка"
+
+msgid "Edit note"
+msgstr "Редактиране на бележка"
+
+msgid "Delete note"
+msgstr "Изтриване на бележка"
+
+msgid "Remove note"
+msgstr "Премахване на бележка"
+
+msgid "Find"
+msgstr "Намиране"
+
+msgid "Clear attributes"
+msgstr "Изчистване на атрибути"
+
+msgid "Save note"
+msgstr "Запазване на бележка"
+
+msgid "Insert current date and time"
+msgstr "Вмъкване на текуща дата и време"
+
+msgid "Insert separator"
+msgstr "Поставяне на разделител"
+
+msgid "Statistics"
+msgstr "Статистики"
+
+msgid "Close editor"
+msgstr "Затваряне на редактор"
+
+msgid "Toggle spell checker"
+msgstr "Превключване за правописна проверка"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Note name"
+msgstr "Име на бележка"
+
+msgid "Last changes"
+msgstr "Последни промени"
+
+msgid "Read-only"
+msgstr "Само за четене"
+
+msgid "Line"
+msgstr "Линия"
+
+msgid "Column"
+msgstr "Колона"
+
+msgid "case sensitive"
+msgstr "case sensitive"
+
+msgid "Close find entry"
+msgstr "Close find entry"
+
+msgid "Edit entry"
+msgstr "Редактиране на запис"
+
+msgid "Remember cursor position"
+msgstr "Запомняне позицята на курсора"
+
+msgid "Selected note will be removed."
+msgstr "Избрана бележка за премахване"
+
+msgid "No further data recovery will be possible."
+msgstr "No further data recovery will be possible."
+
+msgid "Plain"
+msgstr "Plain"
+
+msgid "Encrypted"
+msgstr "Криптирана"
+
+msgid "Note type"
+msgstr "Тип на бележка"
+
+msgid "Cannot open the note."
+msgstr "Не може да се отвори бележката"
+
+msgid "encryption support is disabled"
+msgstr "Подръжката за криптиране е забранена"
+
+msgid "Authorization"
+msgstr "Упълномощаване"
+
+msgid "Algorithm"
+msgstr "Алгоритъм"
+
+msgid "Hashing"
+msgstr "Hashing"
+
+msgid "Compression"
+msgstr "Свиване"
+
+msgid "Ratio"
+msgstr "Пропорция"
+
+msgid "Fast"
+msgstr "Бързо"
+
+msgid "Good"
+msgstr "Добро"
+
+msgid "Best"
+msgstr "Най-добро"
+
+msgid "Remember the last selected category"
+msgstr "Запомняне на последната избрана категория"
+
+msgid "Use system format for date and time"
+msgstr "Използване на системният формат за дата и време"
+
+msgid "Encryption"
+msgstr "Шифроване"
+
+msgid "Visible columns"
+msgstr "Видими колони"
+
+msgid "Categories"
+msgstr "Категорий"
+
+msgid "Notes options"
+msgstr "Опций за бележки"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr "OSMO трябва да се рестартира за да се приложат промените "
+
+msgid "Layout"
+msgstr "Разпределение"
+
+msgid "Vertical"
+msgstr "Вертикално"
+
+msgid "Horizontal"
+msgstr "Хоризонтално"
+
+msgid "Tabs position"
+msgstr "Позиция за табовете"
+
+msgid "Left"
+msgstr "Ляво"
+
+msgid "Right"
+msgstr "Дясно"
+
+msgid "Top"
+msgstr "Горе"
+
+msgid "Bottom"
+msgstr "Доло"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Използване иконите по подразбиране (необходимо е рестартиране)"
+
+msgid "Disable underline in links"
+msgstr "Изключване подчертаване във връзки"
+
+msgid "Draw rows in alternating colors"
+msgstr "Начертаване на редове в редуване на цветове"
+
+msgid "At least one module must be visible."
+msgstr "Най-малко един модул трябва д асе вижда."
+
+msgid "Override locale settings"
+msgstr "Замяна на локалните настройки"
+
+msgid "Date format"
+msgstr "Формат за дата"
+
+msgid "DD-MM-YYYY"
+msgstr "ДД-ММ-ГГГГ"
+
+msgid "MM-DD-YYYY"
+msgstr "ММ-ДД-ГГГГ"
+
+msgid "YYYY-MM-DD"
+msgstr "ГГГГ-ММ-ДД"
+
+msgid "YYYY-DD-MM"
+msgstr "ГГГГ-ДД-ММ"
+
+msgid "Time format"
+msgstr "Формат за време"
+
+msgid "hours"
+msgstr "часове"
+
+msgid "Spell checker language"
+msgstr "Проверка за правопис "
+
+msgid "Enable tooltips"
+msgstr "Разрешаване на съвети"
+
+msgid "Remember last selected page"
+msgstr "Запомняне на последната избрана страница"
+
+msgid "Save data after every modification"
+msgstr "Запазване на даните след всяка модификация"
+
+msgid "Web browser"
+msgstr "Web browser"
+
+msgid "E-mail client"
+msgstr "E-mail client"
+
+msgid "Sound player"
+msgstr "Sound player"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Схемите %s ще бъдат заменени с уеб адрес"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Схемите %s ще бъдат заменени със имейл адрес"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "The %s pattern will be replaced with sound filename"
+
+msgid "Create"
+msgstr "Създаване"
+
+msgid "Restore"
+msgstr "Възтановяване"
+
+msgid "Enable system tray"
+msgstr "Разрешаване на системна област"
+
+msgid "Start minimised"
+msgstr "Стартиране минимализирано"
+
+msgid "Blink on events"
+msgstr "Мигане при събитие"
+
+msgid "Ignore day note events"
+msgstr "Игнориране на събитие от дневна бележка"
+
+msgid "Hide"
+msgstr "Скриване"
+
+msgid "Helpers"
+msgstr "Помощници"
+
+msgid "Backup"
+msgstr "Бакъп"
+
+msgid "System tray"
+msgstr "System tray"
+
+msgid "Edit"
+msgstr "Редактиране"
+
+msgid "Go Down"
+msgstr "Отиди долу"
+
+msgid "Select date"
+msgstr "Избиране на дата"
+
+msgid "Select font"
+msgstr "Избиране на фонд"
+
+msgid "Calculator"
+msgstr "Калкулатор"
+
+msgid "Edit day note"
+msgstr "Редактиране на дневна бележка"
+
+msgid "Contact map location"
+msgstr "Карта на локализация за контакта"
+
+msgid "Save"
+msgstr "Запазване"
+
+msgid "Display full-year calendar"
+msgstr "Показване на целогодишен календар"
+
+msgid "Help"
+msgstr "Помощ"
+
+msgid "Invalid item"
+msgstr "Невалиден елемент"
+
+msgid "Valid item"
+msgstr "Валиден елемент"
+
+msgid "Edit task"
+msgstr "Редактиране на задача"
+
+msgid "Remove task"
+msgstr "Премахване на задача"
+
+msgid "Import tasks"
+msgstr "Внасяне на задача"
+
+msgid "Export tasks"
+msgstr "Изнасяне на задача"
+
+msgid "Change to previous date"
+msgstr "Смяна към предишна дата"
+
+msgid "Change to next date"
+msgstr "Смяна към следваща дата"
+
+msgid "Print"
+msgstr "Печатане"
+
+msgid "Normal"
+msgstr "Нормално"
+
+msgid "Recurrent"
+msgstr "Повтарящи"
+
+msgid "Started"
+msgstr "Стартирани"
+
+msgid "Finished"
+msgstr "Завършени"
+
+msgid "All items"
+msgstr "Всички елементи"
+
+msgid "New task"
+msgstr "Нова задача"
+
+msgid "Change due date to previous date"
+msgstr "Промяна на крайният срок към предишна дата"
+
+msgid "Change due date to next date"
+msgstr "Промяна на крайният срок към следваща дата"
+
+msgid "Print visible tasks list"
+msgstr "Печатане на видимите задачи"
+
+msgid "Due date"
+msgstr "Краен срок"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgid "Task details"
+msgstr "Детайли на задачата"
+
+msgid "Close description panel"
+msgstr "Затваряне панела с описание"
+
+msgid "No tasks with defined date found."
+msgstr "Няма намерени задачи с определената дата."
+
+msgid "Save tasks"
+msgstr "Запазване на задачи"
+
+msgid "tasks exported"
+msgstr "изнесени задачи"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Изберете поне един ден когато recurrency е разрешено"
+
+msgid "Set time"
+msgstr "Настройка на време"
+
+msgid "Tomorrow"
+msgstr "Утре"
+
+msgid "Selected task will be removed."
+msgstr "Избрани задачи който ще бъдат премахнати"
+
+msgid "Basic"
+msgstr "Основно"
+
+msgid "Select date and time"
+msgstr "Избиране дата и време"
+
+msgid "Low"
+msgstr "Ниско"
+
+msgid "High"
+msgstr "Високо"
+
+msgid "Enable sound notification"
+msgstr "Разрешаване на звуково оповестяване"
+
+msgid "Advanced"
+msgstr "Разширено търсене"
+
+msgid "Alarm warning"
+msgstr "Аларма предупреждение"
+
+msgid "Postpone time"
+msgstr "Отлагане "
+
+msgid "Alarm command"
+msgstr "Alarm command"
+
+msgid "Recurrent task"
+msgstr "Повтарящи се задачи"
+
+msgid "Enable"
+msgstr "Позволи"
+
+msgid "Start"
+msgstr "Старт"
+
+msgid "End"
+msgstr "Край"
+
+msgid "Interval"
+msgstr "Интервал"
+
+msgid "Time period"
+msgstr "Времеви период"
+
+msgid "Date period"
+msgstr "Период за дата"
+
+msgid "Repeat"
+msgstr "Повторение"
+
+msgid "Repeat in the following days"
+msgstr "Повторение във следващите дни"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Игнорирай алармата когато срока е изтекъл"
+
+msgid "Select a font..."
+msgstr "Избиране на шрифт..."
+
+msgid "Color of items that are due today"
+msgstr "Цвят на артикулите за днес"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Цвят на артикулите които предстоят в следващите 7 дена"
+
+msgid "Color of items that are past due"
+msgstr "Цвят на артикулите които са просрочени"
+
+msgid "Task info font"
+msgstr "Информация за шрифта на задачата"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Покази във bold задачите с висок приоритет"
+
+msgid "Hide completed tasks"
+msgstr "Скриване на приключените задачи"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Изтриване на приключени задачи без предупреждение"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Добавяне на нова задача при двойно кликане върху списъка със задачи"
+
+msgid "minutes"
+msgstr "минути"
+
+msgid "0 for disable"
+msgstr "0 за забранените"
+
+msgid "Repeat sound alarm"
+msgstr "Повторение звуковата аларма"
+
+msgid "times"
+msgstr "времена"
+
+msgid "Global notification command"
+msgstr "Глобална уведомителна команда"
+
+msgid "Tasks options"
+msgstr "Опций задачи"
+
+msgid "Reminder options"
+msgstr "Опций за напомняне"
+
+msgid "Tasks list"
+msgstr "Листа със задачи"
+
+# е съкращение на думата "номер"
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "No."
+
+msgid "New Moon"
+msgstr "Новолуние"
+
+msgid "Waxing Crescent Moon"
+msgstr "Полумосец"
+
+msgid "Quarter Moon"
+msgstr "Първа четвърт"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Полумесец"
+
+msgid "Full Moon"
+msgstr "Пълнолуние"
+
+msgid "Waning Gibbous Moon"
+msgstr "Полумесец"
+
+msgid "Last Quarter Moon"
+msgstr "Последна четвърт "
+
+msgid "Waning Crescent Moon"
+msgstr "Полумесец"
+
+msgid "Question"
+msgstr "Въпрос"
+
+msgid "Error"
+msgstr "Грешка"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Избраният файл съществува.Замяна?"
+
+#~ msgid "Editor font"
+#~ msgstr "Редактор на шрифт"

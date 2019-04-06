@@ -1,0 +1,185 @@
+﻿HOW TO BUILD OSMO FOR WINDOWS
+=============================
+
+Goal
+----
+This document explains how to build OSMO for Windows. If you just want to run
+OSMO you do not need to follow these instructions. Just download the installer
+from the project page and run it. These instructions are intended for
+developers, translators or anybody who wants to use the latest SVN revision of
+OSMO on Windows.
+
+There are various ways to build an app like Osmo for Windows. Cross-compile from
+Linux, or use Cygwin or MinGW from MS-Windows. The Cygwin approach is the
+easiest but Osmo would need an X11 server running on MS-Windows. We want to get
+a native app without the need of an X11 server. So, we take the MinGW approach.
+We will install the GNU tool-chain in MS-Windows and compile the Windows app in
+Windows itself.
+
+Building Osmo
+-------------
+1- In some steps in this procedure we will need to extract TAR and LZMA files.
+MS-Windows does not handle these kinds of files so additional software is
+needed. A good, free file archive for MS-Windows that manages tar and lzma files
+is 7-Zip. Grab the latest version of 7-Zip in http://www.7-zip.org/
+
+2- Install MinGW in C:\mingw using the Automated MinGW Installer found in
+https://sourceforge.net/projects/mingw/
+When asked about a version select 'Candidate'. When asked about components
+select 'Mingw base tools' and 'g++ compile'
+
+3- Download and install MSYS-1.0.11.exe. It is available from
+https://sourceforge.net/projects/mingw/, section 'MSYS Base System'-> 'Current
+release'.
+In a post-install configuration step you will be asked for the location where
+you installed MinGW. Write c:/mingw
+
+4-  Get OSMO source code from the project page. 0.2.8 won't work, so get the SVN
+revision.
+To get the source code you will need a SVN client. MS-Windows does not include
+any. TortoiseSVN is a free and good SVN client. If you need, download it from
+http://tortoisesvn.net/downloads
+
+4- Download GTK+ for Windows. It can be downloaded 
+http://www.gtk.org/download-windows.html. Download the all-in-one bundle and
+extract it in the folder where you installed MingGW Answer 'Yes' when asked 
+about files being overwritten.
+
+5- If you are building a SVN revision, a SVN command-line client is needed.
+You can use SlikSVN ( http://www.sliksvn.com/en/download )
+
+6- If you are building a SVN revision you need to install some tools from
+http://sourceforge.net/projects/mingw/files/. To install these packages download
+and uncompress them into your MinGW or MSYS directory depending on the name of
+the package:
+ - automake1.11-1.11-1-mingw32-bin.tar.lzma
+ - automake-4-1-mingw32-bin.tar.lzma
+ - autoconf-6-1-mingw32-bin.tar.lzma
+ - autoconf-6-1-mingw32-bin.tar.lzma
+ - perl-5.6.1_2-1-msys-1.0.11-bin.tar.lzma
+ - m4-1.4.13-1-msys-1.0.11-bin.tar.lzma
+ - libcrypt-1.1_1-2-msys-1.0.11-dll-0.tar.lzma
+
+7-Install iconv-1.9.2.win32.zip and zlib-1.2.3.win32.zip from
+http://www.zlatkovic.com/pub/libxml/. Just uncompress into your MSYS directory
+as usual.
+
+8- Install libxml: Although there is a Windows port of libxml available at
+http://www.zlatkovic.com/pub/libxml/, it seems there are memory management
+problems when it is used from MinGW. Let's build libxml
+ - Download libxml source code from its webpage (http://xmlsoft.org/)
+ - Uncompress it somewhere (avoid spaces in the path) and cd to it
+ - Run
+ $ ./configure --prefix=/mingw && make && make install
+
+9- Uncompress Osmo source code and cd into it
+10- If you are building a SVN revision run
+  $./autogen.sh
+11-Build Osmo. Run:
+ $ ./configure --prefix=/mingw && make && make install
+ 
+If everything goes fine, Osmo is now ready to use. Just run 'osmo'.
+
+BUILDING THE INSTALLER
+----------------------
+The OSMO build provided through the OSMO project page has an automatic Windows
+installer built using NSIS (Nullsoft Scriptable Installer System).
+
+To build the installer, follow these steps:
+ 1- Install latest version of NSIS. Download it from
+ http://nsis.sourceforge.net/Download
+
+ 2- Take files from MinGW directory to make the following directory structure
+    \
+    |- COPYING
+    |- osmo-0.2.8.nsi
+    |- osmo.ico
+    |- src
+    |  |- locale
+    |  |  |- ca
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- cs
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- de
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- el
+	|  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- es
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- fi
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- fr
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- hu
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- it
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- ja
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- lt
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- nl
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- pl
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- pt
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- ru
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- sv
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |- tr
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  |-  zh
+    |  |  |  \- LC_MESSAGES
+    |  |  |     \- osmo.mo
+    |  |  \
+    |  |- iconv.dll
+    |  |- libglib-2.0-0.dll
+    |  |- libpangowin32-1.0-0.dll
+    |  |- intl.dll
+    |  |- libgmodule-2.0-0.dll
+    |  |- libpng12-0.dll
+    |  |- libatk-1.0-0.dll
+    |  |- libgobject-2.0-0.dll
+    |  |- libcairo-2.dll
+    |  |- libgthread-2.0-0.dll
+    |  |- osmo.exe
+    |  |- libgdk-win32-2.0-0.dll
+    |  |- libgtk-win32-2.0-0.dll
+    |  |- zlib1.dll
+    |  |- libgdk_pixbuf-2.0-0.dll
+    |  |- libpango-1.0-0.dll
+    |  |- libgio-2.0-0.dll
+    |  \- libpangocairo-1.0-0.dll
+    \-
+
+ 3- Compile osmo.nsi with NSIS
+
+FEEDBACK
+--------
+MinGW is sometimes a little bit tricky and problems can arise. If you find a bug
+in Osmo or have a suggestion about the Windows port, send an email to
+osmo-pim-friends@lists.sourceforge.net. Your feedback is welcome.
+
+TO-DO
+-----
+ * Add optional dependencies libraries: Backup support, encrypted notes...
+ * Detect other OSMO instances at start-up (file locks)

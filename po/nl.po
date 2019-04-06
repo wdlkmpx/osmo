@@ -1,0 +1,2213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2010-03-27 13:01+0100\n"
+"Last-Translator: Tiger!P <tigerp@tigerp.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Over"
+
+msgid "Close"
+msgstr "Sluit"
+
+msgid "Ctrl+PageUp"
+msgstr "Ctrl+PageUp"
+
+msgid "switch to previous tab"
+msgstr "wissel naar vorige tab"
+
+msgid "Ctrl+PageDn"
+msgstr "Ctrl+PageDn"
+
+msgid "switch to next tab"
+msgstr "wissel naar volgende tab"
+
+msgid "switch to selected page"
+msgstr "wissel naar geselecteerde pagina"
+
+msgid "show options window"
+msgstr "Laat opties zien"
+
+msgid "show about window"
+msgstr "Laat het 'over' venster zien"
+
+msgid "PageUp/PageDn"
+msgstr "PageUp/PageDn"
+
+msgid "switch page in options and about tab"
+msgstr "wissel pagina in opties en over tab"
+
+msgid "exit"
+msgstr "exit"
+
+msgid "Space"
+msgstr "Spatiebalk"
+
+msgid "select current date"
+msgstr "selecteer huidige datum"
+
+msgid "Ctrl+Space"
+msgstr "Ctrl+Spatiebalk"
+
+msgid "toggle personal data visibility"
+msgstr "Wissel zichtbaarheid persoonlijke data"
+
+msgid "Arrows"
+msgstr "Pijltjestoetsen"
+
+msgid "change day"
+msgstr "verander dag"
+
+msgid "Ctrl+Up/Down"
+msgstr "Ctrl+Up/Down"
+
+msgid "scroll the contents in the day info panel"
+msgstr "scroll de inhoud in het dag informatie paneel"
+
+msgid "change month"
+msgstr "verander maand"
+
+msgid "Home/End"
+msgstr "Home/End"
+
+msgid "change year"
+msgstr "verander jaar"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "wissel kalenders voor de vorige en volgende maand"
+
+msgid "day notes browser"
+msgstr "dag notitie bladerer"
+
+msgid "assign background color to day note"
+msgstr "ken achtergrond kleur toe aan dag notitie"
+
+msgid "date calculator"
+msgstr "datum rekenmachine"
+
+msgid "show full-year calendar"
+msgstr "laat volledig-jaar kalender zien"
+
+msgid "jump to date"
+msgstr "spring naar datum"
+
+msgid "Delete"
+msgstr "Delete"
+
+msgid "remove day note"
+msgstr "verwijder dag notitie"
+
+msgid "Alt+Arrows"
+msgstr "Alt+Pijltjestoetsen"
+
+msgid "Esc"
+msgstr "Escape"
+
+msgid "close editor"
+msgstr "Sluit editor"
+
+msgid "toggle bold"
+msgstr "wissel vet"
+
+msgid "toggle italic"
+msgstr "wissel schuingedrukt"
+
+msgid "toggle underline"
+msgstr "wissel onderstreept"
+
+msgid "toggle strikethrough"
+msgstr "wissel doorgestreept"
+
+msgid "toggle highlight"
+msgstr "wissel accentueren"
+
+msgid "Arrows Up/Down"
+msgstr "Pijl omhoog/naar beneden"
+
+msgid "toggle alternative view"
+msgstr "wissel alternatieve weergave"
+
+msgid "year info"
+msgstr "jaar informatie"
+
+msgid "set current year"
+msgstr "zet huidig jaar"
+
+msgid "close full-year calendar"
+msgstr "sluit volledig-jaar kalender"
+
+msgid "Alt+a, Insert"
+msgstr "Alt+a, Insert"
+
+msgid "add task"
+msgstr "taak toevoegen"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr "Alt+e, Ctrl+Enter"
+
+msgid "edit task"
+msgstr "taak wijzigen"
+
+msgid "Alt+r, Delete"
+msgstr "Alt+r, Delete"
+
+msgid "remove task"
+msgstr "taak verwijderen"
+
+msgid "toggle hidden tasks"
+msgstr "wissel verborgen taken"
+
+msgid "activate search field"
+msgstr "activeer zoek veld"
+
+msgid "Left, Right"
+msgstr "Links, Rechts"
+
+msgid "change category filter"
+msgstr "verander categorie filter"
+
+msgid "close task info panel"
+msgstr "sluit taak informatie paneel"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "add contact"
+msgstr "contact toevoegen"
+
+msgid "Ctrl+Enter"
+msgstr "Ctrl+Enter"
+
+msgid "edit contact"
+msgstr "contact wijzigen"
+
+msgid "remove contact"
+msgstr "contact verwijderen"
+
+msgid "change search mode"
+msgstr "verander zoek modus"
+
+msgid "close contact details panel"
+msgstr "sluit contact details paneel"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "open note"
+msgstr "open notitie"
+
+msgid "add note"
+msgstr "notitie toevoegen"
+
+msgid "remove note"
+msgstr "verwijder notitie"
+
+msgid "edit note name and category"
+msgstr "wijzig notitie naam en categorie"
+
+msgid "close note editor"
+msgstr "sluit notitie editor"
+
+msgid "save note"
+msgstr "notitie opslaan"
+
+msgid "find text"
+msgstr "zoek tekst"
+
+msgid "clear selection attributes"
+msgstr "selectie attributen schoonmaken"
+
+msgid "OSMO was designed keeping in mind the user convenience, so there are many key shortcuts. Here is the full list:"
+msgstr "OSMO is met het gebruikers gemak in het hoofd ontworpen, dus er zijn een boel snel-toetsen. Hier is de volledige lijst:"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Note editor"
+msgstr "Notitie editor"
+
+msgid "Full-year calendar"
+msgstr "Volledig-jaar kalender"
+
+msgid "Tasks"
+msgstr "Taken"
+
+msgid "Contacts"
+msgstr "Contacten"
+
+msgid "Notes"
+msgstr "Notities"
+
+msgid "Selector"
+msgstr "Kiezer"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "A handy personal organizer"
+msgstr "Een handige persoonlijke organizer"
+
+msgid "compiled on"
+msgstr "gecompileerd op"
+
+msgid "Programming"
+msgstr "Programmeren"
+
+msgid "Graphics"
+msgstr "Plaatjes"
+
+msgid "Contributors"
+msgstr "Medewerkers"
+
+msgid "Translators"
+msgstr "Vertalers"
+
+msgid "Mailing lists"
+msgstr "E-mail lijsten"
+
+msgid "Bug tracker"
+msgstr "Bug tracker"
+
+msgid "Feature requests"
+msgstr "uitbreidingsaanvragen"
+
+msgid "Available modules"
+msgstr "Beschikbare modules"
+
+msgid "Compiled-in features"
+msgstr "Vast gecompileerde eigenschappen"
+
+msgid "iCalendar support"
+msgstr "iCalendar ondersteuning"
+
+msgid "Encrypted notes support"
+msgstr "Versleutelde notities ondersteuning"
+
+msgid "HTML view required for Contacts module"
+msgstr "HTML view benodigd voor Contacts module"
+
+msgid "SyncML enabled device support"
+msgstr "Apparaat met SyncML ondersteuning"
+
+msgid "Backup support"
+msgstr "Backup ondersteuning"
+
+msgid "Printing support"
+msgstr "Printer ondersteuning"
+
+msgid "Spell checker support"
+msgstr "Spellingscontrole ondersteuning"
+
+msgid "version"
+msgstr "versie"
+
+msgid "SVN revision"
+msgstr "SVN revisie"
+
+msgid "Key shortcuts"
+msgstr "Snel-toetsen"
+
+msgid "License"
+msgstr "Licentie"
+
+msgid "Save backup"
+msgstr "Backup opslaan"
+
+msgid "Password protection"
+msgstr "Wachtwoord beveiliging"
+
+msgid "Enter password"
+msgstr "Vul wachtwoord in"
+
+msgid "Re-enter password"
+msgstr "Vul wachtwoord nogmaals in"
+
+msgid "Please enter the password"
+msgstr "Vul alstublieft het wachtwoord in"
+
+msgid "Passwords do not match!"
+msgstr "Wachtwoorden komen niet overeen!"
+
+msgid "Cannot create backup!"
+msgstr "Kan backup niet maken!"
+
+msgid "Backup file saved successfully!"
+msgstr "Backup bestand succesvol opgeslagen!"
+
+msgid "Open backup file"
+msgstr "Open backup bestand"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Osmo backup bestanden (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Dit is geen Osmo backup bestand"
+
+msgid "Incorrect password!"
+msgstr "Fout wachtwoord!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "Al je informatie zal worden vervangen door de inhoud van het backup bestand."
+
+msgid "Are you sure?"
+msgstr "Weet u het zeker?"
+
+msgid "Osmo has to be restarted now..."
+msgstr "Osmo moet nu opnieuw opgestart worden..."
+
+msgid "was born"
+msgstr "was geboren"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "jaar oud"
+msgstr[1] "jaren oud"
+
+msgid "Current time"
+msgstr "Huidige tijd"
+
+msgid "Day number"
+msgstr "Dag nummer"
+
+msgid "Today distance"
+msgstr "Totale afstand"
+
+msgid "Week number"
+msgstr "Week nummer"
+
+msgid "Marked days"
+msgstr "Gemarkeerde dagen"
+
+msgid "Weekend days"
+msgstr "Weekend dagen"
+
+msgid "Day category"
+msgstr "Dag categorie"
+
+msgid "Moon phase"
+msgstr "Maan schijngestalte"
+
+msgid "Zodiac sign"
+msgstr "Dierenriem teken"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "dag tot het einde van jaar"
+msgstr[1] "dagen tot het einde van jaar"
+
+msgid "the last day of the year"
+msgstr "de laatste dag van het jaar"
+
+msgid "Day notes"
+msgstr "Dag notities"
+
+msgid "Day tasks"
+msgstr "Dag taken"
+
+msgid "Birthday"
+msgstr "Verjaardag"
+
+msgid "Selected day note will be removed."
+msgstr "Geselecteerde dag notitie zal worden verwijderd"
+
+msgid "Continue?"
+msgstr "Doorgaan?"
+
+msgid "Previous year"
+msgstr "Vorig jaar"
+
+msgid "Previous month"
+msgstr "Vorige maand"
+
+msgid "Previous day"
+msgstr "Vorige dag"
+
+msgid "Today"
+msgstr "Vandaag"
+
+msgid "Next day"
+msgstr "Volgende dag"
+
+msgid "Next month"
+msgstr "Volgende maand"
+
+msgid "Next year"
+msgstr "Volgend jaar"
+
+msgid "Jump to date"
+msgstr "Spring naar datum"
+
+msgid "Print calendar"
+msgstr "Print kalender"
+
+msgid "Date calculator"
+msgstr "Datum rekenmachine"
+
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+msgid "Toggle day note panel"
+msgstr "Wissel dag notitie paneel"
+
+msgid "Add task"
+msgstr "Voeg taak toe"
+
+msgid "Select day color"
+msgstr "Selecteer dag kleur"
+
+msgid "Browse notes"
+msgstr "Blader notities"
+
+msgid "Browse iCal events"
+msgstr "Blader iCal gebeurtenissen"
+
+msgid "Export to iCal file"
+msgstr "Exporteer naar iCal bestand"
+
+msgid "Previous and next month"
+msgstr "Vorige en volgende maand"
+
+msgid "Close note panel"
+msgstr "Sluit notitie paneel"
+
+msgid "Highlight"
+msgstr "Accentueren"
+
+msgid "Strikethrough"
+msgstr "Doorgestreept"
+
+msgid "Underline"
+msgstr "Onderstreept"
+
+msgid "Italic"
+msgstr "Schuingedrukt"
+
+msgid "Bold"
+msgstr "Vet"
+
+msgid "Insert timeline"
+msgstr "Voeg tijdlijn in"
+
+msgid "Clear text"
+msgstr "Tekst leegmaken"
+
+msgid "Info"
+msgstr "Informatie"
+
+msgid "Select color"
+msgstr "Selecteer kleur"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "jaar"
+msgstr[1] "jaren"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "maand"
+msgstr[1] "maanden"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dagen"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "uur"
+msgstr[1] "uren"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuut"
+msgstr[1] "minuten"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "seconde"
+msgstr[1] "seconden"
+
+msgid "or"
+msgstr "of"
+
+msgid "rounded down"
+msgstr "naar beneden afronden"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "week"
+msgstr[1] "weken"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "Werkdag"
+msgstr[1] "werkdagen"
+
+msgid "time is ignored"
+msgstr "Tijd wordt genegeerd"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Weekend dag"
+msgstr[1] "Weekend dagen"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Deze rekenmachine ondersteund alleen data na jaar 1."
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Weekend dag genegeerd"
+msgstr[1] "Weekend dagen genegeerd"
+
+msgid "Year"
+msgstr "Jaar"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Current date"
+msgstr "Huidige datum"
+
+msgid "Set current date"
+msgstr "Zet huidige datum"
+
+msgid "Hour"
+msgstr "Uur"
+
+msgid "Minute"
+msgstr "Minuut"
+
+msgid "Second"
+msgstr "Seconde"
+
+msgid "Set current time"
+msgstr "Gebruik huidige tijd"
+
+msgid "Reset time"
+msgstr "Herinitialiseer tijd"
+
+msgid "First date and time"
+msgstr "Eerste datum en tijd"
+
+msgid "Second date and time"
+msgstr "Tweede datum en tijd"
+
+msgid "Alternative time units"
+msgstr "Alternatieve tijd eenheden"
+
+msgid "Result"
+msgstr "Resultaat"
+
+msgid "Duration between two dates"
+msgstr "Tijdsduur tussen twee data"
+
+msgid "Operation"
+msgstr "Bewerking"
+
+msgid "add"
+msgstr "Optellen"
+
+msgid "subtract"
+msgstr "Aftrekken"
+
+msgid "Date and time to add or subtract from"
+msgstr "Datum en tijd om op te tellen of van af te trekken"
+
+msgid "Years"
+msgstr "Jaren"
+
+msgid "Months"
+msgstr "Maanden"
+
+msgid "Days"
+msgstr "Dagen"
+
+msgid "Weeks"
+msgstr "Weken"
+
+msgid "Hours"
+msgstr "Uren"
+
+msgid "Minutes"
+msgstr "Minuten"
+
+msgid "Seconds"
+msgstr "Seconden"
+
+msgid "Ignore weekend days"
+msgstr "Negeer weekend dagen"
+
+msgid "Reset fields"
+msgstr "Herinitialiseer velden"
+
+msgid "Time to add or subtract"
+msgstr "Tijd om op te tellen of af te trekken"
+
+msgid "Jump to"
+msgstr "Spring naar"
+
+msgid "Add to or subtract from a date"
+msgstr "Optellen bij of aftrekken van een datum"
+
+msgid "Leap year"
+msgstr "Schrikkeljaar"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "Chinese year animal"
+msgstr "Chineese dierenriem"
+
+msgid "Number of days"
+msgstr "Aantal dagen"
+
+msgid "Number of weeks"
+msgstr "Aantal weken"
+
+msgid "Number of weekend days"
+msgstr "Aantal weekend dagen"
+
+msgid "Year info"
+msgstr "Jaar informatie"
+
+msgid "Current year"
+msgstr "Huidig jaar"
+
+msgid "Alternative view"
+msgstr "Alternatieve weergave"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "gebeurtenis"
+msgstr[1] "gebeurtenissen"
+
+msgid "No valid calendars defined"
+msgstr "Geen goede kalenders gedefinieerd"
+
+msgid "iCalendar events"
+msgstr "iKalender gebeurtenissen"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Summary"
+msgstr "Samenvatting"
+
+msgid "Select output file"
+msgstr "Selecteer uitvoer bestand"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "De lijst zal worden leeggemaakt en alle items zullen verloren gaan."
+
+msgid "Done!"
+msgstr "Klaar!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "gebeurtenis geëxporteerd"
+msgstr[1] "gebeurtenissen geëxporteerd"
+
+msgid "iCalendar export"
+msgstr "iCalendar export"
+
+msgid "Day Selector"
+msgstr "Dag Kiezer"
+
+msgid "Use date period"
+msgstr "Gebruik datum periode"
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "Clear"
+msgstr "Leegmaken"
+
+msgid "Remove"
+msgstr "Verwijder"
+
+msgid "Output filename"
+msgstr "Uitvoer bestandsnaam"
+
+msgid "Browse"
+msgstr "Bladeren"
+
+msgid "Cancel"
+msgstr "Annuleer"
+
+msgid "Export"
+msgstr "Export"
+
+msgid "no entries"
+msgstr "Geen items"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "item"
+msgstr[1] "items"
+
+msgid "Calendar notes"
+msgstr "Kalender notities"
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Current month"
+msgstr "Huidige maand"
+
+msgid "Selected month"
+msgstr "Geselecteerde maand"
+
+msgid "Selected year"
+msgstr "Geselecteerd jaar"
+
+msgid "Selected month and year"
+msgstr "Geselecteerde maand en jaar"
+
+msgid "All notes"
+msgstr "Alle notities"
+
+msgid "Case sensitive"
+msgstr "Hoofdletter gevoelig"
+
+msgid "Strikethrough past day notes"
+msgstr "Doorhalen van verlopen notities"
+
+msgid "Note"
+msgstr "Notitie"
+
+msgid "Syntax"
+msgstr "Syntaxis"
+
+msgid "abbreviated weekday name"
+msgstr "afgekortte naam van een dag"
+
+msgid "full weekday name"
+msgstr "volledige naam van een dag"
+
+msgid "abbreviated month name"
+msgstr "afgekortte naam van een maand"
+
+msgid "full month name"
+msgstr "Volledige naam van de maand"
+
+msgid "day of the month"
+msgstr "dag van de maand"
+
+msgid "MM/DD/YY"
+msgstr "MM/DD/JJ"
+
+msgid "day of the month without leading zeros"
+msgstr "dag van de maand zonder voorloop nullen"
+
+msgid "year without century"
+msgstr "jaar zonder eeuw"
+
+msgid "year with century"
+msgstr "jaar met eeuw"
+
+msgid "Date header format"
+msgstr "Datumkop formaat"
+
+msgid "Set default format"
+msgstr "Zet standaard formaat"
+
+msgid "Date format syntax"
+msgstr "Datum formaat syntaxis"
+
+msgid "Day note marker"
+msgstr "Dag notitie marker"
+
+msgid "Event marker"
+msgstr "Gebeurtenis marker"
+
+msgid "Circle"
+msgstr "Cirkel"
+
+msgid "Ellipse"
+msgstr "Ellips"
+
+msgid "Wave"
+msgstr "Golf"
+
+msgid "Current day marker"
+msgstr "Huidige dag marker"
+
+msgid "Arrow"
+msgstr "Pijl"
+
+msgid "Free-hand circle"
+msgstr "Vrije hand cirkel"
+
+msgid "Colors"
+msgstr "Kleuren"
+
+msgid "Header color"
+msgstr "Kop kleur"
+
+msgid "Weekend days color"
+msgstr "Weekend dagen kleur"
+
+msgid "Cursor color"
+msgstr "Cursor kleur"
+
+msgid "Event marker color"
+msgstr "Gebeurtenis marker kleur"
+
+msgid "Current day marker color"
+msgstr "Huidige dag marker kleur"
+
+msgid "Birthday marker color"
+msgstr "Verjaardag marker kleur"
+
+msgid "Date font"
+msgstr "Datum lettertype"
+
+msgid "Calendar font"
+msgstr "Kalender lettertype"
+
+msgid "Note font"
+msgstr "Notitie lettertype"
+
+msgid "Enable block cursor"
+msgstr "Zet blok cursor aan"
+
+msgid "Cursor thickness"
+msgstr "Cursor dikheid"
+
+msgid "Thin"
+msgstr "Dun"
+
+msgid "Thick"
+msgstr "Dik"
+
+msgid "Edit category"
+msgstr "Wijzig categorie"
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Selecteer ICS bestand"
+
+msgid "All Files"
+msgstr "Alle bestanden"
+
+msgid "Calendar files (*.ics)"
+msgstr "Kalender bestanden (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Wijzig ICAL parameters"
+
+msgid "Filename"
+msgstr "Bestandsnaam"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Disabled"
+msgstr "Geblokkeerd"
+
+msgid "Valid"
+msgstr "Geldig"
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Full date"
+msgstr "Volledige datum"
+
+msgid "Mark"
+msgstr "Markeer"
+
+msgid "Week start on Monday"
+msgstr "Week start op maandag"
+
+msgid "Show day names"
+msgstr "Laat dag namen zien"
+
+msgid "No month change"
+msgstr "Geen maand verandering"
+
+msgid "Show week numbers"
+msgstr "Laat week nummers zien"
+
+msgid "Simple view in full-year calendar"
+msgstr "Eenvoudige weergave in volledig-jaar kalender"
+
+msgid "Enable auxilary calendars"
+msgstr "Zet helper kalenders aan"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Oplopend sorteren in de dag notie bladeraar"
+
+msgid "Enable spell checker in day notes"
+msgstr "Zet spellingscontrole in dag notities aan"
+
+msgid "Appearance"
+msgstr "Weergave"
+
+msgid "Day categories"
+msgstr "Dag categorieën"
+
+msgid "iCalendar files"
+msgstr "iKalender bestanden"
+
+msgid "Show in day info panel"
+msgstr "Laat in het dag informatie paneel zien"
+
+msgid "Name day"
+msgstr "Naamdag"
+
+msgid "Error printing"
+msgstr "Print probleem"
+
+msgid "Printing properties"
+msgstr "Printer eigenschappen"
+
+msgid "Month name"
+msgstr "Maandnaam"
+
+msgid "Day name"
+msgstr "Dagnaam"
+
+msgid "Events"
+msgstr "Gebeurtenissen"
+
+msgid "Fonts"
+msgstr "Lettertypen"
+
+msgid "Birthdays"
+msgstr "Verjaardagen"
+
+msgid "Namedays"
+msgstr "Naamdagen"
+
+msgid "Visible events"
+msgstr "Zichtbare gebeurtenissen"
+
+msgid "Padding"
+msgstr "Opvulling"
+
+msgid "Event maximum length"
+msgstr "Maximale gebeurtenis lengte"
+
+msgid "Page orientation:"
+msgstr "Pagina richting:"
+
+msgid "Portrait"
+msgstr "Staand"
+
+msgid "Landscape"
+msgstr "Liggend"
+
+msgid "Timeline"
+msgstr "Tijdlijn"
+
+msgid "From (hour)"
+msgstr "Van (uur)"
+
+msgid "Step (minutes)"
+msgstr "Stap (minuten)"
+
+msgid "To (hour)"
+msgstr "Naar (uur)"
+
+msgid "No date"
+msgstr "Geen datum"
+
+msgid "Rat"
+msgstr "Rat"
+
+msgid "Ox"
+msgstr "Os"
+
+msgid "Tiger"
+msgstr "Tijger"
+
+msgid "Hare"
+msgstr "Haas"
+
+msgid "Dragon"
+msgstr "Draak"
+
+msgid "Snake"
+msgstr "Slang"
+
+msgid "Horse"
+msgstr "Paard"
+
+msgid "Sheep"
+msgstr "Schaap"
+
+msgid "Monkey"
+msgstr "Aap"
+
+msgid "Fowl"
+msgstr "Haan"
+
+msgid "Dog"
+msgstr "Hond"
+
+msgid "Pig"
+msgstr "Varken"
+
+msgid "Unknown"
+msgstr "Onbekend"
+
+msgid "Aquarius"
+msgstr "Aquarius (Waterman)"
+
+msgid "Pisces"
+msgstr "Pisces (Vissen)"
+
+msgid "Aries"
+msgstr "Aries (Ram)"
+
+msgid "Taurus"
+msgstr "Taurus (Stier)"
+
+msgid "Gemini"
+msgstr "Gemini (Tweelingen)"
+
+msgid "Cancer"
+msgstr "Cancer (Kreeft)"
+
+msgid "Leo"
+msgstr "Leo (Leeuw)"
+
+msgid "Virgo"
+msgstr "Virgo (Maagd)"
+
+msgid "Libra"
+msgstr "Libra (Weegschaal)"
+
+msgid "Scorpio"
+msgstr "Scorpio (Schorpioen)"
+
+msgid "Sagittarius"
+msgstr "Sagittarius (Boogschutter)"
+
+msgid "Capricorn"
+msgstr "Capricomus (Steenbok)"
+
+msgid "Cannot perform selected operation."
+msgstr "Kan de geselecteerde actie niet uitvoeren."
+
+msgid "Task has been modified or removed."
+msgstr "De taak is aangepast of verwijderd."
+
+msgid "Remind me later"
+msgstr "Herinner me later"
+
+msgid "Done"
+msgstr "Gedaan"
+
+msgid "postponed"
+msgstr "Uitgesteld"
+
+msgid "Show task"
+msgstr "Laat taak zien"
+
+msgid "Alarm warning!"
+msgstr "Alarm waarschuwing!"
+
+msgid "Day note"
+msgstr "Dag notitie"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Event"
+msgstr "Gebeurtenis"
+
+msgid "Task"
+msgstr "Taak"
+
+msgid "Show Osmo"
+msgstr "Laat Osmo zien"
+
+msgid "No birthdays defined"
+msgstr "Geen verjaardagen gedefinieerd"
+
+msgid "Birthdays list"
+msgstr "Verjaardagen lijst"
+
+msgid "Days to birthday"
+msgstr "Dagen tot verjaardag"
+
+msgid "Age"
+msgstr "Leeftijd"
+
+msgid "Birthday date"
+msgstr "Verjaardag datum"
+
+msgid "today"
+msgstr "vandaag"
+
+msgid "Please select address"
+msgstr "Selecteer een adres a.u.b."
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "Work"
+msgstr "Werk"
+
+msgid "Home"
+msgstr "Thuis"
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "First name"
+msgstr "Roepnaam"
+
+msgid "Last name"
+msgstr "Achternaam"
+
+msgid "Second name"
+msgstr "Tweede naam"
+
+msgid "Nickname"
+msgstr "Nickname"
+
+msgid "Tags"
+msgstr "Labels"
+
+msgid "Name day date"
+msgstr "Naamdag datum"
+
+msgid "Home address"
+msgstr "Thuis adres"
+
+msgid "Home postcode"
+msgstr "Thuis postcode"
+
+msgid "Home city"
+msgstr "Thuis plaats"
+
+msgid "Home state"
+msgstr "Thuis provincie"
+
+msgid "Home country"
+msgstr "Thuis land"
+
+msgid "Organization"
+msgstr "Organisatie"
+
+msgid "Department"
+msgstr "Afdeling"
+
+msgid "Work address"
+msgstr "Werk adres"
+
+msgid "Work postcode"
+msgstr "Werk postcode"
+
+msgid "Work city"
+msgstr "Werk plaats"
+
+msgid "Work state"
+msgstr "Werk provincie"
+
+msgid "Work country"
+msgstr "Werk land"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Thuis telefoon"
+
+msgid "Home phone 2"
+msgstr "Thuis telefoon 2"
+
+msgid "Home phone 3"
+msgstr "Thuis telefoon 3"
+
+msgid "Home phone 4"
+msgstr "Thuis telefoon 4"
+
+msgid "Work phone"
+msgstr "Werk telefoon"
+
+msgid "Work phone 2"
+msgstr "Werk telefoon 2"
+
+msgid "Work phone 3"
+msgstr "Werk telefoon 3"
+
+msgid "Work phone 4"
+msgstr "Werk telefoon 4"
+
+msgid "Cell phone"
+msgstr "Mobiele telefoon"
+
+msgid "Cell phone 2"
+msgstr "Mobiele telefoon 2"
+
+msgid "Cell phone 3"
+msgstr "Mobiele telefoon 3"
+
+msgid "Cell phone 4"
+msgstr "Mobiele telefoon 4"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "E-Mail 2"
+msgstr "E-mail 2"
+
+msgid "E-Mail 3"
+msgstr "E-mail 3"
+
+msgid "E-Mail 4"
+msgstr "E-mail 4"
+
+msgid "WWW"
+msgstr "WWW"
+
+msgid "WWW 2"
+msgstr "WWW 2"
+
+msgid "WWW 3"
+msgstr "WWW 3"
+
+msgid "WWW 4"
+msgstr "WWW 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Foto"
+
+msgid "Additional info"
+msgstr "Extra informatie"
+
+msgid "New contact"
+msgstr "Nieuw contact"
+
+msgid "Remove contact"
+msgstr "Verwijder contact"
+
+msgid "Edit contact"
+msgstr "Wijzig contact"
+
+msgid "Show birthdays"
+msgstr "Laat verjaardagen zien"
+
+msgid "Show contact location on the map"
+msgstr "Laat de locatie van de contactpersoon op de kaart zien"
+
+msgid "Import contacts"
+msgstr "Importeer contacten"
+
+msgid "Export contacts"
+msgstr "Exporteer contacten"
+
+msgid "First Name"
+msgstr "Roepnaam"
+
+msgid "Last Name"
+msgstr "Achternaam"
+
+msgid "All fields"
+msgstr "Alle velden"
+
+msgid "Contact details"
+msgstr "Contact details"
+
+msgid "Close contact panel"
+msgstr "Sluit contact paneel"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "contact geëxporteerd"
+msgstr[1] "contacten geëxporteerd"
+
+msgid "Cannot create file."
+msgstr "Kan bestand niet maken."
+
+msgid "Output format"
+msgstr "Uitvoer formaat"
+
+msgid "Add header"
+msgstr "Voeg kop toe"
+
+msgid "Fields to export"
+msgstr "Velden om te exporteren"
+
+msgid "All"
+msgstr "Alles"
+
+msgid "Invert"
+msgstr "Omdraaien"
+
+msgid "Select fields"
+msgstr "Selecteer velden"
+
+msgid "Select CSV file"
+msgstr "Selecteer CSV bestand"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (comma gescheiden waarden) bestanden (*.csv)"
+
+msgid "Please select file first."
+msgstr "Selecteer eerst een bestand a.u.b."
+
+msgid "Import type"
+msgstr "Import type"
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "Input filename"
+msgstr "Invoer bestandsnaam"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Channel"
+msgstr "Kanaal"
+
+msgid "Interface"
+msgstr "Interface"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Gebruik binaire XML (WBXML)"
+
+msgid "Import"
+msgstr "Import"
+
+msgid "Nothing to import."
+msgstr "Niets om te importeren."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "contact toegevoegd"
+msgstr[1] "contacten toegevoegd"
+
+msgid "of"
+msgstr "van"
+
+msgid "Record"
+msgstr "Record"
+
+msgid "Number fields per record"
+msgstr "Aantal velden per record"
+
+msgid "Use first record as header"
+msgstr "Gebruik het eerste record veld als kop"
+
+msgid "Field type"
+msgstr "Veld type"
+
+msgid "Value"
+msgstr "Waarde"
+
+msgid "No records found in selected file."
+msgstr "Geen records gevonden in het geselecteerde bestand."
+
+msgid "Cannot read file."
+msgstr "Kan het bestand niet lezen."
+
+msgid "Cannot open file."
+msgstr "Kan het bestand niet openen."
+
+msgid "Selected contact will be removed."
+msgstr "Geselecteerde contact zal worden verwijderd."
+
+msgid "Select photo"
+msgstr "Selecteer foto"
+
+msgid "Postcode"
+msgstr "Postcode"
+
+msgid "City"
+msgstr "Plaats"
+
+msgid "State"
+msgstr "Provincie"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Add contact"
+msgstr "Contact toevoegen"
+
+msgid "Personal"
+msgstr "Persoonlijk"
+
+msgid "Phones"
+msgstr "Telefoons"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Kleur van contact markeringen"
+
+msgid "Color of links"
+msgstr "Kleur van links"
+
+msgid "Font size"
+msgstr "Lettertype grootte"
+
+msgid "Name font size"
+msgstr "Naam lettertype grootte"
+
+msgid "Item font size"
+msgstr "Item lettertype grootte"
+
+msgid "Photo size"
+msgstr "Foto grootte"
+
+msgid "Small"
+msgstr "Klein"
+
+msgid "Medium"
+msgstr "Middel"
+
+msgid "Large"
+msgstr "Groot"
+
+msgid "Select and show first item after search"
+msgstr "Selecteer en toon eerste item na zoeken"
+
+msgid "Hide group column"
+msgstr "Verberg groep kolom"
+
+msgid "Order"
+msgstr "Rang"
+
+msgid "Mode"
+msgstr "Manier"
+
+msgid "Ascending"
+msgstr "Aflopend"
+
+msgid "Descending"
+msgstr "Oplopend"
+
+msgid "Miscellaneous"
+msgstr "Overig"
+
+msgid "Groups"
+msgstr "Groepen"
+
+msgid "Sorting"
+msgstr "Sorteren"
+
+msgid "Visible columns in birthday browser"
+msgstr "Zichtbare kolommen in verjaardagen bladerer"
+
+msgid "Show calendar"
+msgstr "Laat kalender zien"
+
+msgid "Show tasks"
+msgstr "Laat taken zien"
+
+msgid "Show contacts"
+msgstr "Laat contacten zien"
+
+msgid "Show notes"
+msgstr "Laat notities zien"
+
+msgid "Show options"
+msgstr "Laat opties zien"
+
+msgid "Quit"
+msgstr "Afsluiten"
+
+msgid "Show small calendar window"
+msgstr "Laat klein kalender venster zien"
+
+msgid "Check for events since last run"
+msgstr "Controleer voor gebeurtenissen sinds de laatste run"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Aantal dagen in het voren controleren voor evenementen (standaard: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Zet absoluut pad voor instellingen en data bestanden"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Wijzig GUI om Osmo op een lage resolutie te gebruiken"
+
+msgid "handy personal organizer"
+msgstr "Een handige persoonlijke organizer"
+
+msgid "ERROR: Cannot create config files"
+msgstr "Fout: Kan configuratie bestanden niet maken"
+
+msgid "Another copy of OSMO is already running."
+msgstr "Een andere kopie van OSMO draait al."
+
+msgid "Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr "Gelijktijdig gebruik van twee of meer kopies van OSMO kan een oorzaak zijn van gegevens verlies."
+
+msgid "Do you really want to continue?"
+msgstr "Weet u zeker dat u door wilt gaan?"
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+msgid "The note has changed."
+msgstr "De notitie is veranderd."
+
+msgid "Do you want to save it?"
+msgstr "Wilt u het opslaan?"
+
+msgid "Words"
+msgstr "Woorden"
+
+msgid "Lines"
+msgstr "Regels"
+
+msgid "Characters"
+msgstr "Karakters"
+
+msgid "White characters"
+msgstr "Witte karakters"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Document"
+msgstr "Document"
+
+msgid "Selection"
+msgstr "Selectie"
+
+msgid "Created"
+msgstr "Gemaakt"
+
+msgid "Modified"
+msgstr "Gewijzigd"
+
+msgid "New note"
+msgstr "Nieuwe notitie"
+
+msgid "Add note"
+msgstr "Notitie toevoegen"
+
+msgid "Edit note"
+msgstr "Wijzig notitie"
+
+msgid "Delete note"
+msgstr "Verwijder notitie"
+
+msgid "Remove note"
+msgstr "Verwijder notitie"
+
+msgid "Find"
+msgstr "Zoek"
+
+msgid "Clear attributes"
+msgstr "Eigenschappen leegmaken"
+
+msgid "Save note"
+msgstr "Notitie opslaan"
+
+msgid "Insert current date and time"
+msgstr "Voeg huidige datum en tijd in"
+
+msgid "Insert separator"
+msgstr "Voeg scheiding in"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "Close editor"
+msgstr "Sluit editor"
+
+msgid "Toggle spell checker"
+msgstr "Wissel spellingscontrole"
+
+msgid "Category"
+msgstr "Categorie"
+
+msgid "Note name"
+msgstr "Notitie naam"
+
+msgid "Last changes"
+msgstr "Laatste wijzigingen"
+
+msgid "Read-only"
+msgstr "Alleen-lezen"
+
+msgid "Line"
+msgstr "Regel"
+
+msgid "Column"
+msgstr "Kolom"
+
+msgid "case sensitive"
+msgstr "hoofdletter gevoelig"
+
+msgid "Close find entry"
+msgstr "Sluit zoek item"
+
+msgid "Edit entry"
+msgstr "Wijzig item"
+
+msgid "Remember cursor position"
+msgstr "Onthoud cursor positie"
+
+msgid "Selected note will be removed."
+msgstr "Geselecteerde notitie zal worden verwijderd."
+
+msgid "No further data recovery will be possible."
+msgstr "Meer data herstel zal niet mogelijk zijn."
+
+msgid "Plain"
+msgstr "Eenvoudig"
+
+msgid "Encrypted"
+msgstr "Versleuteld"
+
+msgid "Note type"
+msgstr "Notitie type"
+
+msgid "Cannot open the note."
+msgstr "Kan de notitie niet openen."
+
+msgid "encryption support is disabled"
+msgstr "versleuteling ondersteuning staat uit"
+
+msgid "Authorization"
+msgstr "Machtiging"
+
+msgid "Algorithm"
+msgstr "Algoritme"
+
+msgid "Hashing"
+msgstr "Hashing"
+
+msgid "Compression"
+msgstr "Compressie"
+
+msgid "Ratio"
+msgstr "Verhouding"
+
+msgid "Fast"
+msgstr "Snel"
+
+msgid "Good"
+msgstr "Goed"
+
+msgid "Best"
+msgstr "Best"
+
+msgid "Remember the last selected category"
+msgstr "Herinner laatst geselecteerde categorie"
+
+msgid "Use system format for date and time"
+msgstr "Gebruik systeem weergave voor datum en tijd"
+
+msgid "Encryption"
+msgstr "Versleuteling"
+
+msgid "Visible columns"
+msgstr "Zichtbare kolomen"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Notes options"
+msgstr "Notitie opties"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr "Osmo moet nu opnieuw opgestart worden om zaken actief te maken."
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Vertical"
+msgstr "Verticaal"
+
+msgid "Horizontal"
+msgstr "Horizontaal"
+
+msgid "Tabs position"
+msgstr "Tabs positie"
+
+msgid "Left"
+msgstr "Links"
+
+msgid "Right"
+msgstr "Rechts"
+
+msgid "Top"
+msgstr "Boven"
+
+msgid "Bottom"
+msgstr "Onder"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Gebruik standaard ikonen (heeft herstart nodig)"
+
+msgid "Disable underline in links"
+msgstr "Zet onderstrepen in links uit"
+
+msgid "Draw rows in alternating colors"
+msgstr "Geef de afwisselende rijen verschillende kleuren"
+
+msgid "At least one module must be visible."
+msgstr "Minimaal een module moet zichtbaar zijn."
+
+msgid "Override locale settings"
+msgstr "Overschrijf taal instellingen"
+
+msgid "Date format"
+msgstr "Datum formaat"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-JJJJ"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-JJJJ"
+
+msgid "YYYY-MM-DD"
+msgstr "JJJJ-MM-DD"
+
+msgid "YYYY-DD-MM"
+msgstr "JJJJ-DD-MM"
+
+msgid "Time format"
+msgstr "Tijd formaat"
+
+msgid "hours"
+msgstr "uren"
+
+msgid "Spell checker language"
+msgstr "Spellingscontrole taal"
+
+msgid "Enable tooltips"
+msgstr "Zet zwevende tips aan"
+
+msgid "Remember last selected page"
+msgstr "Herinner laatst geselecteerde pagina"
+
+msgid "Save data after every modification"
+msgstr "Sla data op na elke wijziging"
+
+msgid "Web browser"
+msgstr "Web bladerprogramma"
+
+msgid "E-mail client"
+msgstr "E-mail programma"
+
+msgid "Sound player"
+msgstr "Geluidsspeler"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Het %s teken zal worden vervangen met het web adres"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Het %s teken zal worden vervangen met het e-mail adres"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Het %s teken zal worden vervangen met het geluidsbestand"
+
+msgid "Create"
+msgstr "Maken"
+
+msgid "Restore"
+msgstr "Herstellen"
+
+msgid "Enable system tray"
+msgstr "Gebruik systeem balk"
+
+msgid "Start minimised"
+msgstr "Start geminimalizeerd"
+
+msgid "Blink on events"
+msgstr "Knipper bij gebeurtenissen"
+
+msgid "Ignore day note events"
+msgstr "Negeer dag notitie gebeurtenissen"
+
+msgid "Hide"
+msgstr "Verberg"
+
+msgid "Helpers"
+msgstr "Helpers"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "System tray"
+msgstr "Systeem balk"
+
+msgid "Edit"
+msgstr "Wijzig"
+
+msgid "Go Down"
+msgstr "Ga naar beneden"
+
+msgid "Select date"
+msgstr "Selecteer datum"
+
+msgid "Select font"
+msgstr "Selecteer lettertype"
+
+msgid "Calculator"
+msgstr "Rekenmachine"
+
+msgid "Edit day note"
+msgstr "Wijzig dag notitie"
+
+msgid "Contact map location"
+msgstr "Kaart locatie van de contactpersoon"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Display full-year calendar"
+msgstr "Laat volledig-jaar kalender zien"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "Invalid item"
+msgstr "Ongeldig item"
+
+msgid "Valid item"
+msgstr "Geldig item"
+
+msgid "Edit task"
+msgstr "Wijzig taak"
+
+msgid "Remove task"
+msgstr "Verwijder taak"
+
+msgid "Import tasks"
+msgstr "Importeer taken"
+
+msgid "Export tasks"
+msgstr "Exporteer taken"
+
+msgid "Change to previous date"
+msgstr "Verander naar de vorige datum"
+
+msgid "Change to next date"
+msgstr "Verander naar de volgende datum"
+
+msgid "Print"
+msgstr "Printen"
+
+msgid "Normal"
+msgstr "Normaal"
+
+msgid "Recurrent"
+msgstr "Herhaaldelijk"
+
+msgid "Started"
+msgstr "Gestart"
+
+msgid "Finished"
+msgstr "Klaar"
+
+msgid "All items"
+msgstr "Alle items"
+
+msgid "New task"
+msgstr "Nieuwe taak"
+
+msgid "Change due date to previous date"
+msgstr "Verander de verwacht datum naar de vorige datum"
+
+msgid "Change due date to next date"
+msgstr "Verander de verwacht datum naar de volgende datum"
+
+msgid "Print visible tasks list"
+msgstr "Print zichtbare taken lijst"
+
+msgid "Due date"
+msgstr "Verval datum"
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+msgid "Task details"
+msgstr "Taak details"
+
+msgid "Close description panel"
+msgstr "Sluit beschrijvings paneel"
+
+msgid "No tasks with defined date found."
+msgstr "Geen taken met gegeven datum gevonden."
+
+msgid "Save tasks"
+msgstr "Taken opslaan"
+
+msgid "tasks exported"
+msgstr "taken geëxporteerd"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Selecteer minimaal een dag wanneer herhalingen aanstaan."
+
+msgid "Set time"
+msgstr "Stel tijd in"
+
+msgid "Tomorrow"
+msgstr "Morgen"
+
+msgid "Selected task will be removed."
+msgstr "Geselecteerde taak zal worden verwijderd."
+
+msgid "Basic"
+msgstr "Basis"
+
+msgid "Select date and time"
+msgstr "Selecteer datum en tijd"
+
+msgid "Low"
+msgstr "Laag"
+
+msgid "High"
+msgstr "Hoog"
+
+msgid "Enable sound notification"
+msgstr "Zet geluidsmededelingen aan"
+
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+msgid "Alarm warning"
+msgstr "Alarm waarschuwing"
+
+msgid "Postpone time"
+msgstr "Uitstel tijd"
+
+msgid "Alarm command"
+msgstr "Alarm commando"
+
+msgid "Recurrent task"
+msgstr "herhaaldelijke taak"
+
+msgid "Enable"
+msgstr "Zet aan"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "End"
+msgstr "Eind"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Time period"
+msgstr "Tijds periode"
+
+msgid "Date period"
+msgstr "Datum periode"
+
+msgid "Repeat"
+msgstr "Herhaal"
+
+msgid "Repeat in the following days"
+msgstr "Herhaal op de volgende dagen"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Negeer alarm wanneer de taak offline verliep"
+
+msgid "Select a font..."
+msgstr "Selecteer een lettertype..."
+
+msgid "Color of items that are due today"
+msgstr "Kleur van dingen die vandaag verwacht worden"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Kleur van dingen die de komende 7 dagen verwacht worden"
+
+msgid "Color of items that are past due"
+msgstr "Kleur van dingen die zijn vervallen"
+
+msgid "Task info font"
+msgstr "Taak informatie lettertype"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Laat in vet taken met hoge prioriteit zien"
+
+msgid "Hide completed tasks"
+msgstr "Verberg taken die gedaan zijn"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Verwijder taken die gedaan zijn zonder bevestiging"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Voeg een nieuwe taak toe wanneer er dubbel wordt geklikt op de taken lijst"
+
+msgid "minutes"
+msgstr "minuten"
+
+msgid "0 for disable"
+msgstr "0 voor uitschakelen"
+
+msgid "Repeat sound alarm"
+msgstr "Herhaal geluids alarm"
+
+msgid "times"
+msgstr "tijden"
+
+msgid "Global notification command"
+msgstr "Globale mededeling commando"
+
+msgid "Tasks options"
+msgstr "Taak opties"
+
+msgid "Reminder options"
+msgstr "Herinnering opties"
+
+msgid "Tasks list"
+msgstr "Taken lijst"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "No."
+
+msgid "New Moon"
+msgstr "Nieuwe maan"
+
+msgid "Waxing Crescent Moon"
+msgstr "Wassende maan"
+
+msgid "Quarter Moon"
+msgstr "Halve maan"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Wassende maan"
+
+msgid "Full Moon"
+msgstr "Volle maan"
+
+msgid "Waning Gibbous Moon"
+msgstr "Afnemende maan"
+
+msgid "Last Quarter Moon"
+msgstr "Laatste kwartier"
+
+msgid "Waning Crescent Moon"
+msgstr "Afnemende maan"
+
+msgid "Question"
+msgstr "Vraag"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Geselecteerde bestand bestaat! Overschrijven?"
+
+#~ msgid "Editor font"
+#~ msgstr "Editor lettertype"
+
+#~ msgid "Category filter"
+#~ msgstr "Categorie filter"
+
+#~ msgid "ICal"
+#~ msgstr "ICal"
+
+#~ msgid "Modify color"
+#~ msgstr "Verander kleur"
+
+#~ msgid "Inactive recurrent"
+#~ msgstr "Inactieve herhaling"
+
+#~ msgid "change day while note editing"
+#~ msgstr "verander dag tijdens het wijzigen van notitie"
+
+#~ msgid "close day note panel"
+#~ msgstr "sluit dag notitie paneel"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "markeer selectie met vet"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "markeer selectie met schuingedrukt"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "markeer selectie in achtergrond kleur"
+
+#~ msgid "underline selection"
+#~ msgstr "onderstreep selectie"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "selectie doorstrepen"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "een handige persoonlijke organizer"
+
+#~ msgid "Use year"
+#~ msgstr "Gebruik jaar"
+
+#~ msgid "Birthday found"
+#~ msgstr "Verjaardag gevonden"
+
+#~ msgid "Task found"
+#~ msgstr "Taak gevonden"
+
+#~ msgid "Day note available"
+#~ msgstr "Dag notitie beschikbaar"

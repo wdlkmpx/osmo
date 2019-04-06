@@ -1,0 +1,4 @@
+osmo.vim        Osmo syntax for VIM editor
+w2o.pl          Perl script to convert the wammu files to .csv
+osmo.nsi        NSIS script to build the MS-Windows installer of Osmo
+

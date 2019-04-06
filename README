@@ -1,0 +1,99 @@
+
+-----------------------------------------------------------------------------
+-----                  O S M O (handy personal organizer)               -----
+-----                                                                   -----
+-----                           version 0.2.10                          -----
+-----------------------------------------------------------------------------
+
+-----> WHAT ?
+
+Osmo is a handy personal organizer, which includes calendar, tasks manager, 
+address book and notes modules. It was designed to be a small, easy to use and good 
+looking PIM tool to help to manage personal information. In its current state the 
+organizer is quite convenient to use - for example, the user can perform nearly all
+operations using the keyboard. Also, a lot of parameters are configurable to meet 
+the user's preferences. On the technical side, Osmo is GTK+ based tool which uses
+a plain XML database to store all personal data.
+
+Currently, Osmo has the following features:
+
+    * General:
+          o compact interface
+          o configurable GUI layout (horizontal/vertical)
+          o encrypted private data backup
+    * Calendar:
+          o day notes with text attributes (italic, bold, underline, etc.)
+          o date calculator
+          o built-in full year calendar
+          o compact mode 
+          o auxiliary calendars for next and previous month
+          o basic iCalendar support (import/export)
+          o integration with Tasks and Contacts modules
+    * Tasks:
+          o advanced reminder
+          o alarm actions per task (commands, sounds, etc.)
+          o tasks list printing
+          o category filter
+          o due date modification on the fly
+          o basic iCalendar support (export)
+          o date dependent task coloring
+    * Contacts:
+          o robust search functionality
+          o birthdays browser
+          o addresses location on the map using Google Maps
+          o basic import/export filters (csv, xhtml)
+    * Notes:
+          o handy notes selector
+          o category filter
+          o optional encryption using user-defined password
+          o text attributes (italic, bold, underline, etc.)
+
+
+-----> WHERE ?
+
+Homepage: http://clayo.org/osmo
+
+
+-----> WHO ?
+
+Programming:
+     Tomasz Maka <pasp@users.sourceforge.net>
+     Piotr Maka <silloz@users.sourceforge.net>
+
+Graphics:
+     Maja Kocon (http://pinky-babble.org)
+
+Contributors:
+     Markus Dahms <mad@automagically.de>  
+     Nacho Alonso González <nacho.alonso.gonzalez@gmail.com>
+
+-----> DEPENDENCIES ?
+
+Required packages:
+
+    * GTK+ - The GIMP Toolkit library, version >= 2.12
+    * LibXML 2 library 
+
+Optional packages:
+
+    * Libnotify library, version >= 0.4.4
+    * Libgtkhtml2 library, version >= 2.2.0
+    * Libical library, version >= 0.33
+    * Libtar library, version >= 1.2.10
+    * Libgringotts library, version >= 1.2.1 
+    * Libsyncml library, version >= 0.4.0
+
+
+-----> FEEDBACK ?
+
+Please subscribe to our osmo-pim-friends mailing list here:
+
+https://lists.sourceforge.net/lists/listinfo/osmo-pim-friends
+
+Also, please use following trackers to help us to improve the Osmo:
+
+Bugs - https://sourceforge.net/tracker/?group_id=206587&atid=998196
+Feature requests - https://sourceforge.net/tracker/?group_id=206587&atid=998199
+
+Any suggestions, patches, criticism are kindly welcome.
+

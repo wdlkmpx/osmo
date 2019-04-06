@@ -1,0 +1,2275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo svn version 664\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2009-01-23 02:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Close"
+msgstr "Stäng"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "växla till föregående flik"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "växla till nästa flik"
+
+msgid "switch to selected page"
+msgstr "växla till markerad sida"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Visa alternativ"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr ""
+
+msgid "exit"
+msgstr "avsluta"
+
+#, fuzzy
+msgid "Space"
+msgstr "Spara"
+
+msgid "select current date"
+msgstr "välj aktuellt datum"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr "växla synlighet för personliga data"
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Pil"
+
+msgid "change day"
+msgstr "byt dag"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "rulla innehållet i panelen för information om dag"
+
+msgid "change month"
+msgstr "byt månad"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Hem"
+
+msgid "change year"
+msgstr "byt år"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "växla kalendarier för den föregående månaden och nästa månad"
+
+msgid "day notes browser"
+msgstr "daganteckningsbläddrare"
+
+msgid "assign background color to day note"
+msgstr "överlåt bakgrundsfärg till daganteckning"
+
+msgid "date calculator"
+msgstr "datumberäknare"
+
+msgid "show full-year calendar"
+msgstr "visa helårskalender"
+
+msgid "jump to date"
+msgstr "hoppa till datum"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Radera anteckning"
+
+msgid "remove day note"
+msgstr "ta bort daganteckning"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Pil"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "close editor"
+msgstr "Stäng redigerare"
+
+msgid "toggle bold"
+msgstr ""
+
+#, fuzzy
+msgid "toggle italic"
+msgstr "växla dolda uppgifter"
+
+#, fuzzy
+msgid "toggle underline"
+msgstr "Understreck"
+
+#, fuzzy
+msgid "toggle strikethrough"
+msgstr "Genomstrykning"
+
+#, fuzzy
+msgid "toggle highlight"
+msgstr "Färgmarkera"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+#, fuzzy
+msgid "toggle alternative view"
+msgstr "Alternativ vy"
+
+#, fuzzy
+msgid "year info"
+msgstr "Information om år"
+
+#, fuzzy
+msgid "set current year"
+msgstr "Aktuellt år"
+
+#, fuzzy
+msgid "close full-year calendar"
+msgstr "visa helårskalender"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Infoga"
+
+msgid "add task"
+msgstr "lägg till uppgift"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "redigera uppgift"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "ta bort uppgift"
+
+msgid "toggle hidden tasks"
+msgstr "växla dolda uppgifter"
+
+msgid "activate search field"
+msgstr "aktivera sökfält"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Höger"
+
+msgid "change category filter"
+msgstr "byt kategorifilter"
+
+msgid "close task info panel"
+msgstr "stäng panel för uppgiftsinformation"
+
+msgid "Insert"
+msgstr "Infoga"
+
+msgid "add contact"
+msgstr "lägg till kontakt"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "redigera kontakt"
+
+msgid "remove contact"
+msgstr "ta bort kontakt"
+
+msgid "change search mode"
+msgstr "byt sökläge"
+
+msgid "close contact details panel"
+msgstr "stäng panelen för kontaktdetaljer"
+
+#, fuzzy
+msgid "Enter"
+msgstr "Internet"
+
+msgid "open note"
+msgstr "öppna anteckning"
+
+msgid "add note"
+msgstr "lägg till anteckning"
+
+msgid "remove note"
+msgstr "ta bort anteckning"
+
+msgid "edit note name and category"
+msgstr "redigera namn och kategori"
+
+msgid "close note editor"
+msgstr "stäng anteckningsredigerare"
+
+msgid "save note"
+msgstr "spara anteckning"
+
+msgid "find text"
+msgstr "hitta nästa"
+
+msgid "clear selection attributes"
+msgstr ""
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO utformades med användarens bekvämlighet i åtanke, så det finns många "
+"snabbtangenter. Här är hela listan:"
+
+msgid "General"
+msgstr "Allmänt"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+#, fuzzy
+msgid "Note editor"
+msgstr "Stäng redigerare"
+
+msgid "Full-year calendar"
+msgstr "Helårskalender"
+
+msgid "Tasks"
+msgstr "Uppgifter"
+
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgid "Notes"
+msgstr "Anteckningar"
+
+msgid "Selector"
+msgstr ""
+
+msgid "Editor"
+msgstr "Redigerare"
+
+msgid "A handy personal organizer"
+msgstr "En praktisk dagplanerare"
+
+msgid "compiled on"
+msgstr "kompilerat"
+
+msgid "Programming"
+msgstr "Programmering"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Contributors"
+msgstr "Medarbetare"
+
+msgid "Translators"
+msgstr "Översättare"
+
+msgid "Mailing lists"
+msgstr ""
+
+msgid "Bug tracker"
+msgstr ""
+
+msgid "Feature requests"
+msgstr ""
+
+msgid "Available modules"
+msgstr "Tillgängliga moduler"
+
+msgid "Compiled-in features"
+msgstr "Kompilerat med följande funktioner"
+
+msgid "iCalendar support"
+msgstr "Stöd för iCalendar"
+
+msgid "Encrypted notes support"
+msgstr "Stöd för krypterade anteckningar"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "Stöd för SyncML-aktiverad enhet"
+
+msgid "Backup support"
+msgstr ""
+
+msgid "Printing support"
+msgstr "Stöd för utskrivning"
+
+msgid "Spell checker support"
+msgstr "Stöd för stavningskontrollerare"
+
+msgid "version"
+msgstr "Version"
+
+msgid "SVN revision"
+msgstr "SVN-version"
+
+msgid "Key shortcuts"
+msgstr "Snabbtangenter"
+
+msgid "License"
+msgstr "Licens"
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Password protection"
+msgstr ""
+
+msgid "Enter password"
+msgstr "Skriv in lösenord"
+
+msgid "Re-enter password"
+msgstr "Skriv in lösenordet igen"
+
+#, fuzzy
+msgid "Please enter the password"
+msgstr "Skriv in lösenordet igen"
+
+msgid "Passwords do not match!"
+msgstr "Lösenord stämmer inte!"
+
+#, fuzzy
+msgid "Cannot create backup!"
+msgstr "Kan inte skapa fil."
+
+msgid "Backup file saved successfully!"
+msgstr ""
+
+msgid "Open backup file"
+msgstr ""
+
+msgid "Osmo backup files (*.bck)"
+msgstr ""
+
+msgid "This is not Osmo backup file"
+msgstr ""
+
+msgid "Incorrect password!"
+msgstr "Fel lösenord!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr "Är du säker?"
+
+msgid "Osmo has to be restarted now..."
+msgstr ""
+
+msgid "was born"
+msgstr "föddes"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "år gammal"
+msgstr[1] "år gammal"
+
+msgid "Current time"
+msgstr "Aktuell tid"
+
+msgid "Day number"
+msgstr "Dagnummer"
+
+msgid "Today distance"
+msgstr ""
+
+msgid "Week number"
+msgstr "Veckonummer"
+
+msgid "Marked days"
+msgstr "Märkta dagar"
+
+msgid "Weekend days"
+msgstr "Helgdagar"
+
+msgid "Day category"
+msgstr "Dagkategori"
+
+msgid "Moon phase"
+msgstr "Månfas"
+
+msgid "Zodiac sign"
+msgstr "Stjärntecken"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "dag kvar till årets slut"
+msgstr[1] "dagar kvar till årets slut"
+
+msgid "the last day of the year"
+msgstr "Årets sista dag"
+
+msgid "Day notes"
+msgstr "Daganteckningar"
+
+msgid "Day tasks"
+msgstr "Daguppgifter"
+
+msgid "Birthday"
+msgstr "Födelsedag"
+
+msgid "Selected day note will be removed."
+msgstr "Markerad "
+
+msgid "Continue?"
+msgstr "Fortsätt?"
+
+msgid "Previous year"
+msgstr "Föregående år"
+
+msgid "Previous month"
+msgstr "Föregående månad"
+
+msgid "Previous day"
+msgstr "Föregående dag"
+
+msgid "Today"
+msgstr "Idag"
+
+msgid "Next day"
+msgstr "Nästa dag"
+
+msgid "Next month"
+msgstr "Nästa månad"
+
+msgid "Next year"
+msgstr "Nästa år"
+
+msgid "Jump to date"
+msgstr "Hoppa till datum"
+
+msgid "Print calendar"
+msgstr "Skriv ut kalender"
+
+msgid "Date calculator"
+msgstr "Datumberäknare"
+
+msgid "Preferences"
+msgstr "Inställningar"
+
+msgid "Toggle day note panel"
+msgstr "Växla panel för daganteckning"
+
+msgid "Add task"
+msgstr "Lägg till uppgift"
+
+msgid "Select day color"
+msgstr "Välj dagfärg"
+
+msgid "Browse notes"
+msgstr "Bläddra bland anteckningar"
+
+msgid "Browse iCal events"
+msgstr "Bläddra bland iCal-händelser"
+
+msgid "Export to iCal file"
+msgstr "Exportera till iCal-fil"
+
+msgid "Previous and next month"
+msgstr "Föregående och nästa månad"
+
+msgid "Close note panel"
+msgstr "Stäng anteckningspanel"
+
+msgid "Highlight"
+msgstr "Färgmarkera"
+
+msgid "Strikethrough"
+msgstr "Genomstrykning"
+
+msgid "Underline"
+msgstr "Understreck"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Bold"
+msgstr "Fetstil"
+
+msgid "Insert timeline"
+msgstr "Infoga tidslinje"
+
+msgid "Clear text"
+msgstr "Rensa text"
+
+msgid "Info"
+msgstr "Information"
+
+msgid "Select color"
+msgstr "Välj färg"
+
+msgid "None"
+msgstr "Inget"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "år"
+msgstr[1] "år"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "månad"
+msgstr[1] "månader"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+msgstr[1] "dagar"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "timme"
+msgstr[1] "timmar"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minut"
+msgstr[1] "minuter"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekund"
+msgstr[1] "sekunder"
+
+msgid "or"
+msgstr "eller"
+
+msgid "rounded down"
+msgstr "avrundat nedåt"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "vecka"
+msgstr[1] "veckor"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "time is ignored"
+msgstr ""
+
+#, fuzzy
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Helgdagar"
+msgstr[1] "Helgdagar"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Denna beräknare stöder bara datum efter år ett."
+
+#, fuzzy
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Färg för helgdagar"
+msgstr[1] "Färg för helgdagar"
+
+msgid "Year"
+msgstr "År"
+
+msgid "Month"
+msgstr "Månad"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Current date"
+msgstr "Aktuellt datum"
+
+msgid "Set current date"
+msgstr "Ställ in aktuellt datum"
+
+msgid "Hour"
+msgstr "Timme"
+
+msgid "Minute"
+msgstr "Minut"
+
+msgid "Second"
+msgstr "Sekund"
+
+msgid "Set current time"
+msgstr "Ställ in aktuell tid"
+
+msgid "Reset time"
+msgstr "Ställ om tid"
+
+msgid "First date and time"
+msgstr "Första datum och tid"
+
+msgid "Second date and time"
+msgstr "Andra datum och tid"
+
+msgid "Alternative time units"
+msgstr "Alternativa tidsenheter"
+
+msgid "Result"
+msgstr "Resultat"
+
+msgid "Duration between two dates"
+msgstr "Varaktighet mellan två datum"
+
+msgid "Operation"
+msgstr "Åtgärd"
+
+msgid "add"
+msgstr "lägg till"
+
+msgid "subtract"
+msgstr "dra ifrån"
+
+msgid "Date and time to add or subtract from"
+msgstr "Datum och tid att lägga till eller dra ifrån från"
+
+msgid "Years"
+msgstr "År"
+
+msgid "Months"
+msgstr "Månader"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Weeks"
+msgstr "Veckor"
+
+msgid "Hours"
+msgstr "Timmar"
+
+msgid "Minutes"
+msgstr "Minuter"
+
+msgid "Seconds"
+msgstr "Sekunder"
+
+#, fuzzy
+msgid "Ignore weekend days"
+msgstr "Helgdagar"
+
+msgid "Reset fields"
+msgstr "Ställ om fält"
+
+msgid "Time to add or subtract"
+msgstr "Tid att lägga till eller dra ifrån"
+
+msgid "Jump to"
+msgstr "Hoppa till"
+
+msgid "Add to or subtract from a date"
+msgstr "Lägg till eller dra ifrån från ett datum "
+
+msgid "Leap year"
+msgstr "Skottår"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "Chinese year animal"
+msgstr "Kinesiska kalenderårets djur"
+
+msgid "Number of days"
+msgstr "Antal dagar"
+
+msgid "Number of weeks"
+msgstr "Antal veckor"
+
+msgid "Number of weekend days"
+msgstr "Antal helgdagar"
+
+msgid "Year info"
+msgstr "Information om år"
+
+msgid "Current year"
+msgstr "Aktuellt år"
+
+msgid "Alternative view"
+msgstr "Alternativ vy"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "händelse"
+msgstr[1] "händelser"
+
+#, fuzzy
+msgid "No valid calendars defined"
+msgstr "Inga kalendarier angivna"
+
+msgid "iCalendar events"
+msgstr "iCalendar-händelser"
+
+msgid "Date"
+msgstr "Datum"
+
+#, fuzzy
+msgid "Time"
+msgstr "Tidslinje"
+
+msgid "Summary"
+msgstr "Summering"
+
+msgid "Select output file"
+msgstr "Markera utdatafil"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Listan kommer att tömmas och alla poster kommer att gå förlorade."
+
+msgid "Done!"
+msgstr "Klart!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "händelse exporterad"
+msgstr[1] "händelser exporterade"
+
+msgid "iCalendar export"
+msgstr "iCalendar-exportering"
+
+msgid "Day Selector"
+msgstr "Dagväljare"
+
+msgid "Use date period"
+msgstr "Använd datumperiod"
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "Clear"
+msgstr "Töm"
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Output filename"
+msgstr "Filnamn för utdata"
+
+msgid "Browse"
+msgstr "Bläddra"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Export"
+msgstr "Exportera"
+
+msgid "no entries"
+msgstr "inga poster"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "post"
+msgstr[1] "poster"
+
+msgid "Calendar notes"
+msgstr "Kalenderanteckningar"
+
+msgid "Search"
+msgstr "Sök"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Current month"
+msgstr "Aktuell månad"
+
+msgid "Selected month"
+msgstr "Vald månad"
+
+msgid "Selected year"
+msgstr "Valt år"
+
+msgid "Selected month and year"
+msgstr "Vald månad och år"
+
+msgid "All notes"
+msgstr "Alla anteckningar"
+
+msgid "Case sensitive"
+msgstr "Skiftlägeskänslig"
+
+msgid "Strikethrough past day notes"
+msgstr "Genomstryk föregående dags anteckningar"
+
+msgid "Note"
+msgstr "Anteckning"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Månadens namn"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "MM-DD-ÅÅÅÅ"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Datumformat"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Utdataformat"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Datumformat"
+
+msgid "Day note marker"
+msgstr ""
+
+msgid "Event marker"
+msgstr ""
+
+msgid "Circle"
+msgstr "Cirkel"
+
+msgid "Ellipse"
+msgstr "Ellips"
+
+msgid "Wave"
+msgstr "Våg"
+
+msgid "Current day marker"
+msgstr ""
+
+msgid "Arrow"
+msgstr "Pil"
+
+msgid "Free-hand circle"
+msgstr ""
+
+msgid "Colors"
+msgstr "Färger"
+
+msgid "Header color"
+msgstr "Rubrikfärg"
+
+msgid "Weekend days color"
+msgstr "Färg för helgdagar"
+
+msgid "Cursor color"
+msgstr "Markörfärg"
+
+msgid "Event marker color"
+msgstr "Färg för händelsemarkör"
+
+msgid "Current day marker color"
+msgstr ""
+
+#, fuzzy
+msgid "Birthday marker color"
+msgstr "Färg för händelsemarkör"
+
+msgid "Date font"
+msgstr "Typsnitt för datum"
+
+msgid "Calendar font"
+msgstr "Typsnitt för kalender"
+
+msgid "Note font"
+msgstr "Typsnitt för anteckning"
+
+msgid "Enable block cursor"
+msgstr ""
+
+msgid "Cursor thickness"
+msgstr "Markörtjockhet"
+
+msgid "Thin"
+msgstr "Tunn"
+
+msgid "Thick"
+msgstr "Tjock"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Dagkategori"
+
+msgid "Color"
+msgstr "Färg"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Markera ICS-fil"
+
+msgid "All Files"
+msgstr "Alla filer"
+
+msgid "Calendar files (*.ics)"
+msgstr "Kalendarierfiler (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Modifiera ICAL-parametrar"
+
+msgid "Filename"
+msgstr "Filnamn"
+
+msgid "Options"
+msgstr "Alternativ"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Giltig"
+
+msgid "Description"
+msgstr "Beskrivning"
+
+#, fuzzy
+msgid "Full date"
+msgstr "Förfallodag"
+
+msgid "Mark"
+msgstr ""
+
+msgid "Week start on Monday"
+msgstr "Veckan börjar på måndag"
+
+msgid "Show day names"
+msgstr "Visa namnsdagar"
+
+msgid "No month change"
+msgstr "Inget månadsbyte"
+
+msgid "Show week numbers"
+msgstr "Visa veckonummer"
+
+msgid "Simple view in full-year calendar"
+msgstr "Enkel vy i helårskalender"
+
+msgid "Enable auxilary calendars"
+msgstr ""
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Uppåtgående ordning i bläddrare för daganteckningar"
+
+msgid "Enable spell checker in day notes"
+msgstr "Aktivera stavninskontrollerare i daganteckningar"
+
+msgid "Appearance"
+msgstr "Utseende"
+
+msgid "Day categories"
+msgstr "Dagkategorier"
+
+msgid "iCalendar files"
+msgstr "iCalendar-filer"
+
+msgid "Show in day info panel"
+msgstr ""
+
+msgid "Name day"
+msgstr "Namnsdag"
+
+msgid "Error printing"
+msgstr "Felutskrivning"
+
+msgid "Printing properties"
+msgstr "Egenskaper för utskrivning"
+
+msgid "Month name"
+msgstr "Månadens namn"
+
+msgid "Day name"
+msgstr "Dagens namn"
+
+msgid "Events"
+msgstr "Händelser"
+
+msgid "Fonts"
+msgstr "Typsnitt"
+
+msgid "Birthdays"
+msgstr "Födelsedagar"
+
+msgid "Namedays"
+msgstr "Namnsdagar"
+
+msgid "Visible events"
+msgstr "Synliga händelser"
+
+msgid "Padding"
+msgstr ""
+
+msgid "Event maximum length"
+msgstr ""
+
+msgid "Page orientation:"
+msgstr "Sidorientering:"
+
+msgid "Portrait"
+msgstr "Porträtt"
+
+msgid "Landscape"
+msgstr "Landskap"
+
+msgid "Timeline"
+msgstr "Tidslinje"
+
+msgid "From (hour)"
+msgstr "Från (timme)"
+
+msgid "Step (minutes)"
+msgstr "Step (minuter)"
+
+msgid "To (hour)"
+msgstr "Till (timme)"
+
+msgid "No date"
+msgstr "Inget datum"
+
+msgid "Rat"
+msgstr "Råtta"
+
+msgid "Ox"
+msgstr "Oxe"
+
+msgid "Tiger"
+msgstr "Tiger"
+
+msgid "Hare"
+msgstr "Hare"
+
+msgid "Dragon"
+msgstr "Drake"
+
+msgid "Snake"
+msgstr "Orm"
+
+msgid "Horse"
+msgstr "Häst"
+
+msgid "Sheep"
+msgstr "Får"
+
+msgid "Monkey"
+msgstr "Apa"
+
+msgid "Fowl"
+msgstr "Höna"
+
+msgid "Dog"
+msgstr "Hund"
+
+msgid "Pig"
+msgstr "Gris"
+
+msgid "Unknown"
+msgstr "Okänt"
+
+msgid "Aquarius"
+msgstr "Vattuman"
+
+msgid "Pisces"
+msgstr "Fisk"
+
+msgid "Aries"
+msgstr "Vädur"
+
+msgid "Taurus"
+msgstr "Oxe"
+
+msgid "Gemini"
+msgstr "Tvilling"
+
+msgid "Cancer"
+msgstr "Kräfta"
+
+msgid "Leo"
+msgstr "Lejon"
+
+msgid "Virgo"
+msgstr "Jungfru"
+
+msgid "Libra"
+msgstr "Våg"
+
+msgid "Scorpio"
+msgstr "Scorpion"
+
+msgid "Sagittarius"
+msgstr "Skytt"
+
+msgid "Capricorn"
+msgstr "Stenbock"
+
+msgid "Cannot perform selected operation."
+msgstr "Kan inte utföra vald åtgärd."
+
+msgid "Task has been modified or removed."
+msgstr "Uppgiften har modifierats eller tagits bort."
+
+msgid "Remind me later"
+msgstr "Påminn mig senare"
+
+msgid "Done"
+msgstr "Klar"
+
+msgid "postponed"
+msgstr "Uppskjuten"
+
+msgid "Show task"
+msgstr "Visa uppgift"
+
+msgid "Alarm warning!"
+msgstr "Alarmvarning!"
+
+msgid "Day note"
+msgstr "Daganteckning"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Event"
+msgstr "Händelse"
+
+msgid "Task"
+msgstr "Uppgift"
+
+msgid "Show Osmo"
+msgstr "Visa Osmo"
+
+msgid "No birthdays defined"
+msgstr "Inga födelsedagar angivna"
+
+msgid "Birthdays list"
+msgstr "Födelsedagslista"
+
+msgid "Days to birthday"
+msgstr "Dagar kvar till födelsedag"
+
+msgid "Age"
+msgstr "Ålder"
+
+msgid "Birthday date"
+msgstr "Födelsedagsdatum"
+
+msgid "today"
+msgstr "idag"
+
+#, fuzzy
+msgid "Please select address"
+msgstr "Var god markera fil först."
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Work"
+msgstr "Arbete"
+
+msgid "Home"
+msgstr "Hem"
+
+msgid "Group"
+msgstr "Grupp"
+
+msgid "First name"
+msgstr "Förnamn"
+
+msgid "Last name"
+msgstr "Efternamn"
+
+msgid "Second name"
+msgstr "Mellannamn"
+
+msgid "Nickname"
+msgstr "Smeknamn"
+
+msgid "Tags"
+msgstr "Taggar"
+
+msgid "Name day date"
+msgstr "Namnsdagsdatum"
+
+msgid "Home address"
+msgstr "Hemadress"
+
+msgid "Home postcode"
+msgstr "Postnummer för hem"
+
+msgid "Home city"
+msgstr "Hemstad"
+
+msgid "Home state"
+msgstr "Hemkommun/hemstat"
+
+msgid "Home country"
+msgstr "Hemland"
+
+msgid "Organization"
+msgstr "Organisation"
+
+msgid "Department"
+msgstr "Avdelning"
+
+msgid "Work address"
+msgstr "Arbetsplatsadress"
+
+msgid "Work postcode"
+msgstr "Postnummer för arbetsplats"
+
+msgid "Work city"
+msgstr "Arbetsstad"
+
+msgid "Work state"
+msgstr "Arbetskommun/arbetsstat"
+
+msgid "Work country"
+msgstr "Arbetsland"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Hemtelefon "
+
+msgid "Home phone 2"
+msgstr "Hemtelefon 2"
+
+msgid "Home phone 3"
+msgstr "Hemtelefon 3"
+
+msgid "Home phone 4"
+msgstr "Hemtelefon 4"
+
+msgid "Work phone"
+msgstr "Arbetstelefon"
+
+msgid "Work phone 2"
+msgstr "Arbetstelefon 2"
+
+msgid "Work phone 3"
+msgstr "Arbetstelefon 3"
+
+msgid "Work phone 4"
+msgstr "Arbetstelefon 4"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Cell phone 2"
+msgstr "Mobiltelefon 2"
+
+msgid "Cell phone 3"
+msgstr "Mobiltelefon 3"
+
+msgid "Cell phone 4"
+msgstr "Mobiltelefon 4"
+
+msgid "E-Mail"
+msgstr "E-postadress"
+
+msgid "E-Mail 2"
+msgstr "E-postadress 2"
+
+msgid "E-Mail 3"
+msgstr "E-postadress 3"
+
+msgid "E-Mail 4"
+msgstr "E-postadress 4"
+
+msgid "WWW"
+msgstr "Webbsida"
+
+msgid "WWW 2"
+msgstr "Webbsida 2"
+
+msgid "WWW 3"
+msgstr "Webbsida 3"
+
+msgid "WWW 4"
+msgstr "Webbsida 4"
+
+msgid "IM Gadu-Gadu"
+msgstr ""
+
+msgid "IM Yahoo"
+msgstr ""
+
+msgid "IM MSN"
+msgstr ""
+
+msgid "IM ICQ"
+msgstr ""
+
+msgid "IM AOL"
+msgstr ""
+
+msgid "IM Jabber"
+msgstr ""
+
+msgid "IM Skype"
+msgstr ""
+
+msgid "IM Tlen"
+msgstr ""
+
+msgid "Blog"
+msgstr "Blogg"
+
+msgid "Photo"
+msgstr "Fotografi"
+
+msgid "Additional info"
+msgstr "Kompletterande information"
+
+msgid "New contact"
+msgstr "Ny kontakt"
+
+msgid "Remove contact"
+msgstr "Ta bort kontakt"
+
+msgid "Edit contact"
+msgstr "Redigera kontakt"
+
+msgid "Show birthdays"
+msgstr "Visa födelsedagar"
+
+msgid "Show contact location on the map"
+msgstr ""
+
+msgid "Import contacts"
+msgstr "Importera kontakter"
+
+msgid "Export contacts"
+msgstr "Exportera kontakter"
+
+msgid "First Name"
+msgstr "Förnamn"
+
+msgid "Last Name"
+msgstr "Efternamn"
+
+msgid "All fields"
+msgstr "Alla fält"
+
+msgid "Contact details"
+msgstr "Kontaktdetaljer"
+
+msgid "Close contact panel"
+msgstr "Stäng kontaktpanel"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "kontakt exporterad"
+msgstr[1] "kontakter exporterade"
+
+msgid "Cannot create file."
+msgstr "Kan inte skapa fil."
+
+msgid "Output format"
+msgstr "Utdataformat"
+
+msgid "Add header"
+msgstr "Lägg till rubrik"
+
+msgid "Fields to export"
+msgstr "Fält att exportera"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Invert"
+msgstr "Invertera"
+
+msgid "Select fields"
+msgstr "Markera fält"
+
+msgid "Select CSV file"
+msgstr "Markera CSV-fil"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (comma-separated values)-filer (*.csv)"
+
+msgid "Please select file first."
+msgstr "Var god markera fil först."
+
+msgid "Import type"
+msgstr "Importtyp"
+
+msgid "File"
+msgstr "Filnamn"
+
+msgid "Input filename"
+msgstr "Infoga filnamn"
+
+msgid "Address"
+msgstr "Adress"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Interface"
+msgstr "Gränssnitt"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Använd binär XML (WBXML)"
+
+msgid "Import"
+msgstr "Importera"
+
+msgid "Nothing to import."
+msgstr "Inget att importera."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "kontakt tillagd"
+msgstr[1] "kontakter tillagda"
+
+msgid "of"
+msgstr ""
+
+msgid "Record"
+msgstr "Post"
+
+msgid "Number fields per record"
+msgstr "Nummerfält per post"
+
+msgid "Use first record as header"
+msgstr "Använd första posten som rubrik"
+
+msgid "Field type"
+msgstr "Fälttyp"
+
+msgid "Value"
+msgstr "Värde"
+
+msgid "No records found in selected file."
+msgstr "Inga poster hittades i markerad fil."
+
+msgid "Cannot read file."
+msgstr "Kan inte läsa in fil."
+
+msgid "Cannot open file."
+msgstr "Kan inte öppna fil"
+
+msgid "Selected contact will be removed."
+msgstr "Markerad kontakt kommer att tas bort."
+
+msgid "Select photo"
+msgstr "Välj fotografi"
+
+msgid "Postcode"
+msgstr "Postnummer"
+
+msgid "City"
+msgstr "Stad"
+
+msgid "State"
+msgstr "Kommun"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Add contact"
+msgstr "Lägg till kontakt"
+
+msgid "Personal"
+msgstr "Personligt"
+
+msgid "Phones"
+msgstr "Telefoner"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Kontakttaggarnas färg"
+
+msgid "Color of links"
+msgstr "Länkarnas färg"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Fotografistorlek"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Typsnitt för namn"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Typsnitt för objekt"
+
+msgid "Photo size"
+msgstr "Fotografistorlek"
+
+msgid "Small"
+msgstr "Liten"
+
+msgid "Medium"
+msgstr "Mellan"
+
+msgid "Large"
+msgstr "Stor"
+
+msgid "Select and show first item after search"
+msgstr "Markera och visa första objekt efter sökning"
+
+msgid "Hide group column"
+msgstr "Dölj gruppkolumn"
+
+msgid "Order"
+msgstr "Ordning"
+
+msgid "Mode"
+msgstr "Läge"
+
+msgid "Ascending"
+msgstr "Uppåtgående"
+
+msgid "Descending"
+msgstr "Nedåtgående"
+
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+msgid "Groups"
+msgstr "Grupper"
+
+msgid "Sorting"
+msgstr "Sortering"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Synliga kolumner i födelsedagsbläddrare"
+
+msgid "Show calendar"
+msgstr "Visa kalender"
+
+msgid "Show tasks"
+msgstr "Visa uppgifter"
+
+msgid "Show contacts"
+msgstr "Visa kontakter"
+
+msgid "Show notes"
+msgstr "Visa anteckningar"
+
+msgid "Show options"
+msgstr "Visa alternativ"
+
+msgid "Quit"
+msgstr "Avsluta"
+
+msgid "Show small calendar window"
+msgstr "Visa litet kalenderfönster"
+
+msgid "Check for events since last run"
+msgstr "Leta efter händelser sedan förra gången programmet kördes"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Antalet dagar att leta framåt efter händelser (standard: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr ""
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr ""
+"Modifiera det grafiska användargränssnittet för att använda Osmo i lägre "
+"upplösningar "
+
+#, fuzzy
+msgid "handy personal organizer"
+msgstr "En praktisk dagplanerare"
+
+msgid "ERROR: Cannot create config files"
+msgstr "FEL: Kan inte skapa konfigurationsfiler"
+
+msgid "Another copy of OSMO is already running."
+msgstr "En annat exemplar av OSMO körs redan."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Att använda två eller fler exemplar av OSMO samtidigt kan orsaka dataförlust."
+
+msgid "Do you really want to continue?"
+msgstr "Vill du verkligen fortsätta?"
+
+msgid "Warning"
+msgstr "Varning"
+
+msgid "The note has changed."
+msgstr "Anteckningen har ändrats."
+
+msgid "Do you want to save it?"
+msgstr "Vill du spara den?"
+
+msgid "Words"
+msgstr "Ord"
+
+msgid "Lines"
+msgstr "Rader"
+
+msgid "Characters"
+msgstr "Tecken"
+
+msgid "White characters"
+msgstr "Vita tecken"
+
+msgid "Bytes"
+msgstr "Byte"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Välj typsnitt"
+
+msgid "Created"
+msgstr "Skapad"
+
+msgid "Modified"
+msgstr "Modifierad"
+
+msgid "New note"
+msgstr "Ny anteckning"
+
+msgid "Add note"
+msgstr "Lägg till anteckning"
+
+msgid "Edit note"
+msgstr "Redigera anteckning"
+
+msgid "Delete note"
+msgstr "Radera anteckning"
+
+msgid "Remove note"
+msgstr "Ta bort anteckning"
+
+msgid "Find"
+msgstr "Hitta"
+
+msgid "Clear attributes"
+msgstr ""
+
+msgid "Save note"
+msgstr "Spara anteckning"
+
+msgid "Insert current date and time"
+msgstr "Infoga aktuellt datum och tid"
+
+msgid "Insert separator"
+msgstr ""
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Close editor"
+msgstr "Stäng redigerare"
+
+msgid "Toggle spell checker"
+msgstr "Växla stavningskontrollerare"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Note name"
+msgstr "Anteckningsnamn"
+
+msgid "Last changes"
+msgstr "Senaste ändringar"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Rader"
+
+#, fuzzy
+msgid "Column"
+msgstr "Land"
+
+msgid "case sensitive"
+msgstr "skiftlägeskänslig"
+
+msgid "Close find entry"
+msgstr "Stäng hitta-post"
+
+msgid "Edit entry"
+msgstr "Redigera post"
+
+msgid "Remember cursor position"
+msgstr "Kom ihåg markörposition"
+
+msgid "Selected note will be removed."
+msgstr "Markerad anteckning kommer att tas bort."
+
+msgid "No further data recovery will be possible."
+msgstr "Inga ytterligare dataåterställningar kommer att vara möjligt."
+
+#, fuzzy
+msgid "Plain"
+msgstr "Skriv ut"
+
+msgid "Encrypted"
+msgstr "Krypterad"
+
+msgid "Note type"
+msgstr "Anteckningstyp"
+
+msgid "Cannot open the note."
+msgstr "Kan inte öppna anteckning"
+
+msgid "encryption support is disabled"
+msgstr "Stöd för kryptering inaktiverat"
+
+msgid "Authorization"
+msgstr "Befogenhet"
+
+msgid "Algorithm"
+msgstr "Algoritm"
+
+msgid "Hashing"
+msgstr "Hashning"
+
+msgid "Compression"
+msgstr "Komprimering"
+
+msgid "Ratio"
+msgstr "Förhållande"
+
+msgid "Fast"
+msgstr "Snabb"
+
+msgid "Good"
+msgstr "Bra"
+
+msgid "Best"
+msgstr "Bäst"
+
+msgid "Remember the last selected category"
+msgstr "Kom ihåg senast valda kategori"
+
+msgid "Use system format for date and time"
+msgstr "Använd systemformatets datum och tid"
+
+msgid "Encryption"
+msgstr "Kryptering"
+
+msgid "Visible columns"
+msgstr "Synliga kolumner"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Notes options"
+msgstr "Inställningar för anteckningar"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Positioner för flikar"
+
+msgid "Left"
+msgstr "Vänster"
+
+msgid "Right"
+msgstr "Höger"
+
+msgid "Top"
+msgstr "Överkant"
+
+msgid "Bottom"
+msgstr "Nederkant"
+
+msgid "Use default stock icons (needs restart)"
+msgstr ""
+
+msgid "Disable underline in links"
+msgstr "Inaktivera understreck i länkar"
+
+msgid "Draw rows in alternating colors"
+msgstr ""
+
+msgid "At least one module must be visible."
+msgstr "Minst en modul måste vara synlig."
+
+msgid "Override locale settings"
+msgstr ""
+
+msgid "Date format"
+msgstr "Datumformat"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-ÅÅÅÅ"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-ÅÅÅÅ"
+
+msgid "YYYY-MM-DD"
+msgstr "ÅÅÅÅ-MM-DD"
+
+msgid "YYYY-DD-MM"
+msgstr "ÅÅÅÅ-DD-MM"
+
+msgid "Time format"
+msgstr "Tidsformat"
+
+msgid "hours"
+msgstr "timmar"
+
+msgid "Spell checker language"
+msgstr "Språk för stavningskontrollerare"
+
+msgid "Enable tooltips"
+msgstr "Aktivera verktygstips"
+
+msgid "Remember last selected page"
+msgstr "Kom ihåg senast valda sida"
+
+msgid "Save data after every modification"
+msgstr "Spara data efter varje modifiering"
+
+msgid "Web browser"
+msgstr "Webbläsare"
+
+msgid "E-mail client"
+msgstr "E-postklient"
+
+#, fuzzy
+msgid "Sound player"
+msgstr "Mellannamn"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Mönstret %s kommer att ersättas med en länk eller e-postadress"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Mönstret %s kommer att ersättas med en länk eller e-postadress"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Mönstret %s kommer att ersättas med en länk eller e-postadress"
+
+#, fuzzy
+msgid "Create"
+msgstr "Skapad"
+
+#, fuzzy
+msgid "Restore"
+msgstr "Resultat"
+
+msgid "Enable system tray"
+msgstr "Aktivera ikon i aktivitetsfält"
+
+msgid "Start minimised"
+msgstr "Starta i minimerat läge"
+
+msgid "Blink on events"
+msgstr "Blinka vid händelser"
+
+msgid "Ignore day note events"
+msgstr "Ignorera daganteckningshändelser"
+
+msgid "Hide"
+msgstr "Dölj"
+
+msgid "Helpers"
+msgstr "Hjälpmedel"
+
+msgid "Backup"
+msgstr ""
+
+msgid "System tray"
+msgstr "Aktivitetsfält"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Go Down"
+msgstr "Gå ned"
+
+msgid "Select date"
+msgstr "Välj datum"
+
+msgid "Select font"
+msgstr "Välj typsnitt"
+
+msgid "Calculator"
+msgstr "Beräknare"
+
+msgid "Edit day note"
+msgstr "Redigera daganteckning"
+
+msgid "Contact map location"
+msgstr ""
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Display full-year calendar"
+msgstr "Visa helårskalender"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Invalid item"
+msgstr "Ogiltigt objekt"
+
+msgid "Valid item"
+msgstr "Giltigt objekt"
+
+msgid "Edit task"
+msgstr "Redigera uppgift"
+
+msgid "Remove task"
+msgstr "Ta bort uppgift"
+
+#, fuzzy
+msgid "Import tasks"
+msgstr "Importera kontakter"
+
+#, fuzzy
+msgid "Export tasks"
+msgstr "Exportera kontakter"
+
+#, fuzzy
+msgid "Change to previous date"
+msgstr "Byt förfallodag till föregående dag"
+
+#, fuzzy
+msgid "Change to next date"
+msgstr "Byt förfallodag till nästa dag"
+
+msgid "Print"
+msgstr "Skriv ut"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Recurrent"
+msgstr ""
+
+msgid "Started"
+msgstr "Började med uppgift"
+
+msgid "Finished"
+msgstr "Färdigställde uppgift"
+
+msgid "All items"
+msgstr "Alla objekt"
+
+msgid "New task"
+msgstr "Ny uppgift"
+
+#, fuzzy
+msgid "Change due date to previous date"
+msgstr "Byt förfallodag till föregående dag"
+
+#, fuzzy
+msgid "Change due date to next date"
+msgstr "Byt förfallodag till nästa dag"
+
+msgid "Print visible tasks list"
+msgstr "Skriv ut synlig uppgiftslista"
+
+msgid "Due date"
+msgstr "Förfallodag"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Task details"
+msgstr "Uppgiftsdetaljer"
+
+msgid "Close description panel"
+msgstr "Stäng beskrivningspanel"
+
+msgid "No tasks with defined date found."
+msgstr ""
+
+#, fuzzy
+msgid "Save tasks"
+msgstr "Daguppgifter"
+
+#, fuzzy
+msgid "tasks exported"
+msgstr "kontakt exporterad"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr ""
+
+msgid "Set time"
+msgstr "Ställ in tid"
+
+msgid "Tomorrow"
+msgstr "Imorgon"
+
+msgid "Selected task will be removed."
+msgstr "Markerad uppgift kommer att tas bort."
+
+msgid "Basic"
+msgstr ""
+
+#, fuzzy
+msgid "Select date and time"
+msgstr "Andra datum och tid"
+
+msgid "Low"
+msgstr "Låg"
+
+msgid "High"
+msgstr "Hög"
+
+msgid "Enable sound notification"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Alarm warning"
+msgstr "Alarmvarning"
+
+msgid "Postpone time"
+msgstr "Skjut upp tid"
+
+msgid "Alarm command"
+msgstr "Alarmkommando"
+
+msgid "Recurrent task"
+msgstr ""
+
+msgid "Enable"
+msgstr "Aktivera"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "End"
+msgstr "Slut"
+
+msgid "Interval"
+msgstr "Intervall"
+
+msgid "Time period"
+msgstr "Tidsperiod"
+
+msgid "Date period"
+msgstr "Datumperiod"
+
+msgid "Repeat"
+msgstr "Upprepa"
+
+msgid "Repeat in the following days"
+msgstr "Upprepa de följande dagarna"
+
+msgid "Ignore alarm when task expired offline"
+msgstr ""
+
+msgid "Select a font..."
+msgstr "Välj ett typsnitt..."
+
+msgid "Color of items that are due today"
+msgstr ""
+
+msgid "Color of items that are due in the next 7 days"
+msgstr ""
+
+msgid "Color of items that are past due"
+msgstr ""
+
+msgid "Task info font"
+msgstr "Typsnitt för uppgiftsinformation"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Visa högprioriterade uppgifter i fetstil"
+
+msgid "Hide completed tasks"
+msgstr "Dölj färdigställda uppgifter"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Radera färdigställda uppgifter utan bekräftelse"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Lägg till en ny uppgift då uppgiftslistan dubbelklickas"
+
+msgid "minutes"
+msgstr "minuter"
+
+msgid "0 for disable"
+msgstr "0 för inaktivering"
+
+msgid "Repeat sound alarm"
+msgstr ""
+
+#, fuzzy
+msgid "times"
+msgstr "Ställ in tid"
+
+msgid "Global notification command"
+msgstr "Allmänt notifieringskommando"
+
+msgid "Tasks options"
+msgstr "Inställningar för uppgifter"
+
+msgid "Reminder options"
+msgstr "Kom ihåg-inställningar"
+
+msgid "Tasks list"
+msgstr "Uppgiftslista"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "Nr"
+
+msgid "New Moon"
+msgstr "Nymåne"
+
+msgid "Waxing Crescent Moon"
+msgstr "Halvmåne i första kvarteret"
+
+msgid "Quarter Moon"
+msgstr "Halvmåne"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Tilltagande halvmåne"
+
+msgid "Full Moon"
+msgstr "Fullmåne"
+
+msgid "Waning Gibbous Moon"
+msgstr "Avtagande Halvmåne"
+
+msgid "Last Quarter Moon"
+msgstr "Avtagande halvmåne"
+
+msgid "Waning Crescent Moon"
+msgstr "Halvmåne i sista kvarteret"
+
+msgid "Question"
+msgstr "Fråga"
+
+msgid "Error"
+msgstr "Fel"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Markerad fil existerar! Skriv över?"
+
+#~ msgid "Editor font"
+#~ msgstr "Typsnitt för redigerare"
+
+#~ msgid "Category filter"
+#~ msgstr "Kategorifilter"
+
+#~ msgid "Modify color"
+#~ msgstr "Modifiera färg"
+
+#~ msgid "ICal"
+#~ msgstr "ICal"
+
+#~ msgid "change day while note editing"
+#~ msgstr "byt dag vid anteckningsredigering"
+
+#~ msgid "close day note panel"
+#~ msgstr "stäng panelen för daganteckning"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "märk markering i fetstil"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "märk markering i kursiv stil"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "märk markering i bakgrundsfärg"
+
+#~ msgid "underline selection"
+#~ msgstr "understrecksmarkering"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "en praktisk dagplanerare"
+
+#~ msgid "Use year"
+#~ msgstr "Använd år"
+
+#~ msgid "Birthday found"
+#~ msgstr "Födelsedag hittad"
+
+#~ msgid "Task found"
+#~ msgstr "Uppgift hittad"
+
+#~ msgid "Day note available"
+#~ msgstr "Daganteckning tillgänglig"

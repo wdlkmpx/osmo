@@ -1,0 +1,2191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Osmo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2010-01-06 23:00+0100\n"
+"Last-Translator: Joakim Seeberg <kontakt@seebergit.dk>\n"
+"Language-Team:  <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "Ctrl+PageUp"
+msgstr "Ctrl+PageUp"
+
+msgid "switch to previous tab"
+msgstr "skift til tidligere faneblad"
+
+msgid "Ctrl+PageDn"
+msgstr "Ctrl+PageDn"
+
+msgid "switch to next tab"
+msgstr "skift til næste faneblad"
+
+msgid "switch to selected page"
+msgstr "skift til den valgte side"
+
+msgid "show options window"
+msgstr "vis vinduet indstillinger"
+
+msgid "show about window"
+msgstr "vis vinduet om"
+
+msgid "PageUp/PageDn"
+msgstr "PageUp/PageDn"
+
+msgid "switch page in options and about tab"
+msgstr "skift side i indstillinger og om fanebladet "
+
+msgid "exit"
+msgstr "luk"
+
+msgid "Space"
+msgstr "Mellemrum"
+
+msgid "select current date"
+msgstr "vælg nuværende dato"
+
+msgid "Ctrl+Space"
+msgstr "Ctrl+Space"
+
+msgid "toggle personal data visibility"
+msgstr "slå visning af personlig data fra/til"
+
+msgid "Arrows"
+msgstr "Pile"
+
+msgid "change day"
+msgstr "skift dag"
+
+msgid "Ctrl+Up/Down"
+msgstr "Ctrl+Up/Down"
+
+msgid "scroll the contents in the day info panel"
+msgstr "Rulle med indholdet i dag info panelet"
+
+msgid "change month"
+msgstr "skift måned"
+
+msgid "Home/End"
+msgstr "Hjem/Slut"
+
+msgid "change year"
+msgstr "skift år"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "skift mellem kalender for den tidligere og næste måned"
+
+msgid "day notes browser"
+msgstr "dag noter fremviser"
+
+msgid "assign background color to day note"
+msgstr "tilføj baggrundsfarve til daglig notat"
+
+msgid "date calculator"
+msgstr "dato udregner"
+
+msgid "show full-year calendar"
+msgstr "Vis kalender for hele året"
+
+msgid "jump to date"
+msgstr "spring til dato"
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "remove day note"
+msgstr "fjern daglig note"
+
+msgid "Alt+Arrows"
+msgstr "Alt+Pile"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "close editor"
+msgstr "luk editor"
+
+msgid "toggle bold"
+msgstr "slå fed til/fra"
+
+msgid "toggle italic"
+msgstr "slå kursiv til/fra"
+
+msgid "toggle underline"
+msgstr "slå understregning til/fra"
+
+msgid "toggle strikethrough"
+msgstr "slå gennemstreget til/fra"
+
+msgid "toggle highlight"
+msgstr "slå fremhævet til/fra"
+
+msgid "Arrows Up/Down"
+msgstr "Pile Up/Down"
+
+msgid "toggle alternative view"
+msgstr "slå alternativ visning til/fra"
+
+msgid "year info"
+msgstr "år info"
+
+msgid "set current year"
+msgstr "bestem nuværende år"
+
+msgid "close full-year calendar"
+msgstr "luk kalender for hele året"
+
+msgid "Alt+a, Insert"
+msgstr "Alt+a, Indsæt"
+
+msgid "add task"
+msgstr "tilføj begivenhed"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr "Alt+e, Ctrl+Enter"
+
+msgid "edit task"
+msgstr "rediger begivenhed"
+
+msgid "Alt+r, Delete"
+msgstr "Alt+r, Delete"
+
+msgid "remove task"
+msgstr "fjern begivenhed"
+
+msgid "toggle hidden tasks"
+msgstr "slå skjulte begivenheder til/fra"
+
+msgid "activate search field"
+msgstr "aktiver søge felt"
+
+msgid "Left, Right"
+msgstr "Venstre, Højre"
+
+msgid "change category filter"
+msgstr "skift katagori filter"
+
+msgid "close task info panel"
+msgstr "luk info panel for begivenhed"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "add contact"
+msgstr "tilføj kontakt"
+
+msgid "Ctrl+Enter"
+msgstr "Ctrl+Enter"
+
+msgid "edit contact"
+msgstr "rediger kontakt"
+
+msgid "remove contact"
+msgstr "fjern kontakt"
+
+msgid "change search mode"
+msgstr "skift søge tilstand"
+
+msgid "close contact details panel"
+msgstr "luk panel for kontakt detaljer"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "open note"
+msgstr "åbn note"
+
+msgid "add note"
+msgstr "tilføj note"
+
+msgid "remove note"
+msgstr "fjern note"
+
+msgid "edit note name and category"
+msgstr "rediger note navn og kategori"
+
+msgid "close note editor"
+msgstr "luk note editor"
+
+msgid "save note"
+msgstr "gem note"
+
+msgid "find text"
+msgstr "find tekst"
+
+msgid "clear selection attributes"
+msgstr "fjern valgte attributter"
+
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO blev designet med henblik på bruger anvendelighed, derfor er der mange "
+"tastatur genveje. Her er hele listen:"
+
+msgid "General"
+msgstr "Generel"
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Note editor"
+msgstr "Note editor"
+
+msgid "Full-year calendar"
+msgstr "Kalender for hele året"
+
+msgid "Tasks"
+msgstr "Begivenheder"
+
+msgid "Contacts"
+msgstr "Kontakter"
+
+msgid "Notes"
+msgstr "Noter"
+
+msgid "Selector"
+msgstr "vælger"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "A handy personal organizer"
+msgstr "En nem personlig planlægger"
+
+msgid "compiled on"
+msgstr "kompileret på"
+
+msgid "Programming"
+msgstr "Programering"
+
+msgid "Graphics"
+msgstr "Grafik"
+
+msgid "Contributors"
+msgstr "Bidragydere"
+
+msgid "Translators"
+msgstr "Oversættere"
+
+msgid "Mailing lists"
+msgstr "Mail liste"
+
+msgid "Bug tracker"
+msgstr ""
+
+msgid "Feature requests"
+msgstr "Funktions ønsker"
+
+msgid "Available modules"
+msgstr "Tilgængelige moduler"
+
+msgid "Compiled-in features"
+msgstr "Kompilerede funktioner"
+
+msgid "iCalendar support"
+msgstr "iCalendar support"
+
+msgid "Encrypted notes support"
+msgstr "Krypteret noter support"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "SyncML aktiveret enheds support"
+
+msgid "Backup support"
+msgstr "Kopi support"
+
+msgid "Printing support"
+msgstr "Print support"
+
+msgid "Spell checker support"
+msgstr "Stavekontrol support"
+
+msgid "version"
+msgstr "version"
+
+msgid "SVN revision"
+msgstr "SVN revision"
+
+msgid "Key shortcuts"
+msgstr "Tastatur genvej"
+
+msgid "License"
+msgstr "Licens"
+
+msgid "Save backup"
+msgstr "Gem en kopi"
+
+msgid "Password protection"
+msgstr "Beskyttelse af adgangskode"
+
+msgid "Enter password"
+msgstr "Indtast adgangskode"
+
+msgid "Re-enter password"
+msgstr "Gen-indtast adgangskode"
+
+msgid "Please enter the password"
+msgstr "Indtast venligst adgangskoden"
+
+msgid "Passwords do not match!"
+msgstr "Adgangskoderne er ikke ens!"
+
+msgid "Cannot create backup!"
+msgstr "Kan ikke oprette kopi!"
+
+msgid "Backup file saved successfully!"
+msgstr "Kopi filen er gemt korrekt"
+
+msgid "Open backup file"
+msgstr "Åbn kopi fil"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Osmo kopi filer (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Detter er ikke en Osmo kopi fil"
+
+msgid "Incorrect password!"
+msgstr "Forkert adgangskode!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "Alle dine data vil blive erstattet af kopi filens indhold"
+
+msgid "Are you sure?"
+msgstr "Er du sikker!"
+
+msgid "Osmo has to be restarted now..."
+msgstr "Osmo skal nu genstartes"
+
+msgid "was born"
+msgstr "blev født"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "år gammel"
+msgstr[1] ""
+
+msgid "Current time"
+msgstr "Klokken er nu"
+
+msgid "Day number"
+msgstr "Dagens nummer"
+
+msgid "Today distance"
+msgstr "Dagens afstand"
+
+msgid "Week number"
+msgstr "Uge nummer"
+
+msgid "Marked days"
+msgstr "Markerede dage"
+
+msgid "Weekend days"
+msgstr "Weekend dage"
+
+msgid "Day category"
+msgstr "Dag katagori"
+
+msgid "Moon phase"
+msgstr "Måne fase"
+
+msgid "Zodiac sign"
+msgstr "Zodiac tegn"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "Dage til årets udløb"
+msgstr[1] ""
+
+msgid "the last day of the year"
+msgstr "Årets sidste dag"
+
+msgid "Day notes"
+msgstr "Dag notater"
+
+msgid "Day tasks"
+msgstr "Dag begivenheder"
+
+msgid "Birthday"
+msgstr "Fødselsdag"
+
+msgid "Selected day note will be removed."
+msgstr "Valgte dag note vil blive fjernet"
+
+msgid "Continue?"
+msgstr "Fortsæt?"
+
+msgid "Previous year"
+msgstr "Foregående år"
+
+msgid "Previous month"
+msgstr "Foregående måned"
+
+msgid "Previous day"
+msgstr "Forrige dag"
+
+msgid "Today"
+msgstr "I dag"
+
+msgid "Next day"
+msgstr "Næste dag"
+
+msgid "Next month"
+msgstr "Næste måned"
+
+msgid "Next year"
+msgstr "Næste år"
+
+msgid "Jump to date"
+msgstr "spring til dato"
+
+msgid "Print calendar"
+msgstr "Print kalender"
+
+msgid "Date calculator"
+msgstr "Dato udregner"
+
+msgid "Preferences"
+msgstr "Præferencer"
+
+msgid "Toggle day note panel"
+msgstr "Slå dag note panel til/fra"
+
+msgid "Add task"
+msgstr "Tilføj begivenhed"
+
+msgid "Select day color"
+msgstr "Vælg dag farve"
+
+msgid "Browse notes"
+msgstr "Gennemse noter"
+
+msgid "Browse iCal events"
+msgstr "Gennemse iCal begivenheder"
+
+msgid "Export to iCal file"
+msgstr "Eksporter til iCal fil"
+
+msgid "Previous and next month"
+msgstr "Foregående og næste måned"
+
+msgid "Close note panel"
+msgstr "Luk note panel"
+
+msgid "Highlight"
+msgstr "Fremhæv"
+
+msgid "Strikethrough"
+msgstr "Gennemstreg"
+
+msgid "Underline"
+msgstr "Understreg"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Bold"
+msgstr "Fed"
+
+msgid "Insert timeline"
+msgstr "Indsæt tidslinie"
+
+msgid "Clear text"
+msgstr "Ryd tekst"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Select color"
+msgstr "vælg farve"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "år"
+msgstr[1] ""
+
+#, fuzzy
+msgid "month"
+msgid_plural "months"
+msgstr[0] "måned"
+
+#, fuzzy
+msgid "day"
+msgid_plural "days"
+msgstr[0] "dag"
+
+#, fuzzy
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "time"
+
+#, fuzzy
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minut"
+
+#, fuzzy
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekund"
+
+msgid "or"
+msgstr "eller"
+
+msgid "rounded down"
+msgstr "rundet ned"
+
+#, fuzzy
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "uge"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "time is ignored"
+msgstr "tiden er ignoreret"
+
+#, fuzzy
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Ugedag:"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Denne udregner fungere kun med datoer efter år 1"
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Year"
+msgstr "År"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Current date"
+msgstr "Nuværende dato"
+
+msgid "Set current date"
+msgstr "Vælg nuværende dato"
+
+msgid "Hour"
+msgstr "Time"
+
+msgid "Minute"
+msgstr "Minut"
+
+msgid "Second"
+msgstr "Sekund"
+
+msgid "Set current time"
+msgstr "Vælg nuværende klokkeslæt"
+
+msgid "Reset time"
+msgstr "Nulstil tiden"
+
+msgid "First date and time"
+msgstr "Første dato og tid"
+
+msgid "Second date and time"
+msgstr "Anden dato og tid"
+
+msgid "Alternative time units"
+msgstr "Alternative tids enheder"
+
+msgid "Result"
+msgstr "Rsultat"
+
+msgid "Duration between two dates"
+msgstr "Varighed mellem to datoer"
+
+msgid "Operation"
+msgstr "Handling"
+
+msgid "add"
+msgstr "læg til"
+
+msgid "subtract"
+msgstr "trække fra"
+
+msgid "Date and time to add or subtract from"
+msgstr "Dato og tid hvorfra der skal lægges til eller trækkes fra"
+
+msgid "Years"
+msgstr "År"
+
+msgid "Months"
+msgstr "Måneder"
+
+msgid "Days"
+msgstr "Dage"
+
+msgid "Weeks"
+msgstr "Uger"
+
+msgid "Hours"
+msgstr "Timer"
+
+msgid "Minutes"
+msgstr "Minutter"
+
+msgid "Seconds"
+msgstr "Sekunder"
+
+msgid "Ignore weekend days"
+msgstr "Ignorer weekend dage"
+
+msgid "Reset fields"
+msgstr "Ryd felter"
+
+msgid "Time to add or subtract"
+msgstr "Tid der skal lægges til eller trækkes fra"
+
+msgid "Jump to"
+msgstr "Spring til"
+
+msgid "Add to or subtract from a date"
+msgstr "Læg til eller træk fra en dato"
+
+msgid "Leap year"
+msgstr "Skudår"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "Chinese year animal"
+msgstr "Dyr for kinesisk år"
+
+msgid "Number of days"
+msgstr "Antal dage"
+
+msgid "Number of weeks"
+msgstr "Antal uger"
+
+msgid "Number of weekend days"
+msgstr "Antal weekend dage"
+
+msgid "Year info"
+msgstr "År info"
+
+msgid "Current year"
+msgstr "Nuværende år"
+
+msgid "Alternative view"
+msgstr "Alternativ visning"
+
+#, fuzzy
+msgid "event"
+msgid_plural "events"
+msgstr[0] "begivenhed"
+
+msgid "No valid calendars defined"
+msgstr "Ingen gyldig kalender defineret"
+
+msgid "iCalendar events"
+msgstr "iCalendar begivenheder"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Summary"
+msgstr "Opsummering"
+
+msgid "Select output file"
+msgstr "Vælg uddata fil"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Denne liste vil blive ryddet og alt indhold vil være tabt"
+
+msgid "Done!"
+msgstr "Færdig!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "begivenhed eksporteret"
+msgstr[1] ""
+
+msgid "iCalendar export"
+msgstr "iCalendar eksport"
+
+msgid "Day Selector"
+msgstr "Dag vælger"
+
+msgid "Use date period"
+msgstr "Brug dato periode"
+
+msgid "Add"
+msgstr "Tilføj"
+
+msgid "Clear"
+msgstr "Ryd"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Output filename"
+msgstr "Uddata filnavn"
+
+msgid "Browse"
+msgstr "Gennemse"
+
+msgid "Cancel"
+msgstr "Annullér"
+
+msgid "Export"
+msgstr "Eksportér"
+
+msgid "no entries"
+msgstr "Ingen indgange"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Calendar notes"
+msgstr "Kalender noter"
+
+msgid "Search"
+msgstr "Søg"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Current month"
+msgstr "Nuværende måned"
+
+msgid "Selected month"
+msgstr "Valgte måned"
+
+msgid "Selected year"
+msgstr "Valgte år"
+
+msgid "Selected month and year"
+msgstr "Valgte måned og år"
+
+msgid "All notes"
+msgstr "Alle noter"
+
+msgid "Case sensitive"
+msgstr "Skeln mellem store/små bogstaver"
+
+msgid "Strikethrough past day notes"
+msgstr "Gennemstreg forrige dags noter"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Månedens navn"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "MM-DD-YYYY"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Dato format"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Uddata format"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Dato format"
+
+msgid "Day note marker"
+msgstr "Valgte dag note"
+
+msgid "Event marker"
+msgstr "Begivenhed markør "
+
+msgid "Circle"
+msgstr "Cirkel"
+
+msgid "Ellipse"
+msgstr "Ellipse"
+
+msgid "Wave"
+msgstr "Bølge"
+
+msgid "Current day marker"
+msgstr "Nuværende dag markør"
+
+msgid "Arrow"
+msgstr "Pil"
+
+msgid "Free-hand circle"
+msgstr "Frihånd cirkel"
+
+msgid "Colors"
+msgstr "Farver"
+
+#, fuzzy
+msgid "Header color"
+msgstr "Hoved farve"
+
+msgid "Weekend days color"
+msgstr "Weekend dage farve"
+
+msgid "Cursor color"
+msgstr "Markør farve"
+
+msgid "Event marker color"
+msgstr "Farve på begivenhed markør "
+
+msgid "Current day marker color"
+msgstr "Farve på markør for nåværende dag"
+
+msgid "Birthday marker color"
+msgstr "Farve på fødselsdag markør"
+
+msgid "Date font"
+msgstr "Dato font"
+
+msgid "Calendar font"
+msgstr "Kalender font"
+
+msgid "Note font"
+msgstr "Note font"
+
+msgid "Enable block cursor"
+msgstr "Aktiver blok markør"
+
+msgid "Cursor thickness"
+msgstr "Tykkelse på markør"
+
+msgid "Thin"
+msgstr "Tynd"
+
+msgid "Thick"
+msgstr "Tyk"
+
+msgid "Edit category"
+msgstr "Rediger kategori"
+
+msgid "Color"
+msgstr "Farve"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Vælg ICS fil"
+
+msgid "All Files"
+msgstr "Alle filer"
+
+msgid "Calendar files (*.ics)"
+msgstr "Kalender filer (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Ændr ICAL parameter"
+
+msgid "Filename"
+msgstr "Filnavn"
+
+msgid "Options"
+msgstr "Indstillinger"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Gyldig"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Full date"
+msgstr "Fulde dato"
+
+msgid "Mark"
+msgstr "Marker"
+
+msgid "Week start on Monday"
+msgstr "Ugen starter om mandagen"
+
+msgid "Show day names"
+msgstr "Vis navne på dagene"
+
+msgid "No month change"
+msgstr "Skift ikke måned"
+
+msgid "Show week numbers"
+msgstr "Vis uge numre"
+
+msgid "Simple view in full-year calendar"
+msgstr "simpel visning i kalender for hele året"
+
+#, fuzzy
+msgid "Enable auxilary calendars"
+msgstr "Aktiver auxilary kalender"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Stigende sortering i dag note fremviser"
+
+msgid "Enable spell checker in day notes"
+msgstr "aktiver stavekontrol noter for valgte dag"
+
+msgid "Appearance"
+msgstr "Udseende"
+
+msgid "Day categories"
+msgstr "Dag kategorier"
+
+msgid "iCalendar files"
+msgstr "iCalender filer"
+
+msgid "Show in day info panel"
+msgstr "Vis i info panel for dag"
+
+msgid "Name day"
+msgstr "Dagens navn"
+
+msgid "Error printing"
+msgstr "Print fejl"
+
+msgid "Printing properties"
+msgstr "Print egenskaber"
+
+msgid "Month name"
+msgstr "Månedens navn"
+
+msgid "Day name"
+msgstr "Dagens navn"
+
+msgid "Events"
+msgstr "Begivenheder"
+
+msgid "Fonts"
+msgstr "Fonte"
+
+msgid "Birthdays"
+msgstr "Fødselsdag"
+
+msgid "Namedays"
+msgstr "Navnedage"
+
+msgid "Visible events"
+msgstr "Synlige begivenheder"
+
+msgid "Padding"
+msgstr ""
+
+msgid "Event maximum length"
+msgstr "Maksimum længde af begivenhed"
+
+msgid "Page orientation:"
+msgstr "Side orientering:"
+
+msgid "Portrait"
+msgstr "Portræt"
+
+msgid "Landscape"
+msgstr "Landskab"
+
+msgid "Timeline"
+msgstr "Tidslinie"
+
+msgid "From (hour)"
+msgstr "Fra (time)"
+
+msgid "Step (minutes)"
+msgstr "Skridt (minutter)"
+
+msgid "To (hour)"
+msgstr "Til (time)"
+
+msgid "No date"
+msgstr "Ingen dato"
+
+msgid "Rat"
+msgstr "Rotte"
+
+msgid "Ox"
+msgstr "Okse"
+
+msgid "Tiger"
+msgstr "Tiger"
+
+msgid "Hare"
+msgstr "Hare"
+
+msgid "Dragon"
+msgstr "Drage"
+
+msgid "Snake"
+msgstr "Slange"
+
+msgid "Horse"
+msgstr "Hest"
+
+msgid "Sheep"
+msgstr "Får"
+
+msgid "Monkey"
+msgstr "Abe"
+
+msgid "Fowl"
+msgstr "Høne"
+
+msgid "Dog"
+msgstr "Hund"
+
+msgid "Pig"
+msgstr "Gris"
+
+msgid "Unknown"
+msgstr "Ukendt"
+
+msgid "Aquarius"
+msgstr "Vandmand"
+
+msgid "Pisces"
+msgstr "Fisk"
+
+msgid "Aries"
+msgstr "Vædder"
+
+msgid "Taurus"
+msgstr "Tyr"
+
+msgid "Gemini"
+msgstr "Tvilling"
+
+msgid "Cancer"
+msgstr "Krebs"
+
+msgid "Leo"
+msgstr "Løve"
+
+msgid "Virgo"
+msgstr "Jomfru"
+
+msgid "Libra"
+msgstr "Vægt"
+
+msgid "Scorpio"
+msgstr "Skorpion"
+
+msgid "Sagittarius"
+msgstr "Skytte"
+
+msgid "Capricorn"
+msgstr "Stenbuk"
+
+msgid "Cannot perform selected operation."
+msgstr "Kan ikke udføre valgte handling"
+
+msgid "Task has been modified or removed."
+msgstr "Begivenheden er blevet ændret eller fjernet"
+
+msgid "Remind me later"
+msgstr "Påmind mig senere"
+
+msgid "Done"
+msgstr "Færdig"
+
+msgid "postponed"
+msgstr "udsat"
+
+msgid "Show task"
+msgstr "Vis begivenhed"
+
+msgid "Alarm warning!"
+msgstr "Alarm advarsel!"
+
+msgid "Day note"
+msgstr "Dag note"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Event"
+msgstr "Hændelse"
+
+msgid "Task"
+msgstr "Begivenhed"
+
+msgid "Show Osmo"
+msgstr "Fra Osmo"
+
+msgid "No birthdays defined"
+msgstr "Ingen fødselsdage defineret"
+
+msgid "Birthdays list"
+msgstr "Fødselsdags liste"
+
+msgid "Days to birthday"
+msgstr "Dage til fødselsdag"
+
+msgid "Age"
+msgstr "Alder"
+
+msgid "Birthday date"
+msgstr "Fødselsdags dato"
+
+msgid "today"
+msgstr "i dag"
+
+msgid "Please select address"
+msgstr "Vælg venligst adresse"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Work"
+msgstr "Arbejde"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "Group"
+msgstr "Gruppe"
+
+msgid "First name"
+msgstr "Fornavn"
+
+msgid "Last name"
+msgstr "Efternavn"
+
+msgid "Second name"
+msgstr "Efternavn"
+
+msgid "Nickname"
+msgstr "Kælenavn"
+
+msgid "Tags"
+msgstr "Mærkater"
+
+msgid "Name day date"
+msgstr "Navnedags dato"
+
+msgid "Home address"
+msgstr "Hjemadresse"
+
+msgid "Home postcode"
+msgstr "Hjem postnummer"
+
+msgid "Home city"
+msgstr "Hjemby"
+
+msgid "Home state"
+msgstr "Hjemstat"
+
+msgid "Home country"
+msgstr "Hjemland"
+
+msgid "Organization"
+msgstr "Organisation"
+
+msgid "Department"
+msgstr "Avdeling"
+
+msgid "Work address"
+msgstr "Arbejds adresse"
+
+msgid "Work postcode"
+msgstr "Arbejds postnummer"
+
+msgid "Work city"
+msgstr "Arbejdsby"
+
+msgid "Work state"
+msgstr "Arbejdsstat"
+
+msgid "Work country"
+msgstr "Arbejdsland"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Hjemmetelefon"
+
+msgid "Home phone 2"
+msgstr "Hjemmetelefon 2"
+
+msgid "Home phone 3"
+msgstr "Hjemmetelefon 3"
+
+msgid "Home phone 4"
+msgstr "Hjemmetelefon 4"
+
+msgid "Work phone"
+msgstr "Arbejdstelefon"
+
+msgid "Work phone 2"
+msgstr "Arbejdstelefon 2"
+
+msgid "Work phone 3"
+msgstr "Arbejdstelefon 3"
+
+msgid "Work phone 4"
+msgstr "Arbejdstelefon 4"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Cell phone 2"
+msgstr "Mobiltelefon 2"
+
+msgid "Cell phone 3"
+msgstr "Mobiltelefon 3"
+
+msgid "Cell phone 4"
+msgstr "Mobiltelefon 4"
+
+msgid "E-Mail"
+msgstr "E-Mail"
+
+msgid "E-Mail 2"
+msgstr "E-Mail 2"
+
+msgid "E-Mail 3"
+msgstr "E-Mail 3"
+
+msgid "E-Mail 4"
+msgstr "E-Mail 4"
+
+msgid "WWW"
+msgstr "WWW"
+
+msgid "WWW 2"
+msgstr "WWW 2"
+
+msgid "WWW 3"
+msgstr "WWW 3"
+
+msgid "WWW 4"
+msgstr "WWW 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Billede"
+
+msgid "Additional info"
+msgstr "Yderligere info"
+
+msgid "New contact"
+msgstr "Ny kontakt"
+
+msgid "Remove contact"
+msgstr "Fjern kontakt"
+
+msgid "Edit contact"
+msgstr "Rediger kontakt"
+
+msgid "Show birthdays"
+msgstr "Vis fødselsdage"
+
+msgid "Show contact location on the map"
+msgstr "Vis kontakt lokation på kortet"
+
+msgid "Import contacts"
+msgstr "Importer kontakter"
+
+msgid "Export contacts"
+msgstr "eksporter kontakter"
+
+msgid "First Name"
+msgstr "Fornavn"
+
+msgid "Last Name"
+msgstr "Efternavn"
+
+msgid "All fields"
+msgstr "Alle felter"
+
+msgid "Contact details"
+msgstr "Kontakt detaljer"
+
+msgid "Close contact panel"
+msgstr "Luk kontakt panel"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Cannot create file."
+msgstr "Kan ikke oprette filer"
+
+msgid "Output format"
+msgstr "Uddata format"
+
+msgid "Add header"
+msgstr "Tilføj hoved"
+
+msgid "Fields to export"
+msgstr "Fælter der skal eksporteres"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Invert"
+msgstr "Invertér"
+
+msgid "Select fields"
+msgstr "Vælg felter"
+
+msgid "Select CSV file"
+msgstr "Vælg CSV fil"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (kommasepareret) filer (*.csv)"
+
+msgid "Please select file first."
+msgstr "Vælg venligst en fil først"
+
+msgid "Import type"
+msgstr "Import type"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "Input filename"
+msgstr "Inddata filnavn"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Interface"
+msgstr "Grænseflade"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Anvend binær XML (WBXML)"
+
+msgid "Import"
+msgstr "Importér"
+
+msgid "Nothing to import."
+msgstr "Intet at importere."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "of"
+msgstr "a"
+
+msgid "Record"
+msgstr "Fortegnelse"
+
+msgid "Number fields per record"
+msgstr "Antal felter per fortegnelse"
+
+msgid "Use first record as header"
+msgstr "Anvend første fortegnelse som hoved"
+
+msgid "Field type"
+msgstr "Feldt type"
+
+msgid "Value"
+msgstr "Værdi"
+
+msgid "No records found in selected file."
+msgstr "Ingen fortegnelser fundet i valgte fil"
+
+msgid "Cannot read file."
+msgstr "Kan ikke læse fil"
+
+msgid "Cannot open file."
+msgstr "Kan ikke åbne fil"
+
+msgid "Selected contact will be removed."
+msgstr "Valge kontakt vil blive fjernet"
+
+msgid "Select photo"
+msgstr "Vælg billed"
+
+msgid "Postcode"
+msgstr "Postnummer"
+
+msgid "City"
+msgstr "By"
+
+msgid "State"
+msgstr "Stat"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Add contact"
+msgstr "Tilføj kontakt"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid "Phones"
+msgstr "Telefoner"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Farve på kontakt mærkater"
+
+msgid "Color of links"
+msgstr "Farve på links"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Billed størrelse"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Navne font"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Font for element"
+
+msgid "Photo size"
+msgstr "Billed størrelse"
+
+msgid "Small"
+msgstr "Lille"
+
+msgid "Medium"
+msgstr "Mellem"
+
+msgid "Large"
+msgstr "Stor"
+
+msgid "Select and show first item after search"
+msgstr "Vælg og vis første element efter søgning"
+
+msgid "Hide group column"
+msgstr "Gem gruppe kolonne"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Mode"
+msgstr "Tilstand"
+
+msgid "Ascending"
+msgstr "Stigende"
+
+msgid "Descending"
+msgstr "Faldende"
+
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+msgid "Groups"
+msgstr "Grupper"
+
+msgid "Sorting"
+msgstr "Sortering"
+
+msgid "Visible columns in birthday browser"
+msgstr "Synlige kolonner i fødseldags fremviser"
+
+msgid "Show calendar"
+msgstr "Vis kalender"
+
+msgid "Show tasks"
+msgstr "Vis begivenheder"
+
+msgid "Show contacts"
+msgstr "Vis kontakter"
+
+msgid "Show notes"
+msgstr "Vis noter"
+
+msgid "Show options"
+msgstr "Vis indstillinger"
+
+msgid "Quit"
+msgstr "Afslut"
+
+msgid "Show small calendar window"
+msgstr "Vis lille kalender vindue"
+
+msgid "Check for events since last run"
+msgstr "Kontroller for begivenheder siden sidste kørsel"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Antal dage til kontrol for begivenheder (default: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Bestem absolut sti til indstillinger og data filer"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Ændre GUI til at benytte Osmo med lav opløsning"
+
+msgid "handy personal organizer"
+msgstr "nem personlig planlægger"
+
+msgid "ERROR: Cannot create config files"
+msgstr "FEJL: Kan ikke oprette config filer"
+
+msgid "Another copy of OSMO is already running."
+msgstr "En anden kopi af OSMO kører allerede"
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Anvendelse af to eller flere versioner af OSMO på samme tid kan medføre data "
+"tab"
+
+msgid "Do you really want to continue?"
+msgstr "Vil du virkelig fortsætte"
+
+msgid "Warning"
+msgstr "Advarsel"
+
+msgid "The note has changed."
+msgstr "Noten er blevet ændret"
+
+msgid "Do you want to save it?"
+msgstr "Ønsker du at gemme den"
+
+msgid "Words"
+msgstr "Ord"
+
+msgid "Lines"
+msgstr "Linier"
+
+msgid "Characters"
+msgstr "Bogstaver"
+
+msgid "White characters"
+msgstr "Hvide bogstaver"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "vælger"
+
+msgid "Created"
+msgstr "Oprettet"
+
+msgid "Modified"
+msgstr "Ændret"
+
+msgid "New note"
+msgstr "Ny note"
+
+msgid "Add note"
+msgstr "Tilføj note"
+
+msgid "Edit note"
+msgstr "Rediger note"
+
+msgid "Delete note"
+msgstr "Slet note"
+
+msgid "Remove note"
+msgstr "Fjern note"
+
+msgid "Find"
+msgstr "Find"
+
+msgid "Clear attributes"
+msgstr "Fjern attributter"
+
+msgid "Save note"
+msgstr "Gem note"
+
+msgid "Insert current date and time"
+msgstr "Indsæt nuværende dato og tid "
+
+msgid "Insert separator"
+msgstr "Indsæt seperator"
+
+msgid "Statistics"
+msgstr "Statistik"
+
+msgid "Close editor"
+msgstr "Luk editor"
+
+msgid "Toggle spell checker"
+msgstr "Slå stavekontrol til/fra"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Note name"
+msgstr "Note navn"
+
+msgid "Last changes"
+msgstr "Seneste ændringer"
+
+msgid "Read-only"
+msgstr "Læs-kun"
+
+#, fuzzy
+msgid "Line"
+msgstr "Linier"
+
+#, fuzzy
+msgid "Column"
+msgstr "Land"
+
+msgid "case sensitive"
+msgstr "Forskel på store og små bogstaver"
+
+msgid "Close find entry"
+msgstr "Luk find indgang"
+
+msgid "Edit entry"
+msgstr "Redigér indgang"
+
+msgid "Remember cursor position"
+msgstr "Husk markør position"
+
+msgid "Selected note will be removed."
+msgstr "Valgte note blive fjernet"
+
+msgid "No further data recovery will be possible."
+msgstr "Det vil ikke være muligt at genoprette yderligere data"
+
+msgid "Plain"
+msgstr "Almindelig"
+
+msgid "Encrypted"
+msgstr "Krypteret"
+
+msgid "Note type"
+msgstr "Note type"
+
+msgid "Cannot open the note."
+msgstr "Kan ikke åbne noten"
+
+msgid "encryption support is disabled"
+msgstr "Support for kryptering er slået fra"
+
+msgid "Authorization"
+msgstr "Godkendelse"
+
+msgid "Algorithm"
+msgstr "Algoritme"
+
+msgid "Hashing"
+msgstr ""
+
+msgid "Compression"
+msgstr "Komprimering"
+
+msgid "Ratio"
+msgstr "Ratio"
+
+msgid "Fast"
+msgstr "Hurtig"
+
+msgid "Good"
+msgstr "God"
+
+msgid "Best"
+msgstr "Bedre"
+
+msgid "Remember the last selected category"
+msgstr "Husk den sidst valgte kategori"
+
+msgid "Use system format for date and time"
+msgstr "Anvend system format for dato og tid"
+
+msgid "Encryption"
+msgstr "Kryptering"
+
+msgid "Visible columns"
+msgstr "Synlige kolonner"
+
+msgid "Categories"
+msgstr "Kategorier"
+
+msgid "Notes options"
+msgstr "Note indstillinger"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr "Osmo skal genstarte for at træde i kraft."
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Vertical"
+msgstr "Vertikal"
+
+msgid "Horizontal"
+msgstr "Horisontal"
+
+msgid "Tabs position"
+msgstr "Faneblads position"
+
+msgid "Left"
+msgstr "Venstre"
+
+msgid "Right"
+msgstr "Højre"
+
+msgid "Top"
+msgstr "Top"
+
+msgid "Bottom"
+msgstr "Bund"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Anvend standard lager ikoner (genstart nødvendig)"
+
+msgid "Disable underline in links"
+msgstr "Deaktiver understregning i links"
+
+msgid "Draw rows in alternating colors"
+msgstr "Tegn rækker i skiftende farver"
+
+msgid "At least one module must be visible."
+msgstr "Mindst et modul skal være synlig"
+
+msgid "Override locale settings"
+msgstr "Overskriv lokale indstillinger"
+
+msgid "Date format"
+msgstr "Dato format"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY-DD-MM"
+msgstr "YYYY-DD-MM"
+
+msgid "Time format"
+msgstr "Tids format"
+
+msgid "hours"
+msgstr "timer"
+
+msgid "Spell checker language"
+msgstr "Sprog for stavekontrol "
+
+msgid "Enable tooltips"
+msgstr "Aktiver værktøjstips"
+
+msgid "Remember last selected page"
+msgstr "Husk sidst valgte side"
+
+msgid "Save data after every modification"
+msgstr "Gem data efter hver eneste ændring"
+
+msgid "Web browser"
+msgstr "Internet browser"
+
+msgid "E-mail client"
+msgstr "E-Mail program"
+
+msgid "Sound player"
+msgstr "Lydafspiller"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "%s mønstret vil bliver erstattet med internet adresse"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "%s mønstret vil blive erstattet med e-mail adresse"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "%s mønstret vil blive erstattet med lyd filnavnet"
+
+msgid "Create"
+msgstr "Opret"
+
+msgid "Restore"
+msgstr "Genopret"
+
+msgid "Enable system tray"
+msgstr "Aktiver system bakke"
+
+msgid "Start minimised"
+msgstr "Start minimeret"
+
+msgid "Blink on events"
+msgstr "Blink ved begivenheder"
+
+msgid "Ignore day note events"
+msgstr "Ignorer dag note begivenheder"
+
+msgid "Hide"
+msgstr "Gem"
+
+msgid "Helpers"
+msgstr "Hjælpere"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "System tray"
+msgstr "System bakke"
+
+msgid "Edit"
+msgstr "Redigér"
+
+msgid "Go Down"
+msgstr "Flyt Ned"
+
+msgid "Select date"
+msgstr "Vælg dato"
+
+msgid "Select font"
+msgstr "Vælg font"
+
+msgid "Calculator"
+msgstr "Udregner"
+
+msgid "Edit day note"
+msgstr "Rediger dag note"
+
+msgid "Contact map location"
+msgstr "Lokation af kontakt kort"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Display full-year calendar"
+msgstr "Vis kalender for hele året"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "Invalid item"
+msgstr "Ugyldigt element"
+
+msgid "Valid item"
+msgstr "Gyldigt element"
+
+msgid "Edit task"
+msgstr "Rediger begivenhed"
+
+msgid "Remove task"
+msgstr "Fjern begivenhed"
+
+msgid "Import tasks"
+msgstr "Importer begivenheder"
+
+msgid "Export tasks"
+msgstr "Eksporter begivenheder"
+
+msgid "Change to previous date"
+msgstr "Skift til forrige dato"
+
+msgid "Change to next date"
+msgstr "Skift til næste dato"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Recurrent"
+msgstr "Tilbagevendende"
+
+msgid "Started"
+msgstr "Begyndt"
+
+msgid "Finished"
+msgstr "Færdig"
+
+msgid "All items"
+msgstr "Alle elementer"
+
+msgid "New task"
+msgstr "Ny begivenhed"
+
+msgid "Change due date to previous date"
+msgstr "Ændre forfalds dato til foregående dato"
+
+msgid "Change due date to next date"
+msgstr "Ændre forfalds dato til næste dato"
+
+msgid "Print visible tasks list"
+msgstr "Print den synlige liste over begivenheder"
+
+msgid "Due date"
+msgstr "Forfalds dato"
+
+msgid "Priority"
+msgstr "Prioritet"
+
+msgid "Task details"
+msgstr "Detaljer for begivenhed"
+
+msgid "Close description panel"
+msgstr "Luk beskrivelses panel"
+
+msgid "No tasks with defined date found."
+msgstr "Ingen begivenheder fundet med den definerede dato"
+
+msgid "Save tasks"
+msgstr "Gem begivenheder"
+
+msgid "tasks exported"
+msgstr "begivenhed eksporteret"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Vælg venligst mindst en dag når tilbagevendende er aktiveret"
+
+msgid "Set time"
+msgstr "Vælg tidspunkt"
+
+msgid "Tomorrow"
+msgstr "i morgen"
+
+msgid "Selected task will be removed."
+msgstr "Valgte begivenhed vil blive fjernet"
+
+msgid "Basic"
+msgstr "Basal"
+
+msgid "Select date and time"
+msgstr "Vælg dato og tid"
+
+msgid "Low"
+msgstr "Lav"
+
+msgid "High"
+msgstr "Høj"
+
+msgid "Enable sound notification"
+msgstr "Aktiver lyd påmindelse"
+
+msgid "Advanced"
+msgstr "Avanceret"
+
+msgid "Alarm warning"
+msgstr "Alarm advarsel"
+
+msgid "Postpone time"
+msgstr "Udsæt tid"
+
+msgid "Alarm command"
+msgstr "Alarm kommando"
+
+msgid "Recurrent task"
+msgstr "Tilbagevendende begivenhed"
+
+msgid "Enable"
+msgstr "Aktiver"
+
+msgid "Start"
+msgstr "Start"
+
+msgid "End"
+msgstr "Slut"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Time period"
+msgstr "Tids periode"
+
+msgid "Date period"
+msgstr "Dato periode"
+
+msgid "Repeat"
+msgstr "Gentag"
+
+msgid "Repeat in the following days"
+msgstr "Gentag i de følgende dage"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Ignorer alarm hvis begivenheden udløb offline"
+
+msgid "Select a font..."
+msgstr "Vælg en font"
+
+msgid "Color of items that are due today"
+msgstr "Farve på element der er forfalden i dag"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Farve på element der forfalder i de kommende 7 dage"
+
+msgid "Color of items that are past due"
+msgstr "Farve på elementer der er gået over tid"
+
+msgid "Task info font"
+msgstr "Font for info om begivenheder"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Vis med fed skrift begivenheder med høj prioritet"
+
+msgid "Hide completed tasks"
+msgstr "Gem afsluttede begivenheder"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Slet afsluttede begivenheder uden bekræftelse"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Tilføj ny begivhed når der dobbeltklikkes på begivenhedslisten"
+
+msgid "minutes"
+msgstr "minutter"
+
+msgid "0 for disable"
+msgstr "0 for deaktivere"
+
+msgid "Repeat sound alarm"
+msgstr "Gentag lyd alarm"
+
+msgid "times"
+msgstr "tider"
+
+msgid "Global notification command"
+msgstr "Global notifikation kommando"
+
+msgid "Tasks options"
+msgstr "Indstillinger for begivenheder"
+
+msgid "Reminder options"
+msgstr "Indstillinger for påmindelse"
+
+msgid "Tasks list"
+msgstr "Liste over begivenheder"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "Nej."
+
+msgid "New Moon"
+msgstr "Nymåne"
+
+msgid "Waxing Crescent Moon"
+msgstr "Tiltagende Crecent Måne"
+
+msgid "Quarter Moon"
+msgstr "1. kvarter"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Tiltagende Gibbous måne"
+
+msgid "Full Moon"
+msgstr "Fuldmåne"
+
+msgid "Waning Gibbous Moon"
+msgstr "Aftagende Gibbous måne"
+
+msgid "Last Quarter Moon"
+msgstr "3. kvarter"
+
+msgid "Waning Crescent Moon"
+msgstr "Aftagende Crecent måne"
+
+msgid "Question"
+msgstr "Spørgsmål"
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Valgte fil eksistere! Overskriv?"
+
+#~ msgid "Editor font"
+#~ msgstr "Rediger font"
+
+#~ msgid "Category filter"
+#~ msgstr "Kategori filter"

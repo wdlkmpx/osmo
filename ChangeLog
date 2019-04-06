@@ -1,0 +1,112 @@
+
+2010-03-31: version 0.2.10
+  * Optional horizontal (netbook-friendly) GUI
+  * Search capability added for tasks and notes list
+  * Configurable date format in calendar header
+  * Options and About tabs are moved to separate windows
+  * Read-only mode and customizable font for notes
+  * Statistics for selected text in notes
+  * Many GUI improvements
+  * Added translations: en_GB, da, bg
+  * Updated translations: cs, es, jp, pl, it, de, fr, hu, nl, zh_cn
+
+2009-08-21: version 0.2.8
+  * Encrypted data backup
+  * Exporting tasks to iCal file
+  * Option to ignore weekend days in date calculator
+  * Text attributes are handled now in day notes editor
+  * Default alarm sound for task reminder
+  * Added new calendar marker for birthdays
+  * Slightly improved iCal support
+  * Locale settings are used by default
+  * Many improvements and fixes
+  * Added translations: uk
+  * Updated translations: it, fr, ru, jp, tr, cs, nl, es, pl
+
+2009-03-06: version 0.2.6
+  * Unencrypted notes implemented
+  * Calendar printing improvements
+  * Spell checker support
+  * Showing map location of selected contact using Google Maps
+  * The order and width of columns is configurable
+  * System tray support improvements
+  * Selected modules can be disabled at compilation stage
+  * Printing support is optional
+  * Many bug fixes
+  * Added translations: ca, el, fi, sv
+  * Updated translations: tr, fr, de, nl, es, cs, pl
+
+2008-09-27: version 0.2.4
+  * Exporting calendar events to iCal file
+  * Preliminary calendar and tasks list printing
+  * Improved birthdays browser
+  * Option to save data after every modification
+  * Global notification command for tasks
+  * Added --tinygui commandline option
+  * Many bug fixes and enhancements
+  * A temporary birthday logo
+  * Added translations: tr, ja
+  * Updated translations: fr, pl, es, de, nl, cs
+
+2008-07-22: version 0.2.2
+  * Advanced task reminder and event checker
+  * Importing contacts from SyncML based devices (experimental)
+  * Day notes browser with filtering and searching capabilities
+  * A popup menu in the calendar widget
+  * Alternative view in full year calendar
+  * Day category can be displayed in day info panel
+  * Personal data in calendar can be temporary hidden
+  * A marker for current day with distance metric added
+  * Three new event markers in calendar widget 
+  * New commandline options
+  * A lot of improvements and bug fixes
+  * Added Hungarian, Italian, Russian and Chinese translations
+  * Updated German, Czech, French, Polish, Spanish and Dutch translations
+
+2008-02-08: version 0.2.0
+  * Encrypted notes editor
+  * Selected modules can be hidden
+  * Short statistics in full year calendar
+  * Days in full-year calendar have assigned jump-to functionality
+  * Added jump-to button to calendar calculator
+  * Zodiac sign name can be displayed in day info panel
+  * Bug fixes and many small GUI changes
+  * Added Spanish and Lithuanian translation
+  * Updated Dutch, Czech, Portuguese, German and Polish translations
+
+2007-12-24: version 0.1.6
+  * Support for iCalendar files added
+  * Configurable day info panel
+  * Option to change tab bar position
+  * A temporary holiday logo
+  * Several usability changes
+  * Added Dutch translation
+  * Updated Czech and Polish translations
+
+2007-12-04: version 0.1.4
+  * System tray support
+  * Birthdays browser
+  * Windows sizes and positions are preserved between sessions
+  * Auxiliary calendars for the previous and next month added
+  * Current time is displayed in the day info panel
+  * Many bug fixes and cleanups
+  * Updated Polish translation
+
+2007-11-17: version 0.1.2
+  * Arbitrary colors can be assigned to days with notes
+  * Date calculator
+  * Popup menu to change month in calendar 
+  * A new type of calendar mark
+  * Many small GUI changes and updates
+  * A lot of code rewritten
+  * Added French, Czech and German translations
+  * Updated Portuguese and Polish translations
+
+2007-10-22: version 0.1.1
+  * Importing contacts from CSV files is now available
+  * Multiline fields are exported correctly in CSV files
+  * Various minor fixes and enhancements
+
+2007-09-27: version 0.1.0
+  * First public release
+

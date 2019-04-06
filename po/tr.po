@@ -1,0 +1,2230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Osmo 0.2.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2009-08-16 10:55+0200\n"
+"Last-Translator: Hasan Yılmaz <iletisim@hasanyilmaz.net>\n"
+"Language-Team: Hedef Türkçe <iletisim@hedefturkce.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "önceki sekmeye geç"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "sonraki sekmeye geç"
+
+msgid "switch to selected page"
+msgstr "seçili sayfaya geç"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Seçenekleri göster"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr "seçenekler ve hakkında sekmesinde sayfayı değiştir"
+
+msgid "exit"
+msgstr "çık"
+
+#, fuzzy
+msgid "Space"
+msgstr "Kaydet"
+
+msgid "select current date"
+msgstr "şimdiki tarihi seç"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr "kişisel veri görünürlüğünü değiştir"
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Ok"
+
+msgid "change day"
+msgstr "günü değiştir"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "günlük bilgi panelinde içeriği kaydırır"
+
+msgid "change month"
+msgstr "ayı değiştir"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Ev"
+
+msgid "change year"
+msgstr "yılı değiştir"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "takvimlerde önceki ve sonraki ay bilgisini açıp kapar"
+
+msgid "day notes browser"
+msgstr "günlük not gezgini"
+
+msgid "assign background color to day note"
+msgstr "günlük nota artalan rengi ata"
+
+msgid "date calculator"
+msgstr "tarih hesaplayıcı"
+
+msgid "show full-year calendar"
+msgstr "tüm-yıl takvimini göster"
+
+msgid "jump to date"
+msgstr "tarihe zıpla"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Notu sil"
+
+msgid "remove day note"
+msgstr "günlük notu kaldır"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Ok"
+
+msgid "Esc"
+msgstr ""
+
+msgid "close editor"
+msgstr "düzenleyiciyi kapat"
+
+msgid "toggle bold"
+msgstr "koyulaştır"
+
+msgid "toggle italic"
+msgstr "italik"
+
+msgid "toggle underline"
+msgstr "altını çiz"
+
+msgid "toggle strikethrough"
+msgstr "üstünü çiz"
+
+msgid "toggle highlight"
+msgstr "vurgula"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+msgid "toggle alternative view"
+msgstr "öteki görünüm"
+
+msgid "year info"
+msgstr "yıl bilgisi"
+
+msgid "set current year"
+msgstr "şimdiki yılı ayarla"
+
+msgid "close full-year calendar"
+msgstr "tüm-yıl takvimini kapat"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Dahil et"
+
+msgid "add task"
+msgstr "görev ekle"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "görevi düzenle"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "görevi kaldır"
+
+msgid "toggle hidden tasks"
+msgstr "gizli görevleri açıp kapatır"
+
+msgid "activate search field"
+msgstr "arama alanını etkinleştir"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Sağ"
+
+msgid "change category filter"
+msgstr "kategori süzgecini değiştir"
+
+msgid "close task info panel"
+msgstr "görev bilgi panelini kapar"
+
+msgid "Insert"
+msgstr "Dahil et"
+
+msgid "add contact"
+msgstr "kişi ekle"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "kişi düzenle"
+
+msgid "remove contact"
+msgstr "kişiyi kaldır"
+
+msgid "change search mode"
+msgstr "arama kipini değiştir"
+
+msgid "close contact details panel"
+msgstr "kişi ayrıntıları panelini kapat"
+
+#, fuzzy
+msgid "Enter"
+msgstr "İnternet"
+
+msgid "open note"
+msgstr "notu aç"
+
+msgid "add note"
+msgstr "not ekle"
+
+msgid "remove note"
+msgstr "notu kaldır"
+
+msgid "edit note name and category"
+msgstr "not adını ve kategorisini düzenle"
+
+msgid "close note editor"
+msgstr "not düzenleyiciyi kapat"
+
+msgid "save note"
+msgstr "notu kaydet"
+
+msgid "find text"
+msgstr "metni bul"
+
+msgid "clear selection attributes"
+msgstr "seçimin özniteliklerini temizle"
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO kullanıcı rahatlığını hatırda tutmak için tasarlanmıştır, bu noktada "
+"birçok kısayol vardır. Tam liste:"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Calendar"
+msgstr "Takvim"
+
+msgid "Note editor"
+msgstr "Not düzenleyici"
+
+msgid "Full-year calendar"
+msgstr "Tüm-yıl takvimi"
+
+msgid "Tasks"
+msgstr "Görevler"
+
+msgid "Contacts"
+msgstr "Kişiler"
+
+msgid "Notes"
+msgstr "Notlar"
+
+msgid "Selector"
+msgstr "Seçici"
+
+msgid "Editor"
+msgstr "Düzenleyici"
+
+msgid "A handy personal organizer"
+msgstr "Kullanışlı bir kişisel bilgi yöneticisi"
+
+msgid "compiled on"
+msgstr "derlendiği tarih"
+
+msgid "Programming"
+msgstr "Programlama"
+
+msgid "Graphics"
+msgstr "Çizgeleme"
+
+msgid "Contributors"
+msgstr "Katkıda bulunanlar"
+
+msgid "Translators"
+msgstr "Çevirmenler"
+
+msgid "Mailing lists"
+msgstr "Posta listeleri"
+
+msgid "Bug tracker"
+msgstr "Yanlış izleyici"
+
+msgid "Feature requests"
+msgstr "Özellik istekleri"
+
+msgid "Available modules"
+msgstr "Kullanılır birimler"
+
+msgid "Compiled-in features"
+msgstr "Derleme özellikleri"
+
+msgid "iCalendar support"
+msgstr "iCalendar desteği"
+
+msgid "Encrypted notes support"
+msgstr "Şifrelenmiş not desteği"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "SyncML etkinleştirilmiş aygıt desteği"
+
+msgid "Backup support"
+msgstr "Yedekleme desteği"
+
+msgid "Printing support"
+msgstr "Yazdırma desteği"
+
+msgid "Spell checker support"
+msgstr "İmla denetimi desteği"
+
+msgid "version"
+msgstr "sürüm"
+
+msgid "SVN revision"
+msgstr "SVN değişimi"
+
+msgid "Key shortcuts"
+msgstr "Kısayollar"
+
+msgid "License"
+msgstr "Lisans"
+
+msgid "Save backup"
+msgstr "Yedek kaydet"
+
+msgid "Password protection"
+msgstr "Parola koruma"
+
+msgid "Enter password"
+msgstr "Parola gir"
+
+msgid "Re-enter password"
+msgstr "Parolayı yeniden gir"
+
+msgid "Please enter the password"
+msgstr "Lütfen parolayı girin"
+
+msgid "Passwords do not match!"
+msgstr "Parolalar eşleşmiyor!"
+
+msgid "Cannot create backup!"
+msgstr "Yedek oluşturulamadı!"
+
+msgid "Backup file saved successfully!"
+msgstr "Yedek başarıyla kaydedildi!"
+
+msgid "Open backup file"
+msgstr "Yedekleme dosyasını aç"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Osmo yedekleme dosyaları (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Bu bir Osmo yedekleme dosyası değil"
+
+msgid "Incorrect password!"
+msgstr "Geçersiz parola!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "Bütün veriniz yedekleme dosyası içeriği ile değiştirilecek."
+
+msgid "Are you sure?"
+msgstr "Emin misiniz?"
+
+msgid "Osmo has to be restarted now..."
+msgstr "Osmo şimdi yeniden başlatılmak zorunda..."
+
+msgid "was born"
+msgstr "doğumlu"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "yaşında"
+
+msgid "Current time"
+msgstr "Şimdiki saat"
+
+msgid "Day number"
+msgstr "Gün sayısı"
+
+msgid "Today distance"
+msgstr "Bugüne uzaklık"
+
+msgid "Week number"
+msgstr "Hafta sayısı"
+
+msgid "Marked days"
+msgstr "İşaretli günler"
+
+msgid "Weekend days"
+msgstr "Haftasonu günleri"
+
+msgid "Day category"
+msgstr "Gün kategorisi"
+
+msgid "Moon phase"
+msgstr "Ayın evresi"
+
+msgid "Zodiac sign"
+msgstr "Burçlar"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "gün kaldı, yıl sonuna kadar "
+
+msgid "the last day of the year"
+msgstr "yılın son günü"
+
+msgid "Day notes"
+msgstr "Günlük notlar"
+
+msgid "Day tasks"
+msgstr "Günlük görevler"
+
+msgid "Birthday"
+msgstr "Doğum günü"
+
+msgid "Selected day note will be removed."
+msgstr "Seçili günlük not kaldırılacak."
+
+msgid "Continue?"
+msgstr "Devam?"
+
+msgid "Previous year"
+msgstr "Önceki yıl"
+
+msgid "Previous month"
+msgstr "Önceki ay"
+
+msgid "Previous day"
+msgstr "Önceki gün"
+
+msgid "Today"
+msgstr "Bugün"
+
+msgid "Next day"
+msgstr "Sonraki gün"
+
+msgid "Next month"
+msgstr "Sonraki ay"
+
+msgid "Next year"
+msgstr "Sonraki yıl"
+
+msgid "Jump to date"
+msgstr "Tarihe atla"
+
+msgid "Print calendar"
+msgstr "Takvimi yazdır"
+
+msgid "Date calculator"
+msgstr "Tarih hesaplayıcı"
+
+msgid "Preferences"
+msgstr "Yeğlenenler"
+
+msgid "Toggle day note panel"
+msgstr "Günlük not panelini aç-kapa"
+
+msgid "Add task"
+msgstr "Görev ekle"
+
+msgid "Select day color"
+msgstr "Gün rengini seçin"
+
+msgid "Browse notes"
+msgstr "Notlara göz at"
+
+msgid "Browse iCal events"
+msgstr "iCal olaylarına göz at"
+
+msgid "Export to iCal file"
+msgstr "iCal dosyasına aktar"
+
+msgid "Previous and next month"
+msgstr "Önceki ve sonraki ay"
+
+msgid "Close note panel"
+msgstr "Not panelini kapat"
+
+msgid "Highlight"
+msgstr "Vurgulu"
+
+msgid "Strikethrough"
+msgstr "Üstü çizgili"
+
+msgid "Underline"
+msgstr "Altı çizgili"
+
+msgid "Italic"
+msgstr "İtalik"
+
+msgid "Bold"
+msgstr "Koyu"
+
+msgid "Insert timeline"
+msgstr "Zaman çizelgesi ekle"
+
+msgid "Clear text"
+msgstr "Metni temizle"
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Select color"
+msgstr "Renk seç"
+
+msgid "None"
+msgstr "Hiçbiri"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "yıl"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "ay"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "gün"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "saat"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "dakika"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "saniye"
+
+msgid "or"
+msgstr "veya"
+
+msgid "rounded down"
+msgstr "aşağı yuvarlandı"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "hafta"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "iş günü"
+
+msgid "time is ignored"
+msgstr "zaman yok sayıldı"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Hafta sonu günü"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Hesaplayıcı sadece 1 yıldan sonraki tarihleri destekliyor."
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Hafta sonu günü yok sayıldı"
+
+msgid "Year"
+msgstr "Yıl"
+
+msgid "Month"
+msgstr "Ay"
+
+msgid "Day"
+msgstr "Gün"
+
+msgid "Current date"
+msgstr "Şimdiki tarih"
+
+msgid "Set current date"
+msgstr "Şimdiki tarihi ayarla"
+
+msgid "Hour"
+msgstr "Saat"
+
+msgid "Minute"
+msgstr "Dakika"
+
+msgid "Second"
+msgstr "Saniye"
+
+msgid "Set current time"
+msgstr "Şimdiki saati ayarla"
+
+msgid "Reset time"
+msgstr "Saati sıfırla"
+
+msgid "First date and time"
+msgstr "Birinci tarih ve saat"
+
+msgid "Second date and time"
+msgstr "İkinci tarih ve saat"
+
+msgid "Alternative time units"
+msgstr "Alternatif zaman birimleri"
+
+msgid "Result"
+msgstr "Sonuç"
+
+msgid "Duration between two dates"
+msgstr "İki tarih arasındaki süre"
+
+msgid "Operation"
+msgstr "İşlem"
+
+msgid "add"
+msgstr "ekle"
+
+msgid "subtract"
+msgstr "çıkar"
+
+msgid "Date and time to add or subtract from"
+msgstr "Tarih ya da saat eklenecek veya çıkarılacak"
+
+msgid "Years"
+msgstr "Yıl"
+
+msgid "Months"
+msgstr "Ay"
+
+msgid "Days"
+msgstr "Gün"
+
+msgid "Weeks"
+msgstr "Hafta"
+
+msgid "Hours"
+msgstr "Saat"
+
+msgid "Minutes"
+msgstr "Dakika"
+
+msgid "Seconds"
+msgstr "Saniye"
+
+msgid "Ignore weekend days"
+msgstr "Hafta sonu günlerini yok say"
+
+msgid "Reset fields"
+msgstr "Alanları sıfırla"
+
+msgid "Time to add or subtract"
+msgstr "Eklenecek ya da çıkarılacak zaman"
+
+msgid "Jump to"
+msgstr "Zıpla"
+
+msgid "Add to or subtract from a date"
+msgstr "Tarihe ekle veya tarihten çıkar"
+
+msgid "Leap year"
+msgstr "Artık yıl"
+
+msgid "Yes"
+msgstr "Evet"
+
+msgid "No"
+msgstr "Hayır"
+
+msgid "Chinese year animal"
+msgstr "Çin hayvan yılı"
+
+msgid "Number of days"
+msgstr "Gün sayısı"
+
+msgid "Number of weeks"
+msgstr "Hafta sayısı"
+
+msgid "Number of weekend days"
+msgstr "Haftasonu günleri sayısı"
+
+msgid "Year info"
+msgstr "Yıl bilgisi"
+
+msgid "Current year"
+msgstr "Şimdiki yıl"
+
+msgid "Alternative view"
+msgstr "Alternatif görünüm"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "olay"
+
+msgid "No valid calendars defined"
+msgstr "Geçerli tanımlanmış takvim yok"
+
+msgid "iCalendar events"
+msgstr "iCalendar olayları"
+
+msgid "Date"
+msgstr "Tarih"
+
+msgid "Time"
+msgstr "Zaman"
+
+msgid "Summary"
+msgstr "Özet"
+
+msgid "Select output file"
+msgstr "Çıktı dosyasını seç"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Bu liste temizlenecek ve tüm girişler kaybedilecek."
+
+msgid "Done!"
+msgstr "Yapıldı!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "olay dışa aktarıldı"
+
+msgid "iCalendar export"
+msgstr "iCalendar dışa aktarımı"
+
+msgid "Day Selector"
+msgstr "Gün Seçici"
+
+msgid "Use date period"
+msgstr "Kullanılan tarih dönemi"
+
+msgid "Add"
+msgstr "Ekle"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Output filename"
+msgstr "Çıktı dosyası adı"
+
+msgid "Browse"
+msgstr "Göz at"
+
+msgid "Cancel"
+msgstr "Vazgeç"
+
+msgid "Export"
+msgstr "Dışa aktar"
+
+msgid "no entries"
+msgstr "giriş olmadı"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "giriş"
+
+msgid "Calendar notes"
+msgstr "Takvim notları"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Filter"
+msgstr "Süzgeç"
+
+msgid "Current month"
+msgstr "Şimdiki ay"
+
+msgid "Selected month"
+msgstr "Seçili ay"
+
+msgid "Selected year"
+msgstr "Seçili yıl"
+
+msgid "Selected month and year"
+msgstr "Seçili ay ve yıl"
+
+msgid "All notes"
+msgstr "Tüm notlar"
+
+msgid "Case sensitive"
+msgstr "Büyük-küçük harfe duyarlı"
+
+msgid "Strikethrough past day notes"
+msgstr "Üstü çizgili geçmiş günlük notlar"
+
+msgid "Note"
+msgstr "Not"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Ay adı"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "AA-GG-YYYY"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Tarih biçimi"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Çıktı biçimi"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Tarih biçimi"
+
+msgid "Day note marker"
+msgstr "Günlük not imleci"
+
+msgid "Event marker"
+msgstr "Olay imleci"
+
+msgid "Circle"
+msgstr "Çember"
+
+msgid "Ellipse"
+msgstr "Elips"
+
+msgid "Wave"
+msgstr "Dalga"
+
+msgid "Current day marker"
+msgstr "Geçerli gün imleci"
+
+msgid "Arrow"
+msgstr "Ok"
+
+msgid "Free-hand circle"
+msgstr "Elle çizilmiş çember"
+
+msgid "Colors"
+msgstr "Renkler"
+
+msgid "Header color"
+msgstr "Başlık rengi"
+
+msgid "Weekend days color"
+msgstr "Hafta sonu günleri rengi"
+
+msgid "Cursor color"
+msgstr "İmleç rengi"
+
+msgid "Event marker color"
+msgstr "Olay imleci rengi"
+
+msgid "Current day marker color"
+msgstr "Mevcut gün imleci rengi"
+
+msgid "Birthday marker color"
+msgstr "Doğum günü işaretleyici rengi"
+
+msgid "Date font"
+msgstr "Tarih yazıyüzü"
+
+msgid "Calendar font"
+msgstr "Takvim yazıyüzü"
+
+msgid "Note font"
+msgstr "Not yazıyüzü"
+
+msgid "Enable block cursor"
+msgstr "Dikdörtgen imleci etkinleştir"
+
+msgid "Cursor thickness"
+msgstr "İmleç kalınlığı"
+
+msgid "Thin"
+msgstr "İnce"
+
+msgid "Thick"
+msgstr "Kalın"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Gün kategorisi"
+
+msgid "Color"
+msgstr "Renk"
+
+msgid "Name"
+msgstr "Ad"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Select ICS file"
+msgstr "ICS dosyası seçin"
+
+msgid "All Files"
+msgstr "Tüm dosyalar"
+
+msgid "Calendar files (*.ics)"
+msgstr "Takvim dosyaları (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "ICAL değiştirgelerini belirle"
+
+msgid "Filename"
+msgstr "Dosya adı"
+
+msgid "Options"
+msgstr "Seçenekler"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Geçerli"
+
+msgid "Description"
+msgstr "Açıklama"
+
+msgid "Full date"
+msgstr "Tam tarih"
+
+msgid "Mark"
+msgstr "İşaretle"
+
+msgid "Week start on Monday"
+msgstr "Hafta Pazartesi ile başlasın"
+
+msgid "Show day names"
+msgstr "Gün adlarını göster"
+
+msgid "No month change"
+msgstr "Ay değişikliği yok"
+
+msgid "Show week numbers"
+msgstr "Hafta sayısını göster"
+
+msgid "Simple view in full-year calendar"
+msgstr "Tüm-yıl takviminde basit görünüm"
+
+msgid "Enable auxilary calendars"
+msgstr "Yardımcı takvimleri etkinleştir"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Günlük not tarayıcısında artan sıralama"
+
+msgid "Enable spell checker in day notes"
+msgstr "Günlük notlarda imla denetimini etkinleştir"
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+msgid "Day categories"
+msgstr "Gün kategorileri"
+
+msgid "iCalendar files"
+msgstr "iCalendar dosyaları"
+
+msgid "Show in day info panel"
+msgstr "Günlük bilgi panelinde göster"
+
+msgid "Name day"
+msgstr "Ad günü"
+
+msgid "Error printing"
+msgstr "Yazdırmada hata"
+
+msgid "Printing properties"
+msgstr "Yazıcı özellikleri"
+
+msgid "Month name"
+msgstr "Ay adı"
+
+msgid "Day name"
+msgstr "Gün adı"
+
+msgid "Events"
+msgstr "Olaylar"
+
+msgid "Fonts"
+msgstr "Yazıyüzleri"
+
+msgid "Birthdays"
+msgstr "Doğum günleri"
+
+msgid "Namedays"
+msgstr "Adgünleri"
+
+msgid "Visible events"
+msgstr "Görünür olaylar"
+
+msgid "Padding"
+msgstr "Dolgu"
+
+msgid "Event maximum length"
+msgstr "Olayın azami uzunluğu"
+
+msgid "Page orientation:"
+msgstr "Sayfa yönü:"
+
+msgid "Portrait"
+msgstr "Düşey"
+
+msgid "Landscape"
+msgstr "Yatay"
+
+msgid "Timeline"
+msgstr "Zaman çizelgesi"
+
+msgid "From (hour)"
+msgstr "İlk (saat)"
+
+msgid "Step (minutes)"
+msgstr "Tekrar (dakika)"
+
+msgid "To (hour)"
+msgstr "Son (saat)"
+
+msgid "No date"
+msgstr "Tarih yok"
+
+msgid "Rat"
+msgstr "Fare"
+
+msgid "Ox"
+msgstr "Öküz"
+
+msgid "Tiger"
+msgstr "Kaplan"
+
+msgid "Hare"
+msgstr "Tavşan"
+
+msgid "Dragon"
+msgstr "Ejderha"
+
+msgid "Snake"
+msgstr "Yılan"
+
+msgid "Horse"
+msgstr "At"
+
+msgid "Sheep"
+msgstr "Koyun"
+
+msgid "Monkey"
+msgstr "Maymun"
+
+msgid "Fowl"
+msgstr "Tavuk"
+
+msgid "Dog"
+msgstr "Köpek"
+
+msgid "Pig"
+msgstr "Domuz"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Aquarius"
+msgstr "Kova"
+
+msgid "Pisces"
+msgstr "Balık"
+
+msgid "Aries"
+msgstr "Koç"
+
+msgid "Taurus"
+msgstr "Boğa"
+
+msgid "Gemini"
+msgstr "İkizler"
+
+msgid "Cancer"
+msgstr "Yengeç"
+
+msgid "Leo"
+msgstr "Aslan"
+
+msgid "Virgo"
+msgstr "Başak"
+
+msgid "Libra"
+msgstr "Terazi"
+
+msgid "Scorpio"
+msgstr "Akrep"
+
+msgid "Sagittarius"
+msgstr "Yay"
+
+msgid "Capricorn"
+msgstr "Oğlak"
+
+msgid "Cannot perform selected operation."
+msgstr "Seçilen işlem gerçekleştirilemiyor."
+
+msgid "Task has been modified or removed."
+msgstr "Görev değiştirilmiş ya da kaldırılmış."
+
+msgid "Remind me later"
+msgstr "Daha sonra hatırlat"
+
+msgid "Done"
+msgstr "Yapıldı"
+
+msgid "postponed"
+msgstr "ertelendi"
+
+msgid "Show task"
+msgstr "Görevi göster"
+
+msgid "Alarm warning!"
+msgstr "Alarm uyarısı!"
+
+msgid "Day note"
+msgstr "Günlük not"
+
+msgid "Type"
+msgstr "Tür"
+
+msgid "Event"
+msgstr "Olay"
+
+msgid "Task"
+msgstr "Görev"
+
+msgid "Show Osmo"
+msgstr "Osmo'yu göster"
+
+msgid "No birthdays defined"
+msgstr "Doğum günü tanımlanmadı"
+
+msgid "Birthdays list"
+msgstr "Doğum günü listesi"
+
+msgid "Days to birthday"
+msgstr "Doğum gününe kalan gün"
+
+msgid "Age"
+msgstr "Yaş"
+
+msgid "Birthday date"
+msgstr "Doğum günü tarihi"
+
+msgid "today"
+msgstr "bugün"
+
+msgid "Please select address"
+msgstr "Lütfen adres seçin."
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "Work"
+msgstr "İş"
+
+msgid "Home"
+msgstr "Ev"
+
+msgid "Group"
+msgstr "Grup"
+
+msgid "First name"
+msgstr "İlk ad"
+
+msgid "Last name"
+msgstr "Soyadı"
+
+msgid "Second name"
+msgstr "İkinci ad"
+
+msgid "Nickname"
+msgstr "Takma ad"
+
+msgid "Tags"
+msgstr "Etiketler"
+
+msgid "Name day date"
+msgstr "Ad günü tarihi"
+
+msgid "Home address"
+msgstr "Ev adresi"
+
+msgid "Home postcode"
+msgstr "Posta kodu (ev)"
+
+msgid "Home city"
+msgstr "Şehir (ev)"
+
+msgid "Home state"
+msgstr "Bölge (ev)"
+
+msgid "Home country"
+msgstr "Ülke (ev)"
+
+msgid "Organization"
+msgstr "Organizasyon"
+
+msgid "Department"
+msgstr "Bölüm"
+
+msgid "Work address"
+msgstr "İş adresi"
+
+msgid "Work postcode"
+msgstr "Posta kodu (iş)"
+
+msgid "Work city"
+msgstr "Şehir (iş)"
+
+msgid "Work state"
+msgstr "Bölge (iş)"
+
+msgid "Work country"
+msgstr "Ülke (iş)"
+
+msgid "Fax"
+msgstr "Faks"
+
+msgid "Home phone"
+msgstr "Ev telefonu"
+
+msgid "Home phone 2"
+msgstr "Ev telefonu 2"
+
+msgid "Home phone 3"
+msgstr "Ev telefonu 3"
+
+msgid "Home phone 4"
+msgstr "Ev telefonu 4"
+
+msgid "Work phone"
+msgstr "İş telefonu"
+
+msgid "Work phone 2"
+msgstr "İş telefonu 2"
+
+msgid "Work phone 3"
+msgstr "İş telefonu 3"
+
+msgid "Work phone 4"
+msgstr "İş telefonu 4"
+
+msgid "Cell phone"
+msgstr "Cep telefonu"
+
+msgid "Cell phone 2"
+msgstr "Cep telefonu 2"
+
+msgid "Cell phone 3"
+msgstr "Cep telefonu 3"
+
+msgid "Cell phone 4"
+msgstr "Cep telefonu 4"
+
+msgid "E-Mail"
+msgstr "E-posta"
+
+msgid "E-Mail 2"
+msgstr "E-posta 2"
+
+msgid "E-Mail 3"
+msgstr "E-posta 3"
+
+msgid "E-Mail 4"
+msgstr "E-posta 4"
+
+msgid "WWW"
+msgstr "Site"
+
+msgid "WWW 2"
+msgstr "Site 2"
+
+msgid "WWW 3"
+msgstr "Site 3"
+
+msgid "WWW 4"
+msgstr "Site 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Fotoğraf"
+
+msgid "Additional info"
+msgstr "Ek bilgi"
+
+msgid "New contact"
+msgstr "Yeni kişi"
+
+msgid "Remove contact"
+msgstr "Kişiyi kaldır"
+
+msgid "Edit contact"
+msgstr "Kişiyi düzenle"
+
+msgid "Show birthdays"
+msgstr "Doğum günlerini göster"
+
+msgid "Show contact location on the map"
+msgstr "Kişinin yerini harita üzerinde göster"
+
+msgid "Import contacts"
+msgstr "Kişileri içe aktar"
+
+msgid "Export contacts"
+msgstr "Kişileri dışa aktar"
+
+msgid "First Name"
+msgstr "İlk ad"
+
+msgid "Last Name"
+msgstr "Soyadı"
+
+msgid "All fields"
+msgstr "Tüm alanlar"
+
+msgid "Contact details"
+msgstr "Kişi ayrıntıları"
+
+msgid "Close contact panel"
+msgstr "Kişi panelini kapat"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "kişi dışa aktarıldı"
+
+msgid "Cannot create file."
+msgstr "Dosya yaratılamadı."
+
+msgid "Output format"
+msgstr "Çıktı biçimi"
+
+msgid "Add header"
+msgstr "Başlık ekle"
+
+msgid "Fields to export"
+msgstr "Dışa aktarılacak alanlar"
+
+msgid "All"
+msgstr "Tümü"
+
+msgid "Invert"
+msgstr "Ters çevir"
+
+msgid "Select fields"
+msgstr "Alanları seç"
+
+msgid "Select CSV file"
+msgstr "CSV dosyasını seç"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (virgül-ayrımlı değerler) dosyalar (*.csv)"
+
+msgid "Please select file first."
+msgstr "Lütfen önce dosyayı seçin."
+
+msgid "Import type"
+msgstr "İçe aktarma türü"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "Input filename"
+msgstr "Girdi dosyası adı"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "Channel"
+msgstr "Kanal"
+
+msgid "Interface"
+msgstr "Arabirim"
+
+msgid "Use binary XML (WBXML)"
+msgstr "XML ikilisini kullan (WBXML)"
+
+msgid "Import"
+msgstr "İçe aktar"
+
+msgid "Nothing to import."
+msgstr "İçe aktarılacak yok."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "kişi eklendi"
+
+msgid "of"
+msgstr "'ın"
+
+msgid "Record"
+msgstr "Kayıt"
+
+msgid "Number fields per record"
+msgstr "Kayıt başına düşen alan sayısı"
+
+msgid "Use first record as header"
+msgstr "İlk kaydı başlık olarak kullan"
+
+msgid "Field type"
+msgstr "Alan türü"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "No records found in selected file."
+msgstr "Seçili dosyada hiçbir kayıt bulunamadı."
+
+msgid "Cannot read file."
+msgstr "Dosya okunamıyor."
+
+msgid "Cannot open file."
+msgstr "Dosya açılamıyor."
+
+msgid "Selected contact will be removed."
+msgstr "Seçili kişi kaldırılacak."
+
+msgid "Select photo"
+msgstr "Fotoğraf seç"
+
+msgid "Postcode"
+msgstr "Posta kodu"
+
+msgid "City"
+msgstr "Şehir"
+
+msgid "State"
+msgstr "Bölge"
+
+msgid "Country"
+msgstr "Ülke"
+
+msgid "Add contact"
+msgstr "Kişi ekle"
+
+msgid "Personal"
+msgstr "Kişisel"
+
+msgid "Phones"
+msgstr "Telefonlar"
+
+msgid "Internet"
+msgstr "İnternet"
+
+msgid "Color of contact tags"
+msgstr "Kişi etiketlerinin rengi"
+
+msgid "Color of links"
+msgstr "Linklerin rengi"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Fotoğraf boyutu"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Ad yazıyüzü"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Öğe yazıyüzü"
+
+msgid "Photo size"
+msgstr "Fotoğraf boyutu"
+
+msgid "Small"
+msgstr "Küçük"
+
+msgid "Medium"
+msgstr "Orta"
+
+msgid "Large"
+msgstr "Büyük"
+
+msgid "Select and show first item after search"
+msgstr "Aramadan sonraki ilk öğeyi seç ve göster"
+
+msgid "Hide group column"
+msgstr "Grup sütununu gizle"
+
+msgid "Order"
+msgstr "Düzenleme"
+
+msgid "Mode"
+msgstr "Kip"
+
+msgid "Ascending"
+msgstr "Artan"
+
+msgid "Descending"
+msgstr "Azalan"
+
+msgid "Miscellaneous"
+msgstr "Çeşitli"
+
+msgid "Groups"
+msgstr "Gruplar"
+
+msgid "Sorting"
+msgstr "Sıralama"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Doğumgünü tarayıcısındaki görülür sütunlar"
+
+msgid "Show calendar"
+msgstr "Takvimi göster"
+
+msgid "Show tasks"
+msgstr "Görevleri göster"
+
+msgid "Show contacts"
+msgstr "Kişileri göster"
+
+msgid "Show notes"
+msgstr "Notları göster"
+
+msgid "Show options"
+msgstr "Seçenekleri göster"
+
+msgid "Quit"
+msgstr "Çık"
+
+msgid "Show small calendar window"
+msgstr "Küçük takvim penceresini göster"
+
+msgid "Check for events since last run"
+msgstr "Son çalıştırmadan sonraki olayları denetle"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "İlerideki olayların kontrol edileceği gün sayısı (varsayılan: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Veri dosyaları ve ayarlar için salt yolu ayarla"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Osmo'yu düşük çözünürlüklerde kullanabilmek için arayüzünü değiştir"
+
+msgid "handy personal organizer"
+msgstr "kullanışlı kişisel bilgi yöneticisi"
+
+msgid "ERROR: Cannot create config files"
+msgstr "HATA: Yapılandırma dosyaları yaratılamıyor"
+
+msgid "Another copy of OSMO is already running."
+msgstr "OSMO'nun başka bir kopyası çalışır durumda."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Aynı anda iki veya daha çok çalışan OSMO kopyası veri kayıplarına sebep "
+"olabilir."
+
+msgid "Do you really want to continue?"
+msgstr "Gerçekten devam etmek istiyor musunuz?"
+
+msgid "Warning"
+msgstr "Uyarı"
+
+msgid "The note has changed."
+msgstr "Not değiştirildi."
+
+msgid "Do you want to save it?"
+msgstr "Kaydetmek istiyor musunuz?"
+
+msgid "Words"
+msgstr "Kelime"
+
+msgid "Lines"
+msgstr "Satır"
+
+msgid "Characters"
+msgstr "Karakter"
+
+msgid "White characters"
+msgstr "Beyaz karakterler"
+
+msgid "Bytes"
+msgstr "Sekiz ikil"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Seçici"
+
+msgid "Created"
+msgstr "Oluşturuldu"
+
+msgid "Modified"
+msgstr "Değiştirildi"
+
+msgid "New note"
+msgstr "Yeni not"
+
+msgid "Add note"
+msgstr "Not ekle"
+
+msgid "Edit note"
+msgstr "Notu düzenle"
+
+msgid "Delete note"
+msgstr "Notu sil"
+
+msgid "Remove note"
+msgstr "Notu kaldır"
+
+msgid "Find"
+msgstr "Bul"
+
+msgid "Clear attributes"
+msgstr "Öznitelikleri temizle"
+
+msgid "Save note"
+msgstr "Notu kaydet"
+
+msgid "Insert current date and time"
+msgstr "Şimdiki tarihi ve saati ekle"
+
+msgid "Insert separator"
+msgstr "Ayırıcı ekle"
+
+msgid "Statistics"
+msgstr "İstatistikler"
+
+msgid "Close editor"
+msgstr "Düzenleyiciyi kapat"
+
+msgid "Toggle spell checker"
+msgstr "İmla denetimi geçişi"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Note name"
+msgstr "Not adı"
+
+msgid "Last changes"
+msgstr "Son değişiklikler"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Satır"
+
+#, fuzzy
+msgid "Column"
+msgstr "Ülke"
+
+msgid "case sensitive"
+msgstr "büyük-küçük harf duyarlı"
+
+msgid "Close find entry"
+msgstr "Giriş bulmayı kapat"
+
+msgid "Edit entry"
+msgstr "Girişi düzenle"
+
+msgid "Remember cursor position"
+msgstr "İşaretçi konumunu hatırla"
+
+msgid "Selected note will be removed."
+msgstr "Seçili not kaldırılacak."
+
+msgid "No further data recovery will be possible."
+msgstr "İlave veri kurtarma mümkün değil."
+
+msgid "Plain"
+msgstr "Düz"
+
+msgid "Encrypted"
+msgstr "Şifrelenmiş"
+
+msgid "Note type"
+msgstr "Not türü"
+
+msgid "Cannot open the note."
+msgstr "Not açılamıyor."
+
+msgid "encryption support is disabled"
+msgstr "Şifreleme desteği etkin değil"
+
+msgid "Authorization"
+msgstr "Yetki"
+
+msgid "Algorithm"
+msgstr "Algoritma"
+
+msgid "Hashing"
+msgstr "Adresleme"
+
+msgid "Compression"
+msgstr "Sıkıştırma"
+
+msgid "Ratio"
+msgstr "Oran"
+
+msgid "Fast"
+msgstr "Hızlı"
+
+msgid "Good"
+msgstr "İyi"
+
+msgid "Best"
+msgstr "En iyi"
+
+msgid "Remember the last selected category"
+msgstr "Seçili son kategoriyi hatırla"
+
+msgid "Use system format for date and time"
+msgstr "Tarih ve saat için sistem biçimini kullan"
+
+msgid "Encryption"
+msgstr "Şifreleme"
+
+msgid "Visible columns"
+msgstr "Görünür sütunlar"
+
+msgid "Categories"
+msgstr "Kategoriler"
+
+msgid "Notes options"
+msgstr "Not seçenekleri"
+
+#, fuzzy
+msgid "Osmo has to be restarted to take effect."
+msgstr "Osmo şimdi yeniden başlatılmak zorunda..."
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Sekme konumu"
+
+msgid "Left"
+msgstr "Sol"
+
+msgid "Right"
+msgstr "Sağ"
+
+msgid "Top"
+msgstr "Üst"
+
+msgid "Bottom"
+msgstr "Alt"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Varsayılan mevcut simgeleri kullan (yeniden başlatma gerektirir)"
+
+msgid "Disable underline in links"
+msgstr "Linklerde altı çizgili kullanımı etkisizleştir"
+
+msgid "Draw rows in alternating colors"
+msgstr "Sıraları değişen renklerle diz"
+
+msgid "At least one module must be visible."
+msgstr "En az bir bir birim görünür olmalı."
+
+msgid "Override locale settings"
+msgstr "Yerel ayarları geçersiz kıl"
+
+msgid "Date format"
+msgstr "Tarih biçimi"
+
+msgid "DD-MM-YYYY"
+msgstr "GG-AA-YYYY"
+
+msgid "MM-DD-YYYY"
+msgstr "AA-GG-YYYY"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-AA-GG"
+
+msgid "YYYY-DD-MM"
+msgstr "YYYY-GG-AA"
+
+msgid "Time format"
+msgstr "Zaman biçimi"
+
+msgid "hours"
+msgstr "saat"
+
+msgid "Spell checker language"
+msgstr "İmla denetimi dili"
+
+msgid "Enable tooltips"
+msgstr "Araç ipuçlarını etkinleştir"
+
+msgid "Remember last selected page"
+msgstr "Seçili son sayfayı hatırla"
+
+msgid "Save data after every modification"
+msgstr "Her değişiklikten sonra veriyi kaydet"
+
+msgid "Web browser"
+msgstr "Ağ tarayıcı"
+
+msgid "E-mail client"
+msgstr "E-posta istemci"
+
+msgid "Sound player"
+msgstr "Ses oynatıcı"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "%s örüntüsü, site adresi ile değiştirilecek"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "%s örüntüsü, e-posta adresi ile değiştirilecek"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "%s örüntüsü, ses dosyasının adı ile değiştirilecek"
+
+msgid "Create"
+msgstr "Oluştur"
+
+msgid "Restore"
+msgstr "Geri yükle"
+
+msgid "Enable system tray"
+msgstr "Sistem tepsisini etkinleştir"
+
+msgid "Start minimised"
+msgstr "Küçültülmüş başlat"
+
+msgid "Blink on events"
+msgstr "Olaylarda yanıp sön"
+
+msgid "Ignore day note events"
+msgstr "Günlük not olaylarını yoksay"
+
+msgid "Hide"
+msgstr "Gizle"
+
+msgid "Helpers"
+msgstr "Yardımcılar"
+
+msgid "Backup"
+msgstr "Yedek"
+
+msgid "System tray"
+msgstr "Sistem tepsisi"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Go Down"
+msgstr "Aşağı Git"
+
+msgid "Select date"
+msgstr "Tarih seç"
+
+msgid "Select font"
+msgstr "Yazıyüzü seç"
+
+msgid "Calculator"
+msgstr "Hesaplayıcı"
+
+msgid "Edit day note"
+msgstr "Günlük notu düzenle"
+
+msgid "Contact map location"
+msgstr "Kişinin haritadaki yeri"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Display full-year calendar"
+msgstr "Tüm-yıl takvimini göster"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Invalid item"
+msgstr "Geçersiz öğe"
+
+msgid "Valid item"
+msgstr "Geçerli öğe"
+
+msgid "Edit task"
+msgstr "Görevi düzenle"
+
+msgid "Remove task"
+msgstr "Görevi kaldır"
+
+msgid "Import tasks"
+msgstr "Görevleri içe aktar"
+
+msgid "Export tasks"
+msgstr "Görevleri dışa aktar"
+
+msgid "Change to previous date"
+msgstr "Önceki tarihe değiştir"
+
+msgid "Change to next date"
+msgstr "Sonraki tarihe değiştir"
+
+msgid "Print"
+msgstr "Yazdır"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Recurrent"
+msgstr "Yinelenen"
+
+msgid "Started"
+msgstr "Başlamış"
+
+msgid "Finished"
+msgstr "Bitti"
+
+msgid "All items"
+msgstr "Tüm öğeler"
+
+msgid "New task"
+msgstr "Yeni görev"
+
+msgid "Change due date to previous date"
+msgstr "Yapılması gereken tarihi önceki tarihe değiştir"
+
+msgid "Change due date to next date"
+msgstr "Yapılması gereken tarihi sonraki tarihe değiştir"
+
+msgid "Print visible tasks list"
+msgstr "Görülür görevler listesini yazdır"
+
+msgid "Due date"
+msgstr "Son tarih"
+
+msgid "Priority"
+msgstr "Öncelik"
+
+msgid "Task details"
+msgstr "Görev ayrıntıları"
+
+msgid "Close description panel"
+msgstr "Tanım panelini kapat"
+
+msgid "No tasks with defined date found."
+msgstr "Tanımlanmış tarihte görev bulunamadı."
+
+msgid "Save tasks"
+msgstr "Görevleri kaydet"
+
+msgid "tasks exported"
+msgstr "görev dışa aktarıldı"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Tekrarlama etkinleştirildiğinde lütfen en az bir gün seçin."
+
+msgid "Set time"
+msgstr "Saati ayarla"
+
+msgid "Tomorrow"
+msgstr "Yarın"
+
+msgid "Selected task will be removed."
+msgstr "Seçili görev kaldırılacak."
+
+msgid "Basic"
+msgstr "Temel"
+
+msgid "Select date and time"
+msgstr "Tarih ve saat seç"
+
+msgid "Low"
+msgstr "Düşük"
+
+msgid "High"
+msgstr "Yüksek"
+
+msgid "Enable sound notification"
+msgstr "Sesli bildirimi etkinleştir"
+
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+msgid "Alarm warning"
+msgstr "Alarm uyarısı"
+
+msgid "Postpone time"
+msgstr "Ertelenecek zaman"
+
+msgid "Alarm command"
+msgstr "Alarm komutu"
+
+msgid "Recurrent task"
+msgstr "Yinelenen görev"
+
+msgid "Enable"
+msgstr "Etkinleştir"
+
+msgid "Start"
+msgstr "Başlangıç"
+
+msgid "End"
+msgstr "Bitiş"
+
+msgid "Interval"
+msgstr "Aralık"
+
+msgid "Time period"
+msgstr "Zaman dönemi"
+
+msgid "Date period"
+msgstr "Tarih dönemi"
+
+msgid "Repeat"
+msgstr "Yinele"
+
+msgid "Repeat in the following days"
+msgstr "Sonraki günlerde yinele"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Çevrimdışıyken görev biterse alarmı yoksay"
+
+msgid "Select a font..."
+msgstr "Bir yazıyüzü seçin..."
+
+msgid "Color of items that are due today"
+msgstr "Bugün yapılması gereken öğelerin rengi"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Önümüzdeki 7 günde yapılması gereken öğelerin rengi"
+
+msgid "Color of items that are past due"
+msgstr "Yapılmış olması gereken öğelerin rengi"
+
+msgid "Task info font"
+msgstr "Görev bilgisi yazıyüzü"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Yüksek öncelikte olan görevleri koyu göster"
+
+msgid "Hide completed tasks"
+msgstr "Tamamlanan görevleri gizle"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Tamamlanan görevleri doğrulama olmadan sil"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Görevler listesine çift tıklandığında yeni görev ekle"
+
+msgid "minutes"
+msgstr "dakika"
+
+msgid "0 for disable"
+msgstr "etkisizleştirmek için 0"
+
+msgid "Repeat sound alarm"
+msgstr "Ses uyarısını yinele"
+
+msgid "times"
+msgstr "kere"
+
+msgid "Global notification command"
+msgstr "Genel bildirim komutu"
+
+msgid "Tasks options"
+msgstr "Görev seçenekleri"
+
+msgid "Reminder options"
+msgstr "Hatırlatıcı seçenekleri"
+
+msgid "Tasks list"
+msgstr "Görev listesi"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "Num."
+
+msgid "New Moon"
+msgstr "Yeni Ay"
+
+msgid "Waxing Crescent Moon"
+msgstr "Büyüyen Hilâl"
+
+msgid "Quarter Moon"
+msgstr "İlk Dördün"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Büyüyen Şişkin Evre"
+
+msgid "Full Moon"
+msgstr "Dolunay"
+
+msgid "Waning Gibbous Moon"
+msgstr "Küçülen Şişkin Evre"
+
+msgid "Last Quarter Moon"
+msgstr "Son Dördün"
+
+msgid "Waning Crescent Moon"
+msgstr "Küçülen Hilâl"
+
+msgid "Question"
+msgstr "Soru"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Seçili dosya zaten var! Üzerine yazılsın mı?"
+
+#~ msgid "Editor font"
+#~ msgstr "Yazıyüzü düzenleyici"
+
+#~ msgid "Category filter"
+#~ msgstr "Kategori süzgeci"
+
+#~ msgid "Modify color"
+#~ msgstr "Renk belirleyin"
+
+#~ msgid "ICal"
+#~ msgstr "ICal"
+
+#~ msgid "change day while note editing"
+#~ msgstr "not düzenleme sırasında günü değiştir"
+
+#~ msgid "close day note panel"
+#~ msgstr "günlük not panelini kapat"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "seçimi koyu imle"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "seçimi italik imle"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "seçimi artalan rengi olarak imle"
+
+#~ msgid "underline selection"
+#~ msgstr "seçimin altını çiz"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "seçimin üstünü çiz"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "kullanışlı bir kişisel bilgi yöneticisi"
+
+#~ msgid "Use year"
+#~ msgstr "Yılı kullan"
+
+#~ msgid "Inactive recurrent"
+#~ msgstr "Yinelenmeyen"
+
+#~ msgid "Birthday found"
+#~ msgstr "Doğum günü bulundu"
+
+#~ msgid "Task found"
+#~ msgstr "Görev bulundu"
+
+#~ msgid "Day note available"
+#~ msgstr "Günlük not var"

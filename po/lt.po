@@ -1,0 +1,2377 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo-0.1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2008-02-03 09:46+0200\n"
+"Last-Translator: Joshas <joshas@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Lithuanian\n"
+"X-Poedit-Country: LITHUANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "About"
+msgstr "Apie"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "pereiti į praeitą kortelę"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "pereitį į kitą kortelę"
+
+#, fuzzy
+msgid "switch to selected page"
+msgstr "pereitį į kitą kortelę"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Rodyti parinktis"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr "pakeisti puslapį parinkčių ir apie kortelėse"
+
+msgid "exit"
+msgstr "išeiti"
+
+#, fuzzy
+msgid "Space"
+msgstr "Išsaugoti"
+
+msgid "select current date"
+msgstr "parinkti šiandienos datą"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr ""
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Rytojus"
+
+msgid "change day"
+msgstr "pakeisti dieną"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "slinkti dienos informacijos skydelio turinį"
+
+msgid "change month"
+msgstr "pakeisti mėnesį"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Namų"
+
+msgid "change year"
+msgstr "pakeisti metus"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "perjungti praeito ir kito mėnesio kalendorius"
+
+#, fuzzy
+msgid "day notes browser"
+msgstr "Interneto naršyklė"
+
+msgid "assign background color to day note"
+msgstr "priskirti spalvą dienos pastabos fonui"
+
+msgid "date calculator"
+msgstr "datos skaičiuoklis"
+
+msgid "show full-year calendar"
+msgstr "parodyti visų metų kalendorių"
+
+msgid "jump to date"
+msgstr "pereiti į dieną"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Pašalinti pastabą"
+
+msgid "remove day note"
+msgstr "pašalinti dienos pastabą"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Rytojus"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "close editor"
+msgstr "Užverti rašyklę"
+
+msgid "toggle bold"
+msgstr ""
+
+#, fuzzy
+msgid "toggle italic"
+msgstr "perjungti paslėptas užduotis"
+
+#, fuzzy
+msgid "toggle underline"
+msgstr "Pabrauktas"
+
+#, fuzzy
+msgid "toggle strikethrough"
+msgstr "Perbrauktas"
+
+#, fuzzy
+msgid "toggle highlight"
+msgstr "Paryškinti"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+#, fuzzy
+msgid "toggle alternative view"
+msgstr "Alternatyvūs laiko vienetai"
+
+#, fuzzy
+msgid "year info"
+msgstr "Metų informacija"
+
+#, fuzzy
+msgid "set current year"
+msgstr "Šie metai"
+
+#, fuzzy
+msgid "close full-year calendar"
+msgstr "parodyti visų metų kalendorių"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Įterpti"
+
+msgid "add task"
+msgstr "pridėti užduotį"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "taisyti užduotį"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "pašalinti užduotį"
+
+msgid "toggle hidden tasks"
+msgstr "perjungti paslėptas užduotis"
+
+msgid "activate search field"
+msgstr "aktyvuoti paieškos lauką"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Dešinėje"
+
+msgid "change category filter"
+msgstr "pakeisti kategorijos filtrą"
+
+msgid "close task info panel"
+msgstr "uždaryti užduočių informacijos skydelį"
+
+msgid "Insert"
+msgstr "Įterpti"
+
+msgid "add contact"
+msgstr "pridėti adresatą"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "taisyti adresato įrašą"
+
+msgid "remove contact"
+msgstr "pašalinti adresatą"
+
+msgid "change search mode"
+msgstr "pakeisti paieškos veikseną"
+
+msgid "close contact details panel"
+msgstr "užverti adresato išsamios informacijos skydelį"
+
+#, fuzzy
+msgid "Enter"
+msgstr "Internetas"
+
+msgid "open note"
+msgstr "atverti pastabą"
+
+msgid "add note"
+msgstr "pridėti pastabą"
+
+msgid "remove note"
+msgstr "pašalinti pastabą"
+
+msgid "edit note name and category"
+msgstr "taisyti pastabos pavadinimą ir kategoriją"
+
+msgid "close note editor"
+msgstr "užverti pastabos rašyklę"
+
+msgid "save note"
+msgstr "išsaugoti pastabą"
+
+msgid "find text"
+msgstr "rasti tekstą"
+
+msgid "clear selection attributes"
+msgstr "išvalyti parinkimo požymius"
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO sukurtas galvojant apie vartotojo patogumą, todėl turi daugybę "
+"sparčiųjų klavišų. Štai pilnas sąrašas:"
+
+msgid "General"
+msgstr "Bendri"
+
+msgid "Calendar"
+msgstr "Kalendorius"
+
+#, fuzzy
+msgid "Note editor"
+msgstr "Užverti rašyklę"
+
+msgid "Full-year calendar"
+msgstr "Visų metų kalendorius"
+
+msgid "Tasks"
+msgstr "Užduotys"
+
+msgid "Contacts"
+msgstr "Adresatai"
+
+msgid "Notes"
+msgstr "Pastabos"
+
+msgid "Selector"
+msgstr "Atrankos"
+
+msgid "Editor"
+msgstr "Rašyklė"
+
+msgid "A handy personal organizer"
+msgstr "Patogi asmeninių duomenų tvarkytuvė"
+
+msgid "compiled on"
+msgstr "sukompiliuota"
+
+msgid "Programming"
+msgstr "Programavimas"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Contributors"
+msgstr "Talkininkai"
+
+msgid "Translators"
+msgstr "Vertėjai"
+
+msgid "Mailing lists"
+msgstr ""
+
+msgid "Bug tracker"
+msgstr ""
+
+msgid "Feature requests"
+msgstr ""
+
+msgid "Available modules"
+msgstr ""
+
+msgid "Compiled-in features"
+msgstr "Įkompiliuotos funkcijos"
+
+#, fuzzy
+msgid "iCalendar support"
+msgstr "Kalendoriaus šriftas"
+
+#, fuzzy
+msgid "Encrypted notes support"
+msgstr "Užšifravimas"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr ""
+
+msgid "Backup support"
+msgstr ""
+
+#, fuzzy
+msgid "Printing support"
+msgstr "Kalendoriaus šriftas"
+
+msgid "Spell checker support"
+msgstr ""
+
+msgid "version"
+msgstr "versija"
+
+msgid "SVN revision"
+msgstr "SVN poversijis"
+
+msgid "Key shortcuts"
+msgstr "Spartieji klavišai"
+
+msgid "License"
+msgstr "Licencija"
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Password protection"
+msgstr ""
+
+msgid "Enter password"
+msgstr "Įveskite slaptažodį"
+
+msgid "Re-enter password"
+msgstr "Pakartokite slaptažodį"
+
+#, fuzzy
+msgid "Please enter the password"
+msgstr "Pakartokite slaptažodį"
+
+msgid "Passwords do not match!"
+msgstr "Slaptažodžiai nesutampa!"
+
+#, fuzzy
+msgid "Cannot create backup!"
+msgstr "Negalima sukurti failo."
+
+msgid "Backup file saved successfully!"
+msgstr ""
+
+msgid "Open backup file"
+msgstr ""
+
+msgid "Osmo backup files (*.bck)"
+msgstr ""
+
+msgid "This is not Osmo backup file"
+msgstr ""
+
+msgid "Incorrect password!"
+msgstr "Neteisingas slaptažodis!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr "Ar Jūs įsitikinęs?"
+
+msgid "Osmo has to be restarted now..."
+msgstr ""
+
+msgid "was born"
+msgstr "gimė"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "metai"
+msgstr[1] "metai"
+msgstr[2] "metų"
+
+msgid "Current time"
+msgstr "Laikas"
+
+msgid "Day number"
+msgstr "Diena"
+
+msgid "Today distance"
+msgstr ""
+
+msgid "Week number"
+msgstr "Savaitė"
+
+msgid "Marked days"
+msgstr "Pažymėtos dienos"
+
+msgid "Weekend days"
+msgstr "Savaitgalio dienos"
+
+#, fuzzy
+msgid "Day category"
+msgstr "Dienos kategorijos"
+
+msgid "Moon phase"
+msgstr "Mėnulio fazė"
+
+msgid "Zodiac sign"
+msgstr "Zodiako ženklas"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "diena iki metų pabaigos"
+msgstr[1] "dienos iki metų pabaigos"
+msgstr[2] "dienų iki metų pabaigos"
+
+msgid "the last day of the year"
+msgstr "paskutinė metų diena"
+
+msgid "Day notes"
+msgstr "Dienos pastabos"
+
+msgid "Day tasks"
+msgstr "Dienos užduotys"
+
+msgid "Birthday"
+msgstr "Gimimo diena"
+
+msgid "Selected day note will be removed."
+msgstr "Pažymėta dienos pastaba bus pašalinta."
+
+msgid "Continue?"
+msgstr "Tęsti?"
+
+msgid "Previous year"
+msgstr "Praeiti metai"
+
+msgid "Previous month"
+msgstr "Praeitas mėnuo"
+
+msgid "Previous day"
+msgstr "Praeita diena"
+
+msgid "Today"
+msgstr "Šiandiena"
+
+msgid "Next day"
+msgstr "Kita diena"
+
+msgid "Next month"
+msgstr "Kitas mėnuo"
+
+msgid "Next year"
+msgstr "Kiti metai"
+
+msgid "Jump to date"
+msgstr "Pereiti į dieną"
+
+#, fuzzy
+msgid "Print calendar"
+msgstr "Rodyti kalendorių"
+
+msgid "Date calculator"
+msgstr "Datos skaičiuoklis"
+
+msgid "Preferences"
+msgstr "Parinktys"
+
+msgid "Toggle day note panel"
+msgstr "Rodyti/slėpti dienos pastabų skydelį"
+
+msgid "Add task"
+msgstr "Pridėti užduotį"
+
+msgid "Select day color"
+msgstr "Parinkti dienos spalvą"
+
+#, fuzzy
+msgid "Browse notes"
+msgstr "Rodyti pastabas"
+
+msgid "Browse iCal events"
+msgstr "Naršyti iCal įvykius"
+
+msgid "Export to iCal file"
+msgstr ""
+
+msgid "Previous and next month"
+msgstr "Praeitas ir kitas mėnuo"
+
+msgid "Close note panel"
+msgstr "Užverti pastabų skydelį"
+
+msgid "Highlight"
+msgstr "Paryškinti"
+
+msgid "Strikethrough"
+msgstr "Perbrauktas"
+
+msgid "Underline"
+msgstr "Pabrauktas"
+
+msgid "Italic"
+msgstr "Kursyvas"
+
+msgid "Bold"
+msgstr "Pusjuodis"
+
+msgid "Insert timeline"
+msgstr "Įterpti laiko skalę"
+
+msgid "Clear text"
+msgstr "Išvalyti tekstą"
+
+msgid "Info"
+msgstr "Informacija"
+
+msgid "Select color"
+msgstr "Parinkite spalvą"
+
+msgid "None"
+msgstr "Nieko"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "metai"
+msgstr[1] "metai"
+msgstr[2] "metų"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mėnuo"
+msgstr[1] "mėnesiai"
+msgstr[2] "mėnesių"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "diena"
+msgstr[1] "dienos"
+msgstr[2] "dienų"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "valanda"
+msgstr[1] "valandos"
+msgstr[2] "valandų"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minutė"
+msgstr[1] "minutės"
+msgstr[2] "minučių"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekundė"
+msgstr[1] "sekundės"
+msgstr[2] "sekundžių"
+
+msgid "or"
+msgstr "ar"
+
+msgid "rounded down"
+msgstr "suapvalinta į apačią"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "savaitė"
+msgstr[1] "savaitės"
+msgstr[2] "savaičių"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "time is ignored"
+msgstr ""
+
+#, fuzzy
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Savaitgalio dienos"
+msgstr[1] "Savaitgalio dienos"
+msgstr[2] "Savaitgalio dienos"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Šis skaičiuoklis skaičiuoja datas tik nuo 1 metų."
+
+#, fuzzy
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Savaitgalio dienų spalva"
+msgstr[1] "Savaitgalio dienų spalva"
+msgstr[2] "Savaitgalio dienų spalva"
+
+msgid "Year"
+msgstr "Metai"
+
+msgid "Month"
+msgstr "Mėnuo"
+
+msgid "Day"
+msgstr "Diena"
+
+msgid "Current date"
+msgstr "Dabartinė data"
+
+msgid "Set current date"
+msgstr "Parinkti dabartinę datą"
+
+msgid "Hour"
+msgstr "Valanda"
+
+msgid "Minute"
+msgstr "Minutė"
+
+msgid "Second"
+msgstr "Sekundė"
+
+msgid "Set current time"
+msgstr "Parinkti dabartinį laiką"
+
+msgid "Reset time"
+msgstr "Atstatyti laiką į pradinę būseną"
+
+msgid "First date and time"
+msgstr "Pirma data ir laikas"
+
+msgid "Second date and time"
+msgstr "Antra data ir laikas"
+
+msgid "Alternative time units"
+msgstr "Alternatyvūs laiko vienetai"
+
+msgid "Result"
+msgstr "Rezultatas"
+
+msgid "Duration between two dates"
+msgstr "Laikas tarp dviejų datų"
+
+msgid "Operation"
+msgstr "Veiksmas"
+
+msgid "add"
+msgstr "pridėti"
+
+msgid "subtract"
+msgstr "atimti"
+
+msgid "Date and time to add or subtract from"
+msgstr "Data ir laikas pridėjimui ir atimčiai"
+
+msgid "Years"
+msgstr "Metai"
+
+msgid "Months"
+msgstr "Mėnesiai"
+
+msgid "Days"
+msgstr "Dienos"
+
+msgid "Weeks"
+msgstr "Savaitės"
+
+msgid "Hours"
+msgstr "Valandos"
+
+msgid "Minutes"
+msgstr "Minutės"
+
+msgid "Seconds"
+msgstr "Sekundės"
+
+#, fuzzy
+msgid "Ignore weekend days"
+msgstr "Savaitgalio dienos"
+
+msgid "Reset fields"
+msgstr "Atstatyti laukus į pradinę būseną"
+
+msgid "Time to add or subtract"
+msgstr "Laikas pridėjimui ar atimčiai"
+
+msgid "Jump to"
+msgstr "Pereiti"
+
+msgid "Add to or subtract from a date"
+msgstr "Pridėti ar atimti iš datos"
+
+msgid "Leap year"
+msgstr "Keliamieji metai"
+
+msgid "Yes"
+msgstr "Taip"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Chinese year animal"
+msgstr "Kinų metų gyvūnas"
+
+msgid "Number of days"
+msgstr "Dienų skaičius"
+
+#, fuzzy
+msgid "Number of weeks"
+msgstr "Savaitgalių skaičius"
+
+msgid "Number of weekend days"
+msgstr "Savaitgalio dienų skaičius"
+
+msgid "Year info"
+msgstr "Metų informacija"
+
+msgid "Current year"
+msgstr "Šie metai"
+
+#, fuzzy
+msgid "Alternative view"
+msgstr "Alternatyvūs laiko vienetai"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "įvykis"
+msgstr[1] "įvykiai"
+msgstr[2] "įvykių"
+
+#, fuzzy
+msgid "No valid calendars defined"
+msgstr "Nerasta nei vieno kalendoriaus"
+
+msgid "iCalendar events"
+msgstr "iCalendar įvykiai"
+
+msgid "Date"
+msgstr "Data"
+
+#, fuzzy
+msgid "Time"
+msgstr "Laiko skalė"
+
+msgid "Summary"
+msgstr "Santrauka"
+
+msgid "Select output file"
+msgstr "Parinkite išvedimo failą"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr ""
+
+msgid "Done!"
+msgstr "Atlikta!"
+
+#, fuzzy
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "adresatas eksportuotas"
+msgstr[1] "adresatai eksportuoti"
+msgstr[2] "adresatų eksportuota"
+
+#, fuzzy
+msgid "iCalendar export"
+msgstr "Kalendoriaus šriftas"
+
+#, fuzzy
+msgid "Day Selector"
+msgstr "Atrankos"
+
+#, fuzzy
+msgid "Use date period"
+msgstr "Datos šriftas"
+
+msgid "Add"
+msgstr "Pridėti"
+
+msgid "Clear"
+msgstr "Išvalyti"
+
+msgid "Remove"
+msgstr "Pašalinti"
+
+msgid "Output filename"
+msgstr "Išvedimo failo vardas"
+
+msgid "Browse"
+msgstr "Naršyti"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Export"
+msgstr "Eksportuoti"
+
+msgid "no entries"
+msgstr "nėra įrašų"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "įrašas"
+msgstr[1] "įrašai"
+msgstr[2] "įrašų"
+
+#, fuzzy
+msgid "Calendar notes"
+msgstr "Kalendoriaus šriftas"
+
+msgid "Search"
+msgstr "Paieška"
+
+#, fuzzy
+msgid "Filter"
+msgstr "Lauko tipas"
+
+#, fuzzy
+msgid "Current month"
+msgstr "Laikas"
+
+#, fuzzy
+msgid "Selected month"
+msgstr "Parinkti šriftą"
+
+#, fuzzy
+msgid "Selected year"
+msgstr "Atrankos"
+
+#, fuzzy
+msgid "Selected month and year"
+msgstr "Atrankos"
+
+#, fuzzy
+msgid "All notes"
+msgstr "Visi elementai"
+
+#, fuzzy
+msgid "Case sensitive"
+msgstr "skirti raidžių lygį"
+
+msgid "Strikethrough past day notes"
+msgstr "Perbraukti praeitos dienos pastabas"
+
+msgid "Note"
+msgstr "Pastaba"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Pastabos pavadinimas"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "MM-DD-YYYY"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Datos formatas"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Išvedimo formatas"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Datos formatas"
+
+#, fuzzy
+msgid "Day note marker"
+msgstr "Dienos pastabos"
+
+msgid "Event marker"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Ellipse"
+msgstr ""
+
+#, fuzzy
+msgid "Wave"
+msgstr "Išsaugoti"
+
+#, fuzzy
+msgid "Current day marker"
+msgstr "Dabartinė data"
+
+#, fuzzy
+msgid "Arrow"
+msgstr "Rytojus"
+
+msgid "Free-hand circle"
+msgstr ""
+
+msgid "Colors"
+msgstr "Spalvos"
+
+msgid "Header color"
+msgstr "Antraštės spalva"
+
+msgid "Weekend days color"
+msgstr "Savaitgalio dienų spalva"
+
+msgid "Cursor color"
+msgstr "Žymeklio spalva"
+
+#, fuzzy
+msgid "Event marker color"
+msgstr "Dabartinė data"
+
+#, fuzzy
+msgid "Current day marker color"
+msgstr "Dabartinė data"
+
+#, fuzzy
+msgid "Birthday marker color"
+msgstr "Dabartinė data"
+
+msgid "Date font"
+msgstr "Datos šriftas"
+
+msgid "Calendar font"
+msgstr "Kalendoriaus šriftas"
+
+msgid "Note font"
+msgstr "Pastabos šriftas"
+
+msgid "Enable block cursor"
+msgstr "Įjungti stačiakampį žymeklį"
+
+msgid "Cursor thickness"
+msgstr "Žymeklio storis"
+
+msgid "Thin"
+msgstr "Plonas"
+
+msgid "Thick"
+msgstr "Storas"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Dienos kategorijos"
+
+msgid "Color"
+msgstr "Spalva"
+
+msgid "Name"
+msgstr "Vardas"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "Select ICS file"
+msgstr "Parinkite ICS failą"
+
+msgid "All Files"
+msgstr "Visi failai"
+
+msgid "Calendar files (*.ics)"
+msgstr "Calendar failai (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Modifikuoti ICAL parametrus"
+
+msgid "Filename"
+msgstr "Failo vardas"
+
+msgid "Options"
+msgstr "Parinktys"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Teisingas"
+
+msgid "Description"
+msgstr "Aprašas"
+
+#, fuzzy
+msgid "Full date"
+msgstr "Pabaigos data"
+
+msgid "Mark"
+msgstr ""
+
+msgid "Week start on Monday"
+msgstr "Savaitė prasideda pirmadienį"
+
+msgid "Show day names"
+msgstr "Rodyti dienų pavadinimus"
+
+msgid "No month change"
+msgstr "Nekeisti mėnesio"
+
+msgid "Show week numbers"
+msgstr "Rodyti savaičių numerius"
+
+msgid "Simple view in full-year calendar"
+msgstr "Paprastas visų metų kalendoriaus rodymas"
+
+msgid "Enable auxilary calendars"
+msgstr "Įjungti pagalbinius kalendorius"
+
+msgid "Ascending sorting in day notes browser"
+msgstr ""
+
+msgid "Enable spell checker in day notes"
+msgstr ""
+
+msgid "Appearance"
+msgstr "Išvaizda"
+
+msgid "Day categories"
+msgstr "Dienos kategorijos"
+
+msgid "iCalendar files"
+msgstr "iCalendar failai"
+
+msgid "Show in day info panel"
+msgstr "Rodyti dienos informacijos skydelyje"
+
+#, fuzzy
+msgid "Name day"
+msgstr "Vardo diena"
+
+msgid "Error printing"
+msgstr ""
+
+msgid "Printing properties"
+msgstr ""
+
+#, fuzzy
+msgid "Month name"
+msgstr "Pastabos pavadinimas"
+
+#, fuzzy
+msgid "Day name"
+msgstr "Diena"
+
+#, fuzzy
+msgid "Events"
+msgstr "įvykis"
+
+#, fuzzy
+msgid "Fonts"
+msgstr "Mėnesiai"
+
+#, fuzzy
+msgid "Birthdays"
+msgstr "Gimimo diena"
+
+#, fuzzy
+msgid "Namedays"
+msgstr "Vardas"
+
+#, fuzzy
+msgid "Visible events"
+msgstr "Matomi stulpeliai"
+
+#, fuzzy
+msgid "Padding"
+msgstr "pridėti"
+
+msgid "Event maximum length"
+msgstr ""
+
+msgid "Page orientation:"
+msgstr ""
+
+#, fuzzy
+msgid "Portrait"
+msgstr "Svarba"
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Timeline"
+msgstr "Laiko skalė"
+
+msgid "From (hour)"
+msgstr "Nuo (valandos)"
+
+msgid "Step (minutes)"
+msgstr "Žingsnis (minutės)"
+
+msgid "To (hour)"
+msgstr "Iki (valandos)"
+
+msgid "No date"
+msgstr "Nėra datos"
+
+msgid "Rat"
+msgstr "Žiurkė"
+
+msgid "Ox"
+msgstr "Jautis"
+
+msgid "Tiger"
+msgstr "Tigras"
+
+msgid "Hare"
+msgstr "Zuikis"
+
+msgid "Dragon"
+msgstr "Drakonas"
+
+msgid "Snake"
+msgstr "Gyvatė"
+
+msgid "Horse"
+msgstr "Arklys"
+
+msgid "Sheep"
+msgstr "Avis"
+
+msgid "Monkey"
+msgstr "Beždžionė"
+
+msgid "Fowl"
+msgstr "Gaidys"
+
+msgid "Dog"
+msgstr "Šuo"
+
+msgid "Pig"
+msgstr "Kiaulė"
+
+msgid "Unknown"
+msgstr "Nežinomas"
+
+msgid "Aquarius"
+msgstr "Vandenis"
+
+msgid "Pisces"
+msgstr "Žuvys"
+
+msgid "Aries"
+msgstr "Avinas"
+
+msgid "Taurus"
+msgstr "Jautis"
+
+msgid "Gemini"
+msgstr "Dvyniai"
+
+msgid "Cancer"
+msgstr "Vėžys"
+
+msgid "Leo"
+msgstr "Liūtas"
+
+msgid "Virgo"
+msgstr "Mergelė"
+
+msgid "Libra"
+msgstr "Svarstyklės"
+
+msgid "Scorpio"
+msgstr "Skorpionas"
+
+msgid "Sagittarius"
+msgstr "Šaulys"
+
+msgid "Capricorn"
+msgstr "Ožiaragis"
+
+msgid "Cannot perform selected operation."
+msgstr ""
+
+msgid "Task has been modified or removed."
+msgstr ""
+
+msgid "Remind me later"
+msgstr ""
+
+msgid "Done"
+msgstr "Atlikta"
+
+#, fuzzy
+msgid "postponed"
+msgstr "Pašto indeksas"
+
+#, fuzzy
+msgid "Show task"
+msgstr "Rodyti užduotis"
+
+msgid "Alarm warning!"
+msgstr ""
+
+#, fuzzy
+msgid "Day note"
+msgstr "Dienos pastabos"
+
+msgid "Type"
+msgstr ""
+
+#, fuzzy
+msgid "Event"
+msgstr "įvykis"
+
+msgid "Task"
+msgstr "Užduotis"
+
+#, fuzzy
+msgid "Show Osmo"
+msgstr "Rodyti užduotis"
+
+msgid "No birthdays defined"
+msgstr "Nerasta nei vieno gimtadienio"
+
+msgid "Birthdays list"
+msgstr "Gimtadienių sąrašas"
+
+msgid "Days to birthday"
+msgstr "Dienų iki gimtadienio"
+
+msgid "Age"
+msgstr "Amžius"
+
+msgid "Birthday date"
+msgstr "Gimimo diena"
+
+#, fuzzy
+msgid "today"
+msgstr "Šiandiena"
+
+#, fuzzy
+msgid "Please select address"
+msgstr "išvalyti parinkimo požymius"
+
+msgid "Information"
+msgstr "Informacija"
+
+msgid "Work"
+msgstr "Darbo"
+
+msgid "Home"
+msgstr "Namų"
+
+msgid "Group"
+msgstr "Grupė"
+
+msgid "First name"
+msgstr "Vardas"
+
+msgid "Last name"
+msgstr "Pavardė"
+
+msgid "Second name"
+msgstr "Antras vardas"
+
+msgid "Nickname"
+msgstr "Slapyvardis"
+
+#, fuzzy
+msgid "Tags"
+msgstr "Užduotis"
+
+msgid "Name day date"
+msgstr "Vardo diena"
+
+msgid "Home address"
+msgstr "Namų adresas"
+
+msgid "Home postcode"
+msgstr "Namų pašto indeksas"
+
+msgid "Home city"
+msgstr "Namų miestas"
+
+msgid "Home state"
+msgstr "Namų valstija"
+
+msgid "Home country"
+msgstr "Namų valstybė"
+
+msgid "Organization"
+msgstr "Organizacija"
+
+msgid "Department"
+msgstr "Skyrius"
+
+msgid "Work address"
+msgstr "Darbovietės adresas"
+
+msgid "Work postcode"
+msgstr "Darbovietės pašto indeksas"
+
+msgid "Work city"
+msgstr "Darbovietės miestas"
+
+msgid "Work state"
+msgstr "Darbovietės valstija"
+
+msgid "Work country"
+msgstr "Darbovietės valstybė"
+
+msgid "Fax"
+msgstr "Faksas"
+
+msgid "Home phone"
+msgstr "Namų telefonas"
+
+msgid "Home phone 2"
+msgstr "Namų telefonas 2"
+
+msgid "Home phone 3"
+msgstr "Namų telefonas 3"
+
+msgid "Home phone 4"
+msgstr "Namų telefonas 4"
+
+msgid "Work phone"
+msgstr "Darbo telefonas"
+
+msgid "Work phone 2"
+msgstr "Darbo telefonas 2"
+
+msgid "Work phone 3"
+msgstr "Darbo telefonas 3"
+
+msgid "Work phone 4"
+msgstr "Darbo telefonas 4"
+
+msgid "Cell phone"
+msgstr "Mobilusis telefonas"
+
+msgid "Cell phone 2"
+msgstr "Mobilusis telefonas 2"
+
+msgid "Cell phone 3"
+msgstr "Mobilusis telefonas 3"
+
+msgid "Cell phone 4"
+msgstr "Mobilusis telefonas 4"
+
+msgid "E-Mail"
+msgstr "El. paštas"
+
+msgid "E-Mail 2"
+msgstr "El. paštas 2"
+
+msgid "E-Mail 3"
+msgstr "El. paštas 3"
+
+msgid "E-Mail 4"
+msgstr "El. paštas 4"
+
+msgid "WWW"
+msgstr "Tinklalapis"
+
+msgid "WWW 2"
+msgstr "Tinklalapis 2"
+
+msgid "WWW 3"
+msgstr "Tinklalapis 3"
+
+msgid "WWW 4"
+msgstr "Tinklalapis 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "Pokalbių tarnyba Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "Pokalbių tarnyba Yahoo"
+
+msgid "IM MSN"
+msgstr "Pokalbių tarnyba MSN"
+
+msgid "IM ICQ"
+msgstr "Pokalbių tarnyba ICQ"
+
+msgid "IM AOL"
+msgstr "Pokalbių tarnyba AOL"
+
+msgid "IM Jabber"
+msgstr "Pokalbių tarnyba Jabber"
+
+msgid "IM Skype"
+msgstr "Pokalbių tarnyba Skype"
+
+msgid "IM Tlen"
+msgstr "Pokalbių tarnyba Tlen"
+
+msgid "Blog"
+msgstr "Tinklaraštis"
+
+msgid "Photo"
+msgstr "Nuotrauka"
+
+msgid "Additional info"
+msgstr "Papildoma informacija"
+
+msgid "New contact"
+msgstr "Naujas adresatas"
+
+msgid "Remove contact"
+msgstr "Pašalinti adresatą"
+
+msgid "Edit contact"
+msgstr "Taisyti adresato įrašą"
+
+msgid "Show birthdays"
+msgstr "Rodyti gimtadienius"
+
+msgid "Show contact location on the map"
+msgstr ""
+
+msgid "Import contacts"
+msgstr "Importuoti adresatus"
+
+msgid "Export contacts"
+msgstr "Eksportuoti adresatus"
+
+msgid "First Name"
+msgstr "Vardas"
+
+msgid "Last Name"
+msgstr "Pavardė"
+
+msgid "All fields"
+msgstr "Visi laukai"
+
+msgid "Contact details"
+msgstr "Adresato išsami informacija"
+
+msgid "Close contact panel"
+msgstr "Užverti adresatų skydelį"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "adresatas eksportuotas"
+msgstr[1] "adresatai eksportuoti"
+msgstr[2] "adresatų eksportuota"
+
+msgid "Cannot create file."
+msgstr "Negalima sukurti failo."
+
+msgid "Output format"
+msgstr "Išvedimo formatas"
+
+msgid "Add header"
+msgstr "Pridėti antraštę"
+
+msgid "Fields to export"
+msgstr "Laukai eksportavimui"
+
+msgid "All"
+msgstr "Viskas"
+
+msgid "Invert"
+msgstr "Invertuoti"
+
+msgid "Select fields"
+msgstr "Parinkti laukus"
+
+msgid "Select CSV file"
+msgstr "Parinkti CSV failą"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (kableliu atskirtos vertės) failas (*.csv)"
+
+msgid "Please select file first."
+msgstr ""
+
+#, fuzzy
+msgid "Import type"
+msgstr "Importuoti"
+
+#, fuzzy
+msgid "File"
+msgstr "Lauko tipas"
+
+#, fuzzy
+msgid "Input filename"
+msgstr "Išvedimo failo vardas"
+
+msgid "Address"
+msgstr "Adresas"
+
+#, fuzzy
+msgid "Channel"
+msgstr "Atšaukti"
+
+#, fuzzy
+msgid "Interface"
+msgstr "Internetas"
+
+msgid "Use binary XML (WBXML)"
+msgstr ""
+
+msgid "Import"
+msgstr "Importuoti"
+
+msgid "Nothing to import."
+msgstr "Nėra ko importuoti."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "adresatas pridėtas"
+msgstr[1] "adresatai pridėti"
+msgstr[2] "adresatų pridėta"
+
+msgid "of"
+msgstr "iš"
+
+msgid "Record"
+msgstr "Įrašas"
+
+msgid "Number fields per record"
+msgstr "Laukų skaičius įraše"
+
+msgid "Use first record as header"
+msgstr "Naudoti pirmą įrašą kaip antraštę"
+
+msgid "Field type"
+msgstr "Lauko tipas"
+
+msgid "Value"
+msgstr "Reikšmė"
+
+msgid "No records found in selected file."
+msgstr "Parinktame faile įrašų nerasta."
+
+msgid "Cannot read file."
+msgstr "Neįmanoma perskaityti failo."
+
+msgid "Cannot open file."
+msgstr "Neįmanoma atverti failo."
+
+msgid "Selected contact will be removed."
+msgstr "Parinktas adresatas bus pašalintas."
+
+msgid "Select photo"
+msgstr "Parinkite nuotrauką"
+
+msgid "Postcode"
+msgstr "Pašto indeksas"
+
+msgid "City"
+msgstr "Miestas"
+
+msgid "State"
+msgstr "Valstija"
+
+msgid "Country"
+msgstr "Valstybė"
+
+msgid "Add contact"
+msgstr "Pridėti adresatą"
+
+msgid "Personal"
+msgstr "Asmeninis"
+
+msgid "Phones"
+msgstr "Telefonai"
+
+msgid "Internet"
+msgstr "Internetas"
+
+msgid "Color of contact tags"
+msgstr "Adresato gairių spalva"
+
+msgid "Color of links"
+msgstr "Nuorodų spalva"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Nuotraukos dydis"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Vardo šrifto dydis"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Datos šriftas"
+
+msgid "Photo size"
+msgstr "Nuotraukos dydis"
+
+msgid "Small"
+msgstr "Mažas"
+
+msgid "Medium"
+msgstr "Vidutinis"
+
+msgid "Large"
+msgstr "Didelis"
+
+msgid "Select and show first item after search"
+msgstr "Parinkti ir rodyti pirmą elementą po paieškos"
+
+msgid "Hide group column"
+msgstr "Slėpti grupės stulpelį"
+
+msgid "Order"
+msgstr "Tvarka"
+
+msgid "Mode"
+msgstr "Veiksena"
+
+msgid "Ascending"
+msgstr "Didėjančiai"
+
+msgid "Descending"
+msgstr "Mažėjančiai"
+
+msgid "Miscellaneous"
+msgstr "Įvairūs"
+
+msgid "Groups"
+msgstr "Grupės"
+
+msgid "Sorting"
+msgstr "Rikiavimas"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Matomi stulpeliai"
+
+msgid "Show calendar"
+msgstr "Rodyti kalendorių"
+
+msgid "Show tasks"
+msgstr "Rodyti užduotis"
+
+msgid "Show contacts"
+msgstr "Rodyti adresatus"
+
+msgid "Show notes"
+msgstr "Rodyti pastabas"
+
+msgid "Show options"
+msgstr "Rodyti parinktis"
+
+msgid "Quit"
+msgstr "Baigti"
+
+#, fuzzy
+msgid "Show small calendar window"
+msgstr "rodyti mažą kalendoriaus langą"
+
+msgid "Check for events since last run"
+msgstr ""
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr ""
+
+msgid "Set absolute path for settings and data files"
+msgstr ""
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr ""
+
+#, fuzzy
+msgid "handy personal organizer"
+msgstr "Patogi asmeninių duomenų tvarkytuvė"
+
+#, fuzzy
+msgid "ERROR: Cannot create config files"
+msgstr "Negalima sukurti failo."
+
+msgid "Another copy of OSMO is already running."
+msgstr "Viena OSMO kopija jau vykdoma."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Naudojant dvi ar daugiau OSMO kopijų vienu metu gali būti prarasti duomenys."
+
+msgid "Do you really want to continue?"
+msgstr "Ar tikrai norite tęsti?"
+
+msgid "Warning"
+msgstr "Įspėjimas"
+
+msgid "The note has changed."
+msgstr "Pastaba pasikeitė."
+
+msgid "Do you want to save it?"
+msgstr "Norite ją išsaugoti?"
+
+#, fuzzy
+msgid "Words"
+msgstr "Darbo"
+
+#, fuzzy
+msgid "Lines"
+msgstr "Minutės"
+
+#, fuzzy
+msgid "Characters"
+msgstr "Vėžys"
+
+msgid "White characters"
+msgstr ""
+
+#, fuzzy
+msgid "Bytes"
+msgstr "Geriausias"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Atrankos"
+
+#, fuzzy
+msgid "Created"
+msgstr "Dabartinė data"
+
+#, fuzzy
+msgid "Modified"
+msgstr "Veiksena"
+
+msgid "New note"
+msgstr "Nauja pastaba"
+
+msgid "Add note"
+msgstr "Pridėti pastabą"
+
+msgid "Edit note"
+msgstr "Taisyti pastabą"
+
+msgid "Delete note"
+msgstr "Pašalinti pastabą"
+
+msgid "Remove note"
+msgstr "Pašalinti pastabą"
+
+msgid "Find"
+msgstr "Rasti"
+
+msgid "Clear attributes"
+msgstr "Išvalyti požymius"
+
+msgid "Save note"
+msgstr "Išsaugoti pastabą"
+
+#, fuzzy
+msgid "Insert current date and time"
+msgstr "Antra data ir laikas"
+
+msgid "Insert separator"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Close editor"
+msgstr "Užverti rašyklę"
+
+msgid "Toggle spell checker"
+msgstr ""
+
+msgid "Category"
+msgstr "Kategorija"
+
+msgid "Note name"
+msgstr "Pastabos pavadinimas"
+
+msgid "Last changes"
+msgstr "Paskutiniai taisiniai"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Minutės"
+
+#, fuzzy
+msgid "Column"
+msgstr "Valstybė"
+
+msgid "case sensitive"
+msgstr "skirti raidžių lygį"
+
+msgid "Close find entry"
+msgstr "Užverti įrašo paiešką"
+
+msgid "Edit entry"
+msgstr "Taisyti įrašą"
+
+#, fuzzy
+msgid "Remember cursor position"
+msgstr "parinktys"
+
+msgid "Selected note will be removed."
+msgstr "Parinktas įrašas bus pašalintas."
+
+msgid "No further data recovery will be possible."
+msgstr "Tolesnis duomenų atkūrimas bus neįmanomas."
+
+#, fuzzy
+msgid "Plain"
+msgstr "pridėti"
+
+#, fuzzy
+msgid "Encrypted"
+msgstr "Užšifravimas"
+
+#, fuzzy
+msgid "Note type"
+msgstr "Importuoti"
+
+#, fuzzy
+msgid "Cannot open the note."
+msgstr "Neįmanoma atverti failo."
+
+msgid "encryption support is disabled"
+msgstr ""
+
+msgid "Authorization"
+msgstr "Prieigos teisė"
+
+msgid "Algorithm"
+msgstr "Algoritmas"
+
+msgid "Hashing"
+msgstr "Maiša"
+
+msgid "Compression"
+msgstr "Glaudinimas"
+
+msgid "Ratio"
+msgstr "Santykis"
+
+msgid "Fast"
+msgstr "Greitas"
+
+msgid "Good"
+msgstr "Geras"
+
+msgid "Best"
+msgstr "Geriausias"
+
+#, fuzzy
+msgid "Remember the last selected category"
+msgstr "Prisiminti paskutinį parinktą puslapį"
+
+#, fuzzy
+msgid "Use system format for date and time"
+msgstr "Antra data ir laikas"
+
+msgid "Encryption"
+msgstr "Užšifravimas"
+
+msgid "Visible columns"
+msgstr "Matomi stulpeliai"
+
+msgid "Categories"
+msgstr "Kategorijos"
+
+#, fuzzy
+msgid "Notes options"
+msgstr "Rodyti parinktis"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Kortelių padėtis"
+
+msgid "Left"
+msgstr "Kairėje"
+
+msgid "Right"
+msgstr "Dešinėje"
+
+msgid "Top"
+msgstr "Viršuje"
+
+msgid "Bottom"
+msgstr "Apačioje"
+
+msgid "Use default stock icons (needs restart)"
+msgstr ""
+"Naudoti numatytasias turimas piktogramas (reikės paleisti iš naujo programą)"
+
+msgid "Disable underline in links"
+msgstr "Išjungti nuorodų pabraukimą"
+
+msgid "Draw rows in alternating colors"
+msgstr "Piešti eilutes kintamomis spalvomis"
+
+msgid "At least one module must be visible."
+msgstr "Turi būti matomas bent vienas modulis."
+
+msgid "Override locale settings"
+msgstr ""
+
+msgid "Date format"
+msgstr "Datos formatas"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "YYYY-MM-DD"
+msgstr "MM-DD-YYYY"
+
+msgid "YYYY-DD-MM"
+msgstr "YYYY-DD-MM"
+
+msgid "Time format"
+msgstr "Laiko formatas"
+
+msgid "hours"
+msgstr "valandos"
+
+msgid "Spell checker language"
+msgstr ""
+
+msgid "Enable tooltips"
+msgstr "Įjungti paaiškinimus"
+
+msgid "Remember last selected page"
+msgstr "Prisiminti paskutinį parinktą puslapį"
+
+msgid "Save data after every modification"
+msgstr ""
+
+msgid "Web browser"
+msgstr "Interneto naršyklė"
+
+msgid "E-mail client"
+msgstr "El. pašto programa"
+
+#, fuzzy
+msgid "Sound player"
+msgstr "Antras vardas"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Šablonas %s bus pakeistas interneto arba el. pašto adresu"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Šablonas %s bus pakeistas interneto arba el. pašto adresu"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Šablonas %s bus pakeistas interneto arba el. pašto adresu"
+
+#, fuzzy
+msgid "Create"
+msgstr "Dabartinė data"
+
+#, fuzzy
+msgid "Restore"
+msgstr "Rezultatas"
+
+msgid "Enable system tray"
+msgstr "Įjungti sistemos juostelę"
+
+msgid "Start minimised"
+msgstr "Pradėti suskleistame lange"
+
+msgid "Blink on events"
+msgstr ""
+
+#, fuzzy
+msgid "Ignore day note events"
+msgstr "uždaryti dienos pastabos skydelį"
+
+msgid "Hide"
+msgstr "Slėpti"
+
+msgid "Helpers"
+msgstr "Pagalbininkai"
+
+msgid "Backup"
+msgstr ""
+
+msgid "System tray"
+msgstr "Sistemos juostelė"
+
+msgid "Edit"
+msgstr "Taisyti"
+
+msgid "Go Down"
+msgstr ""
+
+msgid "Select date"
+msgstr "Parinkti datą"
+
+msgid "Select font"
+msgstr "Parinkti šriftą"
+
+msgid "Calculator"
+msgstr "Skaičiuoklis"
+
+msgid "Edit day note"
+msgstr "Taisyti dienos pastabą"
+
+msgid "Contact map location"
+msgstr ""
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Display full-year calendar"
+msgstr "Parodyti visų metų kalendorių"
+
+msgid "Help"
+msgstr "Pagalba"
+
+msgid "Invalid item"
+msgstr "Neteisingas elementas"
+
+msgid "Valid item"
+msgstr "Teisingas elementas"
+
+msgid "Edit task"
+msgstr "Keisti užduotį"
+
+msgid "Remove task"
+msgstr "Pašalinti užduotį"
+
+#, fuzzy
+msgid "Import tasks"
+msgstr "Importuoti adresatus"
+
+#, fuzzy
+msgid "Export tasks"
+msgstr "Eksportuoti adresatus"
+
+#, fuzzy
+msgid "Change to previous date"
+msgstr "pereiti į praeitą kortelę"
+
+msgid "Change to next date"
+msgstr ""
+
+#, fuzzy
+msgid "Print"
+msgstr "Svarba"
+
+#, fuzzy
+msgid "Normal"
+msgstr "pašalinti užduotį"
+
+#, fuzzy
+msgid "Recurrent"
+msgstr "Parinkti dabartinę datą"
+
+msgid "Started"
+msgstr "Pradžia"
+
+#, fuzzy
+msgid "Finished"
+msgstr "Rasti"
+
+msgid "All items"
+msgstr "Visi elementai"
+
+msgid "New task"
+msgstr "Nauja užduotis"
+
+msgid "Change due date to previous date"
+msgstr ""
+
+msgid "Change due date to next date"
+msgstr ""
+
+msgid "Print visible tasks list"
+msgstr ""
+
+msgid "Due date"
+msgstr "Pabaigos data"
+
+msgid "Priority"
+msgstr "Svarba"
+
+msgid "Task details"
+msgstr "Išsami informacija apie užduotį"
+
+msgid "Close description panel"
+msgstr "Užverti aprašo skydelį"
+
+msgid "No tasks with defined date found."
+msgstr ""
+
+#, fuzzy
+msgid "Save tasks"
+msgstr "Dienos užduotys"
+
+#, fuzzy
+msgid "tasks exported"
+msgstr "adresatas eksportuotas"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr ""
+
+#, fuzzy
+msgid "Set time"
+msgstr "Atstatyti laiką į pradinę būseną"
+
+msgid "Tomorrow"
+msgstr "Rytojus"
+
+msgid "Selected task will be removed."
+msgstr "Parinkta užduotis bus pašalinta."
+
+msgid "Basic"
+msgstr ""
+
+#, fuzzy
+msgid "Select date and time"
+msgstr "Antra data ir laikas"
+
+msgid "Low"
+msgstr "Žemas"
+
+msgid "High"
+msgstr "Aukštas"
+
+msgid "Enable sound notification"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+#, fuzzy
+msgid "Alarm warning"
+msgstr "Įspėjimas"
+
+#, fuzzy
+msgid "Postpone time"
+msgstr "Pašto indeksas"
+
+msgid "Alarm command"
+msgstr ""
+
+#, fuzzy
+msgid "Recurrent task"
+msgstr "Parinkti dabartinę datą"
+
+msgid "Enable"
+msgstr ""
+
+#, fuzzy
+msgid "Start"
+msgstr "Pradžia"
+
+msgid "End"
+msgstr ""
+
+#, fuzzy
+msgid "Interval"
+msgstr "Bendri"
+
+msgid "Time period"
+msgstr ""
+
+#, fuzzy
+msgid "Date period"
+msgstr "Datos šriftas"
+
+#, fuzzy
+msgid "Repeat"
+msgstr "Žiurkė"
+
+msgid "Repeat in the following days"
+msgstr ""
+
+msgid "Ignore alarm when task expired offline"
+msgstr ""
+
+msgid "Select a font..."
+msgstr "Parinkite šriftą..."
+
+msgid "Color of items that are due today"
+msgstr "Šiandien pasibaigiančių elementų spalva"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Elementų pasibaigsiančių už savaitės spalva"
+
+msgid "Color of items that are past due"
+msgstr "Pasibaigusių elementų spalva"
+
+msgid "Task info font"
+msgstr "Užduoties informacijos šriftas"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Svarbias užduotis rodyti pusjuodžiu šriftu"
+
+msgid "Hide completed tasks"
+msgstr "Paslėpti įvykdytas užduotis"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Pašalinti įvykdytas užduotis be patvirtinimo"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr ""
+
+#, fuzzy
+msgid "minutes"
+msgstr "minutė"
+
+msgid "0 for disable"
+msgstr ""
+
+msgid "Repeat sound alarm"
+msgstr ""
+
+#, fuzzy
+msgid "times"
+msgstr "Atstatyti laiką į pradinę būseną"
+
+msgid "Global notification command"
+msgstr ""
+
+msgid "Tasks options"
+msgstr "Užduoties parinktys"
+
+#, fuzzy
+msgid "Reminder options"
+msgstr "parinktys"
+
+#, fuzzy
+msgid "Tasks list"
+msgstr "Užduoties parinktys"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+#, fuzzy
+msgid "No."
+msgstr "Ne"
+
+msgid "New Moon"
+msgstr "Jaunatis"
+
+msgid "Waxing Crescent Moon"
+msgstr "Mėnulis pilnėja (1 fazė)"
+
+msgid "Quarter Moon"
+msgstr "Priešpilnis"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Mėnulis pilnėja (2 fazė)"
+
+msgid "Full Moon"
+msgstr "Pilnatis"
+
+msgid "Waning Gibbous Moon"
+msgstr "Mėnulis dyla (3 fazė)"
+
+msgid "Last Quarter Moon"
+msgstr "Delčia"
+
+msgid "Waning Crescent Moon"
+msgstr "Mėnulis dyla (4 fazė)"
+
+msgid "Question"
+msgstr "Klausimas"
+
+msgid "Error"
+msgstr "Klaida"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Parinktas failas jau yra! Pakeisti?"
+
+#~ msgid "Editor font"
+#~ msgstr "Rašyklės šriftas"
+
+#~ msgid "Category filter"
+#~ msgstr "Kategorijų filtras"
+
+#~ msgid "Modify color"
+#~ msgstr "Modifikuoti spalvą"
+
+#, fuzzy
+#~ msgid "ICal"
+#~ msgstr "Kursyvas"
+
+#~ msgid "change day while note editing"
+#~ msgstr "pakeisti dieną redaguojant pastabas"
+
+#~ msgid "close day note panel"
+#~ msgstr "uždaryti dienos pastabos skydelį"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "pažymėti parinkimą pusjuodžiu"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "pažymėti parinkimą kursyvu"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "pažymėti parinkimą fono spalva"
+
+#~ msgid "underline selection"
+#~ msgstr "pabraukti parinkimą"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "perbraukti parinkimą"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "patogi asmeninių duomenų tvarkytuvė"
+
+#~ msgid "Use year"
+#~ msgstr "Naudoti metus"
+
+#~ msgid "Birthday found"
+#~ msgstr "Surastas gimtadienis"
+
+#~ msgid "Task found"
+#~ msgstr "Surasta užduotis"
+
+#~ msgid "Day note available"
+#~ msgstr "Yra dienos pastaba"

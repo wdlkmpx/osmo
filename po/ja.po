@@ -1,0 +1,2204 @@
+# Japanese Translation of osmo.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Norihiro YONEDA <yon8844@gmail.com>, 2008-2010.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo-0.2.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2010-03-25 17:44+0900\n"
+"Last-Translator: YoN <yon8844@gmail.com>\n"
+"Language-Team: Japanese Puppy Linux Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=0;\n"
+
+msgid "About"
+msgstr "バージョン情報"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Ctrl+PageUp"
+msgstr "Ctrl+PageUp"
+
+msgid "switch to previous tab"
+msgstr "前のタブに切替え"
+
+msgid "Ctrl+PageDn"
+msgstr "Ctrl+PageDn"
+
+msgid "switch to next tab"
+msgstr "次のタブに切替え"
+
+msgid "switch to selected page"
+msgstr "選択ページに切替え"
+
+msgid "show options window"
+msgstr "オプションウィンドウを表示"
+
+msgid "show about window"
+msgstr "バージョン情報ウィンドウを表示"
+
+msgid "PageUp/PageDn"
+msgstr "PageUp/PageDn"
+
+msgid "switch page in options and about tab"
+msgstr "オプションタブとバージョン情報タブでページを切替え"
+
+msgid "exit"
+msgstr "終了"
+
+msgid "Space"
+msgstr "スペース"
+
+msgid "select current date"
+msgstr "現在の日付を選択"
+
+msgid "Ctrl+Space"
+msgstr "Ctrl+スペース"
+
+msgid "toggle personal data visibility"
+msgstr "可視個人データを切替え"
+
+msgid "Arrows"
+msgstr "矢印"
+
+msgid "change day"
+msgstr "日を変更"
+
+msgid "Ctrl+Up/Down"
+msgstr "Ctrl+上/下キー"
+
+msgid "scroll the contents in the day info panel"
+msgstr "日毎情報パネルの内容をスクロール"
+
+msgid "change month"
+msgstr "月を変更"
+
+msgid "Home/End"
+msgstr "Home/End"
+
+msgid "change year"
+msgstr "年を変更"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "前月と翌月のカレンダを切替え"
+
+msgid "day notes browser"
+msgstr "一日のメモブラウザ"
+
+msgid "assign background color to day note"
+msgstr "一日のメモの背景色を指定"
+
+msgid "date calculator"
+msgstr "日付電卓"
+
+msgid "show full-year calendar"
+msgstr "年間カレンダを表示"
+
+msgid "jump to date"
+msgstr "日付にジャンプ"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "remove day note"
+msgstr "一日のメモを削除"
+
+msgid "Alt+Arrows"
+msgstr "Alt+矢印"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "close editor"
+msgstr "エディタを閉じる"
+
+msgid "toggle bold"
+msgstr "太字を切替え"
+
+msgid "toggle italic"
+msgstr "斜体を切替え"
+
+msgid "toggle underline"
+msgstr "下線を切替え"
+
+msgid "toggle strikethrough"
+msgstr "取消線を切替え"
+
+msgid "toggle highlight"
+msgstr "ハイライトを切替え"
+
+msgid "Arrows Up/Down"
+msgstr "上/下矢印キー"
+
+msgid "toggle alternative view"
+msgstr "表示方式を切替え"
+
+msgid "year info"
+msgstr "年情報"
+
+msgid "set current year"
+msgstr "現在の年を設定"
+
+msgid "close full-year calendar"
+msgstr "年間カレンダを閉じる"
+
+msgid "Alt+a, Insert"
+msgstr "Alt+a, Insert"
+
+msgid "add task"
+msgstr "仕事を追加"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr "Alt+e, Ctrl+Enter"
+
+msgid "edit task"
+msgstr "仕事を編集"
+
+msgid "Alt+r, Delete"
+msgstr "Alt+r, Delete"
+
+msgid "remove task"
+msgstr "仕事を削除"
+
+msgid "toggle hidden tasks"
+msgstr "隠された仕事を切替え"
+
+msgid "activate search field"
+msgstr "検索フィールドをアクティブにする"
+
+msgid "Left, Right"
+msgstr "左,右"
+
+msgid "change category filter"
+msgstr "カテゴリフィルタを変更"
+
+msgid "close task info panel"
+msgstr "仕事情報パネルを閉じる"
+
+msgid "Insert"
+msgstr "挿入"
+
+msgid "add contact"
+msgstr "コンタクトを追加"
+
+msgid "Ctrl+Enter"
+msgstr "Ctrl+Enter"
+
+msgid "edit contact"
+msgstr "コンタクトを編集"
+
+msgid "remove contact"
+msgstr "コンタクトを削除"
+
+msgid "change search mode"
+msgstr "検索モードを変更"
+
+msgid "close contact details panel"
+msgstr "コンタクト詳細パネルを閉じる"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "open note"
+msgstr "メモを開く"
+
+msgid "add note"
+msgstr "メモを追加"
+
+msgid "remove note"
+msgstr "メモを削除"
+
+msgid "edit note name and category"
+msgstr "メモ名とカテゴリーを編集"
+
+msgid "close note editor"
+msgstr "メモエディタを閉じる"
+
+msgid "save note"
+msgstr "メモを保存"
+
+msgid "find text"
+msgstr "テキストを見つける"
+
+msgid "clear selection attributes"
+msgstr "選択属性をクリアする"
+
+msgid "OSMO was designed keeping in mind the user convenience, so there are many key shortcuts. Here is the full list:"
+msgstr "OSMOはユーザの利便性を考慮して作られ、たくさんのキーショートカットがあります。以下は全リストです："
+
+msgid "General"
+msgstr "一般"
+
+msgid "Calendar"
+msgstr "カレンダー"
+
+msgid "Note editor"
+msgstr "メモエディタ"
+
+msgid "Full-year calendar"
+msgstr "年間カレンダ"
+
+msgid "Tasks"
+msgstr "仕事"
+
+msgid "Contacts"
+msgstr "コンタクト"
+
+msgid "Notes"
+msgstr "メモ"
+
+msgid "Selector"
+msgstr "セレクタ"
+
+msgid "Editor"
+msgstr "エディタ"
+
+msgid "A handy personal organizer"
+msgstr "かんたん個人管理ツール"
+
+msgid "compiled on"
+msgstr "コンパイル"
+
+msgid "Programming"
+msgstr "プログラミング"
+
+msgid "Graphics"
+msgstr "グラフィック"
+
+msgid "Contributors"
+msgstr "貢献者"
+
+msgid "Translators"
+msgstr "翻訳者"
+
+msgid "Mailing lists"
+msgstr "メーリングリスト"
+
+msgid "Bug tracker"
+msgstr "バグトラッカ"
+
+msgid "Feature requests"
+msgstr "機能要求"
+
+msgid "Available modules"
+msgstr "利用可能なモジュール"
+
+msgid "Compiled-in features"
+msgstr "コンパイル済み機能"
+
+msgid "iCalendar support"
+msgstr "iCalendar サポート"
+
+msgid "Encrypted notes support"
+msgstr "暗号化メモサポート"
+
+msgid "HTML view required for Contacts module"
+msgstr "Contacts モジュールに必要な HTML ビュー"
+
+msgid "SyncML enabled device support"
+msgstr "有効な SyncML デバイスサポート"
+
+msgid "Backup support"
+msgstr "バックアップサポート"
+
+msgid "Printing support"
+msgstr "印刷サポート"
+
+msgid "Spell checker support"
+msgstr "スペルチェッカーサポート"
+
+msgid "version"
+msgstr "バージョン"
+
+msgid "SVN revision"
+msgstr "SVN リビジョン"
+
+msgid "Key shortcuts"
+msgstr "キーショートカット"
+
+msgid "License"
+msgstr "ライセンス"
+
+msgid "Save backup"
+msgstr "バックアップを保存"
+
+msgid "Password protection"
+msgstr "パスワード保護"
+
+msgid "Enter password"
+msgstr "パスワードを入力"
+
+msgid "Re-enter password"
+msgstr "パスワードを再入力"
+
+msgid "Please enter the password"
+msgstr "パスワードを入力して下さい"
+
+msgid "Passwords do not match!"
+msgstr "パスワードが一致しません！"
+
+msgid "Cannot create backup!"
+msgstr "バックアップを作成できません！"
+
+msgid "Backup file saved successfully!"
+msgstr "バックアップファイルの保存に成功しました！"
+
+msgid "Open backup file"
+msgstr "バックアップファイルを開く"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Osmo バックアップファイル (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "これは Osmo バックアップファイルではありません"
+
+msgid "Incorrect password!"
+msgstr "間違ったパスワードです！"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "全てのデータはバックアップファイルの内容に置換されます。"
+
+msgid "Are you sure?"
+msgstr "よろしいですか？"
+
+msgid "Osmo has to be restarted now..."
+msgstr "今すぐ Osmo を再起動しなければなりません..."
+
+msgid "was born"
+msgstr "誕生"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "才"
+msgstr[1] "才"
+
+msgid "Current time"
+msgstr "現在時刻"
+
+msgid "Day number"
+msgstr "日数"
+
+msgid "Today distance"
+msgstr "今日からの日数"
+
+msgid "Week number"
+msgstr "週数"
+
+msgid "Marked days"
+msgstr "マークした日"
+
+msgid "Weekend days"
+msgstr "週末日"
+
+msgid "Day category"
+msgstr "日カテゴリー"
+
+msgid "Moon phase"
+msgstr "月齢"
+
+msgid "Zodiac sign"
+msgstr "十二宮"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "年末までの日数"
+msgstr[1] "年末までの日数"
+
+msgid "the last day of the year"
+msgstr "大晦日"
+
+msgid "Day notes"
+msgstr "一日のメモ"
+
+msgid "Day tasks"
+msgstr "一日の仕事"
+
+msgid "Birthday"
+msgstr "誕生日"
+
+msgid "Selected day note will be removed."
+msgstr "選択した一日のメモは削除されます。"
+
+msgid "Continue?"
+msgstr "続けますか？"
+
+msgid "Previous year"
+msgstr "前年"
+
+msgid "Previous month"
+msgstr "前月"
+
+msgid "Previous day"
+msgstr "前日"
+
+msgid "Today"
+msgstr "今日"
+
+msgid "Next day"
+msgstr "明日"
+
+msgid "Next month"
+msgstr "来月"
+
+msgid "Next year"
+msgstr "来年"
+
+msgid "Jump to date"
+msgstr "その日にジャンプ"
+
+msgid "Print calendar"
+msgstr "カレンダーを印刷"
+
+msgid "Date calculator"
+msgstr "日付電卓"
+
+msgid "Preferences"
+msgstr "設定"
+
+msgid "Toggle day note panel"
+msgstr "一日のメモパネルを切替え"
+
+msgid "Add task"
+msgstr "仕事を追加"
+
+msgid "Select day color"
+msgstr "日付の色を選択"
+
+msgid "Browse notes"
+msgstr "メモをブラウズ"
+
+msgid "Browse iCal events"
+msgstr "iCal イベントをブラウズ"
+
+msgid "Export to iCal file"
+msgstr "iCal ファイルにエクスポート"
+
+msgid "Previous and next month"
+msgstr "前月と翌月"
+
+msgid "Close note panel"
+msgstr "メモパネルを閉じる"
+
+msgid "Highlight"
+msgstr "ハイライト"
+
+msgid "Strikethrough"
+msgstr "取消線"
+
+msgid "Underline"
+msgstr "下線"
+
+msgid "Italic"
+msgstr "斜体"
+
+msgid "Bold"
+msgstr "太字"
+
+msgid "Insert timeline"
+msgstr "時刻ラインを挿入"
+
+msgid "Clear text"
+msgstr "テキストをクリア"
+
+msgid "Info"
+msgstr "情報"
+
+msgid "Select color"
+msgstr "色を選択"
+
+msgid "None"
+msgstr "なし"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "年"
+msgstr[1] "年"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "月"
+msgstr[1] "月"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "日"
+msgstr[1] "日"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "時"
+msgstr[1] "時"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分"
+msgstr[1] "分"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "秒"
+msgstr[1] "秒"
+
+msgid "or"
+msgstr "または"
+
+msgid "rounded down"
+msgstr "四捨五入"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "週"
+msgstr[1] "週"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "稼動日"
+msgstr[1] "稼動日"
+
+msgid "time is ignored"
+msgstr "時間は無視されます"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "週末"
+msgstr[1] "週末"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "この電卓は1年目以降の日付だけをサポートします。"
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "無視された週末"
+msgstr[1] "週末を無視"
+
+msgid "Year"
+msgstr "年"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Day"
+msgstr "日"
+
+msgid "Current date"
+msgstr "現在の日付"
+
+msgid "Set current date"
+msgstr "現在の日付をセット"
+
+msgid "Hour"
+msgstr "時"
+
+msgid "Minute"
+msgstr "分"
+
+msgid "Second"
+msgstr "秒"
+
+msgid "Set current time"
+msgstr "現在の時刻をセット"
+
+msgid "Reset time"
+msgstr "時刻をリセット"
+
+msgid "First date and time"
+msgstr "最初の日付と時刻"
+
+msgid "Second date and time"
+msgstr "2番目の日付と時刻"
+
+msgid "Alternative time units"
+msgstr "別の時間単位"
+
+msgid "Result"
+msgstr "結果"
+
+msgid "Duration between two dates"
+msgstr "2つの日付の期間"
+
+msgid "Operation"
+msgstr "演算"
+
+msgid "add"
+msgstr "足す"
+
+msgid "subtract"
+msgstr "引く"
+
+msgid "Date and time to add or subtract from"
+msgstr "日付と時刻を足す、あるいは引く"
+
+msgid "Years"
+msgstr "年"
+
+msgid "Months"
+msgstr "月"
+
+msgid "Days"
+msgstr "日"
+
+msgid "Weeks"
+msgstr "週"
+
+msgid "Hours"
+msgstr "時"
+
+msgid "Minutes"
+msgstr "分"
+
+msgid "Seconds"
+msgstr "秒"
+
+msgid "Ignore weekend days"
+msgstr "週末を無視"
+
+msgid "Reset fields"
+msgstr "フィールドをリセット"
+
+msgid "Time to add or subtract"
+msgstr "足す、あるいは引く時間"
+
+msgid "Jump to"
+msgstr "ジャンプ"
+
+msgid "Add to or subtract from a date"
+msgstr "日付から足す、あるいは引く"
+
+msgid "Leap year"
+msgstr "うるう年"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Chinese year animal"
+msgstr "干支"
+
+msgid "Number of days"
+msgstr "日数"
+
+msgid "Number of weeks"
+msgstr "週数"
+
+msgid "Number of weekend days"
+msgstr "週末日数"
+
+msgid "Year info"
+msgstr "年情報"
+
+msgid "Current year"
+msgstr "現在の年"
+
+msgid "Alternative view"
+msgstr "表示方式"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "イベント"
+msgstr[1] "行事"
+
+msgid "No valid calendars defined"
+msgstr "有効なカレンダーが定義されていません"
+
+msgid "iCalendar events"
+msgstr "iCalendar イベント"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Select output file"
+msgstr "出力ファイルを選択"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "リストはクリアされ、全てのエントリは失われます。"
+
+msgid "Done!"
+msgstr "完了！"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "エクスポートしたイベント"
+msgstr[1] "エクスポートした行事"
+
+msgid "iCalendar export"
+msgstr "iCalendar のエクスポート"
+
+msgid "Day Selector"
+msgstr "日付セレクタ"
+
+msgid "Use date period"
+msgstr "日付ピリオドを使う"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Output filename"
+msgstr "出力ファイル名"
+
+msgid "Browse"
+msgstr "ブラウズ"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Export"
+msgstr "エクスポート"
+
+msgid "no entries"
+msgstr "エントリーはありません"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "エントリー"
+msgstr[1] "エントリー"
+
+msgid "Calendar notes"
+msgstr "カレンダーメモ"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Filter"
+msgstr "フィルタ"
+
+msgid "Current month"
+msgstr "現在の月"
+
+msgid "Selected month"
+msgstr "選択された月"
+
+msgid "Selected year"
+msgstr "選択された年"
+
+msgid "Selected month and year"
+msgstr "選択された月と年"
+
+msgid "All notes"
+msgstr "全てのメモ"
+
+msgid "Case sensitive"
+msgstr "大文字小文字を区別する"
+
+msgid "Strikethrough past day notes"
+msgstr "以前の日のメモに取消線"
+
+msgid "Note"
+msgstr "メモ"
+
+msgid "Syntax"
+msgstr "構文"
+
+msgid "abbreviated weekday name"
+msgstr "省略した曜日名"
+
+msgid "full weekday name"
+msgstr "完全な曜日名"
+
+msgid "abbreviated month name"
+msgstr "省略した月の名前"
+
+msgid "full month name"
+msgstr "完全な月の名前"
+
+msgid "day of the month"
+msgstr "日"
+
+msgid "MM/DD/YY"
+msgstr "MM/DD/YY"
+
+msgid "day of the month without leading zeros"
+msgstr "ゼロを前に置かない日"
+
+msgid "year without century"
+msgstr "世紀のない年"
+
+msgid "year with century"
+msgstr "世紀のある年"
+
+msgid "Date header format"
+msgstr "日付ヘッダ形式"
+
+msgid "Set default format"
+msgstr "デフォルトの形式をセット"
+
+msgid "Date format syntax"
+msgstr "日付形式構文"
+
+msgid "Day note marker"
+msgstr "日のメモマーカ"
+
+msgid "Event marker"
+msgstr "イベントマーカ"
+
+msgid "Circle"
+msgstr "円"
+
+msgid "Ellipse"
+msgstr "楕円"
+
+msgid "Wave"
+msgstr "波"
+
+msgid "Current day marker"
+msgstr "現在日マーカ"
+
+msgid "Arrow"
+msgstr "矢印"
+
+msgid "Free-hand circle"
+msgstr "フリーハンド円"
+
+msgid "Colors"
+msgstr "色"
+
+msgid "Header color"
+msgstr "ヘッダの色"
+
+msgid "Weekend days color"
+msgstr "週末日の色"
+
+msgid "Cursor color"
+msgstr "カーソルの色"
+
+msgid "Event marker color"
+msgstr "イベントマーカの色"
+
+msgid "Current day marker color"
+msgstr "現在日マーカの色"
+
+msgid "Birthday marker color"
+msgstr "誕生日マーカの色"
+
+msgid "Date font"
+msgstr "日付のフォント"
+
+msgid "Calendar font"
+msgstr "カレンダのフォント"
+
+msgid "Note font"
+msgstr "メモのフォント"
+
+msgid "Enable block cursor"
+msgstr "ブロックカーソルを有効"
+
+msgid "Cursor thickness"
+msgstr "カーソルの幅"
+
+msgid "Thin"
+msgstr "細く"
+
+msgid "Thick"
+msgstr "太く"
+
+msgid "Edit category"
+msgstr "カテゴリーを編集"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "ICS ファイルを選択"
+
+msgid "All Files"
+msgstr "全ファイル"
+
+msgid "Calendar files (*.ics)"
+msgstr "Calendar ファイル (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "ICAL パラメータを修正"
+
+msgid "Filename"
+msgstr "ファイル名"
+
+msgid "Options"
+msgstr "オプション"
+
+msgid "Disabled"
+msgstr "無効"
+
+msgid "Valid"
+msgstr "有効"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Full date"
+msgstr "完全な日付"
+
+msgid "Mark"
+msgstr "マーク"
+
+msgid "Week start on Monday"
+msgstr "週を月曜日から始める"
+
+msgid "Show day names"
+msgstr "誕生日名を表示"
+
+msgid "No month change"
+msgstr "月は変更しない"
+
+msgid "Show week numbers"
+msgstr "週数を表示"
+
+msgid "Simple view in full-year calendar"
+msgstr "年間カレンダに簡単表示"
+
+msgid "Enable auxilary calendars"
+msgstr "補助カレンダを有効"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "一日のメモブラウザで昇順ソート"
+
+msgid "Enable spell checker in day notes"
+msgstr "一日のメモのスペルチェッカーを有効にする"
+
+msgid "Appearance"
+msgstr "外観"
+
+msgid "Day categories"
+msgstr "日のカテゴリ"
+
+msgid "iCalendar files"
+msgstr "iCalendar ファイル"
+
+msgid "Show in day info panel"
+msgstr "一日の情報パネルに表示"
+
+msgid "Name day"
+msgstr "聖名祝日"
+
+msgid "Error printing"
+msgstr "印刷エラー"
+
+msgid "Printing properties"
+msgstr "印刷プロパティ"
+
+msgid "Month name"
+msgstr "月の名前"
+
+msgid "Day name"
+msgstr "日の名前"
+
+msgid "Events"
+msgstr "イベント"
+
+msgid "Fonts"
+msgstr "フォント"
+
+msgid "Birthdays"
+msgstr "誕生日"
+
+msgid "Namedays"
+msgstr "聖名祝日"
+
+msgid "Visible events"
+msgstr "表示イベント"
+
+msgid "Padding"
+msgstr "間隔"
+
+msgid "Event maximum length"
+msgstr "イベント最大長"
+
+msgid "Page orientation:"
+msgstr "印刷の向き:"
+
+msgid "Portrait"
+msgstr "縦長"
+
+msgid "Landscape"
+msgstr "横長"
+
+msgid "Timeline"
+msgstr "タイムライン"
+
+msgid "From (hour)"
+msgstr "(時) から"
+
+msgid "Step (minutes)"
+msgstr "(分) 進めて"
+
+msgid "To (hour)"
+msgstr "(時) まで"
+
+msgid "No date"
+msgstr "日付なし"
+
+msgid "Rat"
+msgstr "子"
+
+msgid "Ox"
+msgstr "丑"
+
+msgid "Tiger"
+msgstr "寅"
+
+msgid "Hare"
+msgstr "卯"
+
+msgid "Dragon"
+msgstr "辰"
+
+msgid "Snake"
+msgstr "巳"
+
+msgid "Horse"
+msgstr "午"
+
+msgid "Sheep"
+msgstr "未"
+
+msgid "Monkey"
+msgstr "申"
+
+msgid "Fowl"
+msgstr "酉"
+
+msgid "Dog"
+msgstr "戌"
+
+msgid "Pig"
+msgstr "亥"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Aquarius"
+msgstr "水瓶座"
+
+msgid "Pisces"
+msgstr "魚座"
+
+msgid "Aries"
+msgstr "牡羊座"
+
+msgid "Taurus"
+msgstr "牡牛座"
+
+msgid "Gemini"
+msgstr "双子座"
+
+msgid "Cancer"
+msgstr "カニ座"
+
+msgid "Leo"
+msgstr "獅子座"
+
+msgid "Virgo"
+msgstr "乙女座"
+
+msgid "Libra"
+msgstr "てんびん座"
+
+msgid "Scorpio"
+msgstr "蠍座"
+
+msgid "Sagittarius"
+msgstr "射手座"
+
+msgid "Capricorn"
+msgstr "山羊座"
+
+msgid "Cannot perform selected operation."
+msgstr "選択した操作は実行できません。"
+
+msgid "Task has been modified or removed."
+msgstr "仕事は、変更あるいは削除されました。"
+
+msgid "Remind me later"
+msgstr "後で通知する"
+
+msgid "Done"
+msgstr "終了"
+
+msgid "postponed"
+msgstr "延期"
+
+msgid "Show task"
+msgstr "仕事を表示"
+
+msgid "Alarm warning!"
+msgstr "アラーム警告！"
+
+msgid "Day note"
+msgstr "一日のメモ"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "Task"
+msgstr "仕事"
+
+msgid "Show Osmo"
+msgstr "Osmo を表示"
+
+msgid "No birthdays defined"
+msgstr "誕生日が定義されていません"
+
+msgid "Birthdays list"
+msgstr "誕生日リスト"
+
+msgid "Days to birthday"
+msgstr "誕生日までの日数"
+
+msgid "Age"
+msgstr "年齢"
+
+msgid "Birthday date"
+msgstr "誕生日"
+
+msgid "today"
+msgstr "今日"
+
+msgid "Please select address"
+msgstr "住所を選択して下さい。"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "Work"
+msgstr "勤務先"
+
+msgid "Home"
+msgstr "自宅"
+
+msgid "Group"
+msgstr "グループ"
+
+msgid "First name"
+msgstr "名 (ファーストネーム)"
+
+msgid "Last name"
+msgstr "姓 (ラストネーム)"
+
+msgid "Second name"
+msgstr "姓 (セカンドネーム)"
+
+msgid "Nickname"
+msgstr "ニックネーム"
+
+msgid "Tags"
+msgstr "タグ"
+
+msgid "Name day date"
+msgstr "聖名祝日の日付"
+
+msgid "Home address"
+msgstr "住所 (個人)"
+
+msgid "Home postcode"
+msgstr "郵便番号 (個人)"
+
+msgid "Home city"
+msgstr "市町村 (個人)"
+
+msgid "Home state"
+msgstr "都道府県 (個人)"
+
+msgid "Home country"
+msgstr "国 (個人)"
+
+msgid "Organization"
+msgstr "組織"
+
+msgid "Department"
+msgstr "部署"
+
+msgid "Work address"
+msgstr "住所 (勤務先)"
+
+msgid "Work postcode"
+msgstr "郵便番号 (勤務先)"
+
+msgid "Work city"
+msgstr "市町村 (勤務先)"
+
+msgid "Work state"
+msgstr "都道府県 (勤務先)"
+
+msgid "Work country"
+msgstr "国 (勤務先)"
+
+msgid "Fax"
+msgstr "FAX"
+
+msgid "Home phone"
+msgstr "電話番号 (個人)"
+
+msgid "Home phone 2"
+msgstr "電話番号 2 (個人)"
+
+msgid "Home phone 3"
+msgstr "電話番号 3 (個人)"
+
+msgid "Home phone 4"
+msgstr "電話番号 4 (個人)"
+
+msgid "Work phone"
+msgstr "電話番号 (勤務先)"
+
+msgid "Work phone 2"
+msgstr "電話番号 2 (勤務先)"
+
+msgid "Work phone 3"
+msgstr "電話番号 3 (勤務先)"
+
+msgid "Work phone 4"
+msgstr "電話番号 4 (勤務先)"
+
+msgid "Cell phone"
+msgstr "携帯電話"
+
+msgid "Cell phone 2"
+msgstr "携帯電話 2"
+
+msgid "Cell phone 3"
+msgstr "携帯電話 3"
+
+msgid "Cell phone 4"
+msgstr "携帯電話 4"
+
+msgid "E-Mail"
+msgstr "Eメールアドレス"
+
+msgid "E-Mail 2"
+msgstr "Eメールアドレス 2"
+
+msgid "E-Mail 3"
+msgstr "Eメールアドレス 3"
+
+msgid "E-Mail 4"
+msgstr "Eメールアドレス 4"
+
+msgid "WWW"
+msgstr "ホームページ"
+
+msgid "WWW 2"
+msgstr "ホームページ 2"
+
+msgid "WWW 3"
+msgstr "ホームページ 3"
+
+msgid "WWW 4"
+msgstr "ホームページ 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "ブログ"
+
+msgid "Photo"
+msgstr "写真"
+
+msgid "Additional info"
+msgstr "追加情報"
+
+msgid "New contact"
+msgstr "新しいコンタクト"
+
+msgid "Remove contact"
+msgstr "コンタクトを削除"
+
+msgid "Edit contact"
+msgstr "コンタクトを編集"
+
+msgid "Show birthdays"
+msgstr "誕生日を表示"
+
+msgid "Show contact location on the map"
+msgstr "地図でコンタクト場所を表示"
+
+msgid "Import contacts"
+msgstr "コンタクトをインポート"
+
+msgid "Export contacts"
+msgstr "コンタクトをエクスポート"
+
+msgid "First Name"
+msgstr "名 (ファーストネーム)"
+
+msgid "Last Name"
+msgstr "姓 (ラストネーム)"
+
+msgid "All fields"
+msgstr "全フィールド"
+
+msgid "Contact details"
+msgstr "コンタクトの詳細"
+
+msgid "Close contact panel"
+msgstr "コンタクトパネルを閉じる"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "エクスポートしたコンタクト"
+msgstr[1] "エクスポートしたコンタクト"
+
+msgid "Cannot create file."
+msgstr "ファイルを作成できません。"
+
+msgid "Output format"
+msgstr "出力形式"
+
+msgid "Add header"
+msgstr "ヘッダを追加"
+
+msgid "Fields to export"
+msgstr "エクスポートするフィールド"
+
+msgid "All"
+msgstr "全て"
+
+msgid "Invert"
+msgstr "反転"
+
+msgid "Select fields"
+msgstr "フィールドを選択"
+
+msgid "Select CSV file"
+msgstr "CSVファイルを選択"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSVファイル (カンマ区切りの値) (*.csv)"
+
+msgid "Please select file first."
+msgstr "最初にファイルを選択して下さい。"
+
+msgid "Import type"
+msgstr "インポート形式"
+
+msgid "File"
+msgstr "ファイル"
+
+msgid "Input filename"
+msgstr "入力ファイル名"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "Channel"
+msgstr "チャンネル"
+
+msgid "Interface"
+msgstr "インターフェース"
+
+msgid "Use binary XML (WBXML)"
+msgstr "バイナリー XML (WBXML) を使う"
+
+msgid "Import"
+msgstr "インポート"
+
+msgid "Nothing to import."
+msgstr "インポートするものはありません。"
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "追加したコンタクト"
+msgstr[1] "コンタクトの追加"
+
+msgid "of"
+msgstr "の"
+
+msgid "Record"
+msgstr "記録"
+
+msgid "Number fields per record"
+msgstr "記録毎の番号フィールド"
+
+msgid "Use first record as header"
+msgstr "最初の記録をヘッダとして使う"
+
+msgid "Field type"
+msgstr "フィールド形式"
+
+msgid "Value"
+msgstr "値"
+
+msgid "No records found in selected file."
+msgstr "選択ファイルに記録は見つかりません。"
+
+msgid "Cannot read file."
+msgstr "ファイルを読めません。"
+
+msgid "Cannot open file."
+msgstr "ファイルを開けません。"
+
+msgid "Selected contact will be removed."
+msgstr "選択したコンタクトは削除されます。"
+
+msgid "Select photo"
+msgstr "写真を選択"
+
+msgid "Postcode"
+msgstr "郵便番号"
+
+msgid "City"
+msgstr "市町村"
+
+msgid "State"
+msgstr "都道府県"
+
+msgid "Country"
+msgstr "国"
+
+msgid "Add contact"
+msgstr "コンタクトを追加"
+
+msgid "Personal"
+msgstr "パーソナル"
+
+msgid "Phones"
+msgstr "電話番号"
+
+msgid "Internet"
+msgstr "インターネット"
+
+msgid "Color of contact tags"
+msgstr "コンタクトタグの色"
+
+msgid "Color of links"
+msgstr "リンクの色"
+
+msgid "Font size"
+msgstr "フォントサイズ"
+
+msgid "Name font size"
+msgstr "名前のフォントサイズ"
+
+msgid "Item font size"
+msgstr "アイテムのフォントサイズ"
+
+msgid "Photo size"
+msgstr "写真のサイズ"
+
+msgid "Small"
+msgstr "小"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Select and show first item after search"
+msgstr "検索後、最初のアイテムを選択して表示"
+
+msgid "Hide group column"
+msgstr "グループコラムを隠す"
+
+msgid "Order"
+msgstr "順序"
+
+msgid "Mode"
+msgstr "モード"
+
+msgid "Ascending"
+msgstr "昇順"
+
+msgid "Descending"
+msgstr "降順"
+
+msgid "Miscellaneous"
+msgstr "その他"
+
+msgid "Groups"
+msgstr "グループ"
+
+msgid "Sorting"
+msgstr "並び替え"
+
+msgid "Visible columns in birthday browser"
+msgstr "誕生日ブラウザでコラムを表示"
+
+msgid "Show calendar"
+msgstr "カレンダーを表示"
+
+msgid "Show tasks"
+msgstr "仕事を表示"
+
+msgid "Show contacts"
+msgstr "コンタクトを表示"
+
+msgid "Show notes"
+msgstr "メモを表示"
+
+msgid "Show options"
+msgstr "オプションを表示"
+
+msgid "Quit"
+msgstr "終了"
+
+msgid "Show small calendar window"
+msgstr "小さいカレンダーウィンドウを表示"
+
+msgid "Check for events since last run"
+msgstr "最後の実行からイベントをチェック"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "先のイベントをチェックする日数(初期値： 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "設定とデータファイルに絶対パスをセット"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Osmo を低解像度で使うために GUI を修正"
+
+msgid "handy personal organizer"
+msgstr "かんたん個人管理ツール"
+
+msgid "ERROR: Cannot create config files"
+msgstr "エラー：設定ファイルを作成できません"
+
+msgid "Another copy of OSMO is already running."
+msgstr "もう1つの OSMO のコピーが既に起動しています。"
+
+msgid "Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr "2つ以上の OSMO のコピーを同時に使うとデータ損失の原因となります。"
+
+msgid "Do you really want to continue?"
+msgstr "本当に続けますか？"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "The note has changed."
+msgstr "メモは変更されました。"
+
+msgid "Do you want to save it?"
+msgstr "保存しますか？"
+
+msgid "Words"
+msgstr "単語"
+
+msgid "Lines"
+msgstr "行"
+
+msgid "Characters"
+msgstr "文字"
+
+msgid "White characters"
+msgstr "空白文字"
+
+msgid "Bytes"
+msgstr "バイト"
+
+msgid "Document"
+msgstr "ドキュメント"
+
+msgid "Selection"
+msgstr "選択"
+
+msgid "Created"
+msgstr "作成"
+
+msgid "Modified"
+msgstr "修正"
+
+msgid "New note"
+msgstr "新規メモ"
+
+msgid "Add note"
+msgstr "メモを追加"
+
+msgid "Edit note"
+msgstr "メモを編集"
+
+msgid "Delete note"
+msgstr "メモを削除"
+
+msgid "Remove note"
+msgstr "メモを除去"
+
+msgid "Find"
+msgstr "見つける"
+
+msgid "Clear attributes"
+msgstr "属性をクリア"
+
+msgid "Save note"
+msgstr "メモを保存"
+
+msgid "Insert current date and time"
+msgstr "現在の日付と時刻を挿入"
+
+msgid "Insert separator"
+msgstr "セパレータを挿入"
+
+msgid "Statistics"
+msgstr "統計"
+
+msgid "Close editor"
+msgstr "エディタを閉じる"
+
+msgid "Toggle spell checker"
+msgstr "スペルチェッカーを切替え"
+
+msgid "Category"
+msgstr "カテゴリ"
+
+msgid "Note name"
+msgstr "メモ名"
+
+msgid "Last changes"
+msgstr "最近の変更"
+
+msgid "Read-only"
+msgstr "読み込み専用"
+
+msgid "Line"
+msgstr "行"
+
+msgid "Column"
+msgstr "コラム"
+
+msgid "case sensitive"
+msgstr "大文字小文字を区別"
+
+msgid "Close find entry"
+msgstr "見つけるエントリを閉じる"
+
+msgid "Edit entry"
+msgstr "エントリを編集"
+
+msgid "Remember cursor position"
+msgstr "カーソル位置を記憶"
+
+msgid "Selected note will be removed."
+msgstr "選択したメモは削除されます。"
+
+msgid "No further data recovery will be possible."
+msgstr "これ以上、データのリカバリーはできません。"
+
+msgid "Plain"
+msgstr "平文"
+
+msgid "Encrypted"
+msgstr "暗号化"
+
+msgid "Note type"
+msgstr "メモ形式"
+
+msgid "Cannot open the note."
+msgstr "メモを開けません。"
+
+msgid "encryption support is disabled"
+msgstr "暗号化サポートは無効です"
+
+msgid "Authorization"
+msgstr "承認"
+
+msgid "Algorithm"
+msgstr "アルゴリズム"
+
+msgid "Hashing"
+msgstr "ハッシュ法"
+
+msgid "Compression"
+msgstr "圧縮"
+
+msgid "Ratio"
+msgstr "比率"
+
+msgid "Fast"
+msgstr "早い"
+
+msgid "Good"
+msgstr "良"
+
+msgid "Best"
+msgstr "最高"
+
+msgid "Remember the last selected category"
+msgstr "最後の選択カテゴリを記憶"
+
+msgid "Use system format for date and time"
+msgstr "日付と時間にシステム形式を使う"
+
+msgid "Encryption"
+msgstr "暗号化"
+
+msgid "Visible columns"
+msgstr "目に見えるコラム"
+
+msgid "Categories"
+msgstr "カテゴリ"
+
+msgid "Notes options"
+msgstr "メモオプション"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr "有効にするには Osmo を再起動しなければなりません..."
+
+msgid "Layout"
+msgstr "レイアウト"
+
+msgid "Vertical"
+msgstr "縦"
+
+msgid "Horizontal"
+msgstr "横"
+
+msgid "Tabs position"
+msgstr "タブ位置"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Top"
+msgstr "上"
+
+msgid "Bottom"
+msgstr "下"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "デフォルトのストックアイコンを使う(再起動が必要)"
+
+msgid "Disable underline in links"
+msgstr "リンクの下線を無効"
+
+msgid "Draw rows in alternating colors"
+msgstr "交互の色で行を描く"
+
+msgid "At least one module must be visible."
+msgstr "少なくとも1つのモジュールが見えなくてはなりません。"
+
+msgid "Override locale settings"
+msgstr "ロケール設定を上書き"
+
+msgid "Date format"
+msgstr "日付形式"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY-DD-MM"
+msgstr "YYYY-DD-MM"
+
+msgid "Time format"
+msgstr "時間形式"
+
+msgid "hours"
+msgstr "時"
+
+msgid "Spell checker language"
+msgstr "スペルチェッカー言語"
+
+msgid "Enable tooltips"
+msgstr "ツールチップを有効"
+
+msgid "Remember last selected page"
+msgstr "最後の選択ページを記憶"
+
+msgid "Save data after every modification"
+msgstr "修正ごとにデータを保存"
+
+msgid "Web browser"
+msgstr "ウェブブラウザ"
+
+msgid "E-mail client"
+msgstr "Eメールクライアント"
+
+msgid "Sound player"
+msgstr "サウンドプレーヤ"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "「%s」パターンはウェブアドレスに置き換えられます"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "「%s」パターンはEメールアドレスに置き換えられます"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "「%s」パターンは音声ファイル名に置き換えられます"
+
+msgid "Create"
+msgstr "作成"
+
+msgid "Restore"
+msgstr "復元"
+
+msgid "Enable system tray"
+msgstr "システムトレイを有効"
+
+msgid "Start minimised"
+msgstr "アイコン化で開始"
+
+msgid "Blink on events"
+msgstr "イベントで点滅"
+
+msgid "Ignore day note events"
+msgstr "一日のメモイベントを無視する"
+
+msgid "Hide"
+msgstr "隠す"
+
+msgid "Helpers"
+msgstr "ヘルパ"
+
+msgid "Backup"
+msgstr "バックアップ"
+
+msgid "System tray"
+msgstr "システムトレイ"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Go Down"
+msgstr "下へ行く"
+
+msgid "Select date"
+msgstr "日付を選択"
+
+msgid "Select font"
+msgstr "フォントを選択"
+
+msgid "Calculator"
+msgstr "電卓"
+
+msgid "Edit day note"
+msgstr "一日のメモを編集"
+
+msgid "Contact map location"
+msgstr "コンタクト地図の場所"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Display full-year calendar"
+msgstr "年間カレンダを表示"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Invalid item"
+msgstr "無効なアイテム"
+
+msgid "Valid item"
+msgstr "有効なアイテム"
+
+msgid "Edit task"
+msgstr "仕事を編集"
+
+msgid "Remove task"
+msgstr "仕事を削除"
+
+msgid "Import tasks"
+msgstr "タスクをインポート"
+
+msgid "Export tasks"
+msgstr "タスクをエクスポート"
+
+msgid "Change to previous date"
+msgstr "前の日付に変更"
+
+msgid "Change to next date"
+msgstr "次の日付に変更"
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Normal"
+msgstr "標準"
+
+msgid "Recurrent"
+msgstr "循環"
+
+msgid "Started"
+msgstr "開始"
+
+msgid "Finished"
+msgstr "終了"
+
+msgid "All items"
+msgstr "全てのアイテム"
+
+msgid "New task"
+msgstr "新しい仕事"
+
+msgid "Change due date to previous date"
+msgstr "期日を前の日付に変更"
+
+msgid "Change due date to next date"
+msgstr "期日を次の日付に変更"
+
+msgid "Print visible tasks list"
+msgstr "見える仕事リストを印刷"
+
+msgid "Due date"
+msgstr "期日"
+
+msgid "Priority"
+msgstr "重要度"
+
+msgid "Task details"
+msgstr "仕事の詳細"
+
+msgid "Close description panel"
+msgstr "説明パネルを閉じる"
+
+msgid "No tasks with defined date found."
+msgstr "定義データ付きタスクが見つかりませんでした。"
+
+msgid "Save tasks"
+msgstr "タスクを保存"
+
+msgid "tasks exported"
+msgstr "エクスポートしたタスク"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "反復が有効な時は少なくとも1日を選択して下さい。"
+
+msgid "Set time"
+msgstr "時間セット"
+
+msgid "Tomorrow"
+msgstr "明日"
+
+msgid "Selected task will be removed."
+msgstr "選択した仕事は削除されます。"
+
+msgid "Basic"
+msgstr "基本"
+
+msgid "Select date and time"
+msgstr "日付と時刻を選択"
+
+msgid "Low"
+msgstr "低"
+
+msgid "High"
+msgstr "高"
+
+msgid "Enable sound notification"
+msgstr "音声通知を有効"
+
+msgid "Advanced"
+msgstr "詳細設定"
+
+msgid "Alarm warning"
+msgstr "アラーム警告"
+
+msgid "Postpone time"
+msgstr "延期時間"
+
+msgid "Alarm command"
+msgstr "アラームコマンド"
+
+msgid "Recurrent task"
+msgstr "反復する仕事"
+
+msgid "Enable"
+msgstr "有効"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "End"
+msgstr "終わり"
+
+msgid "Interval"
+msgstr "間隔"
+
+msgid "Time period"
+msgstr "期間"
+
+msgid "Date period"
+msgstr "最終日"
+
+msgid "Repeat"
+msgstr "繰り返す"
+
+msgid "Repeat in the following days"
+msgstr "次の日で繰り返す"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "仕事がオフラインで終了したらアラームを無視する"
+
+msgid "Select a font..."
+msgstr "フォントを選択..."
+
+msgid "Color of items that are due today"
+msgstr "今日する予定のアイテムの色"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "今後7日間にする予定のアイテムの色"
+
+msgid "Color of items that are past due"
+msgstr "過去の予定のアイテムの色"
+
+msgid "Task info font"
+msgstr "仕事情報のフォント"
+
+msgid "Show in bold tasks with high priority"
+msgstr "重要度の高い仕事を太字で表示"
+
+msgid "Hide completed tasks"
+msgstr "完了した仕事を隠す"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "完了した仕事を確認しないで削除"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "仕事リストでダブルクリックして新しい仕事を追加"
+
+msgid "minutes"
+msgstr "分"
+
+msgid "0 for disable"
+msgstr "0 はできません"
+
+msgid "Repeat sound alarm"
+msgstr "音声アラームを繰り返す"
+
+msgid "times"
+msgstr "時間"
+
+msgid "Global notification command"
+msgstr "全体的な通知コマンド"
+
+msgid "Tasks options"
+msgstr "仕事オプション"
+
+msgid "Reminder options"
+msgstr "お知らせオプション"
+
+msgid "Tasks list"
+msgstr "仕事リスト"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "No."
+
+msgid "New Moon"
+msgstr "新月"
+
+msgid "Waxing Crescent Moon"
+msgstr "満ちていく三日月"
+
+msgid "Quarter Moon"
+msgstr "上弦の月"
+
+msgid "Waxing Gibbous Moon"
+msgstr "満ちていく凸月"
+
+msgid "Full Moon"
+msgstr "満月"
+
+msgid "Waning Gibbous Moon"
+msgstr "欠けていく凸月"
+
+msgid "Last Quarter Moon"
+msgstr "下弦の月"
+
+msgid "Waning Crescent Moon"
+msgstr "欠けていく三日月"
+
+msgid "Question"
+msgstr "質問"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "選択されたファイルは存在します！上書きしますか？"
+
+#~ msgid "Editor font"
+#~ msgstr "フォントを編集"
+#~ msgid "Category filter"
+#~ msgstr "カテゴリフィルタ"
+#~ msgid "Modify color"
+#~ msgstr "色を修正"
+#~ msgid "ICal"
+#~ msgstr "ICal"
+#~ msgid "change day while note editing"
+#~ msgstr "メモを編集中、日を変更する"
+#~ msgid "close day note panel"
+#~ msgstr "一日のメモパネルを閉じる"
+#~ msgid "mark selection in bold"
+#~ msgstr "選択を太字でマーク"
+#~ msgid "mark selection in italic"
+#~ msgstr "選択を斜体でマーク"
+#~ msgid "mark selection in background color"
+#~ msgstr "選択を背景色でマーク"
+#~ msgid "underline selection"
+#~ msgstr "選択に下線を引く"
+#~ msgid "strikethrough selection"
+#~ msgstr "選択に取消線を引く"
+#~ msgid "a handy personal organizer"
+#~ msgstr "かんたん個人管理ツール"
+#~ msgid "Use year"
+#~ msgstr "年を使う"
+#~ msgid "Inactive recurrent"
+#~ msgstr "非アクティブ循環"
+#~ msgid "Birthday found"
+#~ msgstr "誕生日が見つかりました"
+#~ msgid "Task found"
+#~ msgstr "仕事が見つかりました"
+#~ msgid "Day note available"
+#~ msgstr "一日のメモができます"
+

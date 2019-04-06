@@ -1,0 +1,2330 @@
+# Finnish translation of OSMO.
+# Copyright (C) 2009 THE OSMO'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the OSMO package.
+# Toivo Miettinen <toivo.miettinen@panuma.fi>, 2009.
+# ,fuzzy
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: OSMO 0.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2009-01-04 16:32+0200\n"
+"Last-Translator: Toivo Miettinen <toivo.miettinen@panuma.fi>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Tietoja OSMOsta"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "siirry edelliseen välilehti"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "siirry seuraavaan välilehteen"
+
+msgid "switch to selected page"
+msgstr "siirry valitulle sivulle"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Näytä valinnat"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr "vaihda sivua valinnat- ja tietoja välilehdissä"
+
+msgid "exit"
+msgstr "poistu"
+
+#, fuzzy
+msgid "Space"
+msgstr "Tallenna"
+
+msgid "select current date"
+msgstr "valitse nykyinen päiväys"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr "vaihda henkilököhtaisten tietojen näkyminen"
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Nuoli"
+
+msgid "change day"
+msgstr "vaihda päivä"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "vieritä sisältöä päiväinfo -paneelissa"
+
+msgid "change month"
+msgstr "vaihda kuukausi"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Koti"
+
+msgid "change year"
+msgstr "vaihda vuosi"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "vaihda kalentereissa edellinen ja seuraava kuukausi"
+
+msgid "day notes browser"
+msgstr "päivämerkintöjen selain"
+
+msgid "assign background color to day note"
+msgstr "lisää taustaväri päivämerkintään"
+
+msgid "date calculator"
+msgstr "aikalaskin"
+
+msgid "show full-year calendar"
+msgstr "näytä koko vuoden kalenteri"
+
+msgid "jump to date"
+msgstr "hypähdä päivään"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Poista merkintä"
+
+msgid "remove day note"
+msgstr "poista päivämerkintä"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Nuoli"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "close editor"
+msgstr "Sulje muokkain"
+
+msgid "toggle bold"
+msgstr ""
+
+#, fuzzy
+msgid "toggle italic"
+msgstr "vaihda piilotetut tehtävät"
+
+#, fuzzy
+msgid "toggle underline"
+msgstr "Alleviivattu"
+
+#, fuzzy
+msgid "toggle strikethrough"
+msgstr "Yliviivattu"
+
+#, fuzzy
+msgid "toggle highlight"
+msgstr "Korostettu"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+#, fuzzy
+msgid "toggle alternative view"
+msgstr "Vaihtoehtoinen näkymä"
+
+#, fuzzy
+msgid "year info"
+msgstr "Vuosi-info"
+
+#, fuzzy
+msgid "set current year"
+msgstr "Kuluva vuosi"
+
+#, fuzzy
+msgid "close full-year calendar"
+msgstr "näytä koko vuoden kalenteri"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Lisää"
+
+msgid "add task"
+msgstr "lisää tehtävä"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "muokkaa tehtävää"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "poista tehtävä"
+
+msgid "toggle hidden tasks"
+msgstr "vaihda piilotetut tehtävät"
+
+msgid "activate search field"
+msgstr "ota käyttöön hakukenttä"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Oikealla"
+
+msgid "change category filter"
+msgstr "vaihda kategoriasuodatin"
+
+msgid "close task info panel"
+msgstr "sulje tehtäväinfo-paneeli"
+
+msgid "Insert"
+msgstr "Lisää"
+
+msgid "add contact"
+msgstr "lisää yhteystieto"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "muokkaa yhteystieto"
+
+msgid "remove contact"
+msgstr "poista yhteystieto"
+
+msgid "change search mode"
+msgstr "vaihda hakutapaa"
+
+msgid "close contact details panel"
+msgstr "sulje yhteystiedon yksityiskohtien paneeli"
+
+#, fuzzy
+msgid "Enter"
+msgstr "Internet"
+
+msgid "open note"
+msgstr "avaa merkintä"
+
+msgid "add note"
+msgstr "lisää merkintä"
+
+msgid "remove note"
+msgstr "poista merkintä"
+
+msgid "edit note name and category"
+msgstr "muokkaa merkinnän nimeä ja kategoriaa"
+
+msgid "close note editor"
+msgstr "sulje merkintäeditori"
+
+msgid "save note"
+msgstr "tallenna merkintä"
+
+msgid "find text"
+msgstr "etsi teksti"
+
+msgid "clear selection attributes"
+msgstr "tyhjennä valinta määritteet"
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO suunniteltiin käyttömukavuutta silmälläpitäen, niinpä siinä on monta "
+"näppäinoikotietä.Tässä luettelo niistä:"
+
+msgid "General"
+msgstr "Yleiset"
+
+msgid "Calendar"
+msgstr "Kalenteri"
+
+#, fuzzy
+msgid "Note editor"
+msgstr "Sulje muokkain"
+
+msgid "Full-year calendar"
+msgstr "Koko-vuoden kalenteri"
+
+msgid "Tasks"
+msgstr "Tehtävät"
+
+msgid "Contacts"
+msgstr "Yhteystiedot"
+
+msgid "Notes"
+msgstr "Merkinnät"
+
+msgid "Selector"
+msgstr "Valitsin"
+
+msgid "Editor"
+msgstr "Muokkain"
+
+msgid "A handy personal organizer"
+msgstr "Kätevä henkilökohtainen järjestelijä"
+
+msgid "compiled on"
+msgstr "Koostettu"
+
+msgid "Programming"
+msgstr "Ohjelmointi"
+
+msgid "Graphics"
+msgstr "Grafiikka"
+
+msgid "Contributors"
+msgstr "Avustajat"
+
+msgid "Translators"
+msgstr "Kääntäjät"
+
+msgid "Mailing lists"
+msgstr ""
+
+msgid "Bug tracker"
+msgstr ""
+
+msgid "Feature requests"
+msgstr ""
+
+msgid "Available modules"
+msgstr ""
+
+msgid "Compiled-in features"
+msgstr "Sisällytetyt ominaisuudet"
+
+msgid "iCalendar support"
+msgstr "iCalendar tuki"
+
+#, fuzzy
+msgid "Encrypted notes support"
+msgstr "Merkintöjen salaus"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "SyncML yhteensopivien laitteiden tuki"
+
+msgid "Backup support"
+msgstr ""
+
+#, fuzzy
+msgid "Printing support"
+msgstr "iCalendar tuki"
+
+#, fuzzy
+msgid "Spell checker support"
+msgstr "SyncML yhteensopivien laitteiden tuki"
+
+msgid "version"
+msgstr "versio"
+
+msgid "SVN revision"
+msgstr "SVN revision"
+
+msgid "Key shortcuts"
+msgstr "Näppäinoikotiet"
+
+msgid "License"
+msgstr "Lisenssi"
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Password protection"
+msgstr ""
+
+msgid "Enter password"
+msgstr "Anna salasana"
+
+msgid "Re-enter password"
+msgstr "Anna salasana uudelleen"
+
+#, fuzzy
+msgid "Please enter the password"
+msgstr "Anna salasana uudelleen"
+
+msgid "Passwords do not match!"
+msgstr "Salasanat eivät täsmää!"
+
+#, fuzzy
+msgid "Cannot create backup!"
+msgstr "En voi luoda tiedostoa."
+
+msgid "Backup file saved successfully!"
+msgstr ""
+
+msgid "Open backup file"
+msgstr ""
+
+msgid "Osmo backup files (*.bck)"
+msgstr ""
+
+msgid "This is not Osmo backup file"
+msgstr ""
+
+msgid "Incorrect password!"
+msgstr "Virheellinen salasana!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr "Oletko varma?"
+
+msgid "Osmo has to be restarted now..."
+msgstr ""
+
+msgid "was born"
+msgstr "syntynyt"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "vuotta "
+msgstr[1] "vuotta"
+
+msgid "Current time"
+msgstr "Kellonaika nyt"
+
+msgid "Day number"
+msgstr "Päivä numero"
+
+msgid "Today distance"
+msgstr "Tämän päivän etäisyys"
+
+msgid "Week number"
+msgstr "Viikon numero"
+
+msgid "Marked days"
+msgstr "Merkityt päivät"
+
+msgid "Weekend days"
+msgstr "Viikonlopun päivät"
+
+msgid "Day category"
+msgstr "Päivä kategoria"
+
+msgid "Moon phase"
+msgstr "Kuun vaihe"
+
+msgid "Zodiac sign"
+msgstr "Horoskooppitunnus"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "päivä vuoden loppuun"
+msgstr[1] "päivää vuoden loppuun"
+
+msgid "the last day of the year"
+msgstr "vuoden viimeinen päivä"
+
+msgid "Day notes"
+msgstr "Päivämerkinnät"
+
+msgid "Day tasks"
+msgstr "Päivätehtävät"
+
+msgid "Birthday"
+msgstr "Syntymäpäivä"
+
+msgid "Selected day note will be removed."
+msgstr "Valitun päivän merkintä poistetaan."
+
+msgid "Continue?"
+msgstr "Jatketaanko?"
+
+msgid "Previous year"
+msgstr "Edellinen vuosi"
+
+msgid "Previous month"
+msgstr "Edellinen kuukausi"
+
+msgid "Previous day"
+msgstr "Edellinen päivä"
+
+msgid "Today"
+msgstr "Tämä päivä"
+
+msgid "Next day"
+msgstr "Seuraava päivä"
+
+msgid "Next month"
+msgstr "Seuraava kuukausi"
+
+msgid "Next year"
+msgstr "Seuraava vuosi"
+
+msgid "Jump to date"
+msgstr "Hyppää päivään"
+
+msgid "Print calendar"
+msgstr "Tulosta kalenteri"
+
+msgid "Date calculator"
+msgstr "Aikalaskin"
+
+msgid "Preferences"
+msgstr "Asetukset"
+
+msgid "Toggle day note panel"
+msgstr "Vaihda päivämerkintä-paneeli"
+
+msgid "Add task"
+msgstr "Lisää tehtävä"
+
+msgid "Select day color"
+msgstr "Valitse päivän väri"
+
+msgid "Browse notes"
+msgstr "Selaa merkintöjä"
+
+msgid "Browse iCal events"
+msgstr "Selaa iCal tapahtumia"
+
+msgid "Export to iCal file"
+msgstr "Vie iCal tiedostoon"
+
+msgid "Previous and next month"
+msgstr "Edellinen ja seuraava kuukausi"
+
+msgid "Close note panel"
+msgstr "Sulje merkintä-paneeli"
+
+msgid "Highlight"
+msgstr "Korostettu"
+
+msgid "Strikethrough"
+msgstr "Yliviivattu"
+
+msgid "Underline"
+msgstr "Alleviivattu"
+
+msgid "Italic"
+msgstr "Kursivoitu"
+
+msgid "Bold"
+msgstr "Lihavoitu"
+
+msgid "Insert timeline"
+msgstr "Lisää aikajana"
+
+msgid "Clear text"
+msgstr "Tyhjennä teksti"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Select color"
+msgstr "Valitse väri"
+
+msgid "None"
+msgstr "Ei mikään"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "vuosi"
+msgstr[1] "vuotta"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "kuukausi"
+msgstr[1] "kuukautta"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "päivä"
+msgstr[1] "päivää"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "tunti"
+msgstr[1] "tuntia"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuutti"
+msgstr[1] "minuuttia"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekunti"
+msgstr[1] "sekuntia"
+
+msgid "or"
+msgstr "tai"
+
+msgid "rounded down"
+msgstr "pyöristetty pienempään"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "viikko"
+msgstr[1] "viikkoa"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "time is ignored"
+msgstr ""
+
+#, fuzzy
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Viikonlopun päivät"
+msgstr[1] "Viikonlopun päivät"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Laskin käsittelee vain vuoden 1 jälkeen olevia ajankohtia."
+
+#, fuzzy
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Viikonlopun päivien väri"
+msgstr[1] "Viikonlopun päivien väri"
+
+msgid "Year"
+msgstr "Vuosi"
+
+msgid "Month"
+msgstr "Kuukausi"
+
+msgid "Day"
+msgstr "Päivä"
+
+msgid "Current date"
+msgstr "Nykyinen päiväys"
+
+msgid "Set current date"
+msgstr "Aseta päiväys"
+
+msgid "Hour"
+msgstr "Tunti"
+
+msgid "Minute"
+msgstr "Minuutti"
+
+msgid "Second"
+msgstr "Sekunti"
+
+msgid "Set current time"
+msgstr "Aseta aika"
+
+msgid "Reset time"
+msgstr "Palauta oletusaika"
+
+msgid "First date and time"
+msgstr "Ensimmäinen päiväys ja aika"
+
+msgid "Second date and time"
+msgstr "Toinen päiväys ja aika"
+
+msgid "Alternative time units"
+msgstr "Vaihtoehtoiset aikayksiköt"
+
+msgid "Result"
+msgstr "Tulos"
+
+msgid "Duration between two dates"
+msgstr "Aika kahden ajankohdan välillä"
+
+msgid "Operation"
+msgstr "Toiminto"
+
+msgid "add"
+msgstr "lisää"
+
+msgid "subtract"
+msgstr "vähennä"
+
+msgid "Date and time to add or subtract from"
+msgstr "Ajankohta ja aika johon lisätään tai josta vähennetään"
+
+msgid "Years"
+msgstr "Vuotta"
+
+msgid "Months"
+msgstr "Kuukautta"
+
+msgid "Days"
+msgstr "Päivää"
+
+msgid "Weeks"
+msgstr "Viikkoa"
+
+msgid "Hours"
+msgstr "Tuntia"
+
+msgid "Minutes"
+msgstr "Minuuttia"
+
+msgid "Seconds"
+msgstr "Sekuntia"
+
+#, fuzzy
+msgid "Ignore weekend days"
+msgstr "Viikonlopun päivät"
+
+msgid "Reset fields"
+msgstr "Palauta oletusarvot kenttiin"
+
+msgid "Time to add or subtract"
+msgstr "Aika joka lisätään tai vähennetään"
+
+msgid "Jump to"
+msgstr "Hyppää "
+
+msgid "Add to or subtract from a date"
+msgstr "Lisää tai vähennä ajankohtaan/ajankohdasta"
+
+msgid "Leap year"
+msgstr "Karkausvuosi"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "Chinese year animal"
+msgstr "Kiinalaisen vuoden eläin"
+
+msgid "Number of days"
+msgstr "Päiviä"
+
+msgid "Number of weeks"
+msgstr "Viikkoja"
+
+msgid "Number of weekend days"
+msgstr "Viikonlopuksi osuvia päiviä"
+
+msgid "Year info"
+msgstr "Vuosi-info"
+
+msgid "Current year"
+msgstr "Kuluva vuosi"
+
+msgid "Alternative view"
+msgstr "Vaihtoehtoinen näkymä"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "tapahtuma"
+msgstr[1] "tapahtumaa"
+
+#, fuzzy
+msgid "No valid calendars defined"
+msgstr "Ei määriteltyjä kalentereita"
+
+msgid "iCalendar events"
+msgstr "iCalendar-tapahtumat"
+
+msgid "Date"
+msgstr "Ajankohta"
+
+#, fuzzy
+msgid "Time"
+msgstr "Aikajana"
+
+msgid "Summary"
+msgstr "Kooste"
+
+msgid "Select output file"
+msgstr "Valitse kohdetiedosto"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Luettelo tyhjennetään ja kaikki merkinnät menetetään."
+
+msgid "Done!"
+msgstr "Valmis!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "tapahtuma viety"
+msgstr[1] "tapahtumaa viety"
+
+msgid "iCalendar export"
+msgstr "iCalendar viety"
+
+msgid "Day Selector"
+msgstr "Päivä Valitsin"
+
+msgid "Use date period"
+msgstr "Käytä aikaperiodia"
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Clear"
+msgstr "Tyhjennä"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "Output filename"
+msgstr "Kohdetiedoston nimi"
+
+msgid "Browse"
+msgstr "Selaa"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Export"
+msgstr "Vie"
+
+msgid "no entries"
+msgstr "ei kirjauksia"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "kirjaus"
+msgstr[1] "kirjausta"
+
+msgid "Calendar notes"
+msgstr "Kalenteri merkinnät"
+
+msgid "Search"
+msgstr "Haku"
+
+msgid "Filter"
+msgstr "Suodatin"
+
+msgid "Current month"
+msgstr "Nykyinen kuukausi"
+
+msgid "Selected month"
+msgstr "Valittu kuukausi"
+
+msgid "Selected year"
+msgstr "Valittu vuosi"
+
+msgid "Selected month and year"
+msgstr "Valittu kuukausi ja vuosi"
+
+msgid "All notes"
+msgstr "Kaikki merkinnät"
+
+msgid "Case sensitive"
+msgstr "Sama kirjainkoko"
+
+msgid "Strikethrough past day notes"
+msgstr "Yliviivaa menneet päivämerkinnät"
+
+msgid "Note"
+msgstr "Merkintä"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Merkinnän nimi"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "MM-DD-YYYY"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Ajan muoto"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Kohdeformaatti"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Ajan muoto"
+
+msgid "Day note marker"
+msgstr "Päivämerkinnän tunnus"
+
+msgid "Event marker"
+msgstr "Tapahtumatunnus"
+
+msgid "Circle"
+msgstr "Pallukka"
+
+msgid "Ellipse"
+msgstr "Soikio"
+
+msgid "Wave"
+msgstr "Aalto"
+
+msgid "Current day marker"
+msgstr "Tämän päivän tunnus"
+
+msgid "Arrow"
+msgstr "Nuoli"
+
+msgid "Free-hand circle"
+msgstr "Kaunokirjoituspallukka"
+
+msgid "Colors"
+msgstr "Värit"
+
+msgid "Header color"
+msgstr "Otsikon väri"
+
+msgid "Weekend days color"
+msgstr "Viikonlopun päivien väri"
+
+msgid "Cursor color"
+msgstr "Kohdistimen väri"
+
+msgid "Event marker color"
+msgstr "Tapahtumatunnuksen väri"
+
+msgid "Current day marker color"
+msgstr "Tämän päivän tunnusväri"
+
+#, fuzzy
+msgid "Birthday marker color"
+msgstr "Tämän päivän tunnusväri"
+
+msgid "Date font"
+msgstr "Ajankohdan fontti"
+
+msgid "Calendar font"
+msgstr "Kalenterin fontti"
+
+msgid "Note font"
+msgstr "Merkinnän fontti"
+
+msgid "Enable block cursor"
+msgstr "Ota käyttöön lohkokohdistin"
+
+msgid "Cursor thickness"
+msgstr "Kohdistimen paksuus"
+
+msgid "Thin"
+msgstr "Ohut"
+
+msgid "Thick"
+msgstr "Paksu"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Päivä kategoria"
+
+msgid "Color"
+msgstr "Väri"
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Valitse ICS tiedosto"
+
+msgid "All Files"
+msgstr "Kaikki tiedostot"
+
+msgid "Calendar files (*.ics)"
+msgstr "Kalenteri tiedostot (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Määritä ICAL parametrit"
+
+msgid "Filename"
+msgstr "Tiedostonimi"
+
+msgid "Options"
+msgstr "Valinnat"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Kelvollinen"
+
+msgid "Description"
+msgstr "Kuvaus"
+
+#, fuzzy
+msgid "Full date"
+msgstr "Eräpäivä"
+
+msgid "Mark"
+msgstr ""
+
+msgid "Week start on Monday"
+msgstr "Viikon 1. päivä on maanantai"
+
+msgid "Show day names"
+msgstr "Näytä päivien nimet"
+
+msgid "No month change"
+msgstr "Älä vaihda kuukautta"
+
+msgid "Show week numbers"
+msgstr "Näytä viikon numero"
+
+msgid "Simple view in full-year calendar"
+msgstr "Yksinkertainen näkymä koko vuoden kalenterissa"
+
+msgid "Enable auxilary calendars"
+msgstr "Ota käyttöön apukalenterit"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Nouseva järjestys päivämerkintäselaimessa"
+
+msgid "Enable spell checker in day notes"
+msgstr ""
+
+msgid "Appearance"
+msgstr "Ulkoasu"
+
+msgid "Day categories"
+msgstr "Päiväkategoriat"
+
+msgid "iCalendar files"
+msgstr "iCalendar tiedostot"
+
+msgid "Show in day info panel"
+msgstr "Näytä päiväinfo-paneelissa"
+
+#, fuzzy
+msgid "Name day"
+msgstr "Nimipäivä"
+
+msgid "Error printing"
+msgstr "Virhe tulostettaessa"
+
+msgid "Printing properties"
+msgstr ""
+
+#, fuzzy
+msgid "Month name"
+msgstr "Merkinnän nimi"
+
+#, fuzzy
+msgid "Day name"
+msgstr "Päivä numero"
+
+msgid "Events"
+msgstr "Tapahtumat"
+
+#, fuzzy
+msgid "Fonts"
+msgstr "Kuukautta"
+
+#, fuzzy
+msgid "Birthdays"
+msgstr "Syntymäpäivä"
+
+#, fuzzy
+msgid "Namedays"
+msgstr "Nimi"
+
+#, fuzzy
+msgid "Visible events"
+msgstr "Näkyvät sarakkeet"
+
+#, fuzzy
+msgid "Padding"
+msgstr "lisää"
+
+msgid "Event maximum length"
+msgstr ""
+
+msgid "Page orientation:"
+msgstr ""
+
+#, fuzzy
+msgid "Portrait"
+msgstr "Prioriteetti"
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Timeline"
+msgstr "Aikajana"
+
+msgid "From (hour)"
+msgstr "Alkaen (tunti)"
+
+msgid "Step (minutes)"
+msgstr "Askel (minuuttia)"
+
+msgid "To (hour)"
+msgstr "Saakka (tunti)"
+
+msgid "No date"
+msgstr "Ei ajankohtaa"
+
+msgid "Rat"
+msgstr "Rotta"
+
+msgid "Ox"
+msgstr "Härkä"
+
+msgid "Tiger"
+msgstr "Tiikeri"
+
+msgid "Hare"
+msgstr "Jänis"
+
+msgid "Dragon"
+msgstr "Lohikäärme"
+
+msgid "Snake"
+msgstr "Käärme"
+
+msgid "Horse"
+msgstr "Hevonen"
+
+msgid "Sheep"
+msgstr "Lammas"
+
+msgid "Monkey"
+msgstr "Apina"
+
+msgid "Fowl"
+msgstr "Kukko"
+
+msgid "Dog"
+msgstr "Koira"
+
+msgid "Pig"
+msgstr "Sika"
+
+msgid "Unknown"
+msgstr "Tuntematon"
+
+msgid "Aquarius"
+msgstr "Vesimies"
+
+msgid "Pisces"
+msgstr "Kalat"
+
+msgid "Aries"
+msgstr "Oinas"
+
+msgid "Taurus"
+msgstr "Härkä"
+
+msgid "Gemini"
+msgstr "Kaksoset"
+
+msgid "Cancer"
+msgstr "Rapu"
+
+msgid "Leo"
+msgstr "Leijona"
+
+msgid "Virgo"
+msgstr "Neitsyt"
+
+msgid "Libra"
+msgstr "Vaaka"
+
+msgid "Scorpio"
+msgstr "Skorpioni"
+
+msgid "Sagittarius"
+msgstr "Jousimies"
+
+msgid "Capricorn"
+msgstr "Kauris"
+
+msgid "Cannot perform selected operation."
+msgstr "En voi suorittaa valittua tehtävää."
+
+msgid "Task has been modified or removed."
+msgstr "Tehtävää on muutettu tai se on poistettu."
+
+msgid "Remind me later"
+msgstr "Muistuta myöhemmin"
+
+msgid "Done"
+msgstr "Valmis"
+
+msgid "postponed"
+msgstr "lykätty"
+
+msgid "Show task"
+msgstr "Näytä tehtävä"
+
+msgid "Alarm warning!"
+msgstr "Hälytys varoitus!"
+
+msgid "Day note"
+msgstr "Päivämerkintä"
+
+msgid "Type"
+msgstr "Tyyppi"
+
+msgid "Event"
+msgstr "Tapahtuma"
+
+msgid "Task"
+msgstr "Tehtävä"
+
+msgid "Show Osmo"
+msgstr "Näytä Osmo"
+
+msgid "No birthdays defined"
+msgstr "Ei määritettyjä syntymäpäiviä "
+
+msgid "Birthdays list"
+msgstr "Syntymäpäiväluettelo"
+
+msgid "Days to birthday"
+msgstr "Päivää syntymäpäivään"
+
+msgid "Age"
+msgstr "Ikä"
+
+msgid "Birthday date"
+msgstr "Syntymäpäivän ajankohta"
+
+msgid "today"
+msgstr "tänään"
+
+#, fuzzy
+msgid "Please select address"
+msgstr "Valitse tiedosto ensin."
+
+msgid "Information"
+msgstr "Tiedot"
+
+msgid "Work"
+msgstr "Työpaikan "
+
+msgid "Home"
+msgstr "Koti"
+
+msgid "Group"
+msgstr "Ryhmä"
+
+msgid "First name"
+msgstr "Etunimi"
+
+msgid "Last name"
+msgstr "Sukunimi"
+
+msgid "Second name"
+msgstr "Toinen nimi"
+
+msgid "Nickname"
+msgstr "Lempinimi"
+
+#, fuzzy
+msgid "Tags"
+msgstr "Tehtävä"
+
+msgid "Name day date"
+msgstr "Nimipäivä"
+
+msgid "Home address"
+msgstr "Kotiosoite"
+
+msgid "Home postcode"
+msgstr "Postinumero "
+
+msgid "Home city"
+msgstr "Postitoimipaikka"
+
+msgid "Home state"
+msgstr "Lääni t. osavaltio"
+
+msgid "Home country"
+msgstr "Kotimaa"
+
+msgid "Organization"
+msgstr "Organisaatio"
+
+msgid "Department"
+msgstr "Osasto"
+
+msgid "Work address"
+msgstr "Työpaikan osoite"
+
+msgid "Work postcode"
+msgstr "Työpaikan postinumero"
+
+msgid "Work city"
+msgstr "Työpaikan postitoimipaikka"
+
+msgid "Work state"
+msgstr "Työpaikan osavaltio t. lääni"
+
+msgid "Work country"
+msgstr "Työpaikan maa"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Kotipuhelin"
+
+msgid "Home phone 2"
+msgstr "Koti puhelin 2"
+
+msgid "Home phone 3"
+msgstr "Koti puhelin 3"
+
+msgid "Home phone 4"
+msgstr "Koti puhelin 4"
+
+msgid "Work phone"
+msgstr "Työpuhelin"
+
+msgid "Work phone 2"
+msgstr "Työpuhelin 2"
+
+msgid "Work phone 3"
+msgstr "Työpuhelin 3"
+
+msgid "Work phone 4"
+msgstr "Työpuhelin 4"
+
+msgid "Cell phone"
+msgstr "Matkapuhelin"
+
+msgid "Cell phone 2"
+msgstr "Matkapuhelin 2"
+
+msgid "Cell phone 3"
+msgstr "Matkapuhelin 3"
+
+msgid "Cell phone 4"
+msgstr "Matkapuhelin 4"
+
+msgid "E-Mail"
+msgstr "S-posti"
+
+msgid "E-Mail 2"
+msgstr "S-posti 2"
+
+msgid "E-Mail 3"
+msgstr "S-posti 3"
+
+msgid "E-Mail 4"
+msgstr "S-posti 4"
+
+msgid "WWW"
+msgstr "WWW"
+
+msgid "WWW 2"
+msgstr "WWW 2"
+
+msgid "WWW 3"
+msgstr "WWW 3"
+
+msgid "WWW 4"
+msgstr "WWW 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Kuva"
+
+msgid "Additional info"
+msgstr "Lisätietoja"
+
+msgid "New contact"
+msgstr "Uusi yhteystieto"
+
+msgid "Remove contact"
+msgstr "Poista yhteystieto"
+
+msgid "Edit contact"
+msgstr "Muokkaa yhteystieto"
+
+msgid "Show birthdays"
+msgstr "Näytä syntymäpäivät"
+
+msgid "Show contact location on the map"
+msgstr ""
+
+msgid "Import contacts"
+msgstr "Imptait yhteystiedot"
+
+msgid "Export contacts"
+msgstr "Vie yhteystiedot"
+
+msgid "First Name"
+msgstr "Etunimi"
+
+msgid "Last Name"
+msgstr "Sukunimi"
+
+msgid "All fields"
+msgstr "Kaikki kentät"
+
+msgid "Contact details"
+msgstr "Yhteystietojen yksityiskohdat"
+
+msgid "Close contact panel"
+msgstr "Sulje yhteystietopaneeli"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "yhteystieto viety"
+msgstr[1] "yhteystietoa viety"
+
+msgid "Cannot create file."
+msgstr "En voi luoda tiedostoa."
+
+msgid "Output format"
+msgstr "Kohdeformaatti"
+
+msgid "Add header"
+msgstr "Lisää otsikko"
+
+msgid "Fields to export"
+msgstr "Vietävät kentät"
+
+msgid "All"
+msgstr "Kaikki"
+
+msgid "Invert"
+msgstr "Käänteinen"
+
+msgid "Select fields"
+msgstr "Valitse kentät"
+
+msgid "Select CSV file"
+msgstr "Valitse CSV tiedosto"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (comma-separated values) tiedostot (*.csv)"
+
+msgid "Please select file first."
+msgstr "Valitse tiedosto ensin."
+
+msgid "Import type"
+msgstr "Nouda tyyppi"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "Input filename"
+msgstr "Anna tiedostonimi"
+
+msgid "Address"
+msgstr "Osoite"
+
+msgid "Channel"
+msgstr "Kanava"
+
+msgid "Interface"
+msgstr "Käyttöliittymä"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Käytä binaari-XML:ää (WBXML)"
+
+msgid "Import"
+msgstr "Nouda"
+
+msgid "Nothing to import."
+msgstr "Ei noudettavaa."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "yhteystieto lisätty"
+msgstr[1] "yhteystietoa lisätty"
+
+msgid "of"
+msgstr " / "
+
+msgid "Record"
+msgstr "Merkintä"
+
+msgid "Number fields per record"
+msgstr "Numerokenttää per merkintä"
+
+msgid "Use first record as header"
+msgstr "Käytä ensimmäistä merkintää otsikkona"
+
+msgid "Field type"
+msgstr "Kentän tyyppi"
+
+msgid "Value"
+msgstr "Arvo"
+
+msgid "No records found in selected file."
+msgstr "Valitussa tiedostossa ei ole merkintöjä."
+
+msgid "Cannot read file."
+msgstr "En voi lukea tiedosto."
+
+msgid "Cannot open file."
+msgstr "En voi avaa tiedosto."
+
+msgid "Selected contact will be removed."
+msgstr "Valittu yhteystieto poistetaan."
+
+msgid "Select photo"
+msgstr "Valitse kuva"
+
+msgid "Postcode"
+msgstr "Postinumero"
+
+msgid "City"
+msgstr "Postitoimipaikka"
+
+msgid "State"
+msgstr "Lääni t. osavaltio"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Add contact"
+msgstr "Lisää yhteystieto"
+
+msgid "Personal"
+msgstr "Henkilökohtaista"
+
+msgid "Phones"
+msgstr "Puhelimet"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Yhteystietotagien väri"
+
+msgid "Color of links"
+msgstr "Linkkien väri"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Kuvan koko"
+
+msgid "Name font size"
+msgstr "Nimifontin koko"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Nimifontin koko"
+
+msgid "Photo size"
+msgstr "Kuvan koko"
+
+msgid "Small"
+msgstr "Pieni"
+
+msgid "Medium"
+msgstr "Keskikokoinen"
+
+msgid "Large"
+msgstr "Iso"
+
+msgid "Select and show first item after search"
+msgstr "Valitse ja näytä haun jälkeen ensimmäinen tietue"
+
+msgid "Hide group column"
+msgstr "Piilota ryhmäsarake"
+
+msgid "Order"
+msgstr "Järjestys"
+
+msgid "Mode"
+msgstr "Käytäntö"
+
+msgid "Ascending"
+msgstr "Nouseva"
+
+msgid "Descending"
+msgstr "Laskeva"
+
+msgid "Miscellaneous"
+msgstr "Sekalaista"
+
+msgid "Groups"
+msgstr "Ryhmät"
+
+msgid "Sorting"
+msgstr "Lajittelu"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Näkyvät sarakkeet syntymäpäiväselaimessa"
+
+msgid "Show calendar"
+msgstr "Näytä kalenteri"
+
+msgid "Show tasks"
+msgstr "Näytä tehtävät"
+
+msgid "Show contacts"
+msgstr "Näytä yhteystiedot"
+
+msgid "Show notes"
+msgstr "Näytä merkinnät"
+
+msgid "Show options"
+msgstr "Näytä valinnat"
+
+msgid "Quit"
+msgstr "Lopeta"
+
+msgid "Show small calendar window"
+msgstr "Näytä pieni kalenteri-ikkuna"
+
+msgid "Check for events since last run"
+msgstr "Tarkista edellisen käytön jälk. tapahtumat"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Etsi tapahtumia eteenpäin pv (oletus: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Aseta absoluuttinen polku asetuksille ja datatiedostoille"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Määritä GUI käyttämään Osmoa alhaisilla resoluutioilla"
+
+#, fuzzy
+msgid "handy personal organizer"
+msgstr "Kätevä henkilökohtainen järjestelijä"
+
+msgid "ERROR: Cannot create config files"
+msgstr "VIRHE: En voi luoda configurointitiedostostoja"
+
+msgid "Another copy of OSMO is already running."
+msgstr "Toinenkin Osmo on jo käynnissä."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Useamman kuin yhden OSMOn samanaikainen käyttö voi aiheuttaa tietojen "
+"menetyksen."
+
+msgid "Do you really want to continue?"
+msgstr "Haluatko varmasti jatkaa?"
+
+msgid "Warning"
+msgstr "Varoitus"
+
+msgid "The note has changed."
+msgstr "Merkintä on muuttunut."
+
+msgid "Do you want to save it?"
+msgstr "Haluatko tallentaa sen?"
+
+msgid "Words"
+msgstr "Sanat"
+
+msgid "Lines"
+msgstr "Viivat"
+
+msgid "Characters"
+msgstr "Merkit"
+
+msgid "White characters"
+msgstr "Tyhjät merkit"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Valitsin"
+
+msgid "Created"
+msgstr "Luotu"
+
+msgid "Modified"
+msgstr "Muutettu"
+
+msgid "New note"
+msgstr "Uusi merkintä"
+
+msgid "Add note"
+msgstr "Lisää merkintä"
+
+msgid "Edit note"
+msgstr "Muokkaa merkintää"
+
+msgid "Delete note"
+msgstr "Poista merkintä"
+
+msgid "Remove note"
+msgstr "Poista merkintä"
+
+msgid "Find"
+msgstr "Etsi"
+
+msgid "Clear attributes"
+msgstr "Tyhjennä määritteet"
+
+msgid "Save note"
+msgstr "Tallenna merkintä"
+
+msgid "Insert current date and time"
+msgstr "Lisää nykyinen päiväys ja aika"
+
+msgid "Insert separator"
+msgstr "Lisää erotin"
+
+msgid "Statistics"
+msgstr "Tilastot"
+
+msgid "Close editor"
+msgstr "Sulje muokkain"
+
+msgid "Toggle spell checker"
+msgstr ""
+
+msgid "Category"
+msgstr "Kategoria"
+
+msgid "Note name"
+msgstr "Merkinnän nimi"
+
+msgid "Last changes"
+msgstr "Uusimmat muutokset"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Viivat"
+
+#, fuzzy
+msgid "Column"
+msgstr "Country"
+
+msgid "case sensitive"
+msgstr "aakkoskoosta riippuva"
+
+msgid "Close find entry"
+msgstr "Sulje hakusyöte"
+
+msgid "Edit entry"
+msgstr "Muokkaa kirjaus"
+
+#, fuzzy
+msgid "Remember cursor position"
+msgstr "Muistuttajan valinnat"
+
+msgid "Selected note will be removed."
+msgstr "Valittu merkintä poistetaan."
+
+msgid "No further data recovery will be possible."
+msgstr "Tämän jälkeen tietoja ei voida palauttaa."
+
+#, fuzzy
+msgid "Plain"
+msgstr "lisää"
+
+#, fuzzy
+msgid "Encrypted"
+msgstr "Merkintöjen salaus"
+
+#, fuzzy
+msgid "Note type"
+msgstr "Nouda tyyppi"
+
+#, fuzzy
+msgid "Cannot open the note."
+msgstr "En voi avaa tiedosto."
+
+msgid "encryption support is disabled"
+msgstr ""
+
+msgid "Authorization"
+msgstr "Käyttövaltuudet"
+
+msgid "Algorithm"
+msgstr "Algoritmi"
+
+msgid "Hashing"
+msgstr "Hajauttaminen"
+
+msgid "Compression"
+msgstr "Tiivistäminen"
+
+msgid "Ratio"
+msgstr "Suhde"
+
+msgid "Fast"
+msgstr "Nopea"
+
+msgid "Good"
+msgstr "Hyvä"
+
+msgid "Best"
+msgstr "Paras"
+
+msgid "Remember the last selected category"
+msgstr "Muista viimeksi valittu kategoria"
+
+msgid "Use system format for date and time"
+msgstr "Näytä päiväys ja aika järjestelmän muodossa"
+
+msgid "Encryption"
+msgstr "Salaus"
+
+msgid "Visible columns"
+msgstr "Näkyvät sarakkeet"
+
+msgid "Categories"
+msgstr "Kategoriat"
+
+msgid "Notes options"
+msgstr "Merkintöjen valinnat"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+#, fuzzy
+msgid "Vertical"
+msgstr "Pystyviiva"
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Välilehtien paikka"
+
+msgid "Left"
+msgstr "Vasemmalla"
+
+msgid "Right"
+msgstr "Oikealla"
+
+msgid "Top"
+msgstr "Yläreunassa"
+
+msgid "Bottom"
+msgstr "Alareunassa"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Käytä oletusikoneja (vaatii uudelleenkäynnistyksen)"
+
+msgid "Disable underline in links"
+msgstr "Älä alleviivaa linkkejä"
+
+msgid "Draw rows in alternating colors"
+msgstr "Piirrä rivit vuorottelevin värein"
+
+msgid "At least one module must be visible."
+msgstr "Ainakin yhden moduulin tulee olla näkyvä."
+
+msgid "Override locale settings"
+msgstr ""
+
+msgid "Date format"
+msgstr "Ajan muoto"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-YYYY"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-YYYY"
+
+msgid "YYYY-MM-DD"
+msgstr "YYYY-MM-DD"
+
+msgid "YYYY-DD-MM"
+msgstr "YYYY-DD-MM"
+
+msgid "Time format"
+msgstr "Ajan muoto"
+
+msgid "hours"
+msgstr "tunnit"
+
+msgid "Spell checker language"
+msgstr ""
+
+msgid "Enable tooltips"
+msgstr "Ota työkaluvihjeet käyttöön"
+
+msgid "Remember last selected page"
+msgstr "Muista viimeksi valittu sivu"
+
+msgid "Save data after every modification"
+msgstr "Tallenna data jokaisen muutoksen jälkeen"
+
+msgid "Web browser"
+msgstr "Web selain"
+
+msgid "E-mail client"
+msgstr "Sähköpostiohjelma"
+
+#, fuzzy
+msgid "Sound player"
+msgstr "Toinen nimi"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Tämä %s kuvio korvautuu www- tai s-postiosoitteella"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Tämä %s kuvio korvautuu www- tai s-postiosoitteella"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Tämä %s kuvio korvautuu www- tai s-postiosoitteella"
+
+#, fuzzy
+msgid "Create"
+msgstr "Luotu"
+
+#, fuzzy
+msgid "Restore"
+msgstr "Tulos"
+
+msgid "Enable system tray"
+msgstr "Ota käyttöön ilmaisinalue"
+
+msgid "Start minimised"
+msgstr "Käynnistä pienennettynä"
+
+msgid "Blink on events"
+msgstr ""
+
+#, fuzzy
+msgid "Ignore day note events"
+msgstr "sulje päivämerkintäpaneeli"
+
+msgid "Hide"
+msgstr "Piilota"
+
+msgid "Helpers"
+msgstr "Apurit"
+
+msgid "Backup"
+msgstr ""
+
+msgid "System tray"
+msgstr "Ilmaisinalue"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Go Down"
+msgstr ""
+
+msgid "Select date"
+msgstr "Valitse päiväys"
+
+msgid "Select font"
+msgstr "Valitse fontti"
+
+msgid "Calculator"
+msgstr "Laskin"
+
+msgid "Edit day note"
+msgstr "Muokkaa päivämerkintää"
+
+msgid "Contact map location"
+msgstr ""
+
+msgid "Save"
+msgstr "Tallenna"
+
+msgid "Display full-year calendar"
+msgstr "Näytä vuosikalenteri"
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "Invalid item"
+msgstr "Umpeutunut aihe"
+
+msgid "Valid item"
+msgstr "Kelvollinen aihe"
+
+msgid "Edit task"
+msgstr "Muokkaa tehtävää"
+
+msgid "Remove task"
+msgstr "Poista tehtävä"
+
+#, fuzzy
+msgid "Import tasks"
+msgstr "Imptait yhteystiedot"
+
+#, fuzzy
+msgid "Export tasks"
+msgstr "Vie yhteystiedot"
+
+#, fuzzy
+msgid "Change to previous date"
+msgstr "Muuta eräpäivä edelliseen päivään"
+
+#, fuzzy
+msgid "Change to next date"
+msgstr "Muuta eräpäivä seuraavaan päivään"
+
+msgid "Print"
+msgstr "Tulosta"
+
+#, fuzzy
+msgid "Normal"
+msgstr "Normaali tehtävä"
+
+#, fuzzy
+msgid "Recurrent"
+msgstr "Toistuva tehtävä"
+
+msgid "Started"
+msgstr "Aloitettu"
+
+msgid "Finished"
+msgstr "Valmis"
+
+msgid "All items"
+msgstr "Kaikki aiheet"
+
+msgid "New task"
+msgstr "Uusi tehtävä"
+
+#, fuzzy
+msgid "Change due date to previous date"
+msgstr "Muuta eräpäivä edelliseen päivään"
+
+#, fuzzy
+msgid "Change due date to next date"
+msgstr "Muuta eräpäivä seuraavaan päivään"
+
+msgid "Print visible tasks list"
+msgstr "Tulosta näkyvien tehtävien luettelo"
+
+msgid "Due date"
+msgstr "Eräpäivä"
+
+msgid "Priority"
+msgstr "Prioriteetti"
+
+msgid "Task details"
+msgstr "Tehtävän yksityiskohdat"
+
+msgid "Close description panel"
+msgstr "Sulje kuvauspaneeli"
+
+msgid "No tasks with defined date found."
+msgstr ""
+
+#, fuzzy
+msgid "Save tasks"
+msgstr "Päivätehtävät"
+
+#, fuzzy
+msgid "tasks exported"
+msgstr "yhteystieto viety"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Valitse ainakin yksi päivä kun toistuminen on käytössä."
+
+msgid "Set time"
+msgstr "Aseta aika"
+
+msgid "Tomorrow"
+msgstr "Huominen"
+
+msgid "Selected task will be removed."
+msgstr "Valittu tehtävä poistetaan."
+
+msgid "Basic"
+msgstr ""
+
+#, fuzzy
+msgid "Select date and time"
+msgstr "Toinen päiväys ja aika"
+
+msgid "Low"
+msgstr "Matala"
+
+msgid "High"
+msgstr "Korkea"
+
+msgid "Enable sound notification"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Alarm warning"
+msgstr "Herätysvaroitus"
+
+msgid "Postpone time"
+msgstr "Lykkäämisaika"
+
+msgid "Alarm command"
+msgstr "Herätyskomento"
+
+msgid "Recurrent task"
+msgstr "Toistuva tehtävä"
+
+msgid "Enable"
+msgstr "Ota käyttöön"
+
+msgid "Start"
+msgstr "Aloita"
+
+msgid "End"
+msgstr "Lopeta"
+
+msgid "Interval"
+msgstr "Väli"
+
+msgid "Time period"
+msgstr "Aikaperiodi"
+
+msgid "Date period"
+msgstr "Ajankohtaperiodi"
+
+msgid "Repeat"
+msgstr "Toista"
+
+msgid "Repeat in the following days"
+msgstr "Toista seuraavina päivinä"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Hylkää herätys kun tehtävä vanhentunut yhteydettömänä"
+
+msgid "Select a font..."
+msgstr "Valitsefontti..."
+
+msgid "Color of items that are due today"
+msgstr "Tämän päivän aiheiden väri"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Seuraavien 7 päivän aiheiden väri"
+
+msgid "Color of items that are past due"
+msgstr "Menneiden aiheiden väri"
+
+msgid "Task info font"
+msgstr "Tehtäväinfon fontti"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Näytä lihavoinnilla tehtävät joilla korkea prioriteetti"
+
+msgid "Hide completed tasks"
+msgstr "Piilota suoritetut tehtävät"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Poista valmiit tehtävät kysymättä"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Lisää uusi tehtävä kaksoisnapsauttamalla tehtäväluettelossa"
+
+msgid "minutes"
+msgstr "minuuttia"
+
+msgid "0 for disable"
+msgstr "0 älä käytä"
+
+msgid "Repeat sound alarm"
+msgstr ""
+
+#, fuzzy
+msgid "times"
+msgstr "Aseta aika"
+
+msgid "Global notification command"
+msgstr "Globaali ilmoituskäsky"
+
+msgid "Tasks options"
+msgstr "Tehtävien valinnat"
+
+msgid "Reminder options"
+msgstr "Muistuttajan valinnat"
+
+#, fuzzy
+msgid "Tasks list"
+msgstr "Tehtävien valinnat"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "N:o"
+
+msgid "New Moon"
+msgstr "Uusi kuu "
+
+msgid "Waxing Crescent Moon"
+msgstr "Uusi kuu"
+
+msgid "Quarter Moon"
+msgstr "Kasvava sirppi"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Ensimmäinen neljännes"
+
+msgid "Full Moon"
+msgstr "Täysi kuu "
+
+msgid "Waning Gibbous Moon"
+msgstr "Vähenevä kupera kuu"
+
+msgid "Last Quarter Moon"
+msgstr "Viimeinen neljännes"
+
+msgid "Waning Crescent Moon"
+msgstr "Vähenevä sirppi"
+
+msgid "Question"
+msgstr "Kysymys"
+
+msgid "Error"
+msgstr "Virhe"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Valittu tiedosto on olemassa! Korvataanko se?"
+
+#~ msgid "Editor font"
+#~ msgstr "Muokkainfontti"
+
+#~ msgid "Name font"
+#~ msgstr "Nimifontti"
+
+#~ msgid "Item font"
+#~ msgstr "Alkiofontti"
+
+#~ msgid "Category filter"
+#~ msgstr "Kategoriasuodatin"
+
+#~ msgid "Modify color"
+#~ msgstr "Määritä väri"
+
+#, fuzzy
+#~ msgid "ICal"
+#~ msgstr "Kursivoitu"
+
+#~ msgid "change day while note editing"
+#~ msgstr "vaihda päivä merkintää muokattaessa"
+
+#~ msgid "close day note panel"
+#~ msgstr "sulje päivämerkintäpaneeli"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "merkitse valinta lihavoinnilla"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "merkitse valinta kursivoinnilla"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "merkitse valinta taustavärillä"
+
+#~ msgid "underline selection"
+#~ msgstr "alleviivaa valinta"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "yliviivaa valinta"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "kätevä henkilökohtainen järjestelijä"
+
+#~ msgid "Use year"
+#~ msgstr "Käytä vuosi"
+
+#~ msgid "Birthday found"
+#~ msgstr "Syntymäpäivä löytyi"
+
+#~ msgid "Task found"
+#~ msgstr "Tehtävä löytyi"
+
+#~ msgid "Day note available"
+#~ msgstr "Päivämerkintä saatavilla"
+
+#~ msgid "Tags font size"
+#~ msgstr "Tehtäväfontin koko"
+
+#~ msgid "Mark symbol"
+#~ msgstr "Merkinnän symboli"
+
+#~ msgid "Middle dot"
+#~ msgstr "Rivinylinen piste"
+
+#~ msgid "Apostrophe"
+#~ msgstr "Heittomerkki"
+
+#~ msgid "Asterisk"
+#~ msgstr "Asteriski"
+
+#~ msgid "Tilde"
+#~ msgstr "Altoviiva"
+
+#~ msgid "Degree sign"
+#~ msgstr "Rinkula"

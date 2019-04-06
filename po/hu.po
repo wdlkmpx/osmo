@@ -1,0 +1,2247 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Osmo 0.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2009-09-24 10:10+0100\n"
+"Last-Translator: Peter Polonkai <polesz@nedudu.hu>\n"
+"Language-Team: Nedudu Team <polesz@nedudu.hu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Névjegy"
+
+msgid "Close"
+msgstr "Bezár"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "váltás az előző fülre"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "váltás a következő fülre"
+
+msgid "switch to selected page"
+msgstr "váltás a következő lapra"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Opciók megjelenítése"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr "váltás a beállítások és névjegy fülek között is"
+
+msgid "exit"
+msgstr "kilépés"
+
+#, fuzzy
+msgid "Space"
+msgstr "Mentés"
+
+msgid "select current date"
+msgstr "aktuális dátum kiválasztása"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr "személyi adatok rejtése/mutatása"
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Nyíl"
+
+msgid "change day"
+msgstr "nap cseréje"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "tartalom görgetése a nap információs panelen"
+
+msgid "change month"
+msgstr "hónap cseréje"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Otthoni"
+
+msgid "change year"
+msgstr "év cseréje"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "előző és következő hónap naptár váltása"
+
+msgid "day notes browser"
+msgstr "napi bejegyzés böngésző"
+
+msgid "assign background color to day note"
+msgstr "háttérszín kijelölése a napi jegyzethez"
+
+msgid "date calculator"
+msgstr "dátum kalkulátor"
+
+msgid "show full-year calendar"
+msgstr "Egész éves naptár mutatása"
+
+msgid "jump to date"
+msgstr "ugrás dátumra"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Jegyzet törlése"
+
+msgid "remove day note"
+msgstr "napi jegyzet eltávolítása"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Nyíl"
+
+msgid "Esc"
+msgstr ""
+
+msgid "close editor"
+msgstr "szerkesztő bezárása"
+
+msgid "toggle bold"
+msgstr "félkövér"
+
+msgid "toggle italic"
+msgstr "dőlt"
+
+msgid "toggle underline"
+msgstr "aláhúzott"
+
+msgid "toggle strikethrough"
+msgstr "áthúzott"
+
+msgid "toggle highlight"
+msgstr "kiemelés"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+msgid "toggle alternative view"
+msgstr "alternatív nézet"
+
+msgid "year info"
+msgstr "év információ"
+
+msgid "set current year"
+msgstr "legyen az aktuális év"
+
+msgid "close full-year calendar"
+msgstr "egész éves naptár bezárása"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Beszúr"
+
+msgid "add task"
+msgstr "feladat hozzáadása"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "feladat szerkesztése"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "feladat törlése"
+
+msgid "toggle hidden tasks"
+msgstr "rejtett feladatok váltása"
+
+msgid "activate search field"
+msgstr "aktív kereső mező"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Jobboldalt"
+
+msgid "change category filter"
+msgstr "kategória szűrő váltása"
+
+msgid "close task info panel"
+msgstr "feladat információs panel bezárása"
+
+msgid "Insert"
+msgstr "Beszúr"
+
+msgid "add contact"
+msgstr "kapcsolat hozzáadása"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "kapcsolat szerkesztése"
+
+msgid "remove contact"
+msgstr "kapcsolat törlése"
+
+msgid "change search mode"
+msgstr "keresési mód váltása"
+
+msgid "close contact details panel"
+msgstr "kapcsolat tulajdonságai panel bezárása"
+
+#, fuzzy
+msgid "Enter"
+msgstr "Internet"
+
+msgid "open note"
+msgstr "jegyzet megnyitása"
+
+msgid "add note"
+msgstr "jegyzet hozzáadása"
+
+msgid "remove note"
+msgstr "jegyzet törlése"
+
+msgid "edit note name and category"
+msgstr "jegyzet név és kategória szerkesztése"
+
+msgid "close note editor"
+msgstr "jegyzet szerkesztő bezárása"
+
+msgid "save note"
+msgstr "jegyzet mentése"
+
+msgid "find text"
+msgstr "szöveg keresése"
+
+msgid "clear selection attributes"
+msgstr "kijelölés formázásának törlése"
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"Az OSMO tervezésekor elsődleges a felhasználói kényelem, sok a "
+"kulcsfontosságú billentyű kombináció. A teljes lista:"
+
+msgid "General"
+msgstr "Általános"
+
+msgid "Calendar"
+msgstr "Naptár"
+
+msgid "Note editor"
+msgstr "Jegyzet szerkesztő"
+
+msgid "Full-year calendar"
+msgstr "Egész éves naptár"
+
+msgid "Tasks"
+msgstr "Feladatok"
+
+msgid "Contacts"
+msgstr "Kapcsolatok"
+
+msgid "Notes"
+msgstr "Jegyzetek"
+
+msgid "Selector"
+msgstr "Elválasztó"
+
+msgid "Editor"
+msgstr "Szerkesztő"
+
+msgid "A handy personal organizer"
+msgstr "A kényelmes személyi szervező"
+
+msgid "compiled on"
+msgstr "fordítás ideje"
+
+msgid "Programming"
+msgstr "Programozó"
+
+msgid "Graphics"
+msgstr "Grafika"
+
+msgid "Contributors"
+msgstr "Közreműködők"
+
+msgid "Translators"
+msgstr "Fordítók"
+
+msgid "Mailing lists"
+msgstr "Levelező listák"
+
+msgid "Bug tracker"
+msgstr "Hiba követő"
+
+msgid "Feature requests"
+msgstr "Funkciók kérése"
+
+msgid "Available modules"
+msgstr "Elérhető modulok"
+
+msgid "Compiled-in features"
+msgstr "Támogatott lehetőségek"
+
+msgid "iCalendar support"
+msgstr "iCalendar támogatása"
+
+msgid "Encrypted notes support"
+msgstr "Titkosított jegyzetek támogatása"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "SyncML eszköz támogatás lehetősége"
+
+msgid "Backup support"
+msgstr "Biztonsági mentés támogatása"
+
+msgid "Printing support"
+msgstr "Nyomtatás támogatása"
+
+msgid "Spell checker support"
+msgstr "Helyesírás ellenőrzés támogatása"
+
+msgid "version"
+msgstr "verzió"
+
+msgid "SVN revision"
+msgstr "SVN revízió"
+
+msgid "Key shortcuts"
+msgstr "Billentyű kombinációk"
+
+msgid "License"
+msgstr "Licenc"
+
+msgid "Save backup"
+msgstr "Biztonsági másolat mentése"
+
+msgid "Password protection"
+msgstr "Jelszó védett"
+
+msgid "Enter password"
+msgstr "Jelszó megadása"
+
+msgid "Re-enter password"
+msgstr "Jelszó mé gegyszer"
+
+msgid "Please enter the password"
+msgstr "Jelszó még egyszer"
+
+msgid "Passwords do not match!"
+msgstr "A jelszavak nem egyeznek!"
+
+msgid "Cannot create backup!"
+msgstr "Biztonsági másolat létrehozása sikertelen!"
+
+msgid "Backup file saved successfully!"
+msgstr "Biztonsági másolat mentése sikeres!"
+
+msgid "Open backup file"
+msgstr "Biztonsági másolat megnyitása"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Osmo biztonsági másolat fájlok (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Ez nem Osmo biztonsági másolat fájl"
+
+msgid "Incorrect password!"
+msgstr "Érvénytelen jelszó!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "Minden adat cserélve lesz a biztonsági másolatban lévő tartalommal."
+
+msgid "Are you sure?"
+msgstr "Biztos benne?"
+
+msgid "Osmo has to be restarted now..."
+msgstr "Az Osmo most újra indul..."
+
+msgid "was born"
+msgstr "született"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "éves"
+msgstr[1] "éves"
+
+msgid "Current time"
+msgstr "Jelenlegi idő"
+
+msgid "Day number"
+msgstr "Napok száma"
+
+msgid "Today distance"
+msgstr "Mai teendők"
+
+msgid "Week number"
+msgstr "Hetek száma"
+
+msgid "Marked days"
+msgstr "Megjelölt napok"
+
+msgid "Weekend days"
+msgstr "Hétvégi napok"
+
+msgid "Day category"
+msgstr "Nap kategória"
+
+msgid "Moon phase"
+msgstr "Hold fázis"
+
+msgid "Zodiac sign"
+msgstr "Zodiákus jel"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "nap telt el az évből"
+msgstr[1] "nap telt el az évből"
+
+msgid "the last day of the year"
+msgstr "hátralévő napok száma az évben"
+
+msgid "Day notes"
+msgstr "Napi jegyezetek"
+
+msgid "Day tasks"
+msgstr "Napi feladatok"
+
+msgid "Birthday"
+msgstr "Születésnap"
+
+msgid "Selected day note will be removed."
+msgstr "A kiválasztott nap jegyzetei törölve lesznek."
+
+msgid "Continue?"
+msgstr "Folytatja?"
+
+msgid "Previous year"
+msgstr "Előző év"
+
+msgid "Previous month"
+msgstr "Előző hónap"
+
+msgid "Previous day"
+msgstr "Előző nap"
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "Next day"
+msgstr "Következő nap"
+
+msgid "Next month"
+msgstr "Következő hónap"
+
+msgid "Next year"
+msgstr "Következő év"
+
+msgid "Jump to date"
+msgstr "Ugrás dátumra"
+
+msgid "Print calendar"
+msgstr "Naptár nyomtatása"
+
+msgid "Date calculator"
+msgstr "Dátum kalkulátor"
+
+msgid "Preferences"
+msgstr "Beállítások"
+
+msgid "Toggle day note panel"
+msgstr "Váltás a nap jegyzet panelra"
+
+msgid "Add task"
+msgstr "Feladat hozzáadása"
+
+msgid "Select day color"
+msgstr "Nap színének kiválasztása"
+
+msgid "Browse notes"
+msgstr "Jegyzetek keresése"
+
+msgid "Browse iCal events"
+msgstr "iCal esemény tallózás"
+
+msgid "Export to iCal file"
+msgstr "iCal fájl exportálása"
+
+msgid "Previous and next month"
+msgstr "Előző és következő hónap"
+
+msgid "Close note panel"
+msgstr "Jegyzet panel bezárása"
+
+msgid "Highlight"
+msgstr "Kiemelés"
+
+msgid "Strikethrough"
+msgstr "Áthúzott"
+
+msgid "Underline"
+msgstr "Aláhúzott"
+
+msgid "Italic"
+msgstr "Dőlt"
+
+msgid "Bold"
+msgstr "Vastag"
+
+msgid "Insert timeline"
+msgstr "idővonal beszúrása"
+
+msgid "Clear text"
+msgstr "Szöveg törlése"
+
+msgid "Info"
+msgstr "Információ"
+
+msgid "Select color"
+msgstr "Szín kiválasztása"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "év"
+msgstr[1] "év"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "hónap"
+msgstr[1] "hónap"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "nap"
+msgstr[1] "nap"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "óra"
+msgstr[1] "óra"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "perc"
+msgstr[1] "perc"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "másodperc"
+msgstr[1] "másodperc"
+
+msgid "or"
+msgstr "vagy"
+
+msgid "rounded down"
+msgstr "lefelé kerekítve"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "hét"
+msgstr[1] "hét"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "munkanap"
+msgstr[1] "munkanapok"
+
+msgid "time is ignored"
+msgstr "idő kihagyva"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Hétvégi nap"
+msgstr[1] "Hétvégi napok"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "A kalkulátor csak az 1. év utántól támogatja a dátumokat"
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Hétvégi nap kihagyása"
+msgstr[1] "Hétvégi napok kihagyása"
+
+msgid "Year"
+msgstr "Év"
+
+msgid "Month"
+msgstr "Hónap"
+
+msgid "Day"
+msgstr "Nap"
+
+msgid "Current date"
+msgstr "Jelenlegi dátum"
+
+msgid "Set current date"
+msgstr "Jelenlegi dátum beállítása"
+
+msgid "Hour"
+msgstr "Óra"
+
+msgid "Minute"
+msgstr "Perc"
+
+msgid "Second"
+msgstr "Másodperc"
+
+msgid "Set current time"
+msgstr "Jelenlegi idő beállítása"
+
+msgid "Reset time"
+msgstr "Idő törlése"
+
+msgid "First date and time"
+msgstr "Első dátum és idő"
+
+msgid "Second date and time"
+msgstr "Második dátum és idő"
+
+msgid "Alternative time units"
+msgstr "Alternatív időegység"
+
+msgid "Result"
+msgstr "Eredmény"
+
+msgid "Duration between two dates"
+msgstr "Dátumok közötti idő"
+
+msgid "Operation"
+msgstr "Művelet"
+
+msgid "add"
+msgstr "növelés"
+
+msgid "subtract"
+msgstr "csökkentés"
+
+msgid "Date and time to add or subtract from"
+msgstr "Dátum és idő növelése vagy csökkentése innentől"
+
+msgid "Years"
+msgstr "Évek"
+
+msgid "Months"
+msgstr "Hónapok"
+
+msgid "Days"
+msgstr "Napok"
+
+msgid "Weeks"
+msgstr "Hetek"
+
+msgid "Hours"
+msgstr "Órák"
+
+msgid "Minutes"
+msgstr "Percek"
+
+msgid "Seconds"
+msgstr "Másodpercek"
+
+msgid "Ignore weekend days"
+msgstr "Hétvégi napok kihagyása"
+
+msgid "Reset fields"
+msgstr "Mezők alaphelyzetbe"
+
+msgid "Time to add or subtract"
+msgstr "Idő növelése vagy csökkentése"
+
+msgid "Jump to"
+msgstr "Ugrás ide"
+
+msgid "Add to or subtract from a date"
+msgstr "Növelés vagy csökkentés a dátumhoz képest"
+
+msgid "Leap year"
+msgstr "Szökőév"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Chinese year animal"
+msgstr "Kínai állat naptár"
+
+msgid "Number of days"
+msgstr "Napok száma"
+
+msgid "Number of weeks"
+msgstr "Hetek száma"
+
+msgid "Number of weekend days"
+msgstr "Hétvégek napjainak száma"
+
+msgid "Year info"
+msgstr "Év információ"
+
+msgid "Current year"
+msgstr "Aktuális év"
+
+msgid "Alternative view"
+msgstr "Alternatív nézet"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "esemény"
+msgstr[1] "esemény"
+
+msgid "No valid calendars defined"
+msgstr "Nincsenek valós naptárak meghatározva"
+
+msgid "iCalendar events"
+msgstr "iCalendar események"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "Time"
+msgstr "Idő"
+
+msgid "Summary"
+msgstr "Összegzés"
+
+msgid "Select output file"
+msgstr "Válasszon kimeneti fájlt"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "A lista törölve lesz és minden elem el fog veszni."
+
+msgid "Done!"
+msgstr "Kész!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "esemény exportálva"
+msgstr[1] "események exportálva"
+
+msgid "iCalendar export"
+msgstr "iCalendar export"
+
+msgid "Day Selector"
+msgstr "Nap választó"
+
+msgid "Use date period"
+msgstr "Dátum periódus használata"
+
+msgid "Add"
+msgstr "Hozzáad"
+
+msgid "Clear"
+msgstr "Töröl"
+
+msgid "Remove"
+msgstr "Törlés"
+
+msgid "Output filename"
+msgstr "Kimeneti fájlnév megadása"
+
+msgid "Browse"
+msgstr "Tallózás"
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "Export"
+msgstr "Exportálás"
+
+msgid "no entries"
+msgstr "nincs bejegyzés"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "bejegyzés"
+msgstr[1] "bejegyzés"
+
+msgid "Calendar notes"
+msgstr "Naptár bejegyzések"
+
+msgid "Search"
+msgstr "Keresés"
+
+msgid "Filter"
+msgstr "Szűrő"
+
+msgid "Current month"
+msgstr "Aktuális hónap"
+
+msgid "Selected month"
+msgstr "Kiválasztott hónap"
+
+msgid "Selected year"
+msgstr "Kiválasztott év"
+
+msgid "Selected month and year"
+msgstr "Kiválasztott hónap és év"
+
+msgid "All notes"
+msgstr "Minden jegyzet"
+
+msgid "Case sensitive"
+msgstr "kis/nagybetű érzékeny"
+
+msgid "Strikethrough past day notes"
+msgstr "A már elmúlt napok jegyzetének áthúzása"
+
+msgid "Note"
+msgstr "Jegyzet"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Hónap neve"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "HH-NN-ÉÉÉÉ"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Dátum formátum"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Kimenet formátuma"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Dátum formátum"
+
+msgid "Day note marker"
+msgstr "Napi bejegyzés megjelölése"
+
+msgid "Event marker"
+msgstr "Esemény jelölése"
+
+msgid "Circle"
+msgstr "Kör"
+
+msgid "Ellipse"
+msgstr "Elipszis"
+
+msgid "Wave"
+msgstr "Hullám"
+
+msgid "Current day marker"
+msgstr "Aktuális nap megjelölése"
+
+msgid "Arrow"
+msgstr "Nyíl"
+
+msgid "Free-hand circle"
+msgstr "Szabadkézi kör"
+
+msgid "Colors"
+msgstr "Színek"
+
+msgid "Header color"
+msgstr "Fejléc színe"
+
+msgid "Weekend days color"
+msgstr "Hétvégi napok színe"
+
+msgid "Cursor color"
+msgstr "Kurzor színe"
+
+msgid "Event marker color"
+msgstr "Esemény jelölő szín"
+
+msgid "Current day marker color"
+msgstr "Aktuális nap jelölő szín"
+
+msgid "Birthday marker color"
+msgstr "Születésnap jelölő szín"
+
+msgid "Date font"
+msgstr "Dátum betűtípus"
+
+msgid "Calendar font"
+msgstr "Naptár betűtípus"
+
+msgid "Note font"
+msgstr "Jegyzet betűtípus"
+
+msgid "Enable block cursor"
+msgstr "Tömb kurzor engedélyezése"
+
+msgid "Cursor thickness"
+msgstr "Kurzor vastagsága"
+
+msgid "Thin"
+msgstr "Vékony"
+
+msgid "Thick"
+msgstr "Vastag"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Nap kategória"
+
+msgid "Color"
+msgstr "Szín"
+
+msgid "Name"
+msgstr "Név"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Válasszon ICS fájlt"
+
+msgid "All Files"
+msgstr "Minden fájl"
+
+msgid "Calendar files (*.ics)"
+msgstr "Naptár fájlok (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "ICAL paraméterek módosítása"
+
+msgid "Filename"
+msgstr "Fájlnév"
+
+msgid "Options"
+msgstr "Beállítások"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Érvényes"
+
+msgid "Description"
+msgstr "Leírás"
+
+msgid "Full date"
+msgstr "Teljes dátum"
+
+msgid "Mark"
+msgstr "Megjelölt"
+
+msgid "Week start on Monday"
+msgstr "A hét kezdőnapja a Hétfő"
+
+msgid "Show day names"
+msgstr "Nap nevének mutatása"
+
+msgid "No month change"
+msgstr "Nincs hónap váltás"
+
+msgid "Show week numbers"
+msgstr "Hetek számának mutatása"
+
+msgid "Simple view in full-year calendar"
+msgstr "Egyszerű nézet a teljes évi naptárban"
+
+msgid "Enable auxilary calendars"
+msgstr "Külső naptárak engedélyezése"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Emelkedő sorrend a napi bejegyzések böngészőben"
+
+msgid "Enable spell checker in day notes"
+msgstr "Alárírás ellenőrzése a napi jegyzeteknél"
+
+msgid "Appearance"
+msgstr "Megjelenés"
+
+msgid "Day categories"
+msgstr "Nap kategóriák"
+
+msgid "iCalendar files"
+msgstr "iCalendar fájlok"
+
+msgid "Show in day info panel"
+msgstr "Napi információs panel megjelenítése"
+
+msgid "Name day"
+msgstr "Névnap"
+
+msgid "Error printing"
+msgstr "Hiba a nyomtatáskor"
+
+msgid "Printing properties"
+msgstr "Nyomtatási beállítások"
+
+msgid "Month name"
+msgstr "Hónap neve"
+
+msgid "Day name"
+msgstr "Nap neve"
+
+msgid "Events"
+msgstr "Események"
+
+msgid "Fonts"
+msgstr "Betűtípusok"
+
+msgid "Birthdays"
+msgstr "Születésnapok"
+
+msgid "Namedays"
+msgstr "Névnapok"
+
+msgid "Visible events"
+msgstr "Látható események"
+
+msgid "Padding"
+msgstr "Helykitöltés"
+
+msgid "Event maximum length"
+msgstr "Esemény maximális hossza"
+
+msgid "Page orientation:"
+msgstr "Lap tájolása:"
+
+msgid "Portrait"
+msgstr "Álló"
+
+msgid "Landscape"
+msgstr "Fekvő"
+
+msgid "Timeline"
+msgstr "Idővonal"
+
+msgid "From (hour)"
+msgstr "Kezdete (óra)"
+
+msgid "Step (minutes)"
+msgstr "Lépés (perc)"
+
+msgid "To (hour)"
+msgstr "Vége (óra)"
+
+msgid "No date"
+msgstr "Nincs dátum"
+
+msgid "Rat"
+msgstr "Patkány"
+
+msgid "Ox"
+msgstr "Ökör"
+
+msgid "Tiger"
+msgstr "Tigris"
+
+msgid "Hare"
+msgstr "Nyúl"
+
+msgid "Dragon"
+msgstr "Sárkány"
+
+msgid "Snake"
+msgstr "Kígyó"
+
+msgid "Horse"
+msgstr "Ló"
+
+msgid "Sheep"
+msgstr "Bárány"
+
+msgid "Monkey"
+msgstr "Majom"
+
+msgid "Fowl"
+msgstr "Kakas"
+
+msgid "Dog"
+msgstr "Kutya"
+
+msgid "Pig"
+msgstr "Disznó"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "Aquarius"
+msgstr "Vízöntő"
+
+msgid "Pisces"
+msgstr "Halak"
+
+msgid "Aries"
+msgstr "Kos"
+
+msgid "Taurus"
+msgstr "Bika"
+
+msgid "Gemini"
+msgstr "Ikrek"
+
+msgid "Cancer"
+msgstr "Rák"
+
+msgid "Leo"
+msgstr "Oroszlán"
+
+msgid "Virgo"
+msgstr "Szűz"
+
+msgid "Libra"
+msgstr "Mérleg"
+
+msgid "Scorpio"
+msgstr "Skorpió"
+
+msgid "Sagittarius"
+msgstr "Nyilas"
+
+msgid "Capricorn"
+msgstr "Bak"
+
+msgid "Cannot perform selected operation."
+msgstr "A kiválasztott művelet nem hajtható végre."
+
+msgid "Task has been modified or removed."
+msgstr "A feladat módosítva vagy törölve."
+
+msgid "Remind me later"
+msgstr "Jegyezze meg"
+
+msgid "Done"
+msgstr "Kész"
+
+msgid "postponed"
+msgstr "halasztott"
+
+msgid "Show task"
+msgstr "Feladat megjelenítése"
+
+msgid "Alarm warning!"
+msgstr "Riasztó figyelmeztetés!"
+
+msgid "Day note"
+msgstr "Napi jegyzet"
+
+msgid "Type"
+msgstr "Típus"
+
+msgid "Event"
+msgstr "Esemény"
+
+msgid "Task"
+msgstr "Feladat"
+
+msgid "Show Osmo"
+msgstr "Osmo megjelenítése"
+
+msgid "No birthdays defined"
+msgstr "Nincsenek születésnapok meghatározva"
+
+msgid "Birthdays list"
+msgstr "Születésnapok listája"
+
+msgid "Days to birthday"
+msgstr "Születésnapig hátralévő napok"
+
+msgid "Age"
+msgstr "Kor"
+
+msgid "Birthday date"
+msgstr "Születési idő"
+
+msgid "today"
+msgstr "ma"
+
+msgid "Please select address"
+msgstr "Kérem adja meg a címet"
+
+msgid "Information"
+msgstr "Információ"
+
+msgid "Work"
+msgstr "Munkahely"
+
+msgid "Home"
+msgstr "Otthoni"
+
+msgid "Group"
+msgstr "Csoport"
+
+msgid "First name"
+msgstr "Utónév"
+
+msgid "Last name"
+msgstr "Vezetéknév"
+
+msgid "Second name"
+msgstr "Középső név"
+
+msgid "Nickname"
+msgstr "Becenév"
+
+msgid "Tags"
+msgstr "Tagek"
+
+msgid "Name day date"
+msgstr "Névnap"
+
+msgid "Home address"
+msgstr "Otthoni cím"
+
+msgid "Home postcode"
+msgstr "Otthoni irányítószám"
+
+msgid "Home city"
+msgstr "Otthoni város"
+
+msgid "Home state"
+msgstr "Otthoni állam"
+
+msgid "Home country"
+msgstr "Otthoni ország/terület"
+
+msgid "Organization"
+msgstr "Szervezet"
+
+msgid "Department"
+msgstr "Részleg"
+
+msgid "Work address"
+msgstr "Munkahelyi cím"
+
+msgid "Work postcode"
+msgstr "Munkahelyi irányítószám"
+
+msgid "Work city"
+msgstr "Munkahelyi város"
+
+msgid "Work state"
+msgstr "Munkahelyi állam"
+
+msgid "Work country"
+msgstr "Munkahelyi ország/terület"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Otthoni telefon"
+
+msgid "Home phone 2"
+msgstr "Otthoni telefon 2"
+
+msgid "Home phone 3"
+msgstr "Otthoni telefon 3"
+
+msgid "Home phone 4"
+msgstr "Otthoni telefon 4"
+
+msgid "Work phone"
+msgstr "Munkahelyi telefon"
+
+msgid "Work phone 2"
+msgstr "Munkahelyi telefon 2"
+
+msgid "Work phone 3"
+msgstr "Munkahelyi telefon 3"
+
+msgid "Work phone 4"
+msgstr "Munkahelyi telefon 4"
+
+msgid "Cell phone"
+msgstr "Mobiltelefon"
+
+msgid "Cell phone 2"
+msgstr "Mobiltelefon 2"
+
+msgid "Cell phone 3"
+msgstr "Mobiltelefon 3"
+
+msgid "Cell phone 4"
+msgstr "Mobiltelefon 4"
+
+msgid "E-Mail"
+msgstr "Email"
+
+msgid "E-Mail 2"
+msgstr "Email 2"
+
+msgid "E-Mail 3"
+msgstr "Email 3"
+
+msgid "E-Mail 4"
+msgstr "Email 4"
+
+msgid "WWW"
+msgstr "Honlap"
+
+msgid "WWW 2"
+msgstr "Honlap 2"
+
+msgid "WWW 3"
+msgstr "Honlap 3"
+
+msgid "WWW 4"
+msgstr "Honlap 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Fotó"
+
+msgid "Additional info"
+msgstr "További Információ"
+
+msgid "New contact"
+msgstr "Új kapcsolat"
+
+msgid "Remove contact"
+msgstr "Kapcsolat eltávolítása"
+
+msgid "Edit contact"
+msgstr "Kapcsolat szerkesztése"
+
+msgid "Show birthdays"
+msgstr "Születésnapok mutatása"
+
+msgid "Show contact location on the map"
+msgstr "A kapcsolat helyének mutatása a térképen"
+
+msgid "Import contacts"
+msgstr "Kapcsolatok importálása"
+
+msgid "Export contacts"
+msgstr "Kapcsolatok exportálása"
+
+msgid "First Name"
+msgstr "Keresztnév"
+
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+msgid "All fields"
+msgstr "Összes mező"
+
+msgid "Contact details"
+msgstr "Kapcsolat tulajdonságai"
+
+msgid "Close contact panel"
+msgstr "Kapcsolat panel bezárása"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "kapcsolat exportálva"
+msgstr[1] "kapcsolatok exportálva"
+
+msgid "Cannot create file."
+msgstr "Fájl létrehozása sikertelen."
+
+msgid "Output format"
+msgstr "Kimenet formátuma"
+
+msgid "Add header"
+msgstr "Fejléc hozzáadása"
+
+msgid "Fields to export"
+msgstr "Mezők exportálása"
+
+msgid "All"
+msgstr "Mind"
+
+msgid "Invert"
+msgstr "Megfordítás"
+
+msgid "Select fields"
+msgstr "Mezők választása"
+
+msgid "Select CSV file"
+msgstr "CSV fájl kiválasztása"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (vesszővel elválasztott értékek) fájlok (*.csv)"
+
+msgid "Please select file first."
+msgstr "Kérem előbb válasszon fájlt."
+
+msgid "Import type"
+msgstr "Importálás típusa"
+
+msgid "File"
+msgstr "Fájl"
+
+msgid "Input filename"
+msgstr "Fájnév megadása"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "Channel"
+msgstr "Csatorna"
+
+msgid "Interface"
+msgstr "Felület"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Bináris XML használata (WBXML)"
+
+msgid "Import"
+msgstr "Importálás"
+
+msgid "Nothing to import."
+msgstr "Nincs mit importálni."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "kapcsolat hozzáadva"
+msgstr[1] "kapcsolatok hozzáadva"
+
+msgid "of"
+msgstr "/"
+
+msgid "Record"
+msgstr "Rekord"
+
+msgid "Number fields per record"
+msgstr "Mezők száma rekordonként"
+
+msgid "Use first record as header"
+msgstr "Az első rekord legyen a fejléc"
+
+msgid "Field type"
+msgstr "Mező típusa"
+
+msgid "Value"
+msgstr "Érték"
+
+msgid "No records found in selected file."
+msgstr "Nincs egyetlen rekord sem a kiválasztott fájlban."
+
+msgid "Cannot read file."
+msgstr "A fájl nem olvasható."
+
+msgid "Cannot open file."
+msgstr "A fájl nem nyitható meg."
+
+msgid "Selected contact will be removed."
+msgstr "A kiválasztott kapcsolat törölve lesz."
+
+msgid "Select photo"
+msgstr "Fotó kiválasztása"
+
+msgid "Postcode"
+msgstr "Irányító szám"
+
+msgid "City"
+msgstr "Város"
+
+msgid "State"
+msgstr "Állam"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Add contact"
+msgstr "Kapcsolat hozzáadása"
+
+msgid "Personal"
+msgstr "Személyes"
+
+msgid "Phones"
+msgstr "Telefonok"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "kapcsolat címkék színe"
+
+msgid "Color of links"
+msgstr "Linkek színe"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Fotó mérete"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Név betűtípus"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Elem betűtípus"
+
+msgid "Photo size"
+msgstr "Fotó mérete"
+
+msgid "Small"
+msgstr "Kicsi"
+
+msgid "Medium"
+msgstr "Közepes"
+
+msgid "Large"
+msgstr "Nagy"
+
+msgid "Select and show first item after search"
+msgstr "Az első megtalált elem kiválasztása és mutatása keresés után"
+
+msgid "Hide group column"
+msgstr "Csoport oszlop elrejtése"
+
+msgid "Order"
+msgstr "Sorrend"
+
+msgid "Mode"
+msgstr "Mód"
+
+msgid "Ascending"
+msgstr "Növekvő"
+
+msgid "Descending"
+msgstr "Csökkenő"
+
+msgid "Miscellaneous"
+msgstr "Egyéb"
+
+msgid "Groups"
+msgstr "Csoportok"
+
+msgid "Sorting"
+msgstr "Rendezés"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Látható oszlopok a születésnap keresőben"
+
+msgid "Show calendar"
+msgstr "Naptár megjelenítése"
+
+msgid "Show tasks"
+msgstr "Feladatok megjelenítése"
+
+msgid "Show contacts"
+msgstr "Kapcsolatok megjelenítése"
+
+msgid "Show notes"
+msgstr "Jegyzetek megjelenítése"
+
+msgid "Show options"
+msgstr "Opciók megjelenítése"
+
+msgid "Quit"
+msgstr "Kilépés"
+
+msgid "Show small calendar window"
+msgstr "Kis naptár ablak mutatása"
+
+msgid "Check for events since last run"
+msgstr "Események ellenőrzése a legutóbbi indítás óta"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Események ellenőrzése napokban (alapértelmezett: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Legyen teljes elérési út a beállításokhoz és az adatfájlokhoz"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Az OSMO felhasználói felületének módosítása alacsony felbontáskor"
+
+msgid "handy personal organizer"
+msgstr "a kényelmes személyi szervező"
+
+msgid "ERROR: Cannot create config files"
+msgstr "HIBA: A konfigurációs fájlok létrehozása sikertelen"
+
+msgid "Another copy of OSMO is already running."
+msgstr "Már fut egy másik OSMO példány."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Egyszerre kettő vagy több példány használata az OSMO programból "
+"adatvesztéshez vezethez."
+
+msgid "Do you really want to continue?"
+msgstr "Biztosan folytatni kívánja?"
+
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+msgid "The note has changed."
+msgstr "A jegyzet módosult."
+
+msgid "Do you want to save it?"
+msgstr "El szeretné menteni?"
+
+msgid "Words"
+msgstr "Szavak"
+
+msgid "Lines"
+msgstr "Sorok"
+
+msgid "Characters"
+msgstr "Karakterek"
+
+msgid "White characters"
+msgstr "Fehér karaktereke"
+
+msgid "Bytes"
+msgstr "Bájtok"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Elválasztó"
+
+msgid "Created"
+msgstr "Létrehozva"
+
+msgid "Modified"
+msgstr "Módosítva"
+
+msgid "New note"
+msgstr "Új jegyzet"
+
+msgid "Add note"
+msgstr "Jegyzet hozzáadása"
+
+msgid "Edit note"
+msgstr "Jegyzet szerkesztése"
+
+msgid "Delete note"
+msgstr "Jegyzet törlése"
+
+msgid "Remove note"
+msgstr "Jegyzet törlése"
+
+msgid "Find"
+msgstr "Keresés"
+
+msgid "Clear attributes"
+msgstr "Formázások törlése"
+
+msgid "Save note"
+msgstr "Jegyzet mentése"
+
+msgid "Insert current date and time"
+msgstr "Aktuális dátum és idő beszúrása"
+
+msgid "Insert separator"
+msgstr "Elválasztó beszúrása"
+
+msgid "Statistics"
+msgstr "Statisztikák"
+
+msgid "Close editor"
+msgstr "Szerkesztő bezárása"
+
+msgid "Toggle spell checker"
+msgstr "aláírásellenőrzés váltása"
+
+msgid "Category"
+msgstr "Kategória"
+
+msgid "Note name"
+msgstr "Jegyzet neve"
+
+msgid "Last changes"
+msgstr "Utolsó módosítás"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Sorok"
+
+#, fuzzy
+msgid "Column"
+msgstr "Ország"
+
+msgid "case sensitive"
+msgstr "kis/nagybetűre érzékeny"
+
+msgid "Close find entry"
+msgstr "Kereső sáv bezárása"
+
+msgid "Edit entry"
+msgstr "Bejegyzés szerkesztése"
+
+msgid "Remember cursor position"
+msgstr "Kurzor pozíció megjegyzése"
+
+msgid "Selected note will be removed."
+msgstr "A kiválasztott jegyzet törölve lesz."
+
+msgid "No further data recovery will be possible."
+msgstr "Az adatok visszaállítása nem lehetséges."
+
+msgid "Plain"
+msgstr "Sima"
+
+msgid "Encrypted"
+msgstr "Titkosított"
+
+msgid "Note type"
+msgstr "Jegyzet típusa"
+
+msgid "Cannot open the note."
+msgstr "A jegyzet nem nyitható meg."
+
+msgid "encryption support is disabled"
+msgstr "titkosítási támogatás letiltva"
+
+msgid "Authorization"
+msgstr "Azonosítás"
+
+msgid "Algorithm"
+msgstr "Algoritmus"
+
+msgid "Hashing"
+msgstr "Hashing"
+
+msgid "Compression"
+msgstr "Tömörítés"
+
+msgid "Ratio"
+msgstr "Arány"
+
+msgid "Fast"
+msgstr "Gyors"
+
+msgid "Good"
+msgstr "Jó"
+
+msgid "Best"
+msgstr "Legjobb"
+
+msgid "Remember the last selected category"
+msgstr "Utoljára kiválasztott kategória megjegyzése"
+
+msgid "Use system format for date and time"
+msgstr "A rendszer dátum és idő formátum használata"
+
+msgid "Encryption"
+msgstr "Titkosítás"
+
+msgid "Visible columns"
+msgstr "Látható oszlopok"
+
+msgid "Categories"
+msgstr "Kategóriák"
+
+msgid "Notes options"
+msgstr "Jegyzet opciók"
+
+#, fuzzy
+msgid "Osmo has to be restarted to take effect."
+msgstr "Az Osmo most újra indul..."
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Fülek pozíciója"
+
+msgid "Left"
+msgstr "Baloldalt"
+
+msgid "Right"
+msgstr "Jobboldalt"
+
+msgid "Top"
+msgstr "Fent"
+
+msgid "Bottom"
+msgstr "Lent"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Használjon alapértelmezett témaikonokat (újraindítás szükséges)"
+
+msgid "Disable underline in links"
+msgstr "Ne húzza alá a linkeket"
+
+msgid "Draw rows in alternating colors"
+msgstr "Sorok rajzolása váltakozó színnel"
+
+msgid "At least one module must be visible."
+msgstr "Legalább egy modulnak láthatónak kell lennie."
+
+msgid "Override locale settings"
+msgstr "Helyi beállítások felülírása"
+
+msgid "Date format"
+msgstr "Dátum formátum"
+
+msgid "DD-MM-YYYY"
+msgstr "NN-HH-ÉÉÉÉ"
+
+msgid "MM-DD-YYYY"
+msgstr "HH-NN-ÉÉÉÉ"
+
+msgid "YYYY-MM-DD"
+msgstr "ÉÉÉÉÉ-NN-HH"
+
+msgid "YYYY-DD-MM"
+msgstr "ÉÉÉÉ-HH-NN"
+
+msgid "Time format"
+msgstr "Idő formátum"
+
+msgid "hours"
+msgstr "óra"
+
+msgid "Spell checker language"
+msgstr "Helyesírás ellenőrzés nyelve"
+
+msgid "Enable tooltips"
+msgstr "Buboréktippek engedélyezése"
+
+msgid "Remember last selected page"
+msgstr "Utoljára kiválasztott lap megjegyzése"
+
+msgid "Save data after every modification"
+msgstr "Adatok mentése minden egyes módosításkor"
+
+msgid "Web browser"
+msgstr "Web böngésző"
+
+msgid "E-mail client"
+msgstr "Levelező program"
+
+msgid "Sound player"
+msgstr "Zenelejátszó"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "A %s minta le lesz cserélve a web címre"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "A %s minta le lesz cserélve az email címre"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "A %s minta le lesz cserélve a zene fájl nevére"
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "Restore"
+msgstr "Visszaállítás"
+
+msgid "Enable system tray"
+msgstr "Tálcaikon engedélyezése"
+
+msgid "Start minimised"
+msgstr "Indítás kis méretben"
+
+msgid "Blink on events"
+msgstr "Eseményeknél villog"
+
+msgid "Ignore day note events"
+msgstr "Napi jegyzetek kihagyása"
+
+msgid "Hide"
+msgstr "Elrejtés"
+
+msgid "Helpers"
+msgstr "Segédalkalmazások"
+
+msgid "Backup"
+msgstr "Biztonsági másolat"
+
+msgid "System tray"
+msgstr "Tálcaikon"
+
+msgid "Edit"
+msgstr "Szerkeszt"
+
+msgid "Go Down"
+msgstr "Lefelé"
+
+msgid "Select date"
+msgstr "Dátum választás"
+
+msgid "Select font"
+msgstr "Betűtípus választás"
+
+msgid "Calculator"
+msgstr "Számológép"
+
+msgid "Edit day note"
+msgstr "Napi jegyzet szerkesztése"
+
+msgid "Contact map location"
+msgstr "Kapcsolat helye a térképen"
+
+msgid "Save"
+msgstr "Mentés"
+
+msgid "Display full-year calendar"
+msgstr "Egész éves naptár megjelenítése"
+
+msgid "Help"
+msgstr "Súgó"
+
+msgid "Invalid item"
+msgstr "Érvénytelen elem"
+
+msgid "Valid item"
+msgstr "Érvényes elem"
+
+msgid "Edit task"
+msgstr "Feladat szerkesztése"
+
+msgid "Remove task"
+msgstr "Feladat törlése"
+
+msgid "Import tasks"
+msgstr "Feladatok importálása"
+
+msgid "Export tasks"
+msgstr "Feladatok exportálása"
+
+msgid "Change to previous date"
+msgstr "Váltás az előző dátumra"
+
+msgid "Change to next date"
+msgstr "Váltás a következő dátumra"
+
+msgid "Print"
+msgstr "Nyomtatás"
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "Recurrent"
+msgstr "Ismétlődő"
+
+msgid "Started"
+msgstr "Kezdete"
+
+msgid "Finished"
+msgstr "Befejezett"
+
+msgid "All items"
+msgstr "Minden elem"
+
+msgid "New task"
+msgstr "Új feladat"
+
+msgid "Change due date to previous date"
+msgstr "Esedékesség váltása az előző dátumra"
+
+msgid "Change due date to next date"
+msgstr "Esedékesség váltása a következő dátumra"
+
+msgid "Print visible tasks list"
+msgstr "Látható feladatok listájának nyomtatása"
+
+msgid "Due date"
+msgstr "Lejárat napja"
+
+msgid "Priority"
+msgstr "Prioritás"
+
+msgid "Task details"
+msgstr "Feladat részletei"
+
+msgid "Close description panel"
+msgstr "Leírás panel bezárása"
+
+msgid "No tasks with defined date found."
+msgstr "Nincsenek feladatok a meghatározott dátumban."
+
+msgid "Save tasks"
+msgstr "Feladatok mentése"
+
+msgid "tasks exported"
+msgstr "feladatok exportálva"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Kérem válasszon legalább egy napot az ismétlés engedélyezéséhez."
+
+msgid "Set time"
+msgstr "Idő beállítása"
+
+msgid "Tomorrow"
+msgstr "Holnap"
+
+msgid "Selected task will be removed."
+msgstr "A kijelölt feladat törölve lesz."
+
+msgid "Basic"
+msgstr "Alapértelmezett"
+
+msgid "Select date and time"
+msgstr "Válasszon dátumot és időt"
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "High"
+msgstr "Magas"
+
+msgid "Enable sound notification"
+msgstr "Hangjelzés engedélyezése"
+
+msgid "Advanced"
+msgstr "Bővített"
+
+msgid "Alarm warning"
+msgstr "Figyelmeztető jelzés"
+
+msgid "Postpone time"
+msgstr "halasztási idő"
+
+msgid "Alarm command"
+msgstr "Figyelmeztető parancs"
+
+msgid "Recurrent task"
+msgstr "Ismétlődő feladat"
+
+msgid "Enable"
+msgstr "Engedélyezve"
+
+msgid "Start"
+msgstr "Kezdés"
+
+msgid "End"
+msgstr "Vége"
+
+msgid "Interval"
+msgstr "Intervallum"
+
+msgid "Time period"
+msgstr "Idő periódus"
+
+msgid "Date period"
+msgstr "Dátum periódus"
+
+msgid "Repeat"
+msgstr "Ismétlés"
+
+msgid "Repeat in the following days"
+msgstr "Ismétlés a következő napokban"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Figyelmen kivül hagyja ha a feladat már lejárt"
+
+msgid "Select a font..."
+msgstr "Betűtípus választása..."
+
+msgid "Color of items that are due today"
+msgstr "Ma esedékes elemek színe"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "A következő 7 napban esedékes elemek színe"
+
+msgid "Color of items that are past due"
+msgstr "A már elmúlt tételek színe"
+
+msgid "Task info font"
+msgstr "Feladatok információ betűtípus"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Mutassa vastaggal a magas prioritású feladatokat"
+
+msgid "Hide completed tasks"
+msgstr "Kész feladatok elrejtése"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "A kész feladatok törlése megerősítés nélkül"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Új feladat hozzáadás dupla kattintással a feladatok listában"
+
+msgid "minutes"
+msgstr "perc"
+
+msgid "0 for disable"
+msgstr "0 - letiltva"
+
+msgid "Repeat sound alarm"
+msgstr "Hang figyelmeztetés ismétlése"
+
+msgid "times"
+msgstr "idő"
+
+msgid "Global notification command"
+msgstr "Globális figyelmeztető parancs"
+
+msgid "Tasks options"
+msgstr "Feladatok beállításai"
+
+msgid "Reminder options"
+msgstr "Emlékeztető opciók"
+
+msgid "Tasks list"
+msgstr "Feladatok lista"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "No."
+
+msgid "New Moon"
+msgstr "Új Hold"
+
+msgid "Waxing Crescent Moon"
+msgstr "Növekvő első negyed"
+
+msgid "Quarter Moon"
+msgstr "Első negyed"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Növekvő három negyed"
+
+msgid "Full Moon"
+msgstr "Telihold"
+
+msgid "Waning Gibbous Moon"
+msgstr "Csökkenő három negyed"
+
+msgid "Last Quarter Moon"
+msgstr "Utolsó negyed"
+
+msgid "Waning Crescent Moon"
+msgstr "Csökkenő első negyed"
+
+msgid "Question"
+msgstr "Kérdés"
+
+msgid "Error"
+msgstr "Hiba"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "A kiválasztott fájl már létezik! Felülírja?"
+
+#~ msgid "Editor font"
+#~ msgstr "Szerkesztő betűtípus"
+
+#~ msgid "Category filter"
+#~ msgstr "Kategória szűrő"
+
+#~ msgid "Modify color"
+#~ msgstr "Szín módosítása"
+
+#, fuzzy
+#~ msgid "ICal"
+#~ msgstr "Dőlt"
+
+#~ msgid "change day while note editing"
+#~ msgstr "nap cseréje a jegyzet szerkesztésekor"
+
+#~ msgid "close day note panel"
+#~ msgstr "napi jegyzet panel bezárása"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "kijelölés vastaggal"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "kijelölés dőlttel"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "kijelölés kitöltése háttérszínnel"
+
+#~ msgid "underline selection"
+#~ msgstr "kijelölés aláhúzása"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "kijelölés áthúzása"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "a kényelmes személyi szervező"
+
+#~ msgid "Use year"
+#~ msgstr "Évek használata"
+
+#~ msgid "Birthday found"
+#~ msgstr "Talált születésnap"
+
+#~ msgid "Task found"
+#~ msgstr "Talált feladat"
+
+#~ msgid "Day note available"
+#~ msgstr "Napi jegyzet elérhető"

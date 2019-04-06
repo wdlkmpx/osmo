@@ -1,0 +1,2298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2008-11-08 19:10+0200\n"
+"Last-Translator: tsakf <tsakf@yahoo.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "About"
+msgstr "Περί"
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "Μετάβαση στην προηγούμενη καρτέλα"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "Μετάβαση στην επόμενη καρτέλα"
+
+msgid "switch to selected page"
+msgstr "Μετάβαση στο επιλεγμένο πακέτο"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Εμφάνιση επιλογών"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr "switch page in options and about tab"
+
+msgid "exit"
+msgstr "έξοδος"
+
+#, fuzzy
+msgid "Space"
+msgstr "Αποθήκευση"
+
+msgid "select current date"
+msgstr "Επιλογή τρέχουσας ημερομηνίας"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr "toggle personal data visibility"
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Βέλος"
+
+msgid "change day"
+msgstr "αλλαγή ημέρας"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "εμφάνιση των περιεχομένων της ημέρας στο πλαίσιο πληροφοριών ημέρας"
+
+msgid "change month"
+msgstr "αλλαγή μήνα"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Σπιτιού"
+
+msgid "change year"
+msgstr "αλλαγή έτους"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "εναλλαγή ημερολογίου για προηγούμενο/επόμενο μήνα"
+
+msgid "day notes browser"
+msgstr "πλοηγητής σημειώσεων"
+
+msgid "assign background color to day note"
+msgstr "προσθήκη χρώματος φόντου στην σημείωση"
+
+msgid "date calculator"
+msgstr "υπολογιστής ημερών"
+
+msgid "show full-year calendar"
+msgstr "Εμφάνιση ετήσιου ημερολογίου"
+
+msgid "jump to date"
+msgstr "μετάβαση σε ημέρα"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Διαγαφή σημείωσης"
+
+msgid "remove day note"
+msgstr "διαγραφή σημείωσης"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Βέλος"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "close editor"
+msgstr "Κλείσιμο κειμενογράφου"
+
+msgid "toggle bold"
+msgstr ""
+
+#, fuzzy
+msgid "toggle italic"
+msgstr "εναλλαγή εργασιών σε απόκρυψη"
+
+#, fuzzy
+msgid "toggle underline"
+msgstr "Υπογράμμιση"
+
+#, fuzzy
+msgid "toggle strikethrough"
+msgstr "Strikethrough"
+
+#, fuzzy
+msgid "toggle highlight"
+msgstr "Έντονα"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+#, fuzzy
+msgid "toggle alternative view"
+msgstr "Εναλλακτική εμφάνιση"
+
+#, fuzzy
+msgid "year info"
+msgstr "Πληροφορίες έτους"
+
+#, fuzzy
+msgid "set current year"
+msgstr "Τρέχον έτος"
+
+#, fuzzy
+msgid "close full-year calendar"
+msgstr "Εμφάνιση ετήσιου ημερολογίου"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Εισαγωγή"
+
+msgid "add task"
+msgstr "προσθήκη εργασίας"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "τροποποίηση εργασίας"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "διαγραφή εργασίας"
+
+msgid "toggle hidden tasks"
+msgstr "εναλλαγή εργασιών σε απόκρυψη"
+
+msgid "activate search field"
+msgstr "ενεργοποίηση πεδίου αναζήτησης"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Δεξιά"
+
+msgid "change category filter"
+msgstr "αλλαγή φίλτρου κατηγορίας"
+
+msgid "close task info panel"
+msgstr "κλείσιμο πλαισίου εργασιών"
+
+msgid "Insert"
+msgstr "Εισαγωγή"
+
+msgid "add contact"
+msgstr "προσθήκη επαφής"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "διόρθωση επαφής"
+
+msgid "remove contact"
+msgstr "διαγραφή επαφής"
+
+msgid "change search mode"
+msgstr "αλλαγή τρόπου αναζήτησης"
+
+msgid "close contact details panel"
+msgstr "κλείσιμο πλαισίου επαφών"
+
+#, fuzzy
+msgid "Enter"
+msgstr "Internet"
+
+msgid "open note"
+msgstr "άνοιγα σημείωσης"
+
+msgid "add note"
+msgstr "προσθήκη σημείωσης"
+
+msgid "remove note"
+msgstr "διαγραφή σημείωσης"
+
+msgid "edit note name and category"
+msgstr "διόρθωση ονόματος σημείωσης και κατηγορίας"
+
+msgid "close note editor"
+msgstr "κλείσιμο κειμενογράφου σημειώσεων"
+
+msgid "save note"
+msgstr "αποθήκευση σημείωσης"
+
+msgid "find text"
+msgstr "αναζήτηση κειμένου"
+
+msgid "clear selection attributes"
+msgstr "καθαρισμός ιδιοτήτων επιλογής"
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"Το OSMO σχεδιάστηκε με σκοό την ευκολία χρήσης, έτσι υπάρχουν πολλές εντολές "
+"που ενεργοποιούνται από το πληκτρολόγιο. Εδώ είναι ο πλήρης κατάλογος:"
+
+msgid "General"
+msgstr "Γενικά"
+
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#, fuzzy
+msgid "Note editor"
+msgstr "Κλείσιμο κειμενογράφου"
+
+msgid "Full-year calendar"
+msgstr "Ημερολόγιο Έτους"
+
+msgid "Tasks"
+msgstr "Εργασίες"
+
+msgid "Contacts"
+msgstr "Επαφές"
+
+msgid "Notes"
+msgstr "Σημειώσεις"
+
+msgid "Selector"
+msgstr "Επιλογέας"
+
+msgid "Editor"
+msgstr "Κειμενογράφος"
+
+msgid "A handy personal organizer"
+msgstr "Ένα βολικό Organizer"
+
+msgid "compiled on"
+msgstr "compiled on"
+
+msgid "Programming"
+msgstr "Προγραμματισμός"
+
+msgid "Graphics"
+msgstr "Γραφικά"
+
+msgid "Contributors"
+msgstr "Συντελεστές"
+
+msgid "Translators"
+msgstr "Μεταφραστές"
+
+msgid "Mailing lists"
+msgstr ""
+
+msgid "Bug tracker"
+msgstr ""
+
+msgid "Feature requests"
+msgstr ""
+
+msgid "Available modules"
+msgstr ""
+
+msgid "Compiled-in features"
+msgstr "Ενσωματωμένες δυνατότητες"
+
+msgid "iCalendar support"
+msgstr "Υποστήριξη iCalendar"
+
+#, fuzzy
+msgid "Encrypted notes support"
+msgstr "Κρυπτογραφημένες σημειώσεις"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "Υποστήριξη συσκευών με SyncML"
+
+msgid "Backup support"
+msgstr ""
+
+#, fuzzy
+msgid "Printing support"
+msgstr "Υποστήριξη iCalendar"
+
+#, fuzzy
+msgid "Spell checker support"
+msgstr "Υποστήριξη συσκευών με SyncML"
+
+msgid "version"
+msgstr "Έκδοση"
+
+msgid "SVN revision"
+msgstr "SNV έκδοση"
+
+msgid "Key shortcuts"
+msgstr "Συντομεύσεις"
+
+msgid "License"
+msgstr "Άδεια χρήσης"
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Password protection"
+msgstr ""
+
+msgid "Enter password"
+msgstr "Εισαγωγή λέξης κλειδί"
+
+msgid "Re-enter password"
+msgstr "Επανεισαγωγή λέξης κλειδί"
+
+#, fuzzy
+msgid "Please enter the password"
+msgstr "Επανεισαγωγή λέξης κλειδί"
+
+msgid "Passwords do not match!"
+msgstr "Οι λέξεις κλειδιά δεν ταιριάζουν"
+
+#, fuzzy
+msgid "Cannot create backup!"
+msgstr "Αδυναμία δημιουργίας αρχείου."
+
+msgid "Backup file saved successfully!"
+msgstr ""
+
+msgid "Open backup file"
+msgstr ""
+
+msgid "Osmo backup files (*.bck)"
+msgstr ""
+
+msgid "This is not Osmo backup file"
+msgstr ""
+
+msgid "Incorrect password!"
+msgstr "Λάθος λάξη κλειδί"
+
+msgid "All your data will be replaced with backup file content."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr "Σίγουρα;"
+
+msgid "Osmo has to be restarted now..."
+msgstr ""
+
+msgid "was born"
+msgstr "Γεννήθηκε"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "ετών"
+msgstr[1] "ετών"
+
+msgid "Current time"
+msgstr "Τρέχουσα ώρα"
+
+msgid "Day number"
+msgstr "Αρθμός ημέρας"
+
+msgid "Today distance"
+msgstr "Χρονική απόσταση από σήμερα"
+
+msgid "Week number"
+msgstr "Αριθμός εβδομάδας"
+
+msgid "Marked days"
+msgstr "Επιλεγείσες ημέρες"
+
+msgid "Weekend days"
+msgstr "Σαββατοκύριακα"
+
+msgid "Day category"
+msgstr "Κατηγορία ημέρας"
+
+msgid "Moon phase"
+msgstr "Φάση σελήνης"
+
+msgid "Zodiac sign"
+msgstr "Ωροσκόπιο"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "Ημέρα μέχρι τέλος του έτους"
+msgstr[1] "Ημέρες μέχρι τέλος του έτους"
+
+msgid "the last day of the year"
+msgstr "η τελευταία ημέρα του έτους"
+
+msgid "Day notes"
+msgstr "Ημερήσιες σημειώσεις"
+
+msgid "Day tasks"
+msgstr "Ημερήσιες εργασίες"
+
+msgid "Birthday"
+msgstr "Γενέθλια"
+
+msgid "Selected day note will be removed."
+msgstr "Η επιλεχθείσα σημείωση θα διαγραφεί."
+
+msgid "Continue?"
+msgstr "Συνέχεια;"
+
+msgid "Previous year"
+msgstr "Προηγούμενο έτος"
+
+msgid "Previous month"
+msgstr "Προηγούμενος μήνας"
+
+msgid "Previous day"
+msgstr "Προηγούμενη ημέρα"
+
+msgid "Today"
+msgstr "Σήμερα"
+
+msgid "Next day"
+msgstr "Επόμενη ημέρα"
+
+msgid "Next month"
+msgstr "Επόμενος μήνας"
+
+msgid "Next year"
+msgstr "Επόμενο έτος"
+
+msgid "Jump to date"
+msgstr "Μετάβαση στην ημερομηνία"
+
+msgid "Print calendar"
+msgstr "Εκτύπωση ημερολογίου"
+
+msgid "Date calculator"
+msgstr "Υπολογιστής ημερών"
+
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+msgid "Toggle day note panel"
+msgstr "Εναλλάξιμο πλαίσιο σημειώσεων ημέρας"
+
+msgid "Add task"
+msgstr "Προσθήκη εργασίας"
+
+msgid "Select day color"
+msgstr "Επιλογή χρώματος ημέρας"
+
+msgid "Browse notes"
+msgstr "Πλοήγηση στις σημειώσεις"
+
+msgid "Browse iCal events"
+msgstr "ΠΛοήγηση στα συμβάντα iCal"
+
+msgid "Export to iCal file"
+msgstr "Εξαγωγή σε αρχείο iCal"
+
+msgid "Previous and next month"
+msgstr "Προηγούμενος και επόμενος μήνας"
+
+msgid "Close note panel"
+msgstr "Κλείσιμο πλαισίου σημειώσεων"
+
+msgid "Highlight"
+msgstr "Έντονα"
+
+msgid "Strikethrough"
+msgstr "Strikethrough"
+
+msgid "Underline"
+msgstr "Υπογράμμιση"
+
+msgid "Italic"
+msgstr "Λοξά"
+
+msgid "Bold"
+msgstr "Έντονα"
+
+msgid "Insert timeline"
+msgstr "Εισαγωγή ημερομηνίας/ώρας"
+
+msgid "Clear text"
+msgstr "Καθαρισμός κειμένου"
+
+msgid "Info"
+msgstr "Πληροφορίες"
+
+msgid "Select color"
+msgstr "Επιλογή χρώματος"
+
+msgid "None"
+msgstr "Κανένα"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "έτος"
+msgstr[1] "έτη"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "μήνας"
+msgstr[1] "μήνες"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "ημέρα"
+msgstr[1] "ημέρες"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "ώρα"
+msgstr[1] "ώρες"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "λεπτό"
+msgstr[1] "λεπτά"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "δευτερόλεπτο"
+msgstr[1] "δευτερόλεπτα"
+
+msgid "or"
+msgstr "ή"
+
+msgid "rounded down"
+msgstr "στρογγύλευση σε"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "εβδομάδα"
+msgstr[1] "εβδομάδες"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "time is ignored"
+msgstr ""
+
+#, fuzzy
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Σαββατοκύριακα"
+msgstr[1] "Σαββατοκύριακα"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Αυτός ο υπολογιστής υπολογίζει ημερομηνίες μετά το έτος 1"
+
+#, fuzzy
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Χρώμα Σαββατοκύριακα"
+msgstr[1] "Χρώμα Σαββατοκύριακα"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "Month"
+msgstr "Μήνας"
+
+msgid "Day"
+msgstr "Ημέρα"
+
+msgid "Current date"
+msgstr "Ημερομηνία"
+
+msgid "Set current date"
+msgstr "Τρέχουσα ημερομηνία"
+
+msgid "Hour"
+msgstr "Ώρα"
+
+msgid "Minute"
+msgstr "Λεπτά"
+
+msgid "Second"
+msgstr "Δευτερόλεπτα"
+
+msgid "Set current time"
+msgstr "Ρύθμιση ώρας"
+
+msgid "Reset time"
+msgstr "Επανακαθορισμός ώρας"
+
+msgid "First date and time"
+msgstr "Αρχική ημερομηνία/ώρα"
+
+msgid "Second date and time"
+msgstr "Τελική ημερομηνία/ώρα"
+
+msgid "Alternative time units"
+msgstr "Εναλλακτικές μονάδες ώρες"
+
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+msgid "Duration between two dates"
+msgstr "Διάρκεια μεταξύ των δύο ημερομηνιών"
+
+msgid "Operation"
+msgstr "Λειτουργία"
+
+msgid "add"
+msgstr "πρόσθεση"
+
+msgid "subtract"
+msgstr "αφαίρεση"
+
+msgid "Date and time to add or subtract from"
+msgstr "Ημερομηνία και ώρα για πρόσθεση ή αφαίρεση"
+
+msgid "Years"
+msgstr "Έτη"
+
+msgid "Months"
+msgstr "Μήνες"
+
+msgid "Days"
+msgstr "Ημέρες"
+
+msgid "Weeks"
+msgstr "Εβδομάδες"
+
+msgid "Hours"
+msgstr "'Ωρες"
+
+msgid "Minutes"
+msgstr "Λεπτά"
+
+msgid "Seconds"
+msgstr "Δευτερόλεπτα"
+
+#, fuzzy
+msgid "Ignore weekend days"
+msgstr "Σαββατοκύριακα"
+
+msgid "Reset fields"
+msgstr "Καθαρισμός πεδίων"
+
+msgid "Time to add or subtract"
+msgstr "Ώρα για πρόσθεση ή αφαίρεση"
+
+msgid "Jump to"
+msgstr "Μετάβαση σε"
+
+msgid "Add to or subtract from a date"
+msgstr "Πρόσθεση με/Αφαίρεση από ημερομηνία"
+
+msgid "Leap year"
+msgstr "Leap year"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No"
+msgstr "Οχι"
+
+msgid "Chinese year animal"
+msgstr "Κινέζικο ωροσκόπιο"
+
+msgid "Number of days"
+msgstr "Αριθμός ημερών"
+
+msgid "Number of weeks"
+msgstr "Αριθμός εβδομάδων"
+
+msgid "Number of weekend days"
+msgstr "Αριθμός Σαββατοκύριακα"
+
+msgid "Year info"
+msgstr "Πληροφορίες έτους"
+
+msgid "Current year"
+msgstr "Τρέχον έτος"
+
+msgid "Alternative view"
+msgstr "Εναλλακτική εμφάνιση"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "Συμβάν"
+msgstr[1] "Συμβάντα"
+
+#, fuzzy
+msgid "No valid calendars defined"
+msgstr "Δεν έχουν ορισθεί ημερολόγια"
+
+msgid "iCalendar events"
+msgstr "Συμβάντα iCalendar"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#, fuzzy
+msgid "Time"
+msgstr "Timeline"
+
+msgid "Summary"
+msgstr "Περίληψη"
+
+msgid "Select output file"
+msgstr "Επιλογή αρχείου"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Η λίστα θα διαγραφεί."
+
+msgid "Done!"
+msgstr "Ολοκληρώθηκε!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "Γεγονός εξήχθη"
+msgstr[1] "Γεγονότα εξήχθησαν"
+
+msgid "iCalendar export"
+msgstr "Εξαγωγή iCalendar"
+
+msgid "Day Selector"
+msgstr "Επιλογέας ημέρας"
+
+msgid "Use date period"
+msgstr "Περίοδος ημερομηνίας"
+
+msgid "Add"
+msgstr "Προσθήκη"
+
+msgid "Clear"
+msgstr "Καθαρισμός"
+
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+msgid "Output filename"
+msgstr "Όνομα Αρχείου"
+
+msgid "Browse"
+msgstr "Πλοήγηση"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Export"
+msgstr "Εξαγωγή"
+
+msgid "no entries"
+msgstr "δεν υπάρχουν καταχωρήσεις"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "καταχώρηση"
+msgstr[1] "καταχωρήσεις"
+
+msgid "Calendar notes"
+msgstr "Σημειώσεις ημερολογίου"
+
+msgid "Search"
+msgstr "Αναζήτηση"
+
+msgid "Filter"
+msgstr "Φίλτρο"
+
+msgid "Current month"
+msgstr "Τρέχων μήνας"
+
+msgid "Selected month"
+msgstr "Επιλεγμένος μήνας"
+
+msgid "Selected year"
+msgstr "Επιλεγμένο έτος"
+
+msgid "Selected month and year"
+msgstr "Επιλογή: μήνας και έτος"
+
+msgid "All notes"
+msgstr "Όλες οι σημειώσεις"
+
+msgid "Case sensitive"
+msgstr "Κεφαλαία/πεζά"
+
+msgid "Strikethrough past day notes"
+msgstr "Strikethrough past day notes"
+
+msgid "Note"
+msgstr "Σημείωση"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Όνομα σημείωσης"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "ΜΜ-ΗΗ-ΕΕΕΕ"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Μορφή ημερομηνίας"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Μορφή αρχείου"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Μορφή ημερομηνίας"
+
+msgid "Day note marker"
+msgstr "Επιλογέας σημειώσειων"
+
+msgid "Event marker"
+msgstr "Επιλογέας συμβάντων"
+
+msgid "Circle"
+msgstr "Κύκλος"
+
+msgid "Ellipse"
+msgstr "Έλλειψη"
+
+msgid "Wave"
+msgstr "Κύμα"
+
+msgid "Current day marker"
+msgstr "Δείκτης σημερινής ημερομηνίας"
+
+msgid "Arrow"
+msgstr "Βέλος"
+
+msgid "Free-hand circle"
+msgstr "Κύκλος "
+
+msgid "Colors"
+msgstr "Χρώματα"
+
+msgid "Header color"
+msgstr "Χρώμα κεφαλίδας"
+
+msgid "Weekend days color"
+msgstr "Χρώμα Σαββατοκύριακα"
+
+msgid "Cursor color"
+msgstr "Χρώμα δείκτη"
+
+msgid "Event marker color"
+msgstr "Χρώμα επιλογέα συμβάντων"
+
+msgid "Current day marker color"
+msgstr "Χρώμα επιλογέα τρέχουσας ημέρας"
+
+#, fuzzy
+msgid "Birthday marker color"
+msgstr "Χρώμα επιλογέα τρέχουσας ημέρας"
+
+msgid "Date font"
+msgstr "Γραμματοσειρά ημέρας"
+
+msgid "Calendar font"
+msgstr "Γραμματοσειρά ημερολογίου"
+
+msgid "Note font"
+msgstr "Γραμματοσειρά σημειώσεων"
+
+msgid "Enable block cursor"
+msgstr "Ενεργοποίηση δείκτη block"
+
+msgid "Cursor thickness"
+msgstr "Πάχος δείκτη"
+
+msgid "Thin"
+msgstr "Λεπτός"
+
+msgid "Thick"
+msgstr "Παχύς"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Κατηγορία ημέρας"
+
+msgid "Color"
+msgstr "Χρώμα"
+
+msgid "Name"
+msgstr "Όνομα"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Επιλογή αρχείου ICS"
+
+msgid "All Files"
+msgstr "Όλα τα αρχεία"
+
+msgid "Calendar files (*.ics)"
+msgstr "Αρχεία ημερολογίου (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Τροποποίηση παραμέτρων ICAL"
+
+msgid "Filename"
+msgstr "Όνομα Αρχείου"
+
+msgid "Options"
+msgstr "Επιλογές"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Έγκυρο"
+
+msgid "Description"
+msgstr "Περιγραφή"
+
+#, fuzzy
+msgid "Full date"
+msgstr "Ημερομηνία εφαρμογής"
+
+msgid "Mark"
+msgstr ""
+
+msgid "Week start on Monday"
+msgstr "Πρώτη ημέρα της εβδομάδας Δευτέρα"
+
+msgid "Show day names"
+msgstr "Εμφάνιση ονομάτων ημέρας"
+
+msgid "No month change"
+msgstr "Όχι αλλαγή μηνός"
+
+msgid "Show week numbers"
+msgstr "Εμφάνιση αριθμού εβδομάδας"
+
+msgid "Simple view in full-year calendar"
+msgstr "Εμφάνιση πλήρους ημερολογίου"
+
+msgid "Enable auxilary calendars"
+msgstr "Ενεργοποίηση εξωτερικών ημερολογίων"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Αύξουσα ταξινόμιση στον πλοηγητή σημειώσεων"
+
+msgid "Enable spell checker in day notes"
+msgstr ""
+
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+msgid "Day categories"
+msgstr "Κατηγορίες ημερών"
+
+msgid "iCalendar files"
+msgstr "Αρχεία iCalendar"
+
+msgid "Show in day info panel"
+msgstr "Εμφάνιση ημέρας στο πλάισιο πληροφοριών"
+
+#, fuzzy
+msgid "Name day"
+msgstr "Ονομαστική εορτή"
+
+msgid "Error printing"
+msgstr "Εκτύπωση λαθών"
+
+msgid "Printing properties"
+msgstr ""
+
+#, fuzzy
+msgid "Month name"
+msgstr "Όνομα σημείωσης"
+
+#, fuzzy
+msgid "Day name"
+msgstr "Αρθμός ημέρας"
+
+msgid "Events"
+msgstr "Συμβάντα"
+
+#, fuzzy
+msgid "Fonts"
+msgstr "Μήνες"
+
+#, fuzzy
+msgid "Birthdays"
+msgstr "Γενέθλια"
+
+#, fuzzy
+msgid "Namedays"
+msgstr "Όνομα"
+
+#, fuzzy
+msgid "Visible events"
+msgstr "Εμφανείς στήλες"
+
+#, fuzzy
+msgid "Padding"
+msgstr "πρόσθεση"
+
+msgid "Event maximum length"
+msgstr ""
+
+msgid "Page orientation:"
+msgstr ""
+
+#, fuzzy
+msgid "Portrait"
+msgstr "Προτεραιότητα"
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Timeline"
+msgstr "Timeline"
+
+msgid "From (hour)"
+msgstr "Από (ώρα)"
+
+msgid "Step (minutes)"
+msgstr "Βήμα (λεπτά)"
+
+msgid "To (hour)"
+msgstr "Έως (ώρα)"
+
+msgid "No date"
+msgstr "Χωρίς Ημερομηνία"
+
+msgid "Rat"
+msgstr "Ποντίκι"
+
+msgid "Ox"
+msgstr "Βουβάλι"
+
+msgid "Tiger"
+msgstr "Τίγρης"
+
+msgid "Hare"
+msgstr "Λαγός"
+
+msgid "Dragon"
+msgstr "Δράκος"
+
+msgid "Snake"
+msgstr "Φίδι"
+
+msgid "Horse"
+msgstr "Άλογο"
+
+msgid "Sheep"
+msgstr "Πρόβατο"
+
+msgid "Monkey"
+msgstr "Πίθηκος"
+
+msgid "Fowl"
+msgstr "Κόκορας"
+
+msgid "Dog"
+msgstr "Σκύλος"
+
+msgid "Pig"
+msgstr "Γουρούνι"
+
+msgid "Unknown"
+msgstr "Άγνωστο"
+
+msgid "Aquarius"
+msgstr "Υδροχόος"
+
+msgid "Pisces"
+msgstr "Ιχθείς"
+
+msgid "Aries"
+msgstr "Κριός"
+
+msgid "Taurus"
+msgstr "Ταύρος"
+
+msgid "Gemini"
+msgstr "Δίδυμοι"
+
+msgid "Cancer"
+msgstr "Καρκίνος"
+
+msgid "Leo"
+msgstr "Λέων"
+
+msgid "Virgo"
+msgstr "Παρθένος"
+
+msgid "Libra"
+msgstr "Ζυγός"
+
+msgid "Scorpio"
+msgstr "Σκορπιός"
+
+msgid "Sagittarius"
+msgstr "Τοξότης"
+
+msgid "Capricorn"
+msgstr "Αιγόκερως"
+
+msgid "Cannot perform selected operation."
+msgstr "Αδυναμία εκτέλεσης λειτουργίας."
+
+msgid "Task has been modified or removed."
+msgstr "Η εργασία έχει τροποποιηθεί ή διαγραφεί."
+
+msgid "Remind me later"
+msgstr "Υπενθύμιση αργότερα"
+
+msgid "Done"
+msgstr "Ολοκληρώθηκε"
+
+msgid "postponed"
+msgstr "Αναβλήθηκε"
+
+msgid "Show task"
+msgstr "Εμφάνιση εργασίας"
+
+msgid "Alarm warning!"
+msgstr "Υπενθύμιση!"
+
+msgid "Day note"
+msgstr "Σημείωση ημέρας"
+
+msgid "Type"
+msgstr "Τύπος"
+
+msgid "Event"
+msgstr "Συμβάν"
+
+msgid "Task"
+msgstr "Εργασία"
+
+msgid "Show Osmo"
+msgstr "Εμφάνιση Osmo"
+
+msgid "No birthdays defined"
+msgstr "Δεν έχουν εισαχθεί γενέθλια"
+
+msgid "Birthdays list"
+msgstr "Κατάλογος γενεθλίων"
+
+msgid "Days to birthday"
+msgstr "Ημέρες μέχρι γενέθλια"
+
+msgid "Age"
+msgstr "Ηλικία"
+
+msgid "Birthday date"
+msgstr "Ημέρα γενεθλίων"
+
+msgid "today"
+msgstr "σήμερα"
+
+#, fuzzy
+msgid "Please select address"
+msgstr "Παρακαλώ επιλογή αρχείου"
+
+msgid "Information"
+msgstr "Πκηροφορίες"
+
+msgid "Work"
+msgstr "Εργασίας"
+
+msgid "Home"
+msgstr "Σπιτιού"
+
+msgid "Group"
+msgstr "Ομάδα"
+
+msgid "First name"
+msgstr "Όνομα"
+
+msgid "Last name"
+msgstr "Επώνυμο"
+
+msgid "Second name"
+msgstr "Πατρώνυμο"
+
+msgid "Nickname"
+msgstr "Χαϊδευτικό"
+
+#, fuzzy
+msgid "Tags"
+msgstr "Εργασία"
+
+msgid "Name day date"
+msgstr "Ονομαστική εορτή"
+
+msgid "Home address"
+msgstr "Διεύθυνση διαμονής"
+
+msgid "Home postcode"
+msgstr "Ταχ. κώδικας διαμονής"
+
+msgid "Home city"
+msgstr "Πόλη διαμονής"
+
+msgid "Home state"
+msgstr "Νομός διαμονής"
+
+msgid "Home country"
+msgstr "Χώρα διαμονής"
+
+msgid "Organization"
+msgstr "Οργανισμός"
+
+msgid "Department"
+msgstr "Τμήμα"
+
+msgid "Work address"
+msgstr "Διεύθυνση εργασίας"
+
+msgid "Work postcode"
+msgstr "Ταχ. Κώδικας εργασίας"
+
+msgid "Work city"
+msgstr "Πόλη εργασίας"
+
+msgid "Work state"
+msgstr "Νομός εργασίας"
+
+msgid "Work country"
+msgstr "Χώρα εργασίας"
+
+msgid "Fax"
+msgstr "ΦΑΞ"
+
+msgid "Home phone"
+msgstr "Τηλέφωνο διαμονής"
+
+msgid "Home phone 2"
+msgstr "Τηλέφωνο διαμονής 2"
+
+msgid "Home phone 3"
+msgstr "Τηλέφωνο διαμονής 3"
+
+msgid "Home phone 4"
+msgstr "Τηλέφωνο διαμονής 4"
+
+msgid "Work phone"
+msgstr "Τηλέφωνο εργασίας"
+
+msgid "Work phone 2"
+msgstr "Τηλέφωνο εργασίας 2"
+
+msgid "Work phone 3"
+msgstr "Τηλέφωνο εργασίας 3"
+
+msgid "Work phone 4"
+msgstr "Τηλέφωνο εργασίας 4"
+
+msgid "Cell phone"
+msgstr "Κινητό τηλέφωνο"
+
+msgid "Cell phone 2"
+msgstr "Κινητό τηλέφωνο 2"
+
+msgid "Cell phone 3"
+msgstr "Κινητό τηλέφωνο 3"
+
+msgid "Cell phone 4"
+msgstr "Κινητό τηλέφωνο 4"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "E-Mail 2"
+msgstr "E-mail 2"
+
+msgid "E-Mail 3"
+msgstr "E-mail 3"
+
+msgid "E-Mail 4"
+msgstr "E-mail 4"
+
+msgid "WWW"
+msgstr "WWW"
+
+msgid "WWW 2"
+msgstr "WWW 2"
+
+msgid "WWW 3"
+msgstr "WWW 3"
+
+msgid "WWW 4"
+msgstr "WWW 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Φωτογραφία"
+
+msgid "Additional info"
+msgstr "Περισσότερες πληροφορίες"
+
+msgid "New contact"
+msgstr "Νέα επαφή"
+
+msgid "Remove contact"
+msgstr "Διαγραφή επαφής"
+
+msgid "Edit contact"
+msgstr "Διόρθωση επαφής"
+
+msgid "Show birthdays"
+msgstr "Εμφάνιση γενεθλίων"
+
+msgid "Show contact location on the map"
+msgstr ""
+
+msgid "Import contacts"
+msgstr "Εισαγωγή επαφών"
+
+msgid "Export contacts"
+msgstr "Εξαγωγή επαφών"
+
+msgid "First Name"
+msgstr "Όνομα"
+
+msgid "Last Name"
+msgstr "Επίθετο "
+
+msgid "All fields"
+msgstr "Όλα τα πεδία"
+
+msgid "Contact details"
+msgstr "Λεπτομέρεις επαφής"
+
+msgid "Close contact panel"
+msgstr "Κλείσιμο πλαισίου επαφών"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "Επαφή εξήχθη"
+msgstr[1] "Επαφές εξήχθησαν"
+
+msgid "Cannot create file."
+msgstr "Αδυναμία δημιουργίας αρχείου."
+
+msgid "Output format"
+msgstr "Μορφή αρχείου"
+
+msgid "Add header"
+msgstr "Προσθήκη κεφαλίδας"
+
+msgid "Fields to export"
+msgstr "Πεδία για εξαγωγή"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Invert"
+msgstr "Αντιστροφή"
+
+msgid "Select fields"
+msgstr "Επιλογή πεδίων"
+
+msgid "Select CSV file"
+msgstr "Επιλογή αρχείου CSV"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (τιμές διαχωρισμένες με κόμμα) (*.csv)"
+
+msgid "Please select file first."
+msgstr "Παρακαλώ επιλογή αρχείου"
+
+msgid "Import type"
+msgstr "Εϊδος εισαγωγής"
+
+msgid "File"
+msgstr "Αρχείο"
+
+msgid "Input filename"
+msgstr "Όνομα αρχείου εισόδου"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "Channel"
+msgstr "Κανάλι"
+
+msgid "Interface"
+msgstr "Διεπαφή"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Χρήση XML (WBXML)"
+
+msgid "Import"
+msgstr "Εισαγωγή"
+
+msgid "Nothing to import."
+msgstr "Καμμία εισαγωγή."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "επαφή προστέθηκε"
+msgstr[1] "επαφές προστέθηκαν"
+
+msgid "of"
+msgstr "από "
+
+msgid "Record"
+msgstr "Εγγραφή"
+
+msgid "Number fields per record"
+msgstr "Αριθμός πεδίων εγγραφής"
+
+msgid "Use first record as header"
+msgstr "Χρήση πρώτης καταχώρησης ως κεφαλίδα"
+
+msgid "Field type"
+msgstr "Τύπος πεδίου"
+
+msgid "Value"
+msgstr "Τιμή"
+
+msgid "No records found in selected file."
+msgstr "Δεν υπάρχουν εγγραφές στο επιλεγμένο αρχείο"
+
+msgid "Cannot read file."
+msgstr "Αδυναμία ανάγνωσης αρχείου."
+
+msgid "Cannot open file."
+msgstr "Αδυναμία πρόσβασης στο αρχείο."
+
+msgid "Selected contact will be removed."
+msgstr "Η επιλεγμένη επαφή θα διαγραφεί."
+
+msgid "Select photo"
+msgstr "Επιλεγμένη φωτογραφία"
+
+msgid "Postcode"
+msgstr "Ταχ. Κώδικας"
+
+msgid "City"
+msgstr "Πόλη"
+
+msgid "State"
+msgstr "Νομός"
+
+msgid "Country"
+msgstr "Χώρα"
+
+msgid "Add contact"
+msgstr "Contact toevoegen"
+
+msgid "Personal"
+msgstr "Προσωπικά"
+
+msgid "Phones"
+msgstr "Τηλέφωνα"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Χρώμα των ετικετών επαφών"
+
+msgid "Color of links"
+msgstr "Χρώμα συνδέσμων"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Μέγεθος φωτογραφίας"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Γραμματοσειρά ονόματος"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Γραμματοσειρά αντικειμένου"
+
+msgid "Photo size"
+msgstr "Μέγεθος φωτογραφίας"
+
+msgid "Small"
+msgstr "Μικρό "
+
+msgid "Medium"
+msgstr "Μεσαίο"
+
+msgid "Large"
+msgstr "Μεγάλο"
+
+msgid "Select and show first item after search"
+msgstr "Επιλογή και εμφάνιση πρώτου αντικειμένου μετά την αναζήτηση"
+
+msgid "Hide group column"
+msgstr "Απόκρυψη στήλης ομάδων"
+
+msgid "Order"
+msgstr "Σειρά"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+msgid "Groups"
+msgstr "Ομάδες"
+
+msgid "Sorting"
+msgstr "Ταξινόμιση"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Εμφανείς στήλες στον περιηγητή γενεθλίων"
+
+msgid "Show calendar"
+msgstr "Εμφάνιση ημερολογίου"
+
+msgid "Show tasks"
+msgstr "Εμφάνιση εργασιών"
+
+msgid "Show contacts"
+msgstr "Εμφάνιση επαφών"
+
+msgid "Show notes"
+msgstr "Εμφάνιση σημειώσεων"
+
+msgid "Show options"
+msgstr "Εμφάνιση επιλογών"
+
+msgid "Quit"
+msgstr "Έξοδος"
+
+msgid "Show small calendar window"
+msgstr "Εμφάνιση μικρού ημερολογίου"
+
+msgid "Check for events since last run"
+msgstr "Έλεγχος για συμβάντα από την τελευταία χρήση"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Αριθμός ημερών στο μέλλον για συμβάντα (προκαθορισμένο:0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Επιλογή διαδρομής για ρυθμίσεις και αρχεία"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Τροποποίηση για χρήση σε χαμηλή ανάλυση"
+
+#, fuzzy
+msgid "handy personal organizer"
+msgstr "Ένα βολικό Organizer"
+
+msgid "ERROR: Cannot create config files"
+msgstr "Λαθος: Αδυναμία δημιουργίας αρχείων ρυθμίσεων"
+
+msgid "Another copy of OSMO is already running."
+msgstr "To OSMO ήδη εκτελείται."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Η ταυτόχρονη χρήση δύο ή περισσοτέρων OSMO, μπορεί να οδηγήσει σε απώλεια "
+"δεδομένων."
+
+msgid "Do you really want to continue?"
+msgstr "Συνέχεια;"
+
+msgid "Warning"
+msgstr "Προσοχή"
+
+msgid "The note has changed."
+msgstr "Η σημείωση έχει τροποποιηθεί"
+
+msgid "Do you want to save it?"
+msgstr "Αποθήκευση;"
+
+msgid "Words"
+msgstr "Λέξεις"
+
+msgid "Lines"
+msgstr "Γραμμές"
+
+msgid "Characters"
+msgstr "Χαρακτήρες"
+
+msgid "White characters"
+msgstr "Κενά"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Επιλογέας"
+
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+msgid "Modified"
+msgstr "Τροποποιημένο"
+
+msgid "New note"
+msgstr "Νέα σημείωση"
+
+msgid "Add note"
+msgstr "Προσθήση σημείωσης"
+
+msgid "Edit note"
+msgstr "Διόρθωση σημείωσης"
+
+msgid "Delete note"
+msgstr "Διαγαφή σημείωσης"
+
+msgid "Remove note"
+msgstr "Αφαίρεση σημείωσης"
+
+msgid "Find"
+msgstr "Αναζήτηση"
+
+msgid "Clear attributes"
+msgstr "Καθαρισμός ιδιοτήτων"
+
+msgid "Save note"
+msgstr "Αποθήκευση σημείωσης"
+
+msgid "Insert current date and time"
+msgstr "Τρέχουσα Ημερομηνία/Ωρα"
+
+msgid "Insert separator"
+msgstr "Εισαγωγή διαχωριστικού"
+
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+msgid "Close editor"
+msgstr "Κλείσιμο κειμενογράφου"
+
+msgid "Toggle spell checker"
+msgstr ""
+
+msgid "Category"
+msgstr "Κατηγορία"
+
+msgid "Note name"
+msgstr "Όνομα σημείωσης"
+
+msgid "Last changes"
+msgstr "Τελευταίες αλλαγές"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Γραμμές"
+
+#, fuzzy
+msgid "Column"
+msgstr "Χώρα"
+
+msgid "case sensitive"
+msgstr "case sensitive"
+
+msgid "Close find entry"
+msgstr "Κλείσιμο στην εύρεση"
+
+msgid "Edit entry"
+msgstr "Διόρθωση καταχώρησης"
+
+#, fuzzy
+msgid "Remember cursor position"
+msgstr "Επιλογές υπενθύμισης"
+
+msgid "Selected note will be removed."
+msgstr "Η επιλεγμένη σημείωση θα διαγραφεί"
+
+msgid "No further data recovery will be possible."
+msgstr "Αδυναμία ανάκτησης περισσότερων δεδομένων"
+
+#, fuzzy
+msgid "Plain"
+msgstr "πρόσθεση"
+
+#, fuzzy
+msgid "Encrypted"
+msgstr "Κρυπτογραφημένες σημειώσεις"
+
+#, fuzzy
+msgid "Note type"
+msgstr "Εϊδος εισαγωγής"
+
+#, fuzzy
+msgid "Cannot open the note."
+msgstr "Αδυναμία πρόσβασης στο αρχείο."
+
+msgid "encryption support is disabled"
+msgstr ""
+
+msgid "Authorization"
+msgstr "Authorization"
+
+msgid "Algorithm"
+msgstr "Αλγόριθμος"
+
+#, fuzzy
+msgid "Hashing"
+msgstr "Hashing"
+
+msgid "Compression"
+msgstr "Συμπίεση"
+
+msgid "Ratio"
+msgstr "Σχέση"
+
+msgid "Fast"
+msgstr "Γρήγορη"
+
+msgid "Good"
+msgstr "Καλή"
+
+msgid "Best"
+msgstr "Καλύτερη"
+
+msgid "Remember the last selected category"
+msgstr "Επανάληψη επιλογής προηγούμενης κατηγορίας"
+
+msgid "Use system format for date and time"
+msgstr "Χρήση της μορφής Ημερομηνίας/Ώρας συστήματος"
+
+msgid "Encryption"
+msgstr "Κρυπτογράφηση"
+
+msgid "Visible columns"
+msgstr "Εμφανείς στήλες"
+
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+msgid "Notes options"
+msgstr "Επιλογές σημειώσειων"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Θέσεις στηλοθέτη"
+
+msgid "Left"
+msgstr "Αριστερά"
+
+msgid "Right"
+msgstr "Δεξιά"
+
+msgid "Top"
+msgstr "Πάνω "
+
+msgid "Bottom"
+msgstr "Κάτω"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Χρήση προεπιλεγμένων εικονιδίων (χρειάζεται επιανακκίνηση)"
+
+msgid "Disable underline in links"
+msgstr "Απενεργοποίηση υπογραμμισης στους συνδέσμους"
+
+msgid "Draw rows in alternating colors"
+msgstr "Εμφάνιση γραμμών με διαφορετικό χρώμα"
+
+msgid "At least one module must be visible."
+msgstr "Τουλάχιστον μια επιλογή πρέπει να είναι εμφανής."
+
+msgid "Override locale settings"
+msgstr ""
+
+msgid "Date format"
+msgstr "Μορφή ημερομηνίας"
+
+msgid "DD-MM-YYYY"
+msgstr "ΗΗ-ΜΜ-ΕΕΕΕ"
+
+msgid "MM-DD-YYYY"
+msgstr "ΜΜ-ΗΗ-ΕΕΕΕ"
+
+msgid "YYYY-MM-DD"
+msgstr "ΕΕΕΕ-ΜΜ-ΗΗ"
+
+msgid "YYYY-DD-MM"
+msgstr "ΕΕΕΕ-ΗΗ-ΜΜ"
+
+msgid "Time format"
+msgstr "Μορφή ώρας"
+
+msgid "hours"
+msgstr "ώρες"
+
+msgid "Spell checker language"
+msgstr ""
+
+msgid "Enable tooltips"
+msgstr "Ενεργοποίηση συμβουλών (αναδυόμενο)"
+
+msgid "Remember last selected page"
+msgstr "Υπενθύμιση τελευταίας επιλεγμένης σελίδας"
+
+msgid "Save data after every modification"
+msgstr "Αποθήκευση δεδομένων μετά από κάθε αλλαγή"
+
+msgid "Web browser"
+msgstr "Πλοηγητής διαδικτύου"
+
+msgid "E-mail client"
+msgstr "E-mail πρόγραμμα"
+
+#, fuzzy
+msgid "Sound player"
+msgstr "Πατρώνυμο"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Το %s σχήμα θα αντικατασταθεί με το www ή το E-mail "
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Το %s σχήμα θα αντικατασταθεί με το www ή το E-mail "
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Το %s σχήμα θα αντικατασταθεί με το www ή το E-mail "
+
+#, fuzzy
+msgid "Create"
+msgstr "Δημιουργήθηκε"
+
+#, fuzzy
+msgid "Restore"
+msgstr "Αποτέλεσμα"
+
+msgid "Enable system tray"
+msgstr "Enable system tray"
+
+msgid "Start minimised"
+msgstr "Εκκίνηση σε ελαχιστοποιημένο παράθυρο"
+
+msgid "Blink on events"
+msgstr ""
+
+#, fuzzy
+msgid "Ignore day note events"
+msgstr "κλείσιμο πλαισίου σημειώσεων"
+
+msgid "Hide"
+msgstr "Αποκρυψη"
+
+msgid "Helpers"
+msgstr "Βοηθήματα"
+
+msgid "Backup"
+msgstr ""
+
+msgid "System tray"
+msgstr "System tray"
+
+msgid "Edit"
+msgstr "Διόρθωση"
+
+msgid "Go Down"
+msgstr ""
+
+msgid "Select date"
+msgstr "Επιλογή ημερομηνίας"
+
+msgid "Select font"
+msgstr "Επιλογή γραματοσειράς"
+
+msgid "Calculator"
+msgstr "Υποογιστής"
+
+msgid "Edit day note"
+msgstr "Διόρθωση σημείωσης"
+
+msgid "Contact map location"
+msgstr ""
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Display full-year calendar"
+msgstr "Εμφάνιση πλήρους ημερολογίου"
+
+msgid "Help"
+msgstr "Βοήθεια"
+
+msgid "Invalid item"
+msgstr "Άκυρο αντικείμενο"
+
+msgid "Valid item"
+msgstr "Έγκυρο αντικείμενο"
+
+msgid "Edit task"
+msgstr "Διόρθωση εργασίας"
+
+msgid "Remove task"
+msgstr "Αφαίρεση εργασίας"
+
+#, fuzzy
+msgid "Import tasks"
+msgstr "Εισαγωγή επαφών"
+
+#, fuzzy
+msgid "Export tasks"
+msgstr "Εξαγωγή επαφών"
+
+#, fuzzy
+msgid "Change to previous date"
+msgstr "Αλλαγή ημερομηνίας ενέργειας στην προηγούμενη ημέρα"
+
+#, fuzzy
+msgid "Change to next date"
+msgstr "Αλλαγή ημερομηνίας ενέργειας στην επόμενη ημέρα"
+
+msgid "Print"
+msgstr "Εκτύπωση"
+
+#, fuzzy
+msgid "Normal"
+msgstr "Απλή εργασία"
+
+#, fuzzy
+msgid "Recurrent"
+msgstr "Επαναλαμβανόμενη εργασία"
+
+msgid "Started"
+msgstr "Άρχισε"
+
+msgid "Finished"
+msgstr "Τελείωσε"
+
+msgid "All items"
+msgstr "Όλα τα αντικείμενα"
+
+msgid "New task"
+msgstr "Νέα εργασία"
+
+#, fuzzy
+msgid "Change due date to previous date"
+msgstr "Αλλαγή ημερομηνίας ενέργειας στην προηγούμενη ημέρα"
+
+#, fuzzy
+msgid "Change due date to next date"
+msgstr "Αλλαγή ημερομηνίας ενέργειας στην επόμενη ημέρα"
+
+msgid "Print visible tasks list"
+msgstr "Εκτύπωση καταλόγου εμφανών εργασιών"
+
+msgid "Due date"
+msgstr "Ημερομηνία εφαρμογής"
+
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+msgid "Task details"
+msgstr "Λεπτομέρειες εργασίας"
+
+msgid "Close description panel"
+msgstr "Κλείσιμο πλαισίου περιγραφής"
+
+msgid "No tasks with defined date found."
+msgstr ""
+
+#, fuzzy
+msgid "Save tasks"
+msgstr "Ημερήσιες εργασίες"
+
+#, fuzzy
+msgid "tasks exported"
+msgstr "Επαφή εξήχθη"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Please select at least one day when recurrency is enabled."
+
+msgid "Set time"
+msgstr "Ρύθμιση ώρας"
+
+msgid "Tomorrow"
+msgstr "Αύριο"
+
+msgid "Selected task will be removed."
+msgstr "Η επιλεγμένη εργασία θα αφαιρεθεί."
+
+msgid "Basic"
+msgstr ""
+
+#, fuzzy
+msgid "Select date and time"
+msgstr "Τελική ημερομηνία/ώρα"
+
+msgid "Low"
+msgstr "Χαμηλή"
+
+msgid "High"
+msgstr "Υψηλή"
+
+msgid "Enable sound notification"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Alarm warning"
+msgstr "Alarm warning"
+
+msgid "Postpone time"
+msgstr "Αναβολή για"
+
+msgid "Alarm command"
+msgstr "Alarm command"
+
+msgid "Recurrent task"
+msgstr "Επαναλαμβανόμενη εργασία"
+
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+msgid "Start"
+msgstr "Αρχή "
+
+msgid "End"
+msgstr "Τέλος"
+
+msgid "Interval"
+msgstr "Διάστημα μεταξύ"
+
+msgid "Time period"
+msgstr "Περίοδος ώρας"
+
+msgid "Date period"
+msgstr "Περίοδος ημερομηνίας"
+
+msgid "Repeat"
+msgstr "Επανάληψη"
+
+msgid "Repeat in the following days"
+msgstr "Επανάληψη στις επόμενες ημέρες"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Ανγόηση υπενθύμισης όταν η εργασία έληξε offline"
+
+msgid "Select a font..."
+msgstr "Επιλογή γραμματοσειράς"
+
+msgid "Color of items that are due today"
+msgstr "Χρώμα αντικειμένων που πρέπει να γίνουν σήμερα"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Χρώμα αντικειμένων που πρέπει να γίνουν στις επόμενες 7 ημέρες"
+
+msgid "Color of items that are past due"
+msgstr "Χρώμα αντικειμένων που έχει παρέλθει η ημερομηνία τους"
+
+msgid "Task info font"
+msgstr "Γραμματοσερά λεπτομερειών εργασιών"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Εμφάνιση εργασιών προτεραιότητας με έντονα"
+
+msgid "Hide completed tasks"
+msgstr "Απόκρυψη ολοκληρωμένων εργασιών"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Διαγραφή ολοκληρωμένων εργασιών χωρίς επιβεβαίωση"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Προσθήκη νέας εργασίας με διπλό κλικ στην λίστα εργασιών"
+
+msgid "minutes"
+msgstr "λεπτά"
+
+msgid "0 for disable"
+msgstr "0 για απενεργοποίηση"
+
+msgid "Repeat sound alarm"
+msgstr ""
+
+#, fuzzy
+msgid "times"
+msgstr "Ρύθμιση ώρας"
+
+msgid "Global notification command"
+msgstr "Γενική εντολή πληροφόρησης"
+
+msgid "Tasks options"
+msgstr "Επιλογές εργασιών"
+
+msgid "Reminder options"
+msgstr "Επιλογές υπενθύμισης"
+
+#, fuzzy
+msgid "Tasks list"
+msgstr "Επιλογές εργασιών"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "Αρ."
+
+msgid "New Moon"
+msgstr "Νέα Σελήνη"
+
+msgid "Waxing Crescent Moon"
+msgstr "Αύξων Μηνίσκος"
+
+msgid "Quarter Moon"
+msgstr "Αύξουσα Ημισέληνος"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Αύξων Αμφίκυρτος"
+
+msgid "Full Moon"
+msgstr "Πανσέληνος"
+
+msgid "Waning Gibbous Moon"
+msgstr "Φθίνων Αμφίκυρτος "
+
+msgid "Last Quarter Moon"
+msgstr "Φθίνουσα Ημισέλινος"
+
+msgid "Waning Crescent Moon"
+msgstr "Φθίνων Μηνίσκος"
+
+msgid "Question"
+msgstr "Ερώτηση"
+
+msgid "Error"
+msgstr "Λάθος"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Το επιλεγμένο αρχείο υπάρχει! Επανεγγραφή;"
+
+#~ msgid "Editor font"
+#~ msgstr "Γραματοσειρά κειμενογράφου"
+
+#~ msgid "Category filter"
+#~ msgstr "Φίλτρο κατηγοριών"
+
+#~ msgid "Modify color"
+#~ msgstr "Αλλαγή χρώματος"
+
+#, fuzzy
+#~ msgid "ICal"
+#~ msgstr "Λοξά"
+
+#~ msgid "change day while note editing"
+#~ msgstr "αλλαγή ημέρας κατά την διάρκεια εισαγωγής σημείωσης"
+
+#~ msgid "close day note panel"
+#~ msgstr "κλείσιμο πλαισίου σημειώσεων"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "σημείωση επιλογών με έντονα"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "σημείωση επιλογών με λοξά"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "σημείωση επιλογών με χρώμα φόντου"
+
+#~ msgid "underline selection"
+#~ msgstr "υπογράμμιση σημείωσης"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "strikethrough selection"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "ένα βολικό Organizer"
+
+#~ msgid "Use year"
+#~ msgstr "Χρηση έτους"
+
+#~ msgid "Birthday found"
+#~ msgstr "Ημερομηνία γενεθλίων βρέθηκε"
+
+#~ msgid "Task found"
+#~ msgstr "Εργασία βρέθηκε"
+
+#~ msgid "Day note available"
+#~ msgstr "Σημείωση μη διαθέσιμη"

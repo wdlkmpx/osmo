@@ -1,0 +1,70 @@
+(this file should give some hints to enable and use SyncML stuff)
+
+REQUIREMENTS
+============
+* libsyncml
+    * http://libsyncml.opensync.org/
+    * Debian packages: libsyncml-dev libsyncml0
+* SyncML enabled device (cell phone, PDA, ...)
+
+TESTING WITHOUT OSMO
+====================
+* use syncml-obex-client (from the libsyncml-utils Debian package)
+    * http://libsyncml.opensync.org/wiki/obex-guide
+
+COMPILE-TIME ACTIVATION
+=======================
+Use the "--with-libsyncml" switch for ./configure to enable SyncML support.
+This may be the default in the future if the stuff is fairly stable.
+
+BLUETOOTH HINTS
+===============
+
+Getting the phone's Bluetooth device address
+--------------------------------------------
+* hcitool scan
+
+Getting the SyncML RFCOMM channel
+---------------------------------
+* sdptool browse | less
+
+USING USB
+=========
+To use USB devices with non-root user accounts you have to give permissions
+to them. This can be done with udev. Create a udev configuration file, e.g.
+"/etc/udev/rules.d/phone.rules" and add the following line (of course
+adopted to your phone's USB ids):
+
+SUBSYSTEM=="usb", SYSFS{idVendor}=="0fce", SYSFS{idProduct}=="d046",
+MODE="0660", GROUP="plugdev"
+
+Now everyone in the group "plugdev" may access the phone. Of course you can
+restrict it to one user, too.
+
+USB connection is done by a identifier (not to be confused with the USB
+vendor/product ID), which is normally "0" for the first OBEX enabled USB
+device.
+
+DEVELOPMENT TODO
+================
+* serial device support
+* calendar support (VCALENDAR)
+* (notes support)
+* split off SyncML stuff from contacts import
+* generic implementation of V(CARD|EVENT|...)
+* GUI cleanup
+* graphical status/error messages
+* (SyncML over HTTP)
+* (real sync: Osmo <-> Phone)
+* sync vs. slow-sync? (only slow-sync for now)
+
+TESTED PHONES
+=============
+                      Bt  USB Ser   WB  Contacts Notes Calender
+                              (NYI) XML          (NYI)  (NYI)
+------------------------------------------------------------------------------
+Sony Ericsson K610i    x   x    -    x     x       x      x
+
+CONTACT
+=======
+Markus Dahms <mad@automagically.de>

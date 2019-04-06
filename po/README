@@ -1,0 +1,6 @@
+Please perform following steps to update translation:
+
+1. Type 'make update-po'
+2. Edit your .po file, fill empty and adjust fuzzy strings to be correct
+3. Send updated .po file to osmo-pim-friends@lists.sourceforge.net
+

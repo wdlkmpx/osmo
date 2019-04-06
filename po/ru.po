@@ -1,0 +1,2297 @@
+# translation of osmo.po to Russian
+# This file is distributed under the same license as the OSMO package.
+# Vyacheslav A. Trishkin <dedovsk@mail.ru>, 2008.
+# Sergey Panasenko <nitay@users.sourceforge.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo 0.2.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2009-06-03 06:39+0300\n"
+"Last-Translator: Sergey Panasenko <nitay@users.sourceforge.net>\n"
+"Language-Team: Ukrainian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Ctrl+PageUp"
+msgstr ""
+
+msgid "switch to previous tab"
+msgstr "перейти на предыдущую вкладку"
+
+msgid "Ctrl+PageDn"
+msgstr ""
+
+msgid "switch to next tab"
+msgstr "перейти на следующую вкладку"
+
+msgid "switch to selected page"
+msgstr "перейти на выбранную страницу"
+
+#, fuzzy
+msgid "show options window"
+msgstr "Настройки"
+
+msgid "show about window"
+msgstr ""
+
+msgid "PageUp/PageDn"
+msgstr ""
+
+msgid "switch page in options and about tab"
+msgstr "перейти на страницу настроек и описания"
+
+msgid "exit"
+msgstr "выход"
+
+#, fuzzy
+msgid "Space"
+msgstr "Сохранить"
+
+msgid "select current date"
+msgstr "выбрать текущую дату"
+
+msgid "Ctrl+Space"
+msgstr ""
+
+msgid "toggle personal data visibility"
+msgstr "сделать личные данные видимыми"
+
+#, fuzzy
+msgid "Arrows"
+msgstr "Стрелка"
+
+msgid "change day"
+msgstr "изменить день"
+
+msgid "Ctrl+Up/Down"
+msgstr ""
+
+msgid "scroll the contents in the day info panel"
+msgstr "прокрутить содержимое в панели информации дня"
+
+msgid "change month"
+msgstr "изменить месяц"
+
+#, fuzzy
+msgid "Home/End"
+msgstr "Дом"
+
+msgid "change year"
+msgstr "изменить год"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "показать календари предыдущего и следующего месяца"
+
+msgid "day notes browser"
+msgstr "навигатор заметок дня"
+
+msgid "assign background color to day note"
+msgstr "назначить цвет фона для заметки на день"
+
+msgid "date calculator"
+msgstr "калькулятор даты"
+
+msgid "show full-year calendar"
+msgstr "показать календать всего года"
+
+msgid "jump to date"
+msgstr "перейти к дате"
+
+#, fuzzy
+msgid "Delete"
+msgstr "Стереть заметку"
+
+msgid "remove day note"
+msgstr "удалить заметки на день"
+
+#, fuzzy
+msgid "Alt+Arrows"
+msgstr "Стрелка"
+
+msgid "Esc"
+msgstr ""
+
+#, fuzzy
+msgid "close editor"
+msgstr "Закрыть редактор"
+
+msgid "toggle bold"
+msgstr ""
+
+#, fuzzy
+msgid "toggle italic"
+msgstr "показать скрытые задачи"
+
+#, fuzzy
+msgid "toggle underline"
+msgstr "Подчеркнутый"
+
+#, fuzzy
+msgid "toggle strikethrough"
+msgstr "Зачеркнутый"
+
+#, fuzzy
+msgid "toggle highlight"
+msgstr "Выделение цветом"
+
+msgid "Arrows Up/Down"
+msgstr ""
+
+#, fuzzy
+msgid "toggle alternative view"
+msgstr "Альтернативный вид"
+
+#, fuzzy
+msgid "year info"
+msgstr "Информация о годе"
+
+#, fuzzy
+msgid "set current year"
+msgstr "Текущий год"
+
+#, fuzzy
+msgid "close full-year calendar"
+msgstr "показать календать всего года"
+
+#, fuzzy
+msgid "Alt+a, Insert"
+msgstr "Вставка"
+
+msgid "add task"
+msgstr "добавить задачу"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr ""
+
+msgid "edit task"
+msgstr "редактирование задачи"
+
+msgid "Alt+r, Delete"
+msgstr ""
+
+msgid "remove task"
+msgstr "удалить задачу"
+
+msgid "toggle hidden tasks"
+msgstr "показать скрытые задачи"
+
+msgid "activate search field"
+msgstr "активизировать поле поиска"
+
+#, fuzzy
+msgid "Left, Right"
+msgstr "Справа"
+
+msgid "change category filter"
+msgstr "изменить фильтр категории"
+
+msgid "close task info panel"
+msgstr "закрыть панель информации о задаче"
+
+msgid "Insert"
+msgstr "Вставка"
+
+msgid "add contact"
+msgstr "добавить контакт"
+
+msgid "Ctrl+Enter"
+msgstr ""
+
+msgid "edit contact"
+msgstr "редактировать контакт"
+
+msgid "remove contact"
+msgstr "удалить контакт"
+
+msgid "change search mode"
+msgstr "изменить способ поиска"
+
+msgid "close contact details panel"
+msgstr "закрыть панель деталей контакта"
+
+#, fuzzy
+msgid "Enter"
+msgstr "Интернет"
+
+msgid "open note"
+msgstr "открыть заметку"
+
+msgid "add note"
+msgstr "добавить заметку"
+
+msgid "remove note"
+msgstr "удалить заметку"
+
+msgid "edit note name and category"
+msgstr "редактировать имя заметки и категорию"
+
+msgid "close note editor"
+msgstr "закрыть редактор заметки"
+
+msgid "save note"
+msgstr "сохранить заметку"
+
+msgid "find text"
+msgstr "найти текст"
+
+msgid "clear selection attributes"
+msgstr "убрать все атрибуты"
+
+#, fuzzy
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO был разработан, для удобства пользователей, поэтому имеет много "
+"комбинаций клавиш. Вот полный список:"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "Calendar"
+msgstr "Календарь"
+
+#, fuzzy
+msgid "Note editor"
+msgstr "Закрыть редактор"
+
+msgid "Full-year calendar"
+msgstr "Годичный календарь"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "Notes"
+msgstr "Заметки"
+
+msgid "Selector"
+msgstr "Выбор"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "A handy personal organizer"
+msgstr "Лёгкий персональный органайзер"
+
+msgid "compiled on"
+msgstr "собрано"
+
+msgid "Programming"
+msgstr "Программирование"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Contributors"
+msgstr "Вклад"
+
+msgid "Translators"
+msgstr "Переводчики"
+
+msgid "Mailing lists"
+msgstr ""
+
+msgid "Bug tracker"
+msgstr ""
+
+msgid "Feature requests"
+msgstr ""
+
+msgid "Available modules"
+msgstr "Доступные модули"
+
+msgid "Compiled-in features"
+msgstr "Новые возможности"
+
+msgid "iCalendar support"
+msgstr "Поддержка iCalendar"
+
+msgid "Encrypted notes support"
+msgstr "Шифрование заметок"
+
+msgid "HTML view required for Contacts module"
+msgstr ""
+
+msgid "SyncML enabled device support"
+msgstr "Поддержка устройств SyncML"
+
+msgid "Backup support"
+msgstr ""
+
+msgid "Printing support"
+msgstr "Поддержка печати"
+
+msgid "Spell checker support"
+msgstr "Поддержка словарей"
+
+msgid "version"
+msgstr "версия"
+
+msgid "SVN revision"
+msgstr "исправления SVN"
+
+msgid "Key shortcuts"
+msgstr "Комбинации клавиш"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Password protection"
+msgstr ""
+
+msgid "Enter password"
+msgstr "Введите пароль"
+
+msgid "Re-enter password"
+msgstr "Повторите пароль"
+
+#, fuzzy
+msgid "Please enter the password"
+msgstr "Повторите пароль"
+
+msgid "Passwords do not match!"
+msgstr "Пароли не совпадают!"
+
+#, fuzzy
+msgid "Cannot create backup!"
+msgstr "Невозможно создать файл."
+
+msgid "Backup file saved successfully!"
+msgstr ""
+
+msgid "Open backup file"
+msgstr ""
+
+msgid "Osmo backup files (*.bck)"
+msgstr ""
+
+msgid "This is not Osmo backup file"
+msgstr ""
+
+msgid "Incorrect password!"
+msgstr "Неверный пароль!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr ""
+
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+msgid "Osmo has to be restarted now..."
+msgstr ""
+
+msgid "was born"
+msgstr "родился"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "год"
+msgstr[1] "года"
+msgstr[2] "лет"
+
+msgid "Current time"
+msgstr "Текущее время"
+
+msgid "Day number"
+msgstr "Номер дня"
+
+msgid "Today distance"
+msgstr "Дистанция до сегодня"
+
+msgid "Week number"
+msgstr "Номер недели"
+
+msgid "Marked days"
+msgstr "Дни с примечаниями"
+
+msgid "Weekend days"
+msgstr "Выходные"
+
+msgid "Day category"
+msgstr "Категории дня"
+
+msgid "Moon phase"
+msgstr "Фаза Луны"
+
+msgid "Zodiac sign"
+msgstr "Знак Зодиака"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "день до конца года"
+msgstr[1] "дня до конца года"
+msgstr[2] "дней до конца года"
+
+msgid "the last day of the year"
+msgstr "последний день года"
+
+msgid "Day notes"
+msgstr "Заметки на день"
+
+msgid "Day tasks"
+msgstr "Задачи на день"
+
+msgid "Birthday"
+msgstr "День рождения"
+
+msgid "Selected day note will be removed."
+msgstr "Выбранная заметка будет удалена."
+
+msgid "Continue?"
+msgstr "Продолжить?"
+
+msgid "Previous year"
+msgstr "Предыдущий год"
+
+msgid "Previous month"
+msgstr "Предыдущий месяц"
+
+msgid "Previous day"
+msgstr "Предыдущий день"
+
+msgid "Today"
+msgstr "Сегодня"
+
+msgid "Next day"
+msgstr "Следующий день"
+
+msgid "Next month"
+msgstr "Следующий месяц"
+
+msgid "Next year"
+msgstr "Следующий год"
+
+msgid "Jump to date"
+msgstr "Перейти к дате"
+
+msgid "Print calendar"
+msgstr "Напечатать календарь"
+
+msgid "Date calculator"
+msgstr "Калькулятор даты"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Toggle day note panel"
+msgstr "Панель заметок на день"
+
+msgid "Add task"
+msgstr "Добавление задачи"
+
+msgid "Select day color"
+msgstr "Выбрать цвет дня"
+
+msgid "Browse notes"
+msgstr "Показать заметки"
+
+msgid "Browse iCal events"
+msgstr "Показать события iCal"
+
+msgid "Export to iCal file"
+msgstr "Экспорт в файл iCal"
+
+msgid "Previous and next month"
+msgstr "Предыдущий и следующий месяц"
+
+msgid "Close note panel"
+msgstr "Закрыть панель заметок"
+
+msgid "Highlight"
+msgstr "Выделение цветом"
+
+msgid "Strikethrough"
+msgstr "Зачеркнутый"
+
+msgid "Underline"
+msgstr "Подчеркнутый"
+
+msgid "Italic"
+msgstr "Курсив"
+
+msgid "Bold"
+msgstr "Жирный"
+
+msgid "Insert timeline"
+msgstr "Вставить график"
+
+msgid "Clear text"
+msgstr "Очистить текст"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Select color"
+msgstr "Выбрать цвет"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "год"
+msgstr[1] "года"
+msgstr[2] "лет"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "месяц"
+msgstr[1] "месяца"
+msgstr[2] "месяцев"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "день"
+msgstr[1] "дня"
+msgstr[2] "дней"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "час"
+msgstr[1] "часа"
+msgstr[2] "часов"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "минута"
+msgstr[1] "минуты"
+msgstr[2] "минут"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "секунда"
+msgstr[1] "секунды"
+msgstr[2] "секунд"
+
+msgid "or"
+msgstr "или"
+
+msgid "rounded down"
+msgstr "округлено в меньшую сторону"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "неделя"
+msgstr[1] "недели"
+msgstr[2] "недель"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+msgid "time is ignored"
+msgstr ""
+
+#, fuzzy
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "Выходные"
+msgstr[1] "Выходные"
+msgstr[2] "Выходные"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Этот калькулятор поддерживает только даты позже 1 года."
+
+#, fuzzy
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "Цвет выходных дней"
+msgstr[1] "Цвет выходных дней"
+msgstr[2] "Цвет выходных дней"
+
+msgid "Year"
+msgstr "Год"
+
+msgid "Month"
+msgstr "Месяц"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Current date"
+msgstr "Текущая дата"
+
+msgid "Set current date"
+msgstr "Установить текущую дату"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "Minute"
+msgstr "Минута"
+
+msgid "Second"
+msgstr "Секунда"
+
+msgid "Set current time"
+msgstr "Установить текущее время"
+
+msgid "Reset time"
+msgstr "Сбросить время"
+
+msgid "First date and time"
+msgstr "Первая дата и время"
+
+msgid "Second date and time"
+msgstr "Вторая дата и время"
+
+msgid "Alternative time units"
+msgstr "В других единицах времени"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Duration between two dates"
+msgstr "Срок между двумя датами"
+
+msgid "Operation"
+msgstr "Действие"
+
+msgid "add"
+msgstr "добавить"
+
+msgid "subtract"
+msgstr "вычесть"
+
+msgid "Date and time to add or subtract from"
+msgstr "Исходная дата и время"
+
+msgid "Years"
+msgstr "Годы"
+
+msgid "Months"
+msgstr "Месяцы"
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Weeks"
+msgstr "Недели"
+
+msgid "Hours"
+msgstr "Часы"
+
+msgid "Minutes"
+msgstr "Минуты"
+
+msgid "Seconds"
+msgstr "Секунды"
+
+#, fuzzy
+msgid "Ignore weekend days"
+msgstr "Выходные"
+
+msgid "Reset fields"
+msgstr "Очистить поля"
+
+msgid "Time to add or subtract"
+msgstr "Время для добавления или вычитания"
+
+msgid "Jump to"
+msgstr "Перейти к"
+
+msgid "Add to or subtract from a date"
+msgstr "Добавление/вычитание даты и времени"
+
+msgid "Leap year"
+msgstr "Високосный год"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Chinese year animal"
+msgstr "По китайскому календарю"
+
+msgid "Number of days"
+msgstr "Количество дней"
+
+msgid "Number of weeks"
+msgstr "Количество недель"
+
+msgid "Number of weekend days"
+msgstr "Количество выходных дней"
+
+msgid "Year info"
+msgstr "Информация о годе"
+
+msgid "Current year"
+msgstr "Текущий год"
+
+msgid "Alternative view"
+msgstr "Альтернативный вид"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "событие"
+msgstr[1] "события"
+msgstr[2] "событий"
+
+#, fuzzy
+msgid "No valid calendars defined"
+msgstr "Нет календарей"
+
+msgid "iCalendar events"
+msgstr "iCalendar события"
+
+msgid "Date"
+msgstr "Дата"
+
+#, fuzzy
+msgid "Time"
+msgstr "График"
+
+msgid "Summary"
+msgstr "Кратко"
+
+msgid "Select output file"
+msgstr "Создать файл"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Список будет очищен и все записи будут утрачены."
+
+msgid "Done!"
+msgstr "Готово!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "событие экспортировано"
+msgstr[1] "события экспортировано"
+msgstr[2] "событий экспортировано"
+
+msgid "iCalendar export"
+msgstr "Экспорт в iCalendar"
+
+msgid "Day Selector"
+msgstr "Указатель дня"
+
+msgid "Use date period"
+msgstr "Использовать период дат"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Output filename"
+msgstr "Имя файла для вывода"
+
+msgid "Browse"
+msgstr "Обзор"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "no entries"
+msgstr "нет записей"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "запись"
+msgstr[1] "записи"
+msgstr[2] "записей"
+
+msgid "Calendar notes"
+msgstr "Заметки календаря"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Current month"
+msgstr "Текущий месяц"
+
+msgid "Selected month"
+msgstr "Выбранный месяц"
+
+msgid "Selected year"
+msgstr "Выбранный год"
+
+msgid "Selected month and year"
+msgstr "Выбранный месяц и год"
+
+msgid "All notes"
+msgstr "Все заметки"
+
+msgid "Case sensitive"
+msgstr "С учетом регистра"
+
+msgid "Strikethrough past day notes"
+msgstr "Зачеркивать заметки прошедших дней"
+
+msgid "Note"
+msgstr "Заметка"
+
+msgid "Syntax"
+msgstr ""
+
+msgid "abbreviated weekday name"
+msgstr ""
+
+msgid "full weekday name"
+msgstr ""
+
+msgid "abbreviated month name"
+msgstr ""
+
+#, fuzzy
+msgid "full month name"
+msgstr "Название месяца"
+
+msgid "day of the month"
+msgstr ""
+
+#, fuzzy
+msgid "MM/DD/YY"
+msgstr "ММ-ДД-ГГГГ"
+
+msgid "day of the month without leading zeros"
+msgstr ""
+
+msgid "year without century"
+msgstr ""
+
+msgid "year with century"
+msgstr ""
+
+#, fuzzy
+msgid "Date header format"
+msgstr "Формат даты"
+
+#, fuzzy
+msgid "Set default format"
+msgstr "Вывести в формате"
+
+#, fuzzy
+msgid "Date format syntax"
+msgstr "Формат даты"
+
+msgid "Day note marker"
+msgstr "Указатель заметок на день"
+
+msgid "Event marker"
+msgstr "Указатель события"
+
+msgid "Circle"
+msgstr "Круг"
+
+msgid "Ellipse"
+msgstr "Эллипс"
+
+msgid "Wave"
+msgstr "Волна"
+
+msgid "Current day marker"
+msgstr "Указатень на текущий день"
+
+msgid "Arrow"
+msgstr "Стрелка"
+
+msgid "Free-hand circle"
+msgstr "Круг (от руки)"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Header color"
+msgstr "Цвет заголовка"
+
+msgid "Weekend days color"
+msgstr "Цвет выходных дней"
+
+msgid "Cursor color"
+msgstr "Цвет курсора"
+
+msgid "Event marker color"
+msgstr "Цвет дней с событиями"
+
+msgid "Current day marker color"
+msgstr "Цвет указателя текущего дня"
+
+#, fuzzy
+msgid "Birthday marker color"
+msgstr "Цвет указателя текущего дня"
+
+msgid "Date font"
+msgstr "Шрифт даты"
+
+msgid "Calendar font"
+msgstr "Шрифт календаря"
+
+msgid "Note font"
+msgstr "Шрифт заметок"
+
+msgid "Enable block cursor"
+msgstr "Курсор в виде прямоугольника"
+
+msgid "Cursor thickness"
+msgstr "Толщина курсора"
+
+msgid "Thin"
+msgstr "Тонкий"
+
+msgid "Thick"
+msgstr "Толстый"
+
+#, fuzzy
+msgid "Edit category"
+msgstr "Категории дня"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Select ICS file"
+msgstr "Выбрать ICS файл"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "Calendar files (*.ics)"
+msgstr "Файлы календаря (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Изменить ICAL параметры"
+
+msgid "Filename"
+msgstr "Имя файла"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Valid"
+msgstr "Задействован"
+
+msgid "Description"
+msgstr "Описание"
+
+#, fuzzy
+msgid "Full date"
+msgstr "Срок"
+
+msgid "Mark"
+msgstr ""
+
+msgid "Week start on Monday"
+msgstr "Неделя начинается с понедельника"
+
+msgid "Show day names"
+msgstr "Показывать названия дней недели"
+
+msgid "No month change"
+msgstr "Нет изменений месяца"
+
+msgid "Show week numbers"
+msgstr "Показывать номера недель"
+
+msgid "Simple view in full-year calendar"
+msgstr "Простой вид годичного календаря"
+
+msgid "Enable auxilary calendars"
+msgstr "Отображать календари других месяцев"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Сортировать по уменьшению в навигаторе заметок на день"
+
+msgid "Enable spell checker in day notes"
+msgstr "Включить проверку орфографии в заметках"
+
+msgid "Appearance"
+msgstr "Внешний вид"
+
+msgid "Day categories"
+msgstr "Категории дня"
+
+msgid "iCalendar files"
+msgstr "Файлы iCalendar"
+
+msgid "Show in day info panel"
+msgstr "В инфо панели дня показывать"
+
+msgid "Name day"
+msgstr "Именины"
+
+msgid "Error printing"
+msgstr "Ошибка печати"
+
+msgid "Printing properties"
+msgstr "Настройка печати"
+
+msgid "Month name"
+msgstr "Название месяца"
+
+msgid "Day name"
+msgstr "Название дня"
+
+msgid "Events"
+msgstr "События"
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid "Birthdays"
+msgstr "День рождения"
+
+msgid "Namedays"
+msgstr "Именины"
+
+msgid "Visible events"
+msgstr "Видимые события"
+
+msgid "Padding"
+msgstr "Заполнить"
+
+msgid "Event maximum length"
+msgstr "Максимальная длинна события"
+
+msgid "Page orientation:"
+msgstr "Ориентация страницы"
+
+msgid "Portrait"
+msgstr "Портрет"
+
+msgid "Landscape"
+msgstr "Ланшафт"
+
+msgid "Timeline"
+msgstr "График"
+
+msgid "From (hour)"
+msgstr "С (часа)"
+
+msgid "Step (minutes)"
+msgstr "Шаг (минут)"
+
+msgid "To (hour)"
+msgstr "До (часа)"
+
+msgid "No date"
+msgstr "Нет даты"
+
+msgid "Rat"
+msgstr "Крыса"
+
+msgid "Ox"
+msgstr "Бык"
+
+msgid "Tiger"
+msgstr "Тигр"
+
+msgid "Hare"
+msgstr "Заяц"
+
+msgid "Dragon"
+msgstr "Дракон"
+
+msgid "Snake"
+msgstr "Змея"
+
+msgid "Horse"
+msgstr "Лошадь"
+
+msgid "Sheep"
+msgstr "Овца"
+
+msgid "Monkey"
+msgstr "Обезьяна"
+
+msgid "Fowl"
+msgstr "Петух"
+
+msgid "Dog"
+msgstr "Собака"
+
+msgid "Pig"
+msgstr "Свинья"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Aquarius"
+msgstr "Водолей"
+
+msgid "Pisces"
+msgstr "Рыбы"
+
+msgid "Aries"
+msgstr "Овен"
+
+msgid "Taurus"
+msgstr "Телец"
+
+msgid "Gemini"
+msgstr "Близнецы"
+
+msgid "Cancer"
+msgstr "Рак"
+
+msgid "Leo"
+msgstr "Лев"
+
+msgid "Virgo"
+msgstr "Дева"
+
+msgid "Libra"
+msgstr "Весы"
+
+msgid "Scorpio"
+msgstr "Скорпион"
+
+msgid "Sagittarius"
+msgstr "Стрелец"
+
+msgid "Capricorn"
+msgstr "Козерог"
+
+msgid "Cannot perform selected operation."
+msgstr "Не удается выполнить выбранную операцию."
+
+msgid "Task has been modified or removed."
+msgstr "Задача была изменена или удалена."
+
+msgid "Remind me later"
+msgstr "Напомнить позже"
+
+msgid "Done"
+msgstr "Завершенность"
+
+msgid "postponed"
+msgstr "отложено"
+
+msgid "Show task"
+msgstr "Показать задачи"
+
+msgid "Alarm warning!"
+msgstr "Напоминание!"
+
+msgid "Day note"
+msgstr "Заметки на день"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Event"
+msgstr "Событие"
+
+msgid "Task"
+msgstr "Задача"
+
+msgid "Show Osmo"
+msgstr "Показать Osmo"
+
+msgid "No birthdays defined"
+msgstr "Ни одного дня рождения"
+
+msgid "Birthdays list"
+msgstr "Список дней рождения"
+
+msgid "Days to birthday"
+msgstr "Дней до дня рождения"
+
+msgid "Age"
+msgstr "Возраст"
+
+msgid "Birthday date"
+msgstr "День рождения"
+
+msgid "today"
+msgstr "сегодня"
+
+msgid "Please select address"
+msgstr "Пожалуйста, выберите адрес"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Work"
+msgstr "Работа"
+
+msgid "Home"
+msgstr "Дом"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "First name"
+msgstr "Имя"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "Second name"
+msgstr "Отчество"
+
+msgid "Nickname"
+msgstr "Прозвище"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Name day date"
+msgstr "Именины"
+
+msgid "Home address"
+msgstr "Домашний адрес"
+
+msgid "Home postcode"
+msgstr "Дом. Индекс"
+
+msgid "Home city"
+msgstr "Дом. Город"
+
+msgid "Home state"
+msgstr "Дом. Регион"
+
+msgid "Home country"
+msgstr "Дом. Страна"
+
+msgid "Organization"
+msgstr "Организация"
+
+msgid "Department"
+msgstr "Подразделение"
+
+msgid "Work address"
+msgstr "Рабочий адрес"
+
+msgid "Work postcode"
+msgstr "Раб. Индекс"
+
+msgid "Work city"
+msgstr "Раб. Город"
+
+msgid "Work state"
+msgstr "Раб. Регион"
+
+msgid "Work country"
+msgstr "Раб. Страна"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Home phone"
+msgstr "Домашний телефон"
+
+msgid "Home phone 2"
+msgstr "Домашний телефон 2"
+
+msgid "Home phone 3"
+msgstr "Домашний телефон 3"
+
+msgid "Home phone 4"
+msgstr "Домашний телефон 4"
+
+msgid "Work phone"
+msgstr "Рабочий телефон"
+
+msgid "Work phone 2"
+msgstr "Рабочий телефон 2"
+
+msgid "Work phone 3"
+msgstr "Рабочий телефон 3"
+
+msgid "Work phone 4"
+msgstr "Рабочий телефон 4"
+
+msgid "Cell phone"
+msgstr "Сотовый телефон"
+
+msgid "Cell phone 2"
+msgstr "Сотовый телефон 2"
+
+msgid "Cell phone 3"
+msgstr "Сотовый телефон 3"
+
+msgid "Cell phone 4"
+msgstr "Сотовый телефон 4"
+
+msgid "E-Mail"
+msgstr "Электронная почта"
+
+msgid "E-Mail 2"
+msgstr "Электронная почта 2"
+
+msgid "E-Mail 3"
+msgstr "Электронная почта 3"
+
+msgid "E-Mail 4"
+msgstr "Электронная почта 4"
+
+msgid "WWW"
+msgstr "Веб-страница"
+
+msgid "WWW 2"
+msgstr "Веб-страница 2"
+
+msgid "WWW 3"
+msgstr "Веб-страница 3"
+
+msgid "WWW 4"
+msgstr "Веб-страница 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Photo"
+msgstr "Фотография"
+
+msgid "Additional info"
+msgstr "Дополнительная информация"
+
+msgid "New contact"
+msgstr "Новый контакт"
+
+msgid "Remove contact"
+msgstr "Удалить контакт"
+
+msgid "Edit contact"
+msgstr "Редактирование контакта"
+
+msgid "Show birthdays"
+msgstr "Показать дни рождения"
+
+msgid "Show contact location on the map"
+msgstr "Показать расположение контакта на карте"
+
+msgid "Import contacts"
+msgstr "Импорт контактов"
+
+msgid "Export contacts"
+msgstr "Экспорт контактов"
+
+msgid "First Name"
+msgstr "Имя"
+
+msgid "Last Name"
+msgstr "Фамилия"
+
+msgid "All fields"
+msgstr "Все поля"
+
+msgid "Contact details"
+msgstr "Подробности контакта"
+
+msgid "Close contact panel"
+msgstr "Закрыть панель контактов"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "контакт экспортировано"
+msgstr[1] "контакта экспортировано"
+msgstr[2] "контактов экспортировано"
+
+msgid "Cannot create file."
+msgstr "Невозможно создать файл."
+
+msgid "Output format"
+msgstr "Вывести в формате"
+
+msgid "Add header"
+msgstr "Добавить заголовок"
+
+msgid "Fields to export"
+msgstr "Экспортируемые поля"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Invert"
+msgstr "Обратить"
+
+msgid "Select fields"
+msgstr "Выбранные поля"
+
+msgid "Select CSV file"
+msgstr "Выбрать CSV файл"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CSV (значения через запятую) файлы (*.csv)"
+
+msgid "Please select file first."
+msgstr "Пожалуйста, выберите сначала файл."
+
+msgid "Import type"
+msgstr "Тип импорта"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Input filename"
+msgstr "Введите имя файла"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Channel"
+msgstr "Канал"
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Использовать двоичный XML (WBXML)"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Nothing to import."
+msgstr "Нечего импортировать."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "контакт добавлен"
+msgstr[1] "контакта добавлено"
+msgstr[2] "контактів добавлено"
+
+msgid "of"
+msgstr "из"
+
+msgid "Record"
+msgstr "Запись"
+
+msgid "Number fields per record"
+msgstr "Число полей в записи"
+
+msgid "Use first record as header"
+msgstr "Использовать первую запись как заголовок"
+
+msgid "Field type"
+msgstr "Тип поля"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "No records found in selected file."
+msgstr "Нет записей в выбранном файле."
+
+msgid "Cannot read file."
+msgstr "Невозможно прочесть файл."
+
+msgid "Cannot open file."
+msgstr "Невозможно открыть файл."
+
+msgid "Selected contact will be removed."
+msgstr "Выбранный контакт будет удален."
+
+msgid "Select photo"
+msgstr "Выбрать фотографию"
+
+msgid "Postcode"
+msgstr "Индекс"
+
+msgid "City"
+msgstr "Город"
+
+msgid "State"
+msgstr "Регион"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Add contact"
+msgstr "Добавить контакт"
+
+msgid "Personal"
+msgstr "Личные"
+
+msgid "Phones"
+msgstr "Телефоны"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Color of contact tags"
+msgstr "Цвет тегов контакта"
+
+msgid "Color of links"
+msgstr "Цвет ссылки"
+
+#, fuzzy
+msgid "Font size"
+msgstr "Размер фотографии"
+
+#, fuzzy
+msgid "Name font size"
+msgstr "Гарнитура"
+
+#, fuzzy
+msgid "Item font size"
+msgstr "Размер шрифта"
+
+msgid "Photo size"
+msgstr "Размер фотографии"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "Select and show first item after search"
+msgstr "Выбрать и показать первый пункт после поиска"
+
+msgid "Hide group column"
+msgstr "Скрыть столбец группы"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Ascending"
+msgstr "Возрастание"
+
+msgid "Descending"
+msgstr "Убывание"
+
+msgid "Miscellaneous"
+msgstr "Разное"
+
+msgid "Groups"
+msgstr "Группы"
+
+msgid "Sorting"
+msgstr "Сортировка"
+
+#, fuzzy
+msgid "Visible columns in birthday browser"
+msgstr "Показать столбики в навигаторе дней рождения"
+
+msgid "Show calendar"
+msgstr "Календарь"
+
+msgid "Show tasks"
+msgstr "Задачи"
+
+msgid "Show contacts"
+msgstr "Контакты"
+
+msgid "Show notes"
+msgstr "Заметки"
+
+msgid "Show options"
+msgstr "Настройки"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "Show small calendar window"
+msgstr "показывать маленькое окно календаря"
+
+msgid "Check for events since last run"
+msgstr "Проверка событий, которые произошли с момента последнего запуска."
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Проверять события на такое число дней вперед (по умолчанию 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Установить абсолютный путь до файлов настроек и данных"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Изменить вид GUI для использования Osmo на маленьком экране"
+
+#, fuzzy
+msgid "handy personal organizer"
+msgstr "Лёгкий персональный органайзер"
+
+msgid "ERROR: Cannot create config files"
+msgstr "ОШИБКА: Невозможно создать файл конфигурации."
+
+msgid "Another copy of OSMO is already running."
+msgstr "Другая копия OSMO уже запущена."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Одновременно используются две или больше копии OSMO, это может привести к "
+"потере данных."
+
+msgid "Do you really want to continue?"
+msgstr "Вы действительно хотите продолжить?"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "The note has changed."
+msgstr "Заметка изменилась."
+
+msgid "Do you want to save it?"
+msgstr "Вы хотите сохранить?"
+
+msgid "Words"
+msgstr "Слова"
+
+msgid "Lines"
+msgstr "Строки"
+
+msgid "Characters"
+msgstr "Символы"
+
+msgid "White characters"
+msgstr "Пробелы"
+
+msgid "Bytes"
+msgstr "Байты"
+
+msgid "Document"
+msgstr ""
+
+#, fuzzy
+msgid "Selection"
+msgstr "Выбор"
+
+msgid "Created"
+msgstr "Создано"
+
+msgid "Modified"
+msgstr "Изменено"
+
+msgid "New note"
+msgstr "Новая заметка"
+
+msgid "Add note"
+msgstr "Добавление заметки"
+
+msgid "Edit note"
+msgstr "Редактирование заметки"
+
+msgid "Delete note"
+msgstr "Стереть заметку"
+
+msgid "Remove note"
+msgstr "Удалить заметку"
+
+msgid "Find"
+msgstr "Найти"
+
+msgid "Clear attributes"
+msgstr "Убрать атрибуты"
+
+msgid "Save note"
+msgstr "Сохранить заметку"
+
+msgid "Insert current date and time"
+msgstr "Вставить текущие дату и время"
+
+msgid "Insert separator"
+msgstr "Вставить разделитель"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Close editor"
+msgstr "Закрыть редактор"
+
+msgid "Toggle spell checker"
+msgstr "Проверить орфографию"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Note name"
+msgstr "Имя заметки"
+
+msgid "Last changes"
+msgstr "Последние изменения"
+
+msgid "Read-only"
+msgstr ""
+
+#, fuzzy
+msgid "Line"
+msgstr "Строки"
+
+#, fuzzy
+msgid "Column"
+msgstr "Страна"
+
+msgid "case sensitive"
+msgstr "с учетом регистра"
+
+msgid "Close find entry"
+msgstr "Закрыть поиск записи"
+
+msgid "Edit entry"
+msgstr "Редактирование записи"
+
+msgid "Remember cursor position"
+msgstr "Запомнить позицию курсора"
+
+msgid "Selected note will be removed."
+msgstr "Выбранная заметка будет удалена."
+
+msgid "No further data recovery will be possible."
+msgstr "Восстановить данные будет невозможно."
+
+msgid "Plain"
+msgstr "Без шифрования"
+
+msgid "Encrypted"
+msgstr "Зашифровано"
+
+msgid "Note type"
+msgstr "Тип заметки"
+
+msgid "Cannot open the note."
+msgstr "Невозможно открыть заметку."
+
+msgid "encryption support is disabled"
+msgstr "поддержка шифрования отключена"
+
+msgid "Authorization"
+msgstr "Авторизация"
+
+msgid "Algorithm"
+msgstr "Алгоритм"
+
+msgid "Hashing"
+msgstr "Хэширование"
+
+msgid "Compression"
+msgstr "Сжатие"
+
+msgid "Ratio"
+msgstr "Степень сжатия"
+
+msgid "Fast"
+msgstr "Быстрая"
+
+msgid "Good"
+msgstr "Хорошая"
+
+msgid "Best"
+msgstr "Лучшая"
+
+msgid "Remember the last selected category"
+msgstr "Помнить последнюю выбранную категорию"
+
+msgid "Use system format for date and time"
+msgstr "Использовать системный формат времени и даты"
+
+msgid "Encryption"
+msgstr "Шифрование"
+
+msgid "Visible columns"
+msgstr "Видимые столбцы"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Notes options"
+msgstr "Настройки заметок"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Tabs position"
+msgstr "Положение вкладок"
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "Top"
+msgstr "Вверху"
+
+msgid "Bottom"
+msgstr "Внизу"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Использовать иконки по-умолчанию (необходим перезапуск)"
+
+msgid "Disable underline in links"
+msgstr "Отключить подчеркивание в ссылках"
+
+msgid "Draw rows in alternating colors"
+msgstr "Рисовать строки"
+
+msgid "At least one module must be visible."
+msgstr "По крайней мере один модуль должен быть видимым."
+
+msgid "Override locale settings"
+msgstr ""
+
+msgid "Date format"
+msgstr "Формат даты"
+
+msgid "DD-MM-YYYY"
+msgstr "ДД-ММ-ГГГГ"
+
+msgid "MM-DD-YYYY"
+msgstr "ММ-ДД-ГГГГ"
+
+msgid "YYYY-MM-DD"
+msgstr "ГГГГ-ММ-ДД"
+
+msgid "YYYY-DD-MM"
+msgstr "ГГГГ-ДД-ММ"
+
+msgid "Time format"
+msgstr "Формат времени"
+
+msgid "hours"
+msgstr "часовой"
+
+msgid "Spell checker language"
+msgstr "Язык словаря"
+
+msgid "Enable tooltips"
+msgstr "Включить подсказки"
+
+msgid "Remember last selected page"
+msgstr "Помнить последнюю открытую страницу"
+
+msgid "Save data after every modification"
+msgstr "Сохранять данные после каждого изменения"
+
+msgid "Web browser"
+msgstr "Веб-браузер"
+
+msgid "E-mail client"
+msgstr "Почтовый клиент"
+
+#, fuzzy
+msgid "Sound player"
+msgstr "Отчество"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Образец %s - будет заменен на гиперссылку или адрес электронной почты"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Образец %s - будет заменен на гиперссылку или адрес электронной почты"
+
+#, fuzzy, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Образец %s - будет заменен на гиперссылку или адрес электронной почты"
+
+#, fuzzy
+msgid "Create"
+msgstr "Создано"
+
+#, fuzzy
+msgid "Restore"
+msgstr "Результат"
+
+msgid "Enable system tray"
+msgstr "Поместить иконку в системный трей"
+
+msgid "Start minimised"
+msgstr "Запускать свернутым"
+
+msgid "Blink on events"
+msgstr "Мигать при событии"
+
+msgid "Ignore day note events"
+msgstr "Игнорировать события заметок дня"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "Helpers"
+msgstr "Помощники"
+
+msgid "Backup"
+msgstr ""
+
+msgid "System tray"
+msgstr "Системный трей"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Go Down"
+msgstr "Идти вниз"
+
+msgid "Select date"
+msgstr "Выбрать дату"
+
+msgid "Select font"
+msgstr "Выбрать шрифт"
+
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgid "Edit day note"
+msgstr "Редактирование заметок на день"
+
+msgid "Contact map location"
+msgstr "Положение контакта на карте"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Display full-year calendar"
+msgstr "Показать календарь всего года"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Invalid item"
+msgstr "Неправильный пункт"
+
+msgid "Valid item"
+msgstr "Правильный пункт"
+
+msgid "Edit task"
+msgstr "Редактирование задачи"
+
+msgid "Remove task"
+msgstr "Удалить задачу"
+
+#, fuzzy
+msgid "Import tasks"
+msgstr "Импорт контактов"
+
+#, fuzzy
+msgid "Export tasks"
+msgstr "Экспорт контактов"
+
+#, fuzzy
+msgid "Change to previous date"
+msgstr "Установить срок на предыдущий день"
+
+#, fuzzy
+msgid "Change to next date"
+msgstr "Установить срок на следующий день"
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "Normal"
+msgstr "Обычный"
+
+msgid "Recurrent"
+msgstr "Приодический"
+
+msgid "Started"
+msgstr "Началось"
+
+msgid "Finished"
+msgstr "Закончилось"
+
+msgid "All items"
+msgstr "Все"
+
+msgid "New task"
+msgstr "Новая задача"
+
+#, fuzzy
+msgid "Change due date to previous date"
+msgstr "Установить срок на предыдущий день"
+
+#, fuzzy
+msgid "Change due date to next date"
+msgstr "Установить срок на следующий день"
+
+msgid "Print visible tasks list"
+msgstr "Напечатать видимый список задач"
+
+msgid "Due date"
+msgstr "Срок"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgid "Task details"
+msgstr "Детали задачи"
+
+msgid "Close description panel"
+msgstr "Закрыть панель описания"
+
+msgid "No tasks with defined date found."
+msgstr ""
+
+#, fuzzy
+msgid "Save tasks"
+msgstr "Задачи на день"
+
+#, fuzzy
+msgid "tasks exported"
+msgstr "контакт экспортировано"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Пожалуйста, выберите хотя бы один день, когда периодичность включена."
+
+msgid "Set time"
+msgstr "Установить время"
+
+msgid "Tomorrow"
+msgstr "Завтра"
+
+msgid "Selected task will be removed."
+msgstr "Выбранная задача будет удалена."
+
+msgid "Basic"
+msgstr "Основное"
+
+msgid "Select date and time"
+msgstr "Выберите  дату и время"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "Enable sound notification"
+msgstr ""
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "Alarm warning"
+msgstr "Напомнить"
+
+msgid "Postpone time"
+msgstr "Время отсрочки"
+
+msgid "Alarm command"
+msgstr "Команда для напоминания"
+
+msgid "Recurrent task"
+msgstr "Повторяющаяся задача"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Start"
+msgstr "Начало"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "Interval"
+msgstr "Интервал"
+
+msgid "Time period"
+msgstr "Период времени"
+
+msgid "Date period"
+msgstr "Период даты"
+
+msgid "Repeat"
+msgstr "Повтор"
+
+msgid "Repeat in the following days"
+msgstr "Повторять в течении следующих дней"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Игнорировать напоминания задач, которые просрочены"
+
+msgid "Select a font..."
+msgstr "Выбрать шрифт..."
+
+msgid "Color of items that are due today"
+msgstr "Цвет пунктов, срок которых наступает сегодня"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Цвет пунктов, срок которых наступает в следующие 7 дней"
+
+msgid "Color of items that are past due"
+msgstr "Цвет пунктов, которые просрочены"
+
+msgid "Task info font"
+msgstr "Шрифт задачи"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Жирный шрифт для задач с высшим приоритетом"
+
+msgid "Hide completed tasks"
+msgstr "Скрывать завершенные задачи"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Удалять завершенные задачи без подтверждения"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Добавлять новую задачу при двойном клике на список задач"
+
+msgid "minutes"
+msgstr "минуты"
+
+msgid "0 for disable"
+msgstr "0 чтобы отключить"
+
+msgid "Repeat sound alarm"
+msgstr ""
+
+#, fuzzy
+msgid "times"
+msgstr "Установить время"
+
+msgid "Global notification command"
+msgstr "Глобальная команда оповещения"
+
+msgid "Tasks options"
+msgstr "Параметры задач"
+
+msgid "Reminder options"
+msgstr "Настройки напоминания"
+
+msgid "Tasks list"
+msgstr "Список задач"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "№"
+
+msgid "New Moon"
+msgstr "Новолунье"
+
+msgid "Waxing Crescent Moon"
+msgstr "Прибывает в полумесяце"
+
+msgid "Quarter Moon"
+msgstr "Первая четверть"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Между первой четвертью и полнолунием"
+
+msgid "Full Moon"
+msgstr "Полнолуние"
+
+msgid "Waning Gibbous Moon"
+msgstr "Между полнолунием и последней четвертью"
+
+msgid "Last Quarter Moon"
+msgstr "Последняя четверть"
+
+msgid "Waning Crescent Moon"
+msgstr "Убывает в полумесяце"
+
+msgid "Question"
+msgstr "Подтверждение"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Указанный файл существует! Перезаписать?"
+
+#~ msgid "Editor font"
+#~ msgstr "Шрифт редактора"
+
+#~ msgid "Category filter"
+#~ msgstr "Категории"
+
+#~ msgid "Modify color"
+#~ msgstr "Изменить цвет"
+
+#~ msgid "ICal"
+#~ msgstr "ICal"
+
+#~ msgid "change day while note editing"
+#~ msgstr "изменить день при редактировании заметки"
+
+#~ msgid "close day note panel"
+#~ msgstr "закрыть панель заметок на день"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "отметить выделенное жирным"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "отметить выделенное курсивом"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "отметить выделенное цветом фона"
+
+#~ msgid "underline selection"
+#~ msgstr "подчеркнуть выделенное"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "зачеркнуть выделенное"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "лёгкий персональный органайзер"
+
+#~ msgid "Use year"
+#~ msgstr "Используемый год"
+
+#~ msgid "Inactive recurrent"
+#~ msgstr "Отключить периодичность"
+
+#~ msgid "Birthday found"
+#~ msgstr "Найдены дни рождения"
+
+#~ msgid "Task found"
+#~ msgstr "Найдены задачи"
+
+#~ msgid "Day note available"
+#~ msgstr "Существует примечание на день"

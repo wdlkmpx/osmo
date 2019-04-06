@@ -1,0 +1,2224 @@
+# Spanish translation of Osmo
+# This file is distributed under the same license as the osmo package.
+# Nacho Alonso González <nacho.alonso.gonzalez@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo 0.2.8 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2010-03-29 16:059+100\n"
+"Last-Translator: Nacho Alonso González  <nacho.alonso.gonzalez@gmail.com>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Ctrl+PageUp"
+msgstr "Ctrl+Re.Pág."
+
+msgid "switch to previous tab"
+msgstr "ir a la pestaña anterior"
+
+msgid "Ctrl+PageDn"
+msgstr "Ctrl+Av.Pág."
+
+msgid "switch to next tab"
+msgstr "ir a la pestaña siguiente"
+
+msgid "switch to selected page"
+msgstr "ir a la pestaña seleccionada"
+
+msgid "show options window"
+msgstr "Mostrar ventana de opciones"
+
+msgid "show about window"
+msgstr "Mostrar ventana \"Acerca de\""
+
+msgid "PageUp/PageDn"
+msgstr "Re.Pág./Av.Pág."
+
+msgid "switch page in options and about tab"
+msgstr "cambiar de página en las pestañas \"Opciones\" y \"Acerca de\""
+
+msgid "exit"
+msgstr "salir"
+
+msgid "Space"
+msgstr "Espacio"
+
+msgid "select current date"
+msgstr "seleccionar fecha actual"
+
+msgid "Ctrl+Space"
+msgstr "Ctrl+Espacio"
+
+msgid "toggle personal data visibility"
+msgstr "cambiar visibilidad de datos personales"
+
+msgid "Arrows"
+msgstr "Flechas"
+
+msgid "change day"
+msgstr "cambiar día"
+
+msgid "Ctrl+Up/Down"
+msgstr "Ctrl+Arriba/Abajo"
+
+msgid "scroll the contents in the day info panel"
+msgstr "desplazar el contenido del panel de información del día"
+
+msgid "change month"
+msgstr "cambiar mes"
+
+msgid "Home/End"
+msgstr "Inicio/Fin"
+
+msgid "change year"
+msgstr "cambiar año"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "mostrar / ocultar calendarios para el mes anterior y siguiente"
+
+msgid "day notes browser"
+msgstr "explorador de notas del día"
+
+msgid "assign background color to day note"
+msgstr "asignar color de fondo a nota del día"
+
+msgid "date calculator"
+msgstr "calculadora de fechas"
+
+msgid "show full-year calendar"
+msgstr "mostrar calendario de año completo"
+
+msgid "jump to date"
+msgstr "ir a fecha"
+
+msgid "Delete"
+msgstr "Borrar"
+
+msgid "remove day note"
+msgstr "eliminar nota del día"
+
+msgid "Alt+Arrows"
+msgstr "Alt+Flechas"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "close editor"
+msgstr "cerrar editor"
+
+msgid "toggle bold"
+msgstr "activar / desactivar negrita"
+
+msgid "toggle italic"
+msgstr "activar / desactivar cursiva"
+
+msgid "toggle underline"
+msgstr "activar / desactivar subrayado"
+
+msgid "toggle strikethrough"
+msgstr "activar / desactivar tachado"
+
+msgid "toggle highlight"
+msgstr "activar / desactivar destacado"
+
+msgid "Arrows Up/Down"
+msgstr "Flechas arriba/abajo"
+
+msgid "toggle alternative view"
+msgstr "vista alternativa"
+
+msgid "year info"
+msgstr "información del año"
+
+msgid "set current year"
+msgstr "año actual"
+
+msgid "close full-year calendar"
+msgstr "cerrar calendario de año completo"
+
+msgid "Alt+a, Insert"
+msgstr "Alt+a, Insertar"
+
+msgid "add task"
+msgstr "añadir tarea"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr "Alt+e, Ctrl+Intro"
+
+msgid "edit task"
+msgstr "editar tarea"
+
+msgid "Alt+r, Delete"
+msgstr "Alt+r, Supr."
+
+msgid "remove task"
+msgstr "eliminar tarea"
+
+msgid "toggle hidden tasks"
+msgstr "mostrar / ocultar tareas escondidas"
+
+msgid "activate search field"
+msgstr "activar el campo de búsqueda"
+
+msgid "Left, Right"
+msgstr "Izquierda, Derecha"
+
+msgid "change category filter"
+msgstr "cambiar filtro de categorías"
+
+msgid "close task info panel"
+msgstr "cerrar información de la tarea"
+
+msgid "Insert"
+msgstr "Insertar"
+
+msgid "add contact"
+msgstr "nuevo contacto"
+
+msgid "Ctrl+Enter"
+msgstr "Ctrl+Intro"
+
+msgid "edit contact"
+msgstr "editar contacto"
+
+msgid "remove contact"
+msgstr "eliminar contacto"
+
+msgid "change search mode"
+msgstr "cambiar el modo de búsqueda"
+
+msgid "close contact details panel"
+msgstr "cerrar detalles del contacto"
+
+msgid "Enter"
+msgstr "Intro"
+
+msgid "open note"
+msgstr "abrir nota"
+
+msgid "add note"
+msgstr "añadir nota"
+
+msgid "remove note"
+msgstr "eliminar nota"
+
+msgid "edit note name and category"
+msgstr "editar nombre de la nota y categoría"
+
+msgid "close note editor"
+msgstr "cerrar notas"
+
+msgid "save note"
+msgstr "guardar nota"
+
+msgid "find text"
+msgstr "buscar"
+
+msgid "clear selection attributes"
+msgstr "eliminar atributos de la selección"
+
+msgid ""
+"OSMO was designed keeping in mind the user convenience, so there are many "
+"key shortcuts. Here is the full list:"
+msgstr ""
+"OSMO ha sido diseñado para ser cómodo para el usuario, por eso existen "
+"multitud de atajos de teclado. Esta es la lista completa:"
+
+msgid "General"
+msgstr "General"
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Note editor"
+msgstr "Editor de notas"
+
+msgid "Full-year calendar"
+msgstr "Calendario de año completo"
+
+msgid "Tasks"
+msgstr "Tareas"
+
+msgid "Contacts"
+msgstr "Contactos"
+
+msgid "Notes"
+msgstr "Notas"
+
+msgid "Selector"
+msgstr "Seleccionar"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "A handy personal organizer"
+msgstr "Un práctico organizador personal"
+
+msgid "compiled on"
+msgstr "compilado el"
+
+msgid "Programming"
+msgstr "Desarrollo"
+
+msgid "Graphics"
+msgstr "Gráficos"
+
+msgid "Contributors"
+msgstr "Contribuciones"
+
+msgid "Translators"
+msgstr "Traductores"
+
+msgid "Mailing lists"
+msgstr "Listas de correo"
+
+msgid "Bug tracker"
+msgstr "Sistema de seguimiento de errores"
+
+msgid "Feature requests"
+msgstr "Peticiones de características"
+
+msgid "Available modules"
+msgstr "Módulos disponibles"
+
+msgid "Compiled-in features"
+msgstr "Características compiladas"
+
+msgid "iCalendar support"
+msgstr "Soporte de iCalendar"
+
+msgid "Encrypted notes support"
+msgstr "Soporte de notas cifradas"
+
+msgid "HTML view required for Contacts module"
+msgstr "Vista HTML requerida para módulo de contactos"
+
+msgid "SyncML enabled device support"
+msgstr "Soporte de dispositivos SyncML"
+
+msgid "Backup support"
+msgstr "Soporte de copia de seguridad"
+
+msgid "Printing support"
+msgstr "Soporte de impresión"
+
+msgid "Spell checker support"
+msgstr "Soporte de comprobación ortográfica"
+
+msgid "version"
+msgstr "versión"
+
+msgid "SVN revision"
+msgstr "Revisión SVN"
+
+msgid "Key shortcuts"
+msgstr "Atajos de teclado"
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Save backup"
+msgstr "Guardar copia de seguridad"
+
+msgid "Password protection"
+msgstr "Proteger con contraseña"
+
+msgid "Enter password"
+msgstr "Contraseña"
+
+msgid "Re-enter password"
+msgstr "Escriba la contraseña de nuevo"
+
+msgid "Please enter the password"
+msgstr "Escriba la contraseña"
+
+msgid "Passwords do not match!"
+msgstr "¡Las contraseñas no coinciden!"
+
+msgid "Cannot create backup!"
+msgstr "¡No se puede crear la copia de seguridad!"
+
+msgid "Backup file saved successfully!"
+msgstr "¡Copia de seguridad guardada correctamente!"
+
+msgid "Open backup file"
+msgstr "Abrir fichero de copia de seguridad"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Ficheros de copia de seguridad de Osmo (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Este no es un fichero de copia de seguridad de Osmo"
+
+msgid "Incorrect password!"
+msgstr "¡Contraseña incorrecta!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr ""
+"Todos los datos serán reemplazados con los del fichero de copia de seguridad."
+
+msgid "Are you sure?"
+msgstr "¿Está seguro?"
+
+msgid "Osmo has to be restarted now..."
+msgstr "Osmo debe ser reiniciado ahora..."
+
+msgid "was born"
+msgstr "nació"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "año de edad"
+msgstr[1] "años de edad"
+
+msgid "Current time"
+msgstr "Hora actual"
+
+msgid "Day number"
+msgstr "Número de día"
+
+msgid "Today distance"
+msgstr "Distancia al día de hoy"
+
+msgid "Week number"
+msgstr "Número de semana"
+
+msgid "Marked days"
+msgstr "Días marcados"
+
+msgid "Weekend days"
+msgstr "Días en fin de semana"
+
+msgid "Day category"
+msgstr "Categoría de días"
+
+msgid "Moon phase"
+msgstr "Fase lunar"
+
+msgid "Zodiac sign"
+msgstr "Signo del zodiaco"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "día hasta fin de año"
+msgstr[1] "días hasta fin de año"
+
+msgid "the last day of the year"
+msgstr "Último día del año"
+
+msgid "Day notes"
+msgstr "Nota del día"
+
+msgid "Day tasks"
+msgstr "Tareas del día"
+
+msgid "Birthday"
+msgstr "Fecha de nacimiento"
+
+msgid "Selected day note will be removed."
+msgstr "La nota del día seleccionado será eliminada."
+
+msgid "Continue?"
+msgstr "¿Continuar?"
+
+msgid "Previous year"
+msgstr "Año anterior"
+
+msgid "Previous month"
+msgstr "Mes anterior"
+
+msgid "Previous day"
+msgstr "Día anterior"
+
+msgid "Today"
+msgstr "Hoy"
+
+msgid "Next day"
+msgstr "Día siguiente"
+
+msgid "Next month"
+msgstr "Mes siguiente"
+
+msgid "Next year"
+msgstr "Año siguiente"
+
+msgid "Jump to date"
+msgstr "Ir a fecha"
+
+msgid "Print calendar"
+msgstr "Imprimir calendario"
+
+msgid "Date calculator"
+msgstr "Calculadora de fechas"
+
+msgid "Preferences"
+msgstr "Preferencias"
+
+msgid "Toggle day note panel"
+msgstr "Mostrar / ocultar notas del día"
+
+msgid "Add task"
+msgstr "Nueva tarea"
+
+msgid "Select day color"
+msgstr "Seleccionar color del día"
+
+msgid "Browse notes"
+msgstr "Explorar notas"
+
+msgid "Browse iCal events"
+msgstr "Explorar eventos de iCalendar"
+
+msgid "Export to iCal file"
+msgstr "Exportar a fichero iCal"
+
+msgid "Previous and next month"
+msgstr "Mes anterior y siguiente"
+
+msgid "Close note panel"
+msgstr "Cerrar notas"
+
+msgid "Highlight"
+msgstr "Destacado"
+
+msgid "Strikethrough"
+msgstr "Tachado"
+
+msgid "Underline"
+msgstr "Subrayado"
+
+msgid "Italic"
+msgstr "Cursiva"
+
+msgid "Bold"
+msgstr "Negrita"
+
+msgid "Insert timeline"
+msgstr "Insertar franja de tiempo"
+
+msgid "Clear text"
+msgstr "Borrar texto"
+
+msgid "Info"
+msgstr "Información"
+
+msgid "Select color"
+msgstr "Seleccionar color"
+
+msgid "None"
+msgstr "Ninguno"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "año"
+msgstr[1] "años"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "mes"
+msgstr[1] "meses"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "día"
+msgstr[1] "días"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "hora"
+msgstr[1] "horas"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuto"
+msgstr[1] "minutos"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "segundo"
+msgstr[1] "segundos"
+
+msgid "or"
+msgstr "o"
+
+msgid "rounded down"
+msgstr "redondeado hacia abajo"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "semana"
+msgstr[1] "semanas"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "día laborable"
+msgstr[1] "días laborables"
+
+msgid "time is ignored"
+msgstr "se ignora la hora"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "día en fin de semana"
+msgstr[1] "días en fin de semana"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Esta calculadora solo admite fechas posteriores al año 1."
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "día de fin de semana ignorado"
+msgstr[1] "días de fin de semana ignorados"
+
+msgid "Year"
+msgstr "Año"
+
+msgid "Month"
+msgstr "Mes"
+
+msgid "Day"
+msgstr "Día"
+
+msgid "Current date"
+msgstr "Fecha actual"
+
+msgid "Set current date"
+msgstr "Fijar fecha actual"
+
+msgid "Hour"
+msgstr "Hora"
+
+msgid "Minute"
+msgstr "Minuto"
+
+msgid "Second"
+msgstr "Segundo"
+
+msgid "Set current time"
+msgstr "Fijar hora actual"
+
+msgid "Reset time"
+msgstr "Reiniciar hora"
+
+msgid "First date and time"
+msgstr "Fecha y hora de inicio"
+
+msgid "Second date and time"
+msgstr "Fecha y hora de fin"
+
+msgid "Alternative time units"
+msgstr "Unidades de tiempo alternativas"
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "Duration between two dates"
+msgstr "Tiempo entre dos fechas"
+
+msgid "Operation"
+msgstr "Operación"
+
+msgid "add"
+msgstr "sumar"
+
+msgid "subtract"
+msgstr "restar"
+
+msgid "Date and time to add or subtract from"
+msgstr "Fecha y hora de la que sumar o restar"
+
+msgid "Years"
+msgstr "Años"
+
+msgid "Months"
+msgstr "Meses"
+
+msgid "Days"
+msgstr "Días"
+
+msgid "Weeks"
+msgstr "Semanas"
+
+msgid "Hours"
+msgstr "Horas"
+
+msgid "Minutes"
+msgstr "Minutos"
+
+msgid "Seconds"
+msgstr "Segundos"
+
+msgid "Ignore weekend days"
+msgstr "Ignorar días en fin de semana"
+
+msgid "Reset fields"
+msgstr "Reiniciar campos"
+
+msgid "Time to add or subtract"
+msgstr "Hora que sumar o restar"
+
+msgid "Jump to"
+msgstr "Ir a"
+
+msgid "Add to or subtract from a date"
+msgstr "Sumar o restar de una fecha"
+
+msgid "Leap year"
+msgstr "Año bisiesto"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid "Chinese year animal"
+msgstr "Animal del calendario chino"
+
+msgid "Number of days"
+msgstr "Número de días"
+
+msgid "Number of weeks"
+msgstr "Número de semanas"
+
+msgid "Number of weekend days"
+msgstr "Días en fin de semana"
+
+msgid "Year info"
+msgstr "Información del año"
+
+msgid "Current year"
+msgstr "Año actual"
+
+msgid "Alternative view"
+msgstr "Vista alternativa"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "evento"
+msgstr[1] "eventos"
+
+msgid "No valid calendars defined"
+msgstr "No se han definido calendarios válidos"
+
+msgid "iCalendar events"
+msgstr "eventos de iCalendar"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Time"
+msgstr "Hora"
+
+msgid "Summary"
+msgstr "Resumen"
+
+msgid "Select output file"
+msgstr "Seleccione el fichero de salida"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "La lista será vaciada, todas las entradas se perderán."
+
+msgid "Done!"
+msgstr "¡Hecho!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "evento exportado"
+msgstr[1] "eventos exportados"
+
+msgid "iCalendar export"
+msgstr "Exportación de iCalendar"
+
+msgid "Day Selector"
+msgstr "Seleccionar día"
+
+msgid "Use date period"
+msgstr "Periodo de fechas"
+
+msgid "Add"
+msgstr "Nueva"
+
+msgid "Clear"
+msgstr "Borrar"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Output filename"
+msgstr "Fichero de salida"
+
+msgid "Browse"
+msgstr "Explorar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "no entries"
+msgstr "sin entradas"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "elemento"
+msgstr[1] "elementos"
+
+msgid "Calendar notes"
+msgstr "Notas del calendario"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Current month"
+msgstr "Mes actual"
+
+msgid "Selected month"
+msgstr "Mes seleccionado"
+
+msgid "Selected year"
+msgstr "Año seleccionado"
+
+msgid "Selected month and year"
+msgstr "Mes y año seleccionado"
+
+msgid "All notes"
+msgstr "Todos las notas"
+
+msgid "Case sensitive"
+msgstr "Coincidencia de mayúsculas / minúsculas"
+
+msgid "Strikethrough past day notes"
+msgstr "Tachar notas de días pasados"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Syntax"
+msgstr "Sintaxis"
+
+msgid "abbreviated weekday name"
+msgstr "nombre abreviado del día de la semana"
+
+msgid "full weekday name"
+msgstr "nombre del día de la semana"
+
+msgid "abbreviated month name"
+msgstr "nombre abreviado del mes"
+
+msgid "full month name"
+msgstr "nombre del mes"
+
+msgid "day of the month"
+msgstr "día del mes"
+
+msgid "MM/DD/YY"
+msgstr "MM/DD/AA"
+
+msgid "day of the month without leading zeros"
+msgstr "día del mes sin ceros a la izquierda"
+
+msgid "year without century"
+msgstr "año sin siglo"
+
+msgid "year with century"
+msgstr "año con siglo"
+
+msgid "Date header format"
+msgstr "Formato de la cabecera de fecha"
+
+msgid "Set default format"
+msgstr "Formato  por defecto"
+
+msgid "Date format syntax"
+msgstr "Formato de fecha"
+
+msgid "Day note marker"
+msgstr "Marca para nota del día"
+
+msgid "Event marker"
+msgstr "Marca de eventos"
+
+msgid "Circle"
+msgstr "Círculo"
+
+msgid "Ellipse"
+msgstr "Elipse"
+
+msgid "Wave"
+msgstr "Onda"
+
+msgid "Current day marker"
+msgstr "Marca de fecha actual"
+
+msgid "Arrow"
+msgstr "Flecha"
+
+msgid "Free-hand circle"
+msgstr "Círculo"
+
+msgid "Colors"
+msgstr "Colores"
+
+msgid "Header color"
+msgstr "Color de la cabecera"
+
+msgid "Weekend days color"
+msgstr "Color de los días de fin de semana"
+
+msgid "Cursor color"
+msgstr "Color del cursor"
+
+msgid "Event marker color"
+msgstr "Color de marca de eventos"
+
+msgid "Current day marker color"
+msgstr "Color de marca de fecha actual"
+
+msgid "Birthday marker color"
+msgstr "Color de marca de cumpleaños"
+
+msgid "Date font"
+msgstr "Fuente de la fecha"
+
+msgid "Calendar font"
+msgstr "Fuente del calendario"
+
+msgid "Note font"
+msgstr "Fuente de las notas"
+
+msgid "Enable block cursor"
+msgstr "Usar cursor de bloque"
+
+msgid "Cursor thickness"
+msgstr "Grosor del cursor"
+
+msgid "Thin"
+msgstr "Delgado"
+
+msgid "Thick"
+msgstr "Grueso"
+
+msgid "Edit category"
+msgstr "Editar categoría"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Select ICS file"
+msgstr "Seleccione fichero ICS"
+
+msgid "All Files"
+msgstr "Todos los ficheros"
+
+msgid "Calendar files (*.ics)"
+msgstr "Ficheros de calendario (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Modificar parámetros de ICAL"
+
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Disabled"
+msgstr "Deshabilitado"
+
+msgid "Valid"
+msgstr "Válido"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Full date"
+msgstr "Fecha completa"
+
+msgid "Mark"
+msgstr "Marca"
+
+msgid "Week start on Monday"
+msgstr "La semana empieza el lunes"
+
+msgid "Show day names"
+msgstr "Mostrar nombre del día"
+
+msgid "No month change"
+msgstr "No cambiar de mes"
+
+msgid "Show week numbers"
+msgstr "Mostrar numero de semana"
+
+msgid "Simple view in full-year calendar"
+msgstr "Vista simple del calendario anual"
+
+msgid "Enable auxilary calendars"
+msgstr "Mostrar calendarios auxiliares"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Ordenación ascendente en notas del día"
+
+msgid "Enable spell checker in day notes"
+msgstr "Habilitar corrector ortográfico en notas del día"
+
+msgid "Appearance"
+msgstr "Apariencia"
+
+msgid "Day categories"
+msgstr "Categorías de días"
+
+msgid "iCalendar files"
+msgstr "Archivos de iCalendar"
+
+msgid "Show in day info panel"
+msgstr "Mostrar en el calendario"
+
+msgid "Name day"
+msgstr "Santo"
+
+msgid "Error printing"
+msgstr "Error imprimiendo"
+
+msgid "Printing properties"
+msgstr "Propiedades de la impresión"
+
+msgid "Month name"
+msgstr "Nombre del mes"
+
+msgid "Day name"
+msgstr "Nombre del día"
+
+msgid "Events"
+msgstr "Eventos"
+
+msgid "Fonts"
+msgstr "Fuentes"
+
+msgid "Birthdays"
+msgstr "Cumpleaños"
+
+msgid "Namedays"
+msgstr "Santos"
+
+msgid "Visible events"
+msgstr "Eventos visibles"
+
+msgid "Padding"
+msgstr "Espaciado"
+
+msgid "Event maximum length"
+msgstr "Longitud máxima de los eventos"
+
+msgid "Page orientation:"
+msgstr "Orientación de la página:"
+
+msgid "Portrait"
+msgstr "Vertical"
+
+msgid "Landscape"
+msgstr "Horizontal"
+
+msgid "Timeline"
+msgstr "Franjas de tiempo"
+
+msgid "From (hour)"
+msgstr "Desde (hora)"
+
+msgid "Step (minutes)"
+msgstr "Salto (minutos)"
+
+msgid "To (hour)"
+msgstr "Hasta (hora)"
+
+msgid "No date"
+msgstr "Sin fecha"
+
+msgid "Rat"
+msgstr "Rata"
+
+msgid "Ox"
+msgstr "Buey"
+
+msgid "Tiger"
+msgstr "Tigre"
+
+msgid "Hare"
+msgstr "Liebre"
+
+msgid "Dragon"
+msgstr "Dragón"
+
+msgid "Snake"
+msgstr "Serpiente"
+
+msgid "Horse"
+msgstr "Caballo"
+
+msgid "Sheep"
+msgstr "Oveja"
+
+msgid "Monkey"
+msgstr "Mono"
+
+msgid "Fowl"
+msgstr "Gallo"
+
+msgid "Dog"
+msgstr "Perro"
+
+msgid "Pig"
+msgstr "Cerdo"
+
+msgid "Unknown"
+msgstr "Desconocido"
+
+msgid "Aquarius"
+msgstr "Acuario"
+
+msgid "Pisces"
+msgstr "Piscis"
+
+msgid "Aries"
+msgstr "Aries"
+
+msgid "Taurus"
+msgstr "Tauro"
+
+msgid "Gemini"
+msgstr "Géminis"
+
+msgid "Cancer"
+msgstr "Cáncer"
+
+msgid "Leo"
+msgstr "Leo"
+
+msgid "Virgo"
+msgstr "Virgo"
+
+msgid "Libra"
+msgstr "Libra"
+
+msgid "Scorpio"
+msgstr "Escorpio"
+
+msgid "Sagittarius"
+msgstr "Sagitario"
+
+msgid "Capricorn"
+msgstr "Capricornio"
+
+msgid "Cannot perform selected operation."
+msgstr "No se puede realizar la operación seleccionada."
+
+msgid "Task has been modified or removed."
+msgstr "La tarea ha sido editada o eliminada"
+
+msgid "Remind me later"
+msgstr "Recordarme más tarde"
+
+msgid "Done"
+msgstr "Hecho"
+
+msgid "postponed"
+msgstr "Pospuesto"
+
+msgid "Show task"
+msgstr "Mostrar tarea"
+
+msgid "Alarm warning!"
+msgstr "!Aviso de alarma!"
+
+msgid "Day note"
+msgstr "Nota del día"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Event"
+msgstr "Evento"
+
+msgid "Task"
+msgstr "Tarea"
+
+msgid "Show Osmo"
+msgstr "Mostrar Osmo"
+
+msgid "No birthdays defined"
+msgstr "No se han definido cumpleaños"
+
+msgid "Birthdays list"
+msgstr "Lista de cumpleaños"
+
+msgid "Days to birthday"
+msgstr "Días hasta el cumpleaños"
+
+msgid "Age"
+msgstr "Edad"
+
+msgid "Birthday date"
+msgstr "Fecha de nacimiento"
+
+msgid "today"
+msgstr "Hoy"
+
+msgid "Please select address"
+msgstr "Por favor, seleccione la dirección."
+
+msgid "Information"
+msgstr "Información"
+
+msgid "Work"
+msgstr "Trabajo"
+
+msgid "Home"
+msgstr "Casa"
+
+msgid "Group"
+msgstr "Grupo"
+
+msgid "First name"
+msgstr "Nombre"
+
+msgid "Last name"
+msgstr "Apellidos"
+
+msgid "Second name"
+msgstr "Segundo nombre"
+
+msgid "Nickname"
+msgstr "Apodo"
+
+msgid "Tags"
+msgstr "Etiquetas"
+
+msgid "Name day date"
+msgstr "Santo"
+
+msgid "Home address"
+msgstr "Dirección de residencia"
+
+msgid "Home postcode"
+msgstr "Código postal"
+
+msgid "Home city"
+msgstr "Ciudad de residencia"
+
+msgid "Home state"
+msgstr "Región de residencia"
+
+msgid "Home country"
+msgstr "País de residencia"
+
+msgid "Organization"
+msgstr "Organización"
+
+msgid "Department"
+msgstr "Departamento"
+
+msgid "Work address"
+msgstr "Dirección de trabajo"
+
+msgid "Work postcode"
+msgstr "Código postal de trabajo"
+
+msgid "Work city"
+msgstr "Ciudad de trabajo"
+
+msgid "Work state"
+msgstr "Región de trabajo"
+
+msgid "Work country"
+msgstr "País de trabajo"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Teléfono"
+
+msgid "Home phone 2"
+msgstr "Teléfono 2"
+
+msgid "Home phone 3"
+msgstr "Teléfono 3"
+
+msgid "Home phone 4"
+msgstr "Teléfono 4"
+
+msgid "Work phone"
+msgstr "Teléfono del trabajo"
+
+msgid "Work phone 2"
+msgstr "Teléfono del trabajo 2"
+
+msgid "Work phone 3"
+msgstr "Teléfono del trabajo 3"
+
+msgid "Work phone 4"
+msgstr "Teléfono del trabajo 4"
+
+msgid "Cell phone"
+msgstr "Teléfono móvil"
+
+msgid "Cell phone 2"
+msgstr "Teléfono móvil 2"
+
+msgid "Cell phone 3"
+msgstr "Teléfono móvil 3"
+
+msgid "Cell phone 4"
+msgstr "Teléfono móvil 4"
+
+msgid "E-Mail"
+msgstr "Correo electrónico"
+
+msgid "E-Mail 2"
+msgstr "Correo electrónico 2"
+
+msgid "E-Mail 3"
+msgstr " Correo electrónico 3"
+
+msgid "E-Mail 4"
+msgstr " Correo electrónico 4"
+
+msgid "WWW"
+msgstr "WWW"
+
+msgid "WWW 2"
+msgstr "WWW 2"
+
+msgid "WWW 3"
+msgstr "WWW 3"
+
+msgid "WWW 4"
+msgstr "WWW 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "IM Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "IM Yahoo"
+
+msgid "IM MSN"
+msgstr "IM MSN"
+
+msgid "IM ICQ"
+msgstr "IM ICQ"
+
+msgid "IM AOL"
+msgstr "IM AOL"
+
+msgid "IM Jabber"
+msgstr "IM Jabber"
+
+msgid "IM Skype"
+msgstr "IM Skype"
+
+msgid "IM Tlen"
+msgstr "IM Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Fotografía"
+
+msgid "Additional info"
+msgstr "Información adicional"
+
+msgid "New contact"
+msgstr "Nuevo contacto"
+
+msgid "Remove contact"
+msgstr "Eliminar contacto"
+
+msgid "Edit contact"
+msgstr "Editar contacto"
+
+msgid "Show birthdays"
+msgstr "Mostrar cumpleaños"
+
+msgid "Show contact location on the map"
+msgstr "Mostrar localización de contactos en mapa"
+
+msgid "Import contacts"
+msgstr "Importar contactos"
+
+msgid "Export contacts"
+msgstr "Exportar contactos"
+
+msgid "First Name"
+msgstr "Nombre"
+
+msgid "Last Name"
+msgstr "Apellidos"
+
+msgid "All fields"
+msgstr "Todos los campos"
+
+msgid "Contact details"
+msgstr "Detalles del contacto"
+
+msgid "Close contact panel"
+msgstr "Cerrar detalles del contacto"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "contacto exportado"
+msgstr[1] "contactos exportados"
+
+msgid "Cannot create file."
+msgstr "No se pudo crear el fichero."
+
+msgid "Output format"
+msgstr "Formato de salida"
+
+msgid "Add header"
+msgstr "Añadir cabecera"
+
+msgid "Fields to export"
+msgstr "Campos a exportar"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "Invert"
+msgstr "Invertir"
+
+msgid "Select fields"
+msgstr "Seleccione campos"
+
+msgid "Select CSV file"
+msgstr "Seleccione fichero CSV"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "Archivos CSV (valores separados por comas) (*.csv)"
+
+msgid "Please select file first."
+msgstr "Por favor, seleccione el fichero antes."
+
+msgid "Import type"
+msgstr "Tipo de importación"
+
+msgid "File"
+msgstr "Fichero"
+
+msgid "Input filename"
+msgstr "Fichero de entrada"
+
+msgid "Address"
+msgstr "Dirección"
+
+msgid "Channel"
+msgstr "Canal"
+
+msgid "Interface"
+msgstr "Interfaz"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Usar XML binario(WBXML)"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Nothing to import."
+msgstr "Nada que importar."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "contacto añadido"
+msgstr[1] "contactos añadidos"
+
+msgid "of"
+msgstr "de"
+
+msgid "Record"
+msgstr "Registro"
+
+msgid "Number fields per record"
+msgstr "Numero de campos por registro"
+
+msgid "Use first record as header"
+msgstr "Usar primer registro como cabecera"
+
+msgid "Field type"
+msgstr "Tipo de campo"
+
+msgid "Value"
+msgstr "Valor"
+
+msgid "No records found in selected file."
+msgstr "Ningún registro encontrado en el fichero seleccionado."
+
+msgid "Cannot read file."
+msgstr "El fichero no se puede leer."
+
+msgid "Cannot open file."
+msgstr "El fichero no se puede abrir."
+
+msgid "Selected contact will be removed."
+msgstr "El contacto seleccionado será eliminado."
+
+msgid "Select photo"
+msgstr "Seleccione fotografía"
+
+msgid "Postcode"
+msgstr "Código postal"
+
+msgid "City"
+msgstr "Ciudad"
+
+msgid "State"
+msgstr "Región"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Add contact"
+msgstr "Nuevo contacto"
+
+msgid "Personal"
+msgstr "Personal"
+
+msgid "Phones"
+msgstr "Teléfonos"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Color de las etiquetas de contactos"
+
+msgid "Color of links"
+msgstr "Color de enlaces"
+
+msgid "Font size"
+msgstr "Tamaño de la fuente"
+
+msgid "Name font size"
+msgstr "Tamaño de fuente de los nombres"
+
+msgid "Item font size"
+msgstr "Tamaño de fuente de los elementos"
+
+msgid "Photo size"
+msgstr "Tamaño de la foto"
+
+msgid "Small"
+msgstr "Pequeña"
+
+msgid "Medium"
+msgstr "Mediana"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Select and show first item after search"
+msgstr "Seleccionar y mostrar el primer elemento después de la búsqueda"
+
+msgid "Hide group column"
+msgstr "Ocultar columna de grupos"
+
+msgid "Order"
+msgstr "Orden"
+
+msgid "Mode"
+msgstr "Modo"
+
+msgid "Ascending"
+msgstr "Ascendente"
+
+msgid "Descending"
+msgstr "Descendente"
+
+msgid "Miscellaneous"
+msgstr "Varios"
+
+msgid "Groups"
+msgstr "Grupos"
+
+msgid "Sorting"
+msgstr "Ordenación"
+
+msgid "Visible columns in birthday browser"
+msgstr "Columnas visibles en lista de cumpleaños"
+
+msgid "Show calendar"
+msgstr "Mostrar calendario"
+
+msgid "Show tasks"
+msgstr "Mostrar tareas"
+
+msgid "Show contacts"
+msgstr "Mostrar contactos"
+
+msgid "Show notes"
+msgstr "Mostrar notas"
+
+msgid "Show options"
+msgstr "Mostrar opciones"
+
+msgid "Quit"
+msgstr "Salir"
+
+msgid "Show small calendar window"
+msgstr "Mostrar pequeña ventana de calendario"
+
+msgid "Check for events since last run"
+msgstr "Comprobar los eventos desde la última ejecución"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "Número de días para comprobar eventos hacia delante (por defecto: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Establezca la ruta absoluta para los ficheros de datos y configuración"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Interfaz modificada para usar OSMO en bajas resoluciones"
+
+msgid "handy personal organizer"
+msgstr "práctico organizador personal"
+
+msgid "ERROR: Cannot create config files"
+msgstr "ERROR: No se pudo crear el fichero de configuración."
+
+msgid "Another copy of OSMO is already running."
+msgstr "Otra copia de OSMO ya se esta ejecutando."
+
+msgid ""
+"Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr ""
+"Usar simultáneamente dos o mas copias de OSMO puede causar perdida de datos."
+
+msgid "Do you really want to continue?"
+msgstr "¿Desea continuar?"
+
+msgid "Warning"
+msgstr "Aviso"
+
+msgid "The note has changed."
+msgstr "La nota ha cambiado."
+
+msgid "Do you want to save it?"
+msgstr "¿Desea guardarla?"
+
+msgid "Words"
+msgstr "Palabras"
+
+msgid "Lines"
+msgstr "Líneas"
+
+msgid "Characters"
+msgstr "Caracteres"
+
+msgid "White characters"
+msgstr "Espacios"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Document"
+msgstr "Documento"
+
+msgid "Selection"
+msgstr "Selección"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "New note"
+msgstr "Nueva nota"
+
+msgid "Add note"
+msgstr "Añadir nota"
+
+msgid "Edit note"
+msgstr "Editar nota"
+
+msgid "Delete note"
+msgstr "Borrar nota"
+
+msgid "Remove note"
+msgstr "Eliminar nota"
+
+msgid "Find"
+msgstr "Buscar"
+
+msgid "Clear attributes"
+msgstr "Borrar formato"
+
+msgid "Save note"
+msgstr "Guardar nota"
+
+msgid "Insert current date and time"
+msgstr "Insertar fecha y hora actual"
+
+msgid "Insert separator"
+msgstr "Insertar separador"
+
+msgid "Statistics"
+msgstr "Estadísticas"
+
+msgid "Close editor"
+msgstr "Cerrar editor"
+
+msgid "Toggle spell checker"
+msgstr "Revisor ortográfico"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "Note name"
+msgstr "Nombre de la nota"
+
+msgid "Last changes"
+msgstr "Último cambio"
+
+msgid "Read-only"
+msgstr "Solo lectura"
+
+msgid "Line"
+msgstr "Línea"
+
+msgid "Column"
+msgstr "Columna"
+
+msgid "case sensitive"
+msgstr "Coincidencia de mayúsculas / minúsculas"
+
+msgid "Close find entry"
+msgstr "Cerrar barra de búsqueda"
+
+msgid "Edit entry"
+msgstr "Editar elemento"
+
+msgid "Remember cursor position"
+msgstr "Recordar posición del cursor"
+
+msgid "Selected note will be removed."
+msgstr "La nota seleccionada será eliminada."
+
+msgid "No further data recovery will be possible."
+msgstr "No se podrán recuperar los datos después."
+
+msgid "Plain"
+msgstr "Sencillo"
+
+msgid "Encrypted"
+msgstr "Cifrado"
+
+msgid "Note type"
+msgstr "Tipo de nota"
+
+msgid "Cannot open the note."
+msgstr "La nota no se puede abrir."
+
+msgid "encryption support is disabled"
+msgstr "El soporte para notas cifradas está deshabilitado"
+
+msgid "Authorization"
+msgstr "Autorización"
+
+msgid "Algorithm"
+msgstr "Algoritmo"
+
+msgid "Hashing"
+msgstr "Resumen"
+
+msgid "Compression"
+msgstr "Compresión"
+
+msgid "Ratio"
+msgstr "Ratio"
+
+msgid "Fast"
+msgstr "Rápido"
+
+msgid "Good"
+msgstr "Bueno"
+
+msgid "Best"
+msgstr "Mejor"
+
+msgid "Remember the last selected category"
+msgstr "Recordar última categoría seleccionada"
+
+msgid "Use system format for date and time"
+msgstr "Usar formato de fecha y hora del sistema"
+
+msgid "Encryption"
+msgstr "Cifrado"
+
+msgid "Visible columns"
+msgstr "Columnas visibles"
+
+msgid "Categories"
+msgstr "Categorías"
+
+msgid "Notes options"
+msgstr "Opciones de notas"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr "Osmo debe ser reiniciado para que tome efecto."
+
+msgid "Layout"
+msgstr "Formato"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Tabs position"
+msgstr "Posición de las pestañas"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "Bottom"
+msgstr "Abajo"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Usar iconos por defecto (requiere reiniciar)"
+
+msgid "Disable underline in links"
+msgstr "Deshabilitar subrayado en los enlaces"
+
+msgid "Draw rows in alternating colors"
+msgstr "Dibujar filas en colores alternativos"
+
+msgid "At least one module must be visible."
+msgstr "Al menos un módulo debe ser visible."
+
+msgid "Override locale settings"
+msgstr "Ignorar configuración del sistema"
+
+msgid "Date format"
+msgstr "Formato fecha"
+
+msgid "DD-MM-YYYY"
+msgstr "DD-MM-AAAA"
+
+msgid "MM-DD-YYYY"
+msgstr "MM-DD-AAAA"
+
+msgid "YYYY-MM-DD"
+msgstr "AAAA-MM-DD"
+
+msgid "YYYY-DD-MM"
+msgstr "AAAA-DD-MM"
+
+msgid "Time format"
+msgstr "Formato de hora"
+
+msgid "hours"
+msgstr "horas"
+
+msgid "Spell checker language"
+msgstr "Idioma del corrector ortográfico"
+
+msgid "Enable tooltips"
+msgstr "Mostrar sugerencias"
+
+msgid "Remember last selected page"
+msgstr "Recordar última página seleccionada"
+
+msgid "Save data after every modification"
+msgstr "Guardar datos después de cada modificación"
+
+msgid "Web browser"
+msgstr "Navegador"
+
+msgid "E-mail client"
+msgstr "Cliente de correo electrónico"
+
+msgid "Sound player"
+msgstr "Reproductor de sonido"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "El patrón %s será reemplazado por la dirección web"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "El patrón %s será reemplazado por el correo electrónico"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "El patrón %s será reemplazado por el nombre del fichero de sonido"
+
+msgid "Create"
+msgstr "Crear"
+
+msgid "Restore"
+msgstr "Restaurar"
+
+msgid "Enable system tray"
+msgstr "Mostrar icono en bandeja de sistema"
+
+msgid "Start minimised"
+msgstr "Iniciar minimizado"
+
+msgid "Blink on events"
+msgstr "Parpadear en eventos"
+
+msgid "Ignore day note events"
+msgstr "Ignorar eventos de nota del día"
+
+msgid "Hide"
+msgstr "Ocultar"
+
+msgid "Helpers"
+msgstr "Programas auxiliares"
+
+msgid "Backup"
+msgstr "Copia de seguridad"
+
+msgid "System tray"
+msgstr "Bandeja de sistema"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Go Down"
+msgstr "Bajar"
+
+msgid "Select date"
+msgstr "Seleccionar fecha"
+
+msgid "Select font"
+msgstr "Seleccionar fuente"
+
+msgid "Calculator"
+msgstr "Calculadora"
+
+msgid "Edit day note"
+msgstr "Editar nota del día"
+
+msgid "Contact map location"
+msgstr "Localización del contacto en mapa"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Display full-year calendar"
+msgstr "Mostrar calendario de año completo"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Invalid item"
+msgstr "Elemento inválido"
+
+msgid "Valid item"
+msgstr "Elemento válido"
+
+msgid "Edit task"
+msgstr "Editar tarea"
+
+msgid "Remove task"
+msgstr "Eliminar tarea"
+
+msgid "Import tasks"
+msgstr "Importar tareas"
+
+msgid "Export tasks"
+msgstr "Exportar tareas"
+
+msgid "Change to previous date"
+msgstr "Cambiar al día anterior"
+
+msgid "Change to next date"
+msgstr "Cambiar al día siguiente"
+
+msgid "Print"
+msgstr "Imprimir"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Recurrent"
+msgstr "Repetitiva"
+
+msgid "Started"
+msgstr "Inicio"
+
+msgid "Finished"
+msgstr "Terminado"
+
+msgid "All items"
+msgstr "Todos los elementos"
+
+msgid "New task"
+msgstr "Nueva tarea"
+
+msgid "Change due date to previous date"
+msgstr "Cambiar fecha de fin al día anterior"
+
+msgid "Change due date to next date"
+msgstr "Cambiar fecha de fin al día siguiente"
+
+msgid "Print visible tasks list"
+msgstr "Imprimir lista de tareas visibles"
+
+msgid "Due date"
+msgstr "Fecha de fin"
+
+msgid "Priority"
+msgstr "Prioridad"
+
+msgid "Task details"
+msgstr "Detalles de la tarea"
+
+msgid "Close description panel"
+msgstr "Cerrar descripción"
+
+msgid "No tasks with defined date found."
+msgstr "No hay tareas con fecha definida."
+
+msgid "Save tasks"
+msgstr "Guardar tareas"
+
+msgid "tasks exported"
+msgstr "tareas exportadas"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Seleccione al menos un día si la tarea es repetitiva."
+
+msgid "Set time"
+msgstr "Fijar hora"
+
+msgid "Tomorrow"
+msgstr "Mañana"
+
+msgid "Selected task will be removed."
+msgstr "Las tareas seleccionadas se eliminarán."
+
+msgid "Basic"
+msgstr "Básico"
+
+msgid "Select date and time"
+msgstr "Seleccione fecha y hora"
+
+msgid "Low"
+msgstr "Baja"
+
+msgid "High"
+msgstr "Alta"
+
+msgid "Enable sound notification"
+msgstr "Notificar con sonido"
+
+msgid "Advanced"
+msgstr "Avanzado"
+
+msgid "Alarm warning"
+msgstr "Alarma de aviso"
+
+msgid "Postpone time"
+msgstr "Retraso de aviso pospuesto"
+
+msgid "Alarm command"
+msgstr "Comando de alarma"
+
+msgid "Recurrent task"
+msgstr "Tarea repetitiva"
+
+msgid "Enable"
+msgstr "Habilitar"
+
+msgid "Start"
+msgstr "Inicio"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Interval"
+msgstr "Intervalo"
+
+msgid "Time period"
+msgstr "Periodo de tiempo"
+
+msgid "Date period"
+msgstr "Periodo de fechas"
+
+msgid "Repeat"
+msgstr "Repetir"
+
+msgid "Repeat in the following days"
+msgstr "Repetir en los días siguientes"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Ignorar alarmas cuando la tarea expira sin conexión"
+
+msgid "Select a font..."
+msgstr "Seleccione una fuente..."
+
+msgid "Color of items that are due today"
+msgstr "Color de los elementos que finalizan hoy"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Color de los elementos que finalizan en los próximos 7 días"
+
+msgid "Color of items that are past due"
+msgstr "Color de los elementos que ya han vencido"
+
+msgid "Task info font"
+msgstr "Fuente para detalles"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Mostrar en negrita tareas con prioridad alta"
+
+msgid "Hide completed tasks"
+msgstr "Ocultar tareas terminadas"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Eliminar las tareas terminadas sin confirmación"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Crear nueva tarea al hacer doble-click en la lista de tareas"
+
+msgid "minutes"
+msgstr "minutos"
+
+msgid "0 for disable"
+msgstr "0 para deshabilitar"
+
+msgid "Repeat sound alarm"
+msgstr "Repetir alarma de sonido"
+
+msgid "times"
+msgstr "veces"
+
+msgid "Global notification command"
+msgstr "Comando global de notificación"
+
+msgid "Tasks options"
+msgstr "Opciones de las tareas"
+
+msgid "Reminder options"
+msgstr "Opciones de avisos"
+
+msgid "Tasks list"
+msgstr "Lista de tareas"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "Núm."
+
+msgid "New Moon"
+msgstr "Luna nueva"
+
+msgid "Waxing Crescent Moon"
+msgstr "Creciente"
+
+msgid "Quarter Moon"
+msgstr "Cuarto creciente"
+
+msgid "Waxing Gibbous Moon"
+msgstr "Creciente"
+
+msgid "Full Moon"
+msgstr "Luna llena"
+
+msgid "Waning Gibbous Moon"
+msgstr "Menguante"
+
+msgid "Last Quarter Moon"
+msgstr "Cuarto menguante"
+
+msgid "Waning Crescent Moon"
+msgstr "Menguante"
+
+msgid "Question"
+msgstr "Pregunta"
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "El fichero seleccionado existe. ¿Sobrescribir?"
+
+#~ msgid "Editor font"
+#~ msgstr "Fuente del editor"
+
+#~ msgid "Category filter"
+#~ msgstr "Filtro de categorías"
+
+#~ msgid "Modify color"
+#~ msgstr "Modificar color"
+
+#~ msgid "ICal"
+#~ msgstr "ICal"
+
+#~ msgid "change day while note editing"
+#~ msgstr "cambiar día durante la edición de nota"
+
+#~ msgid "close day note panel"
+#~ msgstr "cerrar nota para el día"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "poner selección en negrita"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "poner selección en cursiva"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "asignar color de fondo a la selección"
+
+#~ msgid "underline selection"
+#~ msgstr "subrayar selección"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "tachar selección"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "un práctico organizador personal"
+
+#~ msgid "Use year"
+#~ msgstr "Usar año"
+
+#~ msgid "Inactive recurrent"
+#~ msgstr "Repetitiva inactiva"
+
+#~ msgid "Birthday found"
+#~ msgstr "Cumpleaños encontrado"
+
+#~ msgid "Task found"
+#~ msgstr "Tarea encontrada"
+
+#~ msgid "Day note available"
+#~ msgstr "Nota disponible para el día"

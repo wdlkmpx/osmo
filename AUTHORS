@@ -1,0 +1,42 @@
+
+Authors
+-------
+
+Tomasz Maka <pasp@users.sourceforge.net>    (Programming)
+Piotr Maka <silloz@users.sourceforge.net>   (Programming)
+
+Maja Kocon (http://pinky-babble.org)        (Graphics)
+
+Contributors
+------------
+
+LibSyncML support, fixes:
+Markus Dahms <mad@automagically.de>                         
+
+Windows port:
+Nacho Alonso González <nacho.alonso.gonzalez@gmail.com>     
+
+Borrowed code
+-------------
+
+- The calendar widget is slighty modified version of standard GTK+ 
+  calendar widget developed by GTK+ Development Team
+
+- Routines to get and put text with tags into text view widget
+  have been written by Michael Terry, the author of xpad (http://xpad.sf.net)
+
+Bug reports
+-----------
+
+Bruno Miguel <brunoalexandremiguel@gmail.com>
+Andrea Antolini <a.antolini@infinito.it>
+Nacho Alonso González <nacho.alonso.gonzalez@gmail.com>
+Pierre-Emmanuel André <pea@raveland.org>
+W. Goesgens <w.goesgens@outgesourced.org>
+Tiger!P <tigerp@tigerp.net>
+Eike Nicklas <eike@ephys.de> 
+Omair Eshkenazi <stimpson@phys.huji.ac.il>
+Lylliann Essandre <lylambda@gmail.com>
+Michael Pusterhofer
+Norm Pierce <npierce.oh2l@dappermapper.com>
+

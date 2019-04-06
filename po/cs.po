@@ -1,0 +1,2235 @@
+# Czech translation of osmo
+# This file is distributed under the same license as the osmo package.
+# Jaroslav Lichtblau <jlichtblau@seznam.cz>, 2008-2010.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: osmo 0.2.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-15 22:54+0100\n"
+"PO-Revision-Date: 2010-03-31 21:29+0100\n"
+"Last-Translator: Jaroslav Lichtblau <jlichtblau@seznam.cz>\n"
+"Language-Team: Czech\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "About"
+msgstr "O programu"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "Ctrl+PageUp"
+msgstr "Ctrl+PageUp"
+
+msgid "switch to previous tab"
+msgstr "přejít na předešlou záložku"
+
+msgid "Ctrl+PageDn"
+msgstr "Ctrl+PageDn"
+
+msgid "switch to next tab"
+msgstr "přejít na další záložku"
+
+msgid "switch to selected page"
+msgstr "přejít na vybranou stranu"
+
+msgid "show options window"
+msgstr "zobrazit okno nastavení"
+
+msgid "show about window"
+msgstr "zobrazit okno o programu"
+
+msgid "PageUp/PageDn"
+msgstr "PageUp/PageDn"
+
+msgid "switch page in options and about tab"
+msgstr "změnit stranu na záložce o programu a nastavení"
+
+msgid "exit"
+msgstr "ukončit"
+
+msgid "Space"
+msgstr "Mezerník"
+
+msgid "select current date"
+msgstr "vybrat aktuální datum"
+
+msgid "Ctrl+Space"
+msgstr "Ctrl+Mezerník"
+
+msgid "toggle personal data visibility"
+msgstr "přepnout viditelnost osobních dat"
+
+msgid "Arrows"
+msgstr "Směrové klávesy"
+
+msgid "change day"
+msgstr "změnit den"
+
+msgid "Ctrl+Up/Down"
+msgstr "Ctrl+Up/Down"
+
+msgid "scroll the contents in the day info panel"
+msgstr "posunovat obsahy v panelu informací pro den"
+
+msgid "change month"
+msgstr "změnit měsíc"
+
+msgid "Home/End"
+msgstr "Home/End"
+
+msgid "change year"
+msgstr "změnit rok"
+
+msgid "toggle calendars for the previous and next month"
+msgstr "prohodit kalendáře na minulý a příští měsíc"
+
+msgid "day notes browser"
+msgstr "prohlížeč denních poznámek"
+
+msgid "assign background color to day note"
+msgstr "přiřaď  barvu pozadí pro denní poznámky"
+
+msgid "date calculator"
+msgstr "kalkulátor data"
+
+msgid "show full-year calendar"
+msgstr "zobrazit kalendář na celý rok"
+
+msgid "jump to date"
+msgstr "jít na datum"
+
+msgid "Delete"
+msgstr "Smazat"
+
+msgid "remove day note"
+msgstr "odstranit poznámku"
+
+msgid "Alt+Arrows"
+msgstr "Alt+Směrové klávesy"
+
+msgid "Esc"
+msgstr "Esc"
+
+msgid "close editor"
+msgstr "zavřít editor"
+
+msgid "toggle bold"
+msgstr "přepnout tučný text"
+
+msgid "toggle italic"
+msgstr "přepnout kurzivu"
+
+msgid "toggle underline"
+msgstr "přepnout podtržení"
+
+msgid "toggle strikethrough"
+msgstr "přepnout proškrtnutí"
+
+msgid "toggle highlight"
+msgstr "přepnout zvýraznění"
+
+msgid "Arrows Up/Down"
+msgstr "Šipka nahoru/dolů"
+
+msgid "toggle alternative view"
+msgstr "přepnout alternativní náhled"
+
+msgid "year info"
+msgstr "roční info"
+
+msgid "set current year"
+msgstr "nastav aktuální rok"
+
+msgid "close full-year calendar"
+msgstr "zavřít kalendář na celý rok"
+
+msgid "Alt+a, Insert"
+msgstr "Alt+A, Vložit"
+
+msgid "add task"
+msgstr "přidat úkol"
+
+msgid "Alt+e, Ctrl+Enter"
+msgstr "Alt+E, Ctrl+Enter"
+
+msgid "edit task"
+msgstr "upravit úkol"
+
+msgid "Alt+r, Delete"
+msgstr "Alt+R, Smazat"
+
+msgid "remove task"
+msgstr "odstranit úkol"
+
+msgid "toggle hidden tasks"
+msgstr "zobrazit skryté úkoly"
+
+msgid "activate search field"
+msgstr "aktivovat vyhledávací pole"
+
+msgid "Left, Right"
+msgstr "Vlevo, Vpravo"
+
+msgid "change category filter"
+msgstr "změnit filtr kategorií"
+
+msgid "close task info panel"
+msgstr "zavřít panel informací o úkolu"
+
+msgid "Insert"
+msgstr "Vložit"
+
+msgid "add contact"
+msgstr "přidat kontakt"
+
+msgid "Ctrl+Enter"
+msgstr "Ctrl+Enter"
+
+msgid "edit contact"
+msgstr "upravit kontakt"
+
+msgid "remove contact"
+msgstr "odstranit kontakt"
+
+msgid "change search mode"
+msgstr "změnit mód vyhledávání"
+
+msgid "close contact details panel"
+msgstr "zavřít panel poznámek"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "open note"
+msgstr "otevřít poznámku"
+
+msgid "add note"
+msgstr "přidat poznámku"
+
+msgid "remove note"
+msgstr "odstranit poznámku"
+
+msgid "edit note name and category"
+msgstr "upravit jméno a kategorii poznámky"
+
+msgid "close note editor"
+msgstr "zavřít editor poznámek"
+
+msgid "save note"
+msgstr "uložit poznámku"
+
+msgid "find text"
+msgstr "najít text"
+
+msgid "clear selection attributes"
+msgstr "smazat vlastnosti výběru"
+
+msgid "OSMO was designed keeping in mind the user convenience, so there are many key shortcuts. Here is the full list:"
+msgstr "Program OSMO byl vytvořen s důrazem na uživatelskou přívětivost. Proto obsahuje plno klávesových zkratek. Zde je jejich kompletní seznam:"
+
+msgid "General"
+msgstr "Nastavení"
+
+msgid "Calendar"
+msgstr "Kalendář"
+
+msgid "Note editor"
+msgstr "Editor poznámek"
+
+msgid "Full-year calendar"
+msgstr "Zobrazit kalendář na celý rok"
+
+msgid "Tasks"
+msgstr "Úkoly"
+
+msgid "Contacts"
+msgstr "Kontakty"
+
+msgid "Notes"
+msgstr "Poznámky"
+
+msgid "Selector"
+msgstr "Přepínač"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "A handy personal organizer"
+msgstr "Šikovný osobní organizér"
+
+msgid "compiled on"
+msgstr "sestaveno"
+
+msgid "Programming"
+msgstr "Naprogramoval"
+
+msgid "Graphics"
+msgstr "Grafická úprava"
+
+msgid "Contributors"
+msgstr "Příspěvky od"
+
+msgid "Translators"
+msgstr "Překladatelé"
+
+msgid "Mailing lists"
+msgstr "Konference"
+
+msgid "Bug tracker"
+msgstr "Bug tracker"
+
+msgid "Feature requests"
+msgstr "Žádat nové funkce"
+
+msgid "Available modules"
+msgstr "Dostupné moduly"
+
+msgid "Compiled-in features"
+msgstr "Zkompilováno s"
+
+msgid "iCalendar support"
+msgstr "Podpora pro iCalendar"
+
+msgid "Encrypted notes support"
+msgstr "Podpora šifrovaných poznámek"
+
+msgid "HTML view required for Contacts module"
+msgstr "HTML náhled vyžadován modulem pro Kontakty"
+
+msgid "SyncML enabled device support"
+msgstr "Podpora pro zařízení využívající SyncML"
+
+msgid "Backup support"
+msgstr "Podpora zálohování"
+
+msgid "Printing support"
+msgstr "Podpora tisku"
+
+msgid "Spell checker support"
+msgstr "Podpora kontroly jazyka"
+
+msgid "version"
+msgstr "verze"
+
+msgid "SVN revision"
+msgstr "SVN revize"
+
+msgid "Key shortcuts"
+msgstr "Klávesové zkratky"
+
+msgid "License"
+msgstr "Licence"
+
+msgid "Save backup"
+msgstr "Uložit zálohu"
+
+msgid "Password protection"
+msgstr "Chránit heslem"
+
+msgid "Enter password"
+msgstr "Vlož heslo"
+
+msgid "Re-enter password"
+msgstr "Znovu vlož heslo"
+
+msgid "Please enter the password"
+msgstr "Prosím vložte heslo"
+
+msgid "Passwords do not match!"
+msgstr "Hesla se neshodují!"
+
+msgid "Cannot create backup!"
+msgstr "Nelze vytvořit zálohu!"
+
+msgid "Backup file saved successfully!"
+msgstr "Záložní soubor úspěšně uložen!"
+
+msgid "Open backup file"
+msgstr "Otevřít zálohu"
+
+msgid "Osmo backup files (*.bck)"
+msgstr "Záložní soubor programu Osmo (*.bck)"
+
+msgid "This is not Osmo backup file"
+msgstr "Toto není záložní soubor programu Osmo"
+
+msgid "Incorrect password!"
+msgstr "Nesprávné heslo!"
+
+msgid "All your data will be replaced with backup file content."
+msgstr "Všechna data budou nahrazena obsahem ze záložního souboru."
+
+msgid "Are you sure?"
+msgstr "Opravdu pokračovat?"
+
+msgid "Osmo has to be restarted now..."
+msgstr "Je třeba restartovat Osmo..."
+
+msgid "was born"
+msgstr "narozen"
+
+msgid "year old"
+msgid_plural "years old"
+msgstr[0] "rok starý"
+msgstr[1] "roky starý"
+msgstr[2] "let starý"
+
+msgid "Current time"
+msgstr "Aktuální čas"
+
+msgid "Day number"
+msgstr "Číslo dne"
+
+msgid "Today distance"
+msgstr "Od dnešního dne"
+
+msgid "Week number"
+msgstr "Číslo týdne"
+
+msgid "Marked days"
+msgstr "Označených dní"
+
+msgid "Weekend days"
+msgstr "Víkendových dnů"
+
+msgid "Day category"
+msgstr "Kategorie dne"
+
+msgid "Moon phase"
+msgstr "Fáze měsíce"
+
+msgid "Zodiac sign"
+msgstr "Znamení zvěrokruhu"
+
+msgid "day till end of year"
+msgid_plural "days till end of year"
+msgstr[0] "den do konce roku"
+msgstr[1] "dny do konce roku"
+msgstr[2] "dní do konce roku"
+
+msgid "the last day of the year"
+msgstr "poslední den roku"
+
+msgid "Day notes"
+msgstr "Poznámky na den"
+
+msgid "Day tasks"
+msgstr "Denní úkoly"
+
+msgid "Birthday"
+msgstr "Narozeniny"
+
+msgid "Selected day note will be removed."
+msgstr "Vybraná poznámka dne bude odstraněna."
+
+msgid "Continue?"
+msgstr "Pokračovat?"
+
+msgid "Previous year"
+msgstr "Minulý rok"
+
+msgid "Previous month"
+msgstr "Minulý měsíc"
+
+msgid "Previous day"
+msgstr "Včera"
+
+msgid "Today"
+msgstr "Dnes"
+
+msgid "Next day"
+msgstr "Zítra"
+
+msgid "Next month"
+msgstr "Příští měsíc"
+
+msgid "Next year"
+msgstr "Příští rok"
+
+msgid "Jump to date"
+msgstr "Jít na datum"
+
+msgid "Print calendar"
+msgstr "Vytisknout kalendář"
+
+msgid "Date calculator"
+msgstr "Kalkulátor data"
+
+msgid "Preferences"
+msgstr "Nastavení"
+
+msgid "Toggle day note panel"
+msgstr "Zobrazit/skrýt panel poznámek"
+
+msgid "Add task"
+msgstr "Přidat úkol"
+
+msgid "Select day color"
+msgstr "Barva vybraného dne"
+
+msgid "Browse notes"
+msgstr "Procházet poznámky"
+
+msgid "Browse iCal events"
+msgstr "Procházet události iCal"
+
+msgid "Export to iCal file"
+msgstr "Exportovat do souboru iCal"
+
+msgid "Previous and next month"
+msgstr "Předešlý a příští měsíc"
+
+msgid "Close note panel"
+msgstr "Zavřít panel poznámek"
+
+msgid "Highlight"
+msgstr "Zvýraznit"
+
+msgid "Strikethrough"
+msgstr "Přeškrtnuté"
+
+msgid "Underline"
+msgstr "Podtržené"
+
+msgid "Italic"
+msgstr "Kurzíva"
+
+msgid "Bold"
+msgstr "Tučné"
+
+msgid "Insert timeline"
+msgstr "Vložit časy"
+
+msgid "Clear text"
+msgstr "Smazat text"
+
+msgid "Info"
+msgstr "Informace"
+
+msgid "Select color"
+msgstr "Vybrat barvu"
+
+msgid "None"
+msgstr "Není"
+
+msgid "year"
+msgid_plural "years"
+msgstr[0] "rok"
+msgstr[1] "roků"
+msgstr[2] "let"
+
+msgid "month"
+msgid_plural "months"
+msgstr[0] "měsíc"
+msgstr[1] "měsíce"
+msgstr[2] "měsíců"
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] "den"
+msgstr[1] "dny"
+msgstr[2] "dnů"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "hodina"
+msgstr[1] "hodiny"
+msgstr[2] "hodin"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuta"
+msgstr[1] "minuty"
+msgstr[2] "minut"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekunda"
+msgstr[1] "sekundy"
+msgstr[2] "sekund"
+
+msgid "or"
+msgstr "nebo"
+
+msgid "rounded down"
+msgstr "zaokrouhleno dolů"
+
+msgid "week"
+msgid_plural "weeks"
+msgstr[0] "týden"
+msgstr[1] "týdny"
+msgstr[2] "týdnů"
+
+msgid "working day"
+msgid_plural "working days"
+msgstr[0] "pracovní den"
+msgstr[1] "pracovní dny"
+msgstr[2] "pracovních dnů"
+
+msgid "time is ignored"
+msgstr "ignorovat čas"
+
+msgid "weekend day"
+msgid_plural "weekend days"
+msgstr[0] "víkendový den"
+msgstr[1] "víkendové dny"
+msgstr[2] "víkendových dnů"
+
+msgid "This calculator only supports dates after year 1."
+msgstr "Kalkulačka podporuje pouze data po roce 1."
+
+msgid "weekend day ignored"
+msgid_plural "weekend days ignored"
+msgstr[0] "víkendový den ignorován"
+msgstr[1] "víkendové dny ignorovány"
+msgstr[2] "víkendových dnů ignorováno"
+
+msgid "Year"
+msgstr "Rok"
+
+msgid "Month"
+msgstr "Měsíc"
+
+msgid "Day"
+msgstr "Den"
+
+msgid "Current date"
+msgstr "Aktuální datum"
+
+msgid "Set current date"
+msgstr "Nastavit aktuální datum"
+
+msgid "Hour"
+msgstr "Hodina"
+
+msgid "Minute"
+msgstr "Minuta"
+
+msgid "Second"
+msgstr "Sekunda"
+
+msgid "Set current time"
+msgstr "Nastavit aktuální čas"
+
+msgid "Reset time"
+msgstr "Vymazat čas"
+
+msgid "First date and time"
+msgstr "Počáteční datum a čas"
+
+msgid "Second date and time"
+msgstr "Konečné datum a čas"
+
+msgid "Alternative time units"
+msgstr "Lze říci i takto"
+
+msgid "Result"
+msgstr "Výsledek"
+
+msgid "Duration between two dates"
+msgstr "Délka mezi dvěma daty"
+
+msgid "Operation"
+msgstr "Operace"
+
+msgid "add"
+msgstr "přidat"
+
+msgid "subtract"
+msgstr "odebrat"
+
+msgid "Date and time to add or subtract from"
+msgstr "Datum a čas od kterého ubírat nebo přidávat"
+
+msgid "Years"
+msgstr "Roky"
+
+msgid "Months"
+msgstr "Měsíce"
+
+msgid "Days"
+msgstr "Dny"
+
+msgid "Weeks"
+msgstr "Týdnů"
+
+msgid "Hours"
+msgstr "Hodiny"
+
+msgid "Minutes"
+msgstr "Minuty"
+
+msgid "Seconds"
+msgstr "Sekundy"
+
+msgid "Ignore weekend days"
+msgstr "Ignorovat dny víkendu"
+
+msgid "Reset fields"
+msgstr "Vyčistit pole"
+
+msgid "Time to add or subtract"
+msgstr "Přidat nebo odebrat čas"
+
+msgid "Jump to"
+msgstr "Jít na"
+
+msgid "Add to or subtract from a date"
+msgstr "Přidat nebo odebrat od data"
+
+msgid "Leap year"
+msgstr "Přestupný rok"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "Chinese year animal"
+msgstr "Zvíře podle čínského kalendáře"
+
+msgid "Number of days"
+msgstr "Počet dní"
+
+msgid "Number of weeks"
+msgstr "Počet týdnů"
+
+msgid "Number of weekend days"
+msgstr "Počet víkendových dní"
+
+msgid "Year info"
+msgstr "Informace o roce"
+
+msgid "Current year"
+msgstr "Příští rok"
+
+msgid "Alternative view"
+msgstr "Náhradní zobrazení"
+
+msgid "event"
+msgid_plural "events"
+msgstr[0] "událost"
+msgstr[1] "události"
+msgstr[2] "událostí"
+
+msgid "No valid calendars defined"
+msgstr "Nejsou definovány platné kalendáře"
+
+msgid "iCalendar events"
+msgstr "Události iCalendar"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Time"
+msgstr "Čas"
+
+msgid "Summary"
+msgstr "Popis"
+
+msgid "Select output file"
+msgstr "Vybrat výstupní soubor"
+
+msgid "The list will be cleared and all entries will be lost."
+msgstr "Tento seznam bude smazán a všechny záznamy zmizí."
+
+msgid "Done!"
+msgstr "Hotovo!"
+
+msgid "event exported"
+msgid_plural "events exported"
+msgstr[0] "událost exportována"
+msgstr[1] "události exportovány"
+msgstr[2] "událostí exportováno"
+
+msgid "iCalendar export"
+msgstr "export jako iCalendar"
+
+msgid "Day Selector"
+msgstr "Výběr dne"
+
+msgid "Use date period"
+msgstr "Použít opakované datum"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Clear"
+msgstr "Smazat"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Output filename"
+msgstr "Jméno výstupního souboru"
+
+msgid "Browse"
+msgstr "Procházet"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+msgid "Export"
+msgstr "Exportovat"
+
+msgid "no entries"
+msgstr "žádné záznamy"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "záznam"
+msgstr[1] "záznamy"
+msgstr[2] "záznamů"
+
+msgid "Calendar notes"
+msgstr "Poznámky kalendáře"
+
+msgid "Search"
+msgstr "Vyhledávání"
+
+msgid "Filter"
+msgstr "Filtr"
+
+msgid "Current month"
+msgstr "Aktuální měsíc"
+
+msgid "Selected month"
+msgstr "Vybraný měsíc"
+
+msgid "Selected year"
+msgstr "Vybraný rok"
+
+msgid "Selected month and year"
+msgstr "Vybraný rok a měsíc"
+
+msgid "All notes"
+msgstr "Všechny poznámky"
+
+msgid "Case sensitive"
+msgstr "Rozlišuje velikost písmen"
+
+msgid "Strikethrough past day notes"
+msgstr "Přeškrtnout prošlé poznámky"
+
+msgid "Note"
+msgstr "Poznámka"
+
+msgid "Syntax"
+msgstr "Syntax"
+
+msgid "abbreviated weekday name"
+msgstr "zkrácený název dne"
+
+msgid "full weekday name"
+msgstr "plný název dne"
+
+msgid "abbreviated month name"
+msgstr "zkrácený název měsíce"
+
+msgid "full month name"
+msgstr "plný název měsíce"
+
+msgid "day of the month"
+msgstr "den v měsíci"
+
+msgid "MM/DD/YY"
+msgstr "mm/dd/rr"
+
+msgid "day of the month without leading zeros"
+msgstr "den měsíce bez počáteční nuly"
+
+msgid "year without century"
+msgstr "rok bez století"
+
+msgid "year with century"
+msgstr "rok se stoletím"
+
+msgid "Date header format"
+msgstr "Formát hlavičky data"
+
+msgid "Set default format"
+msgstr "Nastavit výchozí formát"
+
+msgid "Date format syntax"
+msgstr "Formát data"
+
+msgid "Day note marker"
+msgstr "Značení události dne"
+
+msgid "Event marker"
+msgstr "Označení událostí"
+
+msgid "Circle"
+msgstr "Kruh"
+
+msgid "Ellipse"
+msgstr "Elipsa"
+
+msgid "Wave"
+msgstr "Vlnka"
+
+msgid "Current day marker"
+msgstr "Značení dnešního dne"
+
+msgid "Arrow"
+msgstr "Šipka"
+
+msgid "Free-hand circle"
+msgstr "Ručně kreslený kruh"
+
+msgid "Colors"
+msgstr "Barvy"
+
+msgid "Header color"
+msgstr "Barva záhlaví"
+
+msgid "Weekend days color"
+msgstr "Barva dní víkendu"
+
+msgid "Cursor color"
+msgstr "Barva kurzoru"
+
+msgid "Event marker color"
+msgstr "Barva událostí"
+
+msgid "Current day marker color"
+msgstr "Barva aktuálního dne"
+
+msgid "Birthday marker color"
+msgstr "Barva označení narozenin"
+
+msgid "Date font"
+msgstr "Písmo data"
+
+msgid "Calendar font"
+msgstr "Písmo kalendáře"
+
+msgid "Note font"
+msgstr "Písmo poznámek"
+
+msgid "Enable block cursor"
+msgstr "Podbarvení vybraného dne v kalendáři"
+
+msgid "Cursor thickness"
+msgstr "Tloušťka ohraničení vybraného dne"
+
+msgid "Thin"
+msgstr "slabé"
+
+msgid "Thick"
+msgstr "silné"
+
+msgid "Edit category"
+msgstr "Upravit kategorii"
+
+msgid "Color"
+msgstr "Barva"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "OK"
+msgstr "Budiž"
+
+msgid "Select ICS file"
+msgstr "Vybrat ICS soubor"
+
+msgid "All Files"
+msgstr "Všechny soubory"
+
+msgid "Calendar files (*.ics)"
+msgstr "Soubory kalendáře (*.ics)"
+
+msgid "Modify ICAL parameters"
+msgstr "Upravit ICAL parametry"
+
+msgid "Filename"
+msgstr "Jméno souboru"
+
+msgid "Options"
+msgstr "Nastavení"
+
+msgid "Disabled"
+msgstr "Vypnuto"
+
+msgid "Valid"
+msgstr "Platný"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Full date"
+msgstr "Plné datum"
+
+msgid "Mark"
+msgstr "Označit"
+
+msgid "Week start on Monday"
+msgstr "Týden začíná v pondělí"
+
+msgid "Show day names"
+msgstr "Zobrazit jména dní"
+
+msgid "No month change"
+msgstr "Neměnit měsíc"
+
+msgid "Show week numbers"
+msgstr "Zobrazit číslo týdne"
+
+msgid "Simple view in full-year calendar"
+msgstr "Krátké popisy ročního kalendáře"
+
+msgid "Enable auxilary calendars"
+msgstr "Zapnout malé kalendáře"
+
+msgid "Ascending sorting in day notes browser"
+msgstr "Vzestupné řazení při prohlížeči denních poznámek"
+
+msgid "Enable spell checker in day notes"
+msgstr "Zapnout kontrolu jazyka u denních poznámek"
+
+msgid "Appearance"
+msgstr "Vzhled"
+
+msgid "Day categories"
+msgstr "Kategorie dní"
+
+msgid "iCalendar files"
+msgstr "Soubory iCalendar"
+
+msgid "Show in day info panel"
+msgstr "Zobrazit v panelu informací"
+
+msgid "Name day"
+msgstr "Jmeniny"
+
+msgid "Error printing"
+msgstr "Chyba tisku"
+
+msgid "Printing properties"
+msgstr "Nastavení tisku"
+
+msgid "Month name"
+msgstr "Jméno měsíce"
+
+msgid "Day name"
+msgstr "Jméno dne"
+
+msgid "Events"
+msgstr "Události"
+
+msgid "Fonts"
+msgstr "Fonty"
+
+msgid "Birthdays"
+msgstr "Narozeniny"
+
+msgid "Namedays"
+msgstr "Jmeniny"
+
+msgid "Visible events"
+msgstr "Viditelné události"
+
+msgid "Padding"
+msgstr "Bloky"
+
+msgid "Event maximum length"
+msgstr "Maximální délka události"
+
+msgid "Page orientation:"
+msgstr "Orientace strany:"
+
+msgid "Portrait"
+msgstr "Na výšku"
+
+msgid "Landscape"
+msgstr "Na šířku"
+
+msgid "Timeline"
+msgstr "Časová linie"
+
+msgid "From (hour)"
+msgstr "Od (hodina)"
+
+msgid "Step (minutes)"
+msgstr "Kroky (minuty)"
+
+msgid "To (hour)"
+msgstr "Do (hodina)"
+
+msgid "No date"
+msgstr "Žádné datum"
+
+msgid "Rat"
+msgstr "Krysa"
+
+msgid "Ox"
+msgstr "Buvol"
+
+msgid "Tiger"
+msgstr "Tygr"
+
+msgid "Hare"
+msgstr "Zajíc"
+
+msgid "Dragon"
+msgstr "Drak"
+
+msgid "Snake"
+msgstr "Had"
+
+msgid "Horse"
+msgstr "Kůň"
+
+msgid "Sheep"
+msgstr "Ovce"
+
+msgid "Monkey"
+msgstr "Opice"
+
+msgid "Fowl"
+msgstr "Kohout"
+
+msgid "Dog"
+msgstr "Pes"
+
+msgid "Pig"
+msgstr "Vepř"
+
+msgid "Unknown"
+msgstr "Neznámý"
+
+msgid "Aquarius"
+msgstr "Vodnář"
+
+msgid "Pisces"
+msgstr "Ryba"
+
+msgid "Aries"
+msgstr "Beran"
+
+msgid "Taurus"
+msgstr "Býk"
+
+msgid "Gemini"
+msgstr "Blíženci"
+
+msgid "Cancer"
+msgstr "Rak"
+
+msgid "Leo"
+msgstr "Lev"
+
+msgid "Virgo"
+msgstr "Panna"
+
+msgid "Libra"
+msgstr "Váhy"
+
+msgid "Scorpio"
+msgstr "Štír"
+
+msgid "Sagittarius"
+msgstr "Střelec"
+
+msgid "Capricorn"
+msgstr "Kozoroh"
+
+msgid "Cannot perform selected operation."
+msgstr "Nelze provést vybranou operaci."
+
+msgid "Task has been modified or removed."
+msgstr "Úloha byla upravena nebo odstraněna."
+
+msgid "Remind me later"
+msgstr "Upozorni mě později"
+
+msgid "Done"
+msgstr "Hotovo"
+
+msgid "postponed"
+msgstr "pozdrženo"
+
+msgid "Show task"
+msgstr "Zobrazit úkol"
+
+msgid "Alarm warning!"
+msgstr "Varování alarmu!"
+
+msgid "Day note"
+msgstr "Poznámka na den"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Event"
+msgstr "Událost"
+
+msgid "Task"
+msgstr "Úkol"
+
+msgid "Show Osmo"
+msgstr "Zobrazit Osmo"
+
+msgid "No birthdays defined"
+msgstr "Narozeniny nejsou určeny"
+
+msgid "Birthdays list"
+msgstr "Seznam narozenin"
+
+msgid "Days to birthday"
+msgstr "Dnů do narozenin"
+
+msgid "Age"
+msgstr "Věk"
+
+msgid "Birthday date"
+msgstr "Datum narození"
+
+msgid "today"
+msgstr "dnes"
+
+msgid "Please select address"
+msgstr "Vybrat adresu"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "Work"
+msgstr "Zaměstnání"
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Group"
+msgstr "Skupina"
+
+msgid "First name"
+msgstr "Jméno"
+
+msgid "Last name"
+msgstr "Příjmení"
+
+msgid "Second name"
+msgstr "Druhé jméno"
+
+msgid "Nickname"
+msgstr "Přezdívka"
+
+msgid "Tags"
+msgstr "Tagy"
+
+msgid "Name day date"
+msgstr "Jmeniny"
+
+msgid "Home address"
+msgstr "Adresa domů"
+
+msgid "Home postcode"
+msgstr "PSČ"
+
+msgid "Home city"
+msgstr "Město"
+
+msgid "Home state"
+msgstr "Kraj"
+
+msgid "Home country"
+msgstr "Země"
+
+msgid "Organization"
+msgstr "Organizace"
+
+msgid "Department"
+msgstr "Oddělení"
+
+msgid "Work address"
+msgstr "Adresa domů"
+
+msgid "Work postcode"
+msgstr "PSČ"
+
+msgid "Work city"
+msgstr "Město zaměstnání"
+
+msgid "Work state"
+msgstr "Stát zaměstnání"
+
+msgid "Work country"
+msgstr "Země zaměstnání"
+
+msgid "Fax"
+msgstr "Fax"
+
+msgid "Home phone"
+msgstr "Telefon domů"
+
+msgid "Home phone 2"
+msgstr "Telefon domů 2"
+
+msgid "Home phone 3"
+msgstr "Telefon domů 3"
+
+msgid "Home phone 4"
+msgstr "Telefon domů 4"
+
+msgid "Work phone"
+msgstr "Telefon do zaměstnání"
+
+msgid "Work phone 2"
+msgstr "Telefon do zaměstnání 2"
+
+msgid "Work phone 3"
+msgstr "Telefon do zaměstnání 3"
+
+msgid "Work phone 4"
+msgstr "Telefon do zaměstnání 4"
+
+msgid "Cell phone"
+msgstr "Mobilní telefon"
+
+msgid "Cell phone 2"
+msgstr "Mobilní telefon 2"
+
+msgid "Cell phone 3"
+msgstr "Mobilní telefon 3"
+
+msgid "Cell phone 4"
+msgstr "Mobilní telefon 4"
+
+msgid "E-Mail"
+msgstr "E-mail"
+
+msgid "E-Mail 2"
+msgstr "E-mail 2"
+
+msgid "E-Mail 3"
+msgstr "E-mail 3"
+
+msgid "E-Mail 4"
+msgstr "E-mail 4"
+
+msgid "WWW"
+msgstr "Web"
+
+msgid "WWW 2"
+msgstr "Web 2"
+
+msgid "WWW 3"
+msgstr "Web 3"
+
+msgid "WWW 4"
+msgstr "Web 4"
+
+msgid "IM Gadu-Gadu"
+msgstr "Gadu-Gadu"
+
+msgid "IM Yahoo"
+msgstr "Yahoo"
+
+msgid "IM MSN"
+msgstr "MSN"
+
+msgid "IM ICQ"
+msgstr "ICQ"
+
+msgid "IM AOL"
+msgstr "AOL"
+
+msgid "IM Jabber"
+msgstr "Jabber"
+
+msgid "IM Skype"
+msgstr "Skype"
+
+msgid "IM Tlen"
+msgstr "Tlen"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Photo"
+msgstr "Fotografie"
+
+msgid "Additional info"
+msgstr "Další informace"
+
+msgid "New contact"
+msgstr "Přidat kontakt"
+
+msgid "Remove contact"
+msgstr "Odstranit kontakt"
+
+msgid "Edit contact"
+msgstr "Upravit kontakt"
+
+msgid "Show birthdays"
+msgstr "Zobrazit narozeniny"
+
+msgid "Show contact location on the map"
+msgstr "Zobrazit umístění kontaktu na mapě"
+
+msgid "Import contacts"
+msgstr "Importovat kontakty"
+
+msgid "Export contacts"
+msgstr "Exportovat kontakty"
+
+msgid "First Name"
+msgstr "Jméno"
+
+msgid "Last Name"
+msgstr "Příjmení"
+
+msgid "All fields"
+msgstr "Všechna pole"
+
+msgid "Contact details"
+msgstr "Detaily kontaktu"
+
+msgid "Close contact panel"
+msgstr "Zavřít detaily kontaktu"
+
+msgid "contact exported"
+msgid_plural "contacts exported"
+msgstr[0] "kontakt exportován"
+msgstr[1] "kontakty exportovány"
+msgstr[2] "kontaktů exportováno"
+
+msgid "Cannot create file."
+msgstr "Nelze vytvořit soubor."
+
+msgid "Output format"
+msgstr "Výstupní formát"
+
+msgid "Add header"
+msgstr "Přidat hlavičku"
+
+msgid "Fields to export"
+msgstr "Pole pro export"
+
+msgid "All"
+msgstr "Vše"
+
+msgid "Invert"
+msgstr "Prohodit"
+
+msgid "Select fields"
+msgstr "Vybrat pole"
+
+msgid "Select CSV file"
+msgstr "Vybrat CSV soubor"
+
+msgid "CSV (comma-separated values) files (*.csv)"
+msgstr "CVS (hodnoty oddělené čárkou) soubor (*.csv)"
+
+msgid "Please select file first."
+msgstr "Nejprve je třeba vybrat soubor."
+
+msgid "Import type"
+msgstr "Typ pro import"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "Input filename"
+msgstr "Jméno vstupního souboru"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "Channel"
+msgstr "Kanál"
+
+msgid "Interface"
+msgstr "Rozhraní"
+
+msgid "Use binary XML (WBXML)"
+msgstr "Použít binární XML (WBXML)"
+
+msgid "Import"
+msgstr "Importovat"
+
+msgid "Nothing to import."
+msgstr "Není co importovat."
+
+msgid "contact added"
+msgid_plural "contacts added"
+msgstr[0] "kontakt přidán"
+msgstr[1] "kontakty přidány"
+msgstr[2] "kontaktů přidáno"
+
+msgid "of"
+msgstr "z"
+
+msgid "Record"
+msgstr "Záznam"
+
+msgid "Number fields per record"
+msgstr "Počet polí na záznam"
+
+msgid "Use first record as header"
+msgstr "Použít první záznam jako hlavičku"
+
+msgid "Field type"
+msgstr "Typ pole"
+
+msgid "Value"
+msgstr "Hodnota"
+
+msgid "No records found in selected file."
+msgstr "Ve vybraném souboru nebyly nalezeny žádné hodnoty."
+
+msgid "Cannot read file."
+msgstr "Nelze číst soubor."
+
+msgid "Cannot open file."
+msgstr "Nelze otevřít soubor."
+
+msgid "Selected contact will be removed."
+msgstr "Vybraný kontakt bude odstraněn."
+
+msgid "Select photo"
+msgstr "Vybrat fotografii"
+
+msgid "Postcode"
+msgstr "PSČ"
+
+msgid "City"
+msgstr "Město"
+
+msgid "State"
+msgstr "Stát"
+
+msgid "Country"
+msgstr "Země"
+
+msgid "Add contact"
+msgstr "Přidat kontakt"
+
+msgid "Personal"
+msgstr "Osobní"
+
+msgid "Phones"
+msgstr "Telefony"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Color of contact tags"
+msgstr "Barva popisku u kontaktů"
+
+msgid "Color of links"
+msgstr "Barva odkazů"
+
+msgid "Font size"
+msgstr "Velikost písma"
+
+msgid "Name font size"
+msgstr "Velikost písma jmen"
+
+msgid "Item font size"
+msgstr "Písmo položky"
+
+msgid "Photo size"
+msgstr "Velikost fotografie"
+
+msgid "Small"
+msgstr "malá"
+
+msgid "Medium"
+msgstr "střední"
+
+msgid "Large"
+msgstr "velká"
+
+msgid "Select and show first item after search"
+msgstr "Vybrat a zobrazit první vyhledaný výraz"
+
+msgid "Hide group column"
+msgstr "Skrýt sloupec skupiny"
+
+msgid "Order"
+msgstr "Pořadí"
+
+msgid "Mode"
+msgstr "Řazení"
+
+msgid "Ascending"
+msgstr "vzestupně"
+
+msgid "Descending"
+msgstr "sestupně"
+
+msgid "Miscellaneous"
+msgstr "Ostatní"
+
+msgid "Groups"
+msgstr "Skupiny"
+
+msgid "Sorting"
+msgstr "Řazení"
+
+msgid "Visible columns in birthday browser"
+msgstr "Viditelné sloupce v prohlížeči narozenin"
+
+msgid "Show calendar"
+msgstr "Zobrazit kalendář"
+
+msgid "Show tasks"
+msgstr "Zobrazit úkoly"
+
+msgid "Show contacts"
+msgstr "Zobrazit kontakty"
+
+msgid "Show notes"
+msgstr "Zobrazit poznámky"
+
+msgid "Show options"
+msgstr "Zobrazit nastavení"
+
+msgid "Quit"
+msgstr "Ukončit"
+
+msgid "Show small calendar window"
+msgstr "Zobrazit malé okno kalendáře"
+
+msgid "Check for events since last run"
+msgstr "Zkontrolovat události od posledního spuštění"
+
+msgid "Number of days to check forward for events (default: 0)"
+msgstr "V kolika nadcházejících dnech hledat události (přednastaveno: 0)"
+
+msgid "Set absolute path for settings and data files"
+msgstr "Nastavit absolutní cestu ke konfiguračním a datovým souborům"
+
+msgid "Modify GUI to use Osmo on low resolutions"
+msgstr "Upravit grafické rozhraní pro použití v nízkém rozlišení"
+
+msgid "handy personal organizer"
+msgstr "šikovný osobní organizér"
+
+msgid "ERROR: Cannot create config files"
+msgstr "CHYBA: Nelze zapsat konfigurační soubory"
+
+msgid "Another copy of OSMO is already running."
+msgstr "Již běží jiná kopie programu OSMO."
+
+msgid "Simultaneously use two or more copies of OSMO can be a cause of data loss."
+msgstr "Současné používání dvou a více spuštěných kopií programu OSMO může zapříčinit ztrátu dat."
+
+msgid "Do you really want to continue?"
+msgstr "Opravdu si přejete pokračovat?"
+
+msgid "Warning"
+msgstr "Varování"
+
+msgid "The note has changed."
+msgstr "Poznámka byla změněna."
+
+msgid "Do you want to save it?"
+msgstr "Mám změny opravdu uložit?"
+
+msgid "Words"
+msgstr "Slov"
+
+msgid "Lines"
+msgstr "Řádek"
+
+msgid "Characters"
+msgstr "Znaků"
+
+msgid "White characters"
+msgstr "Bílých znaků"
+
+msgid "Bytes"
+msgstr "Bytů"
+
+msgid "Document"
+msgstr "Dokument"
+
+msgid "Selection"
+msgstr "Výběr"
+
+msgid "Created"
+msgstr "Vytvořeno"
+
+msgid "Modified"
+msgstr "Upraveno"
+
+msgid "New note"
+msgstr "Nová poznámka"
+
+msgid "Add note"
+msgstr "Přidat poznámku"
+
+msgid "Edit note"
+msgstr "Upravit poznámku"
+
+msgid "Delete note"
+msgstr "Smazat poznámku"
+
+msgid "Remove note"
+msgstr "Odstranit poznámku"
+
+msgid "Find"
+msgstr "Najít"
+
+msgid "Clear attributes"
+msgstr "Zrušit formátování"
+
+msgid "Save note"
+msgstr "Uložit poznámku"
+
+msgid "Insert current date and time"
+msgstr "Vložit aktuální datum a čas"
+
+msgid "Insert separator"
+msgstr "Vložit oddělovač"
+
+msgid "Statistics"
+msgstr "Statistiky"
+
+msgid "Close editor"
+msgstr "Zavřít editor"
+
+msgid "Toggle spell checker"
+msgstr "Přepnout kontrolu jazyka"
+
+msgid "Category"
+msgstr "Kategorie"
+
+msgid "Note name"
+msgstr "Jméno poznámky"
+
+msgid "Last changes"
+msgstr "Poslední změny"
+
+msgid "Read-only"
+msgstr "Pouze pro čtení"
+
+msgid "Line"
+msgstr "Řádka"
+
+msgid "Column"
+msgstr "Sloupec"
+
+msgid "case sensitive"
+msgstr "rozlišovat velikost písmen"
+
+msgid "Close find entry"
+msgstr "Zavřít hledání"
+
+msgid "Edit entry"
+msgstr "Upravit záznam"
+
+msgid "Remember cursor position"
+msgstr "Zapamatovat pozici kurzoru"
+
+msgid "Selected note will be removed."
+msgstr "Vybraná poznámka bude odstraněna."
+
+msgid "No further data recovery will be possible."
+msgstr "Nebude možné žádné obnovení dat"
+
+msgid "Plain"
+msgstr "Normální"
+
+msgid "Encrypted"
+msgstr "Šifrované"
+
+msgid "Note type"
+msgstr "Typ poznámky"
+
+msgid "Cannot open the note."
+msgstr "Nelze otevřít poznámku."
+
+msgid "encryption support is disabled"
+msgstr "podpora šifrování vypnuta"
+
+msgid "Authorization"
+msgstr "Autorizace"
+
+msgid "Algorithm"
+msgstr "Algoritmus"
+
+msgid "Hashing"
+msgstr "Hash"
+
+msgid "Compression"
+msgstr "Komprese"
+
+msgid "Ratio"
+msgstr "Poměr"
+
+msgid "Fast"
+msgstr "Rychlá"
+
+msgid "Good"
+msgstr "Střední"
+
+msgid "Best"
+msgstr "Nejlepší"
+
+msgid "Remember the last selected category"
+msgstr "Zapamatovat si poslední vybranou kategorii"
+
+msgid "Use system format for date and time"
+msgstr "Formát data a času stejný jako v systému"
+
+msgid "Encryption"
+msgstr "Šifrování"
+
+msgid "Visible columns"
+msgstr "Viditelné sloupce"
+
+msgid "Categories"
+msgstr "Kategorie"
+
+msgid "Notes options"
+msgstr "Nastavení poznámek"
+
+msgid "Osmo has to be restarted to take effect."
+msgstr "Je třeba restartovat Osmo k provedení změny."
+
+msgid "Layout"
+msgstr "Vzhled"
+
+msgid "Vertical"
+msgstr "Svisle"
+
+msgid "Horizontal"
+msgstr "Vodorovně"
+
+msgid "Tabs position"
+msgstr "Pozice záložek"
+
+msgid "Left"
+msgstr "Vlevo"
+
+msgid "Right"
+msgstr "Vpravo"
+
+msgid "Top"
+msgstr "Nahoře"
+
+msgid "Bottom"
+msgstr "Dole"
+
+msgid "Use default stock icons (needs restart)"
+msgstr "Použít základní sadu ikon (nutný restart aplikace)"
+
+msgid "Disable underline in links"
+msgstr "Vypnout podtrhávání odkazů"
+
+msgid "Draw rows in alternating colors"
+msgstr "Vykreslovat řádky v rozdílných barvách"
+
+msgid "At least one module must be visible."
+msgstr "Minimálně jeden modul musí být viditelný."
+
+msgid "Override locale settings"
+msgstr "Potlačit nastavení jazyka"
+
+msgid "Date format"
+msgstr "Formát data"
+
+msgid "DD-MM-YYYY"
+msgstr "dd-mm-rrrr"
+
+msgid "MM-DD-YYYY"
+msgstr "mm-dd-rrrr"
+
+msgid "YYYY-MM-DD"
+msgstr "rrrr-mm-dd"
+
+msgid "YYYY-DD-MM"
+msgstr "rrrr-dd-mm"
+
+msgid "Time format"
+msgstr "Formát času"
+
+msgid "hours"
+msgstr "hodin"
+
+msgid "Spell checker language"
+msgstr "Slovník kontroly jazyka"
+
+msgid "Enable tooltips"
+msgstr "Zobrazovat tipy"
+
+msgid "Remember last selected page"
+msgstr "Pamatovat si poslední vybranou stranu"
+
+msgid "Save data after every modification"
+msgstr "Uložit data po každé změně"
+
+msgid "Web browser"
+msgstr "Webový prohlížeč"
+
+msgid "E-mail client"
+msgstr "E-mailový klient"
+
+msgid "Sound player"
+msgstr "Přehrávač zvuku"
+
+#, c-format
+msgid "The %s pattern will be replaced with web address"
+msgstr "Výraz %s bude nahrazen webovou adresou"
+
+#, c-format
+msgid "The %s pattern will be replaced with e-mail address"
+msgstr "Výraz %s bude nahrazen emailovou adresou"
+
+#, c-format
+msgid "The %s pattern will be replaced with sound filename"
+msgstr "Výraz %s bude nahrazen zvukovým souborem"
+
+msgid "Create"
+msgstr "Vytvořit"
+
+msgid "Restore"
+msgstr "Obnovit"
+
+msgid "Enable system tray"
+msgstr "Zobrazovat ikonu v liště"
+
+msgid "Start minimised"
+msgstr "Skrýt po startu"
+
+msgid "Blink on events"
+msgstr "Blikat při událostech"
+
+msgid "Ignore day note events"
+msgstr "Ignorovat události v denních poznámkách"
+
+msgid "Hide"
+msgstr "Skrýt"
+
+msgid "Helpers"
+msgstr "Pomocníci"
+
+msgid "Backup"
+msgstr "Záloha"
+
+msgid "System tray"
+msgstr "Systémová lišta"
+
+msgid "Edit"
+msgstr "Upravit"
+
+msgid "Go Down"
+msgstr "Jít níže"
+
+msgid "Select date"
+msgstr "Vybrat datum"
+
+msgid "Select font"
+msgstr "Vybrat písmo"
+
+msgid "Calculator"
+msgstr "Kalkulačka"
+
+msgid "Edit day note"
+msgstr "Upravit poznámku"
+
+msgid "Contact map location"
+msgstr "Umístění kontaktu na mapě"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Display full-year calendar"
+msgstr "Zobrazit celoroční kalendář"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Invalid item"
+msgstr "Neplatná položka"
+
+msgid "Valid item"
+msgstr "Platná položka"
+
+msgid "Edit task"
+msgstr "Upravit úkol"
+
+msgid "Remove task"
+msgstr "Odstranit úkol"
+
+msgid "Import tasks"
+msgstr "Importovat úkoly"
+
+msgid "Export tasks"
+msgstr "Exportovat úkoly"
+
+msgid "Change to previous date"
+msgstr "Změnit na předchozí datum"
+
+msgid "Change to next date"
+msgstr "Změnit na následující datum"
+
+msgid "Print"
+msgstr "Tisk"
+
+msgid "Normal"
+msgstr "Normální"
+
+msgid "Recurrent"
+msgstr "Opakující"
+
+msgid "Started"
+msgstr "Započato"
+
+msgid "Finished"
+msgstr "Ukončeno"
+
+msgid "All items"
+msgstr "Všechny soubory"
+
+msgid "New task"
+msgstr "Nový úkol"
+
+msgid "Change due date to previous date"
+msgstr "Změnit datum vypršení na předešlé datum"
+
+msgid "Change due date to next date"
+msgstr "Změnit datum vypršení na následující datum"
+
+msgid "Print visible tasks list"
+msgstr "Vytisknout viditelný seznam úkolů"
+
+msgid "Due date"
+msgstr "Datum"
+
+msgid "Priority"
+msgstr "Priorita"
+
+msgid "Task details"
+msgstr "Detaily úkolu"
+
+msgid "Close description panel"
+msgstr "Zavřít detaily úkolu"
+
+msgid "No tasks with defined date found."
+msgstr "Nenalezeny žádné úkoly s daty vypršení."
+
+msgid "Save tasks"
+msgstr "Uložit úkoly"
+
+msgid "tasks exported"
+msgstr "úkoly exportovány"
+
+msgid "Please select at least one day when recurrency is enabled."
+msgstr "Při zapnutém opakování je třeba vybrat alespoň jeden den."
+
+msgid "Set time"
+msgstr "Nastavit čas"
+
+msgid "Tomorrow"
+msgstr "Zítra"
+
+msgid "Selected task will be removed."
+msgstr "Vybraný úkol bude odstraněn."
+
+msgid "Basic"
+msgstr "Základní"
+
+msgid "Select date and time"
+msgstr "Vybrat datum a čas"
+
+msgid "Low"
+msgstr "Nízká"
+
+msgid "High"
+msgstr "Vysoká"
+
+msgid "Enable sound notification"
+msgstr "Zapnout zvukové upozornění"
+
+msgid "Advanced"
+msgstr "Rozšířené"
+
+msgid "Alarm warning"
+msgstr "Varování alarmu"
+
+msgid "Postpone time"
+msgstr "Pozdržet čas"
+
+msgid "Alarm command"
+msgstr "Příkaz pro varování"
+
+msgid "Recurrent task"
+msgstr "Opakovaný úkol"
+
+msgid "Enable"
+msgstr "Povolit"
+
+msgid "Start"
+msgstr "Začátek"
+
+msgid "End"
+msgstr "Konec"
+
+msgid "Interval"
+msgstr "Interval"
+
+msgid "Time period"
+msgstr "Podle času"
+
+msgid "Date period"
+msgstr "Podle data"
+
+msgid "Repeat"
+msgstr "Opakovat"
+
+msgid "Repeat in the following days"
+msgstr "Opakovat v následujících dnech"
+
+msgid "Ignore alarm when task expired offline"
+msgstr "Ignorovat alarm pokud úkol proběhne offline"
+
+msgid "Select a font..."
+msgstr "Vybrat písmo ..."
+
+msgid "Color of items that are due today"
+msgstr "Barva záznamů na dnešní den"
+
+msgid "Color of items that are due in the next 7 days"
+msgstr "Barva záznamů na příštích 7 dní"
+
+msgid "Color of items that are past due"
+msgstr "Barva záznamů v minulosti"
+
+msgid "Task info font"
+msgstr "Písmo detailů úkolu"
+
+msgid "Show in bold tasks with high priority"
+msgstr "Úkoly s vysokou prioritou zobrazit tučně"
+
+msgid "Hide completed tasks"
+msgstr "Skrýt splněné úkoly"
+
+msgid "Delete completed tasks without confirmation"
+msgstr "Mazat splněné úkoly bez potvrzení"
+
+msgid "Add new task when double clicked on tasks list"
+msgstr "Přidat nový úkol po dvojkliku na seznam úkolů"
+
+msgid "minutes"
+msgstr "minuty"
+
+msgid "0 for disable"
+msgstr "0 pro vypnutí"
+
+msgid "Repeat sound alarm"
+msgstr "Opakovat zvukový alarm"
+
+msgid "times"
+msgstr "časy"
+
+msgid "Global notification command"
+msgstr "Všeobecný příkaz pro oznamování"
+
+msgid "Tasks options"
+msgstr "Nastavení úkolů"
+
+msgid "Reminder options"
+msgstr "Možnosti upomínek"
+
+msgid "Tasks list"
+msgstr "Seznam úkolů"
+
+#. TRANSLATORS: "No." is an abbreviation of word "number"
+msgid "No."
+msgstr "č."
+
+msgid "New Moon"
+msgstr "nov"
+
+msgid "Waxing Crescent Moon"
+msgstr "dorůstající srpek"
+
+msgid "Quarter Moon"
+msgstr "první čtvrť"
+
+msgid "Waxing Gibbous Moon"
+msgstr "dorůstající měsíc"
+
+msgid "Full Moon"
+msgstr "úplněk"
+
+msgid "Waning Gibbous Moon"
+msgstr "couvající měsíc"
+
+msgid "Last Quarter Moon"
+msgstr "poslední čtvrť"
+
+msgid "Waning Crescent Moon"
+msgstr "ubývající srpek"
+
+msgid "Question"
+msgstr "Dotaz"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Selected file exist! Overwrite?"
+msgstr "Vybraný soubor existuje! Přepsat?"
+
+#~ msgid "Editor font"
+#~ msgstr "Nastavení písma"
+
+#~ msgid "Category filter"
+#~ msgstr "Filtr kategorií"
+
+#~ msgid "Modify color"
+#~ msgstr "Upravit barvu"
+
+#~ msgid "ICal"
+#~ msgstr "ICal"
+
+#~ msgid "change day while note editing"
+#~ msgstr "změnit den během upravování poznámky"
+
+#~ msgid "close day note panel"
+#~ msgstr "zavřít panel poznámek"
+
+#~ msgid "mark selection in bold"
+#~ msgstr "zvýraznit výběr tučně"
+
+#~ msgid "mark selection in italic"
+#~ msgstr "zvýraznit výběr kurzívou"
+
+#~ msgid "mark selection in background color"
+#~ msgstr "označ výběr barvou pozadí"
+
+#~ msgid "underline selection"
+#~ msgstr "podtrhnout výběr"
+
+#~ msgid "strikethrough selection"
+#~ msgstr "přeškrtnout výběr"
+
+#~ msgid "a handy personal organizer"
+#~ msgstr "šikovný osobní organizér"
+
+#~ msgid "Use year"
+#~ msgstr "Použít rok"
+
+#~ msgid "Inactive recurrent"
+#~ msgstr "Neaktivní opakující"
+
+#~ msgid "Birthday found"
+#~ msgstr "Narozeniny nalezeny"
+
+#~ msgid "Task found"
+#~ msgstr "Úkol nalezen"
+
+#~ msgid "Day note available"
+#~ msgstr "Dostupná poznámka pro den"
