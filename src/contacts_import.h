@@ -26,12 +26,6 @@
 
 enum {
     IMPORT_TYPE_FILE = 0,
-    IMPORT_TYPE_SYNCML
-};
-
-enum {
-    SYNCML_BLUETOOTH = 0,
-    SYNCML_USB
 };
 
 void        import_contacts_show_dialog     (GUI *appGUI);

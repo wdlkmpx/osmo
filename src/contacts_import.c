@@ -21,7 +21,6 @@
 
 #include "contacts_import.h"
 #include "contacts_import_csv.h"
-#include "contacts_import_syncml.h"
 #include "i18n.h"
 #include "utils.h"
 #include "utils_date.h"
@@ -40,41 +39,18 @@ import_store_values (GUI *appGUI) {
 
     config.import_type = gtk_combo_box_get_active (GTK_COMBO_BOX (appGUI->cnt->import_type_combobox));
 
-    if (gtk_toggle_button_get_active (GTK_TOGGLE_BUTTON(appGUI->cnt->bluetooth_radiobutton)) == TRUE) {
-        config.import_interface_type = SYNCML_BLUETOOTH;
-    }
-    if (gtk_toggle_button_get_active (GTK_TOGGLE_BUTTON(appGUI->cnt->usb_radiobutton)) == TRUE) {
-        config.import_interface_type = SYNCML_USB;
-    }
-
-    strncpy(config.import_bluetooth_address, 
-            gtk_entry_get_text (GTK_ENTRY(appGUI->cnt->bluetooth_address_entry)), MAXADDRESS-1);
-
     config.import_binary_xml = gtk_toggle_button_get_active (GTK_TOGGLE_BUTTON (appGUI->cnt->use_wbxml_checkbutton));
 
-    config.import_bluetooth_channel = gtk_spin_button_get_value_as_int (GTK_SPIN_BUTTON(appGUI->cnt->bluetooth_channel_spinbutton)); 
-    config.import_usb_interface = gtk_spin_button_get_value_as_int (GTK_SPIN_BUTTON(appGUI->cnt->usb_interface_spinbutton)); 
 }
 
 /*-------------------------------------------------------------------------------------*/
 
-#ifndef HAVE_LIBSYNCML
 gboolean
 import_contacts_select_file (GUI *appGUI) {
-#else
-void
-import_contacts_select_file_cb (GtkWidget *widget, gpointer user_data) {
-#endif
 
 GtkWidget *dialog;
 GtkFileFilter *filter_1, *filter_2;
-#ifndef HAVE_LIBSYNCML
 gboolean ret = FALSE;
-#endif
-
-#ifdef HAVE_LIBSYNCML
-    GUI *appGUI = (GUI *)user_data;
-#endif
 
     dialog = gtk_file_chooser_dialog_new(_("Select CSV file"),
                                          GTK_WINDOW(appGUI->cnt->import_sel_window),
@@ -102,38 +78,23 @@ gboolean ret = FALSE;
 
     if (gtk_dialog_run(GTK_DIALOG(dialog)) == GTK_RESPONSE_ACCEPT) {
 
-#ifdef HAVE_LIBSYNCML
-        gtk_widget_hide(dialog);
-
-        gtk_entry_set_text (GTK_ENTRY(appGUI->cnt->input_file_entry), 
-                            gtk_file_chooser_get_filename(GTK_FILE_CHOOSER(dialog)));
-
-#else
         gtk_widget_hide(dialog);
         while (g_main_context_iteration(NULL, FALSE));
 
         ret = add_csv_records(gtk_file_chooser_get_filename(GTK_FILE_CHOOSER(dialog)), appGUI);
-#endif
 
     }
 
     gtk_widget_destroy(dialog);
 
-#ifndef HAVE_LIBSYNCML
     return ret;
-#endif
-
 }
 
 /*-------------------------------------------------------------------------------------*/
 
 gboolean
 import_contacts_from_csv_file (GUI *appGUI) {
-#ifndef HAVE_LIBSYNCML
     return import_contacts_select_file (appGUI);
-#else
-    return FALSE;
-#endif
 }
 
 /*-------------------------------------------------------------------------------------*/
@@ -192,11 +153,6 @@ gint import_type;
     switch (import_type) {
         case IMPORT_TYPE_FILE:
             gtk_widget_set_sensitive(appGUI->cnt->file_import_vbox, TRUE);
-            gtk_widget_set_sensitive(appGUI->cnt->syncml_import_vbox, FALSE);
-            break;
-        case IMPORT_TYPE_SYNCML:
-            gtk_widget_set_sensitive(appGUI->cnt->syncml_import_vbox, TRUE);
-            gtk_widget_set_sensitive(appGUI->cnt->file_import_vbox, FALSE);
             break;
     }
 
@@ -207,22 +163,6 @@ gint import_type;
 gboolean
 import_sel_combo_box_focus_cb (GtkWidget *widget, GtkDirectionType *arg1, gpointer user_data) {
     return TRUE;
-}
-
-/*------------------------------------------------------------------------------*/
-
-void
-import_sel_interface_changed_cb (GtkButton *button, gpointer user_data) {
-
-    GUI *appGUI = (GUI *)user_data;
-
-    if (gtk_toggle_button_get_active (GTK_TOGGLE_BUTTON(appGUI->cnt->bluetooth_radiobutton)) == TRUE) {
-        gtk_widget_show (appGUI->cnt->bluetooth_params_hbox);
-        gtk_widget_hide (appGUI->cnt->usb_params_hbox);
-    } else {
-        gtk_widget_show (appGUI->cnt->usb_params_hbox);
-        gtk_widget_hide (appGUI->cnt->bluetooth_params_hbox);
-    }
 }
 
 /*------------------------------------------------------------------------------*/
@@ -249,14 +189,6 @@ import_sel_cb (GtkWidget *widget, gpointer user_data) {
         }
         add_csv_records(text, appGUI);
 
-    } else {
-
-        /* SYNCML */
-
-#ifdef HAVE_LIBSYNCML
-        import_contacts_from_syncml (config.import_interface_type, appGUI);
-#endif
-
     }
 
     import_sel_window_close_cb (NULL, NULL, appGUI);
@@ -278,8 +210,6 @@ GtkWidget *vbox4;
 GtkWidget *hbox6;
 GSList *radiobutton_group = NULL;
 GtkWidget *hbox7;
-GtkObject *bluetooth_channel_spinbutton_adj;
-GtkObject *usb_interface_spinbutton_adj;
 GtkWidget *cancel_button;
 GtkWidget *hbuttonbox;
 gchar tmpbuf[BUFFER_SIZE];
@@ -323,7 +253,6 @@ gchar tmpbuf[BUFFER_SIZE];
     gtk_widget_show (appGUI->cnt->import_type_combobox);
     gtk_box_pack_start (GTK_BOX (hbox1), appGUI->cnt->import_type_combobox, FALSE, FALSE, 8);
     gtk_combo_box_append_text (GTK_COMBO_BOX (appGUI->cnt->import_type_combobox), _("File"));
-    gtk_combo_box_append_text (GTK_COMBO_BOX (appGUI->cnt->import_type_combobox), "SyncML");
     g_signal_connect (G_OBJECT (appGUI->cnt->import_type_combobox), "changed",
                       G_CALLBACK (import_type_selected_cb), appGUI);
     g_signal_connect(G_OBJECT(appGUI->cnt->import_type_combobox), "focus",
@@ -361,10 +290,6 @@ gchar tmpbuf[BUFFER_SIZE];
     GTK_WIDGET_UNSET_FLAGS(appGUI->cnt->contacts_browse_button, GTK_CAN_FOCUS);
     gtk_widget_show (appGUI->cnt->contacts_browse_button);
     gtk_box_pack_start (GTK_BOX (hbox4), appGUI->cnt->contacts_browse_button, FALSE, TRUE, 4);
-#ifdef HAVE_LIBSYNCML
-    g_signal_connect(appGUI->cnt->contacts_browse_button, "clicked", 
-                     G_CALLBACK(import_contacts_select_file_cb), appGUI);
-#endif
 
     sprintf (tmpbuf, "<b>%s:</b>", _("Input filename"));
     label = gtk_label_new (tmpbuf);
@@ -372,13 +297,8 @@ gchar tmpbuf[BUFFER_SIZE];
     gtk_frame_set_label_widget (GTK_FRAME (frame), label);
     gtk_label_set_use_markup (GTK_LABEL (label), TRUE);
 
-    appGUI->cnt->syncml_import_vbox = gtk_vbox_new (FALSE, 0);
-    gtk_widget_show (appGUI->cnt->syncml_import_vbox);
-    gtk_box_pack_start (GTK_BOX (vbox1), appGUI->cnt->syncml_import_vbox, FALSE, FALSE, 0);
-
     frame = gtk_frame_new (NULL);
     gtk_widget_show (frame);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->syncml_import_vbox), frame, TRUE, TRUE, 0);
     gtk_frame_set_shadow_type (GTK_FRAME (frame), GTK_SHADOW_NONE);
 
     alignment = gtk_alignment_new (0.5, 0.5, 1, 1);
@@ -394,61 +314,9 @@ gchar tmpbuf[BUFFER_SIZE];
     gtk_widget_show (hbox6);
     gtk_box_pack_start (GTK_BOX (vbox4), hbox6, TRUE, TRUE, 2);
 
-    appGUI->cnt->bluetooth_radiobutton = gtk_radio_button_new_with_mnemonic (NULL, "Bluetooth");
-    gtk_widget_show (appGUI->cnt->bluetooth_radiobutton);
-    gtk_box_pack_start (GTK_BOX (hbox6), appGUI->cnt->bluetooth_radiobutton, FALSE, FALSE, 0);
-    gtk_radio_button_set_group (GTK_RADIO_BUTTON (appGUI->cnt->bluetooth_radiobutton), radiobutton_group);
-    g_signal_connect (G_OBJECT (appGUI->cnt->bluetooth_radiobutton), "clicked",
-                      G_CALLBACK(import_sel_interface_changed_cb), appGUI);
-    radiobutton_group = gtk_radio_button_get_group (GTK_RADIO_BUTTON (appGUI->cnt->bluetooth_radiobutton));
-
-    appGUI->cnt->usb_radiobutton = gtk_radio_button_new_with_mnemonic (NULL, "USB");
-    gtk_widget_show (appGUI->cnt->usb_radiobutton);
-    gtk_box_pack_start (GTK_BOX (hbox6), appGUI->cnt->usb_radiobutton, FALSE, FALSE, 0);
-    gtk_radio_button_set_group (GTK_RADIO_BUTTON (appGUI->cnt->usb_radiobutton), radiobutton_group);
-    radiobutton_group = gtk_radio_button_get_group (GTK_RADIO_BUTTON (appGUI->cnt->usb_radiobutton));
-
     hbox7 = gtk_hbox_new (FALSE, 8);
     gtk_widget_show (hbox7);
     gtk_box_pack_start (GTK_BOX (vbox4), hbox7, TRUE, TRUE, 2);
-
-    appGUI->cnt->bluetooth_params_hbox = gtk_hbox_new (FALSE, 4);
-    gtk_widget_show (appGUI->cnt->bluetooth_params_hbox);
-    gtk_box_pack_start (GTK_BOX (hbox7), appGUI->cnt->bluetooth_params_hbox, TRUE, TRUE, 0);
-
-    sprintf (tmpbuf, "%s:", _("Address"));
-    label = gtk_label_new (tmpbuf);
-    gtk_widget_show (label);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->bluetooth_params_hbox), label, FALSE, FALSE, 0);
-
-    appGUI->cnt->bluetooth_address_entry = gtk_entry_new ();
-    gtk_widget_show (appGUI->cnt->bluetooth_address_entry);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->bluetooth_params_hbox), appGUI->cnt->bluetooth_address_entry, TRUE, TRUE, 0);
-    gtk_entry_set_max_length (GTK_ENTRY(appGUI->cnt->bluetooth_address_entry), 17);    /* 00:00:00:00:00:00 */
-
-    sprintf (tmpbuf, "%s:", _("Channel"));
-    label = gtk_label_new (tmpbuf);
-    gtk_widget_show (label);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->bluetooth_params_hbox), label, FALSE, FALSE, 0);
-
-    bluetooth_channel_spinbutton_adj = gtk_adjustment_new (1, 0, 100, 1, 10, 0);
-    appGUI->cnt->bluetooth_channel_spinbutton = gtk_spin_button_new (GTK_ADJUSTMENT (bluetooth_channel_spinbutton_adj), 1, 0);
-    gtk_widget_show (appGUI->cnt->bluetooth_channel_spinbutton);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->bluetooth_params_hbox), appGUI->cnt->bluetooth_channel_spinbutton, FALSE, FALSE, 0);
-
-    appGUI->cnt->usb_params_hbox = gtk_hbox_new (FALSE, 4);
-    gtk_widget_show (appGUI->cnt->usb_params_hbox);
-    gtk_box_pack_start (GTK_BOX (hbox7), appGUI->cnt->usb_params_hbox, TRUE, TRUE, 0);
-
-    sprintf (tmpbuf, "%s:", _("Interface"));
-    label = gtk_label_new (tmpbuf);
-    gtk_widget_show (label);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->usb_params_hbox), label, FALSE, FALSE, 0);
-
-    usb_interface_spinbutton_adj = gtk_adjustment_new (1, 0, 100, 1, 10, 0);
-    appGUI->cnt->usb_interface_spinbutton = gtk_spin_button_new (GTK_ADJUSTMENT (usb_interface_spinbutton_adj), 1, 0);
-    gtk_widget_show (appGUI->cnt->usb_interface_spinbutton);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->usb_params_hbox), appGUI->cnt->usb_interface_spinbutton, FALSE, FALSE, 0);
 
     sprintf (tmpbuf, "<b>%s</b>", _("Interface"));
     label = gtk_label_new (tmpbuf);
@@ -458,7 +326,6 @@ gchar tmpbuf[BUFFER_SIZE];
 
     frame = gtk_frame_new (NULL);
     gtk_widget_show (frame);
-    gtk_box_pack_start (GTK_BOX (appGUI->cnt->syncml_import_vbox), frame, TRUE, TRUE, 0);
     gtk_frame_set_shadow_type (GTK_FRAME (frame), GTK_SHADOW_NONE);
 
     alignment = gtk_alignment_new (0.5, 0.5, 1, 1);
@@ -502,73 +369,13 @@ gchar tmpbuf[BUFFER_SIZE];
 
     gtk_combo_box_set_active (GTK_COMBO_BOX (appGUI->cnt->import_type_combobox), config.import_type);
 
-    if (config.import_interface_type == 0) {    /* bluetooth */
-        gtk_toggle_button_set_active (GTK_TOGGLE_BUTTON(appGUI->cnt->bluetooth_radiobutton), TRUE);
-    } else {
-        gtk_toggle_button_set_active (GTK_TOGGLE_BUTTON(appGUI->cnt->usb_radiobutton), TRUE);
-    }
-    import_sel_interface_changed_cb (GTK_BUTTON(appGUI->cnt->bluetooth_radiobutton), appGUI);
-
-    gtk_entry_set_text (GTK_ENTRY(appGUI->cnt->bluetooth_address_entry), 
-                        config.import_bluetooth_address);
-
     gtk_toggle_button_set_active (GTK_TOGGLE_BUTTON (appGUI->cnt->use_wbxml_checkbutton), config.import_binary_xml);
-
-    gtk_spin_button_set_value (GTK_SPIN_BUTTON (appGUI->cnt->bluetooth_channel_spinbutton), config.import_bluetooth_channel);
-    gtk_spin_button_set_value (GTK_SPIN_BUTTON (appGUI->cnt->usb_interface_spinbutton), config.import_usb_interface);
 
     gtk_widget_show (appGUI->cnt->import_sel_window);
 
 }
 
 /*-------------------------------------------------------------------------------------*/
-
-/*gboolean*/
-/*import_contacts_from_csv_file (GUI *appGUI) {*/
-
-/*GtkWidget *dialog;*/
-/*gboolean ret = FALSE;*/
-/*GtkFileFilter *filter_1, *filter_2;*/
-
-    /*dialog = gtk_file_chooser_dialog_new(_("Select CSV file"),*/
-                                         /*GTK_WINDOW(appGUI->main_window),*/
-                                         /*GTK_FILE_CHOOSER_ACTION_OPEN,*/
-                                         /*GTK_STOCK_CANCEL, GTK_RESPONSE_CANCEL,*/
-                                         /*GTK_STOCK_OK, GTK_RESPONSE_ACCEPT,*/
-                                         /*NULL);*/
-
-    /*gtk_window_set_position(GTK_WINDOW(dialog), GTK_WIN_POS_CENTER);*/
-    /*gtk_file_chooser_set_select_multiple(GTK_FILE_CHOOSER(dialog), FALSE);*/
-    /*gtk_dialog_set_default_response(GTK_DIALOG(dialog), GTK_RESPONSE_ACCEPT);*/
-
-    /*filter_1 = gtk_file_filter_new();*/
-    /*gtk_file_filter_add_pattern(filter_1, "*");*/
-    /*gtk_file_filter_set_name(GTK_FILE_FILTER(filter_1), _("All Files"));*/
-    /*gtk_file_chooser_add_filter(GTK_FILE_CHOOSER(dialog), filter_1);*/
-
-    /*filter_2 = gtk_file_filter_new();*/
-    /*gtk_file_filter_add_pattern(filter_2, "*.[cC][sS][vV]");*/
-    /*gtk_file_filter_set_name(GTK_FILE_FILTER(filter_2), _("CSV (comma-separated values) files (*.csv)"));*/
-    /*gtk_file_chooser_add_filter(GTK_FILE_CHOOSER(dialog), filter_2);*/
-
-    /*gtk_file_chooser_set_filter(GTK_FILE_CHOOSER(dialog), filter_2);*/
-
-
-    /*if (gtk_dialog_run(GTK_DIALOG(dialog)) == GTK_RESPONSE_ACCEPT) {*/
-
-        /*gtk_widget_hide(dialog);*/
-        /*while (g_main_context_iteration(NULL, FALSE));*/
-
-        /*ret = add_csv_records(gtk_file_chooser_get_filename(GTK_FILE_CHOOSER(dialog)), appGUI);*/
-
-    /*}*/
-
-    /*gtk_widget_destroy(dialog);*/
-
-    /*return ret;*/
-/*}*/
-
-/*------------------------------------------------------------------------------*/
 
 void
 import_window_close_cb (GtkWidget *widget, GdkEvent *event, gpointer user_data) {

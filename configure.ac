@@ -137,22 +137,6 @@ if test "x$contacts" = "xyes"; then
 	AC_DEFINE([CONTACTS_ENABLED], [1], [Contacts module enabled])
 fi
 
-# Checks for libsyncml
-AC_ARG_WITH(libsyncml,
-	[[  --with-libsyncml        enable experimental SyncML plugin]],
-	[if test "x$withval" = "xyes" ; then use_syncml=1 ; else use_syncml=0; fi],
-	use_syncml=0)
-PKG_CHECK_MODULES(LIBSYNCML, libsyncml-1.0 >= 0.4.0, have_syncml=true,
-	have_syncml=false)
-libsyncml="no"
-if test "x$have_syncml" = "xtrue"; then
-	if test "x$use_syncml" = "x1"; then
-		AC_DEFINE([HAVE_LIBSYNCML], [1], [Define to 1 if you have have SyncML support])
-		libsyncml="yes"
-	fi
-fi
-AM_CONDITIONAL([HAVE_LIBSYNCML], test "x$libsyncml" = "xyes")
-
 # Checks for Pango 1.20
 PKG_CHECK_MODULES(PANGO_1_20, pango >= 1.20, [HAVE_PANGO_1_20=yes], [HAVE_PANGO_1_20=no])
 if test "x$HAVE_PANGO_1_20" = xyes; then
@@ -255,5 +239,4 @@ Optional features:
     libgtkhtml:         $libgtkhtml
     libtar:             $libtar
     libgringotts:       $libgringotts
-    libsyncml:          $libsyncml
 "

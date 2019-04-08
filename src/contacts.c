@@ -34,10 +34,6 @@
 #include "contacts_export.h"
 #include "calendar_utils.h"
 
-#ifdef HAVE_LIBSYNCML
-#include "contacts_import_syncml.h"
-#endif  /* HAVE_LIBSYNCML */
-
 #ifdef CONTACTS_ENABLED
 
 /*============================================================================*/
@@ -845,11 +841,7 @@ contacts_import_items_cb (GtkWidget *widget, gpointer data) {
 
     GUI *appGUI = (GUI *)data;
 
-#ifdef HAVE_LIBSYNCML
-    import_contacts_show_dialog (appGUI);
-#else
     import_contacts_from_csv_file (appGUI);
-#endif
 }
 
 /*------------------------------------------------------------------------------*/

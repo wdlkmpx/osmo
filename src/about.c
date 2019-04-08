@@ -562,14 +562,6 @@ display_about (GUI *appGUI)
 	gtk_text_buffer_insert (appGUI->about_entry_buffer, &appGUI->about_entry_iter, str, -1);
 	g_free (str);
 
-#ifdef HAVE_LIBSYNCML
-	str = g_strdup_printf ("     [+]\t%s (libsyncml)\n", _("SyncML enabled device support"));
-#else
-	str = g_strdup_printf ("     [-]\t%s (libsyncml)\n", _("SyncML enabled device support"));
-#endif  /* HAVE_LIBSYNCML */
-	gtk_text_buffer_insert (appGUI->about_entry_buffer, &appGUI->about_entry_iter, str, -1);
-	g_free (str);
-
 #if defined(BACKUP_SUPPORT) && defined(HAVE_LIBGRINGOTTS)
 	str = g_strdup_printf ("     [+]\t%s (libtar + libgringotts)\n", _("Backup support"));
 #else

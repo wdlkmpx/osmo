@@ -49,16 +49,6 @@ osmo_SOURCES = about.c about.h \
 			   utils_date_time.c utils_date_time.h \
 			   utils_time.c utils_time.h
 
-# contacts_import_vcard.[ch] does not require libsyncml, but unless it is
-# used otherwise only compile it if needed
-if HAVE_LIBSYNCML
-osmo_SOURCES += \
-	contacts_import_syncml.c contacts_import_syncml.h \
-	contacts_import_vcard.c contacts_import_vcard.h
-AM_CFLAGS += @LIBSYNCML_CFLAGS@
-LIBS += @LIBSYNCML_LIBS@
-endif
-
 if HAVE_LIBNOTIFY
 AM_CFLAGS += @LIBNOTIFY_CFLAGS@
 LIBS += @LIBNOTIFY_LIBS@

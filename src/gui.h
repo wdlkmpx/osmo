@@ -552,15 +552,7 @@ typedef struct {
 
     GtkWidget *input_file_entry;
     GtkWidget *import_type_combobox;
-    GtkWidget *bluetooth_radiobutton;
-    GtkWidget *usb_radiobutton;
-    GtkWidget *bluetooth_address_entry;
     GtkWidget *file_import_vbox;
-    GtkWidget *syncml_import_vbox;
-    GtkWidget *bluetooth_params_hbox;
-    GtkWidget *usb_params_hbox;
-    GtkWidget *bluetooth_channel_spinbutton;
-    GtkWidget *usb_interface_spinbutton;
     GtkWidget *use_wbxml_checkbutton;
 
 } CONTACTS;
