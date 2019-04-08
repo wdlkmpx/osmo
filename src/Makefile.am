@@ -1,8 +1,8 @@
-REVISION := $(shell if test -e .svn; then echo -DREV=\"`LC_ALL=C svn info | sed -n '/^Rev/p'| sed -e 's/^Revision:\ //'`\"; fi;)
-AM_CPPFLAGS = -DLOCALEDIR=\"$(datadir)/locale\" $(REVISION) -DDATADIR=\"$(datadir)\" \
+AM_CPPFLAGS = -DLOCALEDIR=\"$(datadir)/locale\" -DDATADIR=\"$(datadir)\" \
 			  -DSOUNDSDIR=\"$(datadir)/sounds\" \
 			  @GTK_CFLAGS@ @XML_CPPFLAGS@ -Wall
 			  dnl -DGDK_PIXBUF_DISABLE_DEPRECATED -DGDK_DISABLE_DEPRECATED -DGTK_DISABLE_DEPRECATED -DG_DISABLE_CAST_CHECKS
+AM_CFLAGS = $(CFLAGS)
 
 bin_PROGRAMS = osmo
 osmo_SOURCES = about.c about.h \
@@ -55,38 +55,38 @@ if HAVE_LIBSYNCML
 osmo_SOURCES += \
 	contacts_import_syncml.c contacts_import_syncml.h \
 	contacts_import_vcard.c contacts_import_vcard.h
-CFLAGS += @LIBSYNCML_CFLAGS@
+AM_CFLAGS += @LIBSYNCML_CFLAGS@
 LIBS += @LIBSYNCML_LIBS@
 endif
 
 if HAVE_LIBNOTIFY
-CFLAGS += @LIBNOTIFY_CFLAGS@
+AM_CFLAGS += @LIBNOTIFY_CFLAGS@
 LIBS += @LIBNOTIFY_LIBS@
 endif
 
 if HAVE_LIBGTKHTML
-CFLAGS += @LIBGTKHTML_CFLAGS@
+AM_CFLAGS += @LIBGTKHTML_CFLAGS@
 LIBS += @LIBGTKHTML_LIBS@
 endif
 
 if HAVE_LIBICAL
-CFLAGS += @LIBICAL_CFLAGS@
+AM_CFLAGS += @LIBICAL_CFLAGS@
 LIBS += @LIBICAL_LIBS@
 endif
 
 if HAVE_GTKSPELL
-CFLAGS += @GTKSPELL_CFLAGS@
+AM_CFLAGS += @GTKSPELL_CFLAGS@
 LIBS += @GTKSPELL_LIBS@
 endif
 
 if CONFIGPATH
-    CFLAGS += -DCONFIG_PATH=\"$(configpath)\"
+    AM_CFLAGS += -DCONFIG_PATH=\"$(configpath)\"
 endif
 if CONFIGDIR
-    CFLAGS += -DCONFIG_DIR=\"$(configdir)\"
+    AM_CFLAGS += -DCONFIG_DIR=\"$(configdir)\"
 endif
 
-osmo_LDADD = $(LIBINTL) @GTK_LIBS@ @XML_LIBS@ @GTHREAD_LIBS@
+osmo_LDADD = $(LIBINTL) @GTK_LIBS@ @XML_LIBS@ @GTHREAD_LIBS@ -lm
 
 #if WIN32
 #AM_CFLAGS = \

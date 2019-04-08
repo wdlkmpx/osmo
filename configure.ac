@@ -2,13 +2,14 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.61)
-AC_INIT([Osmo], [0.2.10], [pasp@users.sf.net])
+AC_INIT([Osmo], [0.2.10], [wdlkmpx@github])
 AC_CONFIG_MACRO_DIR([m4])
-AM_INIT_AUTOMAKE([-Wall -Werror foreign])
+AM_INIT_AUTOMAKE([-Wall -Wno-portability foreign])
 AC_CONFIG_SRCDIR([src/contacts.c])
 AC_CONFIG_HEADER([config.h])
 AC_MSG_CHECKING(for type of build)
 PKG_PROG_PKG_CONFIG
+LT_INIT
 
 # Checks for enabled modules
 
