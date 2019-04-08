@@ -454,9 +454,11 @@ gboolean sound_flag = TRUE;
 					a->date = 0;
 
 					if (textdesc != NULL)
-						a->notify = notify_notification_new (item->summary, textdesc, GTK_STOCK_DIALOG_WARNING, NULL);
+//BK						a->notify = notify_notification_new (item->summary, textdesc, GTK_STOCK_DIALOG_WARNING, NULL);
+						a->notify = notify_notification_new (item->summary, textdesc, GTK_STOCK_DIALOG_WARNING);
 					else
-						a->notify = notify_notification_new (item->summary, text, GTK_STOCK_DIALOG_WARNING, NULL);
+//BK						a->notify = notify_notification_new (item->summary, text, GTK_STOCK_DIALOG_WARNING, NULL);
+						a->notify = notify_notification_new (item->summary, text, GTK_STOCK_DIALOG_WARNING);
 
 					g_free (textdesc);
 					g_free (text);
@@ -483,9 +485,9 @@ gboolean sound_flag = TRUE;
 #endif /* HAVE_LIBNOTIFY */
 
 					if (gtk_status_icon_get_visible (appGUI->osmo_trayicon)) {
-#ifdef HAVE_LIBNOTIFY
-						notify_notification_attach_to_status_icon (a->notify, appGUI->osmo_trayicon);
-#endif /* HAVE_LIBNOTIFY */
+//BK#ifdef HAVE_LIBNOTIFY
+//BK						notify_notification_attach_to_status_icon (a->notify, appGUI->osmo_trayicon);
+//BK#endif /* HAVE_LIBNOTIFY */
 				        gtk_status_icon_set_from_stock (appGUI->osmo_trayicon, OSMO_STOCK_SYSTRAY_TASK);
 
 						if (config.blink_on_events) {
@@ -532,9 +534,11 @@ gboolean sound_flag = TRUE;
 					a->time = -1;
 					a->date = 0;
 					if (textdesc != NULL)
-						a->notify = notify_notification_new (_("Alarm warning!"), textdesc, GTK_STOCK_DIALOG_INFO, NULL);
+//BK						a->notify = notify_notification_new (_("Alarm warning!"), textdesc, GTK_STOCK_DIALOG_INFO, NULL);
+						a->notify = notify_notification_new (_("Alarm warning!"), textdesc, GTK_STOCK_DIALOG_INFO);
 					else
-						a->notify = notify_notification_new (_("Alarm warning!"), text, GTK_STOCK_DIALOG_INFO, NULL);
+//BK						a->notify = notify_notification_new (_("Alarm warning!"), text, GTK_STOCK_DIALOG_INFO, NULL);
+						a->notify = notify_notification_new (_("Alarm warning!"), text, GTK_STOCK_DIALOG_INFO);
 
 					notify_notification_set_timeout (a->notify, NOTIFY_EXPIRES_NEVER);
 					notify_notification_set_urgency (a->notify, NOTIFY_URGENCY_NORMAL);
@@ -545,9 +549,9 @@ gboolean sound_flag = TRUE;
 #endif /* HAVE_LIBNOTIFY */
 
 					if (gtk_status_icon_get_visible (appGUI->osmo_trayicon)) {
-#ifdef HAVE_LIBNOTIFY
-						notify_notification_attach_to_status_icon (a->notify, appGUI->osmo_trayicon);
-#endif /* HAVE_LIBNOTIFY */
+//BK#ifdef HAVE_LIBNOTIFY
+//BK						notify_notification_attach_to_status_icon (a->notify, appGUI->osmo_trayicon);
+//BK#endif /* HAVE_LIBNOTIFY */
 				        gtk_status_icon_set_from_stock (appGUI->osmo_trayicon, OSMO_STOCK_SYSTRAY_TASK);
 
 						if (config.blink_on_events) {

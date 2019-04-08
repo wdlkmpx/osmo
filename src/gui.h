@@ -62,7 +62,7 @@
 
 #define     VERSION_MAJOR           0
 #define     VERSION_MINOR           2
-#define     VERSION_MICRO           8
+#define     VERSION_MICRO           10
 
 #define     MAX_MONTHS              12
 #define     MAX_WEEKS               6
