@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.61)
-AC_INIT([Osmo], [0.2.10], [wdlkmpx@github])
+AC_INIT([Osmo], [0.2.10.w.1], [wdlkmpx@github])
 AC_CONFIG_MACRO_DIR([m4])
 AM_INIT_AUTOMAKE([-Wall -Wno-portability foreign])
 AC_CONFIG_SRCDIR([src/contacts.c])
