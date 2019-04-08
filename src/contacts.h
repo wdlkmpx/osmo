@@ -29,8 +29,6 @@
 #define CONTACTS_GROUP_ENTRIES_NAME "contacts_groups"
 #define CONTACTS_ENTRIES_FILENAME   "contacts_records.xml"
 
-#define GOOGLE_MAPS_QUERY           "http://maps.google.com/maps?q="
-
 /* photo widths */
 #define PHOTO_SMALL     80
 #define PHOTO_MEDIUM    120
